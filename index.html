@@ -32,11 +32,12 @@ td.role a{color:#0E6E5C;font-weight:600;text-decoration:none}
 .pill.o{background:#F5F8FA;color:#A5B1BB}
 .mono{font-family:Consolas,monospace;font-size:12px;color:#5A6B7A}
 .tag.rm{background:#E9F6F1;color:#0E6E5C}
+th[data-sort]{cursor:pointer;user-select:none;text-decoration:underline dotted}
 .na{color:#A5B1BB}
 </style></head>
 <body><div class="wrap">
 <div class="head"><h1>Job Digest</h1>
-<div class="stamp">updated Thu Aug 20, 01:13 PM · 0 boards unreachable</div></div>
+<div class="stamp">updated Thu Aug 20, 01:15 PM · 0 boards unreachable</div></div>
 <div class="tiles">
 <div class="tile hot"><div class="n">3</div><div class="l">New (48h)</div></div>
 <div class="tile"><div class="n">0</div><div class="l">★ Network</div></div>
@@ -56,8 +57,8 @@ td.role a{color:#0E6E5C;font-weight:600;text-decoration:none}
 <span class="mono"><span id="count">0</span> shown</span>
 </div>
 <div class="tblwrap"><table>
-<thead><tr><th>Fit</th><th>Role</th><th>Company</th><th>Location</th>
-<th>Comp</th><th>Source</th><th>Posted</th></tr></thead>
+<thead><tr><th data-sort="rank" data-label="Fit">Fit</th><th>Role</th><th>Company</th><th>Location</th>
+<th>Comp</th><th>Source</th><th data-sort="posted" data-label="Posted">Posted</th></tr></thead>
 <tbody></tbody></table></div>
 </div><script>const JOBS=[
  {
@@ -935,17 +936,28 @@ td.role a{color:#0E6E5C;font-weight:600;text-decoration:none}
   "no": "https://github.com/not-in-scope/job-digest/issues/new?title=feedback%3A+skip+23647ae90902&body=https%3A%2F%2Fjob-boards.greenhouse.io%2Faffirm%2Fjobs%2F7818068003%0A%0ASubmit+as-is+%E2%80%94+the+next+run+processes+it."
  }
 ];
-const state={q:'',loc:'All',tier:'All'};
+const state={q:'',loc:'All',tier:'All',sort:'rank',dir:'desc'};
 function render(){
   const now=Date.now();
-  const rows=JOBS.filter(j=>{
+  let list=JOBS.filter(j=>{
     if(state.loc!=='All'&&j.bucket!==state.loc)return false;
     if(state.tier==='Network'&&j.tier!=='network')return false;
     if(state.tier==='Strong'&&j.tier!=='strong'&&j.tier!=='network')return false;
     if(state.tier==='Good'&&j.tier==='other')return false;
     const q=state.q.toLowerCase();
     return !q||j.title.toLowerCase().includes(q)||j.company.toLowerCase().includes(q);
-  }).map(j=>{
+  });
+  if(state.sort==='posted'){
+    list=list.slice().sort((a,b)=>(Date.parse(b.posted)||0)-(Date.parse(a.posted)||0));
+    if(state.dir==='asc')list.reverse();
+  }else if(state.dir==='asc'){
+    list=list.slice().reverse();
+  }
+  document.querySelectorAll('th[data-sort]').forEach(h=>{
+    const on=h.dataset.sort===state.sort;
+    h.textContent=h.dataset.label+(on?(state.dir==='desc'?' \u25be':' \u25b4'):'');
+  });
+  const rows=list.map(j=>{
     const isNew=(now-Date.parse(j.posted))<48*3600*1000;
     const cls=j.score>=65?'s':(j.score>=45?'g':'o');
     const tag=j.tier==='network'?'<span class="tag">\u2605 network</span>':'';
@@ -969,6 +981,12 @@ function cap(s){return s.charAt(0).toUpperCase()+s.slice(1)}
 function ago(iso,now){if(!iso)return '\u2014';const h=(now-Date.parse(iso))/3600000;
   return h<48?`${Math.floor(h)}h ago`:`${Math.floor(h/24)}d ago`}
 document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value;render()});
+document.querySelectorAll('th[data-sort]').forEach(h=>h.addEventListener('click',()=>{
+  const s=h.dataset.sort;
+  if(state.sort===s){state.dir=state.dir==='desc'?'asc':'desc'}
+  else{state.sort=s;state.dir='desc'}
+  render();
+}));
 document.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{
   const grp=c.dataset.group;state[grp]=c.dataset.val;
   document.querySelectorAll(`.chip[data-group=${grp}]`).forEach(x=>x.classList.toggle('on',x===c));
