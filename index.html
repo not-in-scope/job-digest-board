@@ -31,11 +31,13 @@ td.role a{color:#0E6E5C;font-weight:600;text-decoration:none}
 .pill.g{background:#F5F8FA;color:#33424F;border:1px solid #E4EAEF}
 .pill.o{background:#F5F8FA;color:#A5B1BB}
 .mono{font-family:Consolas,monospace;font-size:12px;color:#5A6B7A}
+.cand{font-family:Consolas,monospace;font-size:11px;color:#A5B1BB;margin-top:3px}
+.cand.hot{color:#0E6E5C;font-weight:700}
 .na{color:#A5B1BB}
 </style></head>
 <body><div class="wrap">
 <div class="head"><h1>Job Digest</h1>
-<div class="stamp">updated Thu Aug 20, 01:06 PM · 0 boards unreachable</div></div>
+<div class="stamp">updated Thu Aug 20, 01:09 PM · 0 boards unreachable</div></div>
 <div class="tiles">
 <div class="tile hot"><div class="n">3</div><div class="l">New (48h)</div></div>
 <div class="tile"><div class="n">0</div><div class="l">★ Network</div></div>
@@ -948,7 +950,8 @@ function render(){
     const isNew=(now-Date.parse(j.posted))<48*3600*1000;
     const cls=j.score>=65?'s':(j.score>=45?'g':'o');
     const tag=j.tier==='network'?'<span class="tag">\u2605 network</span>':'';
-    const role=j.role10>=8?`<div class="mono" title="Candidate strength: how strong a candidate you'd be for this specific JD, ignoring sector. 8+/10 promotes the role to the strong tier.">cand ${j.role10}/10</div>`:'';
+    const candCls=j.role10>=8?'cand hot':'cand';
+    const role=`<div class="${candCls}" title="Candidate strength: how strong a candidate you'd be for this specific JD, ignoring sector. 8+/10 promotes the role to the strong tier.">cand ${j.role10}/10</div>`;
     const comp=j.comp?esc(j.comp):'<span class="na">\u2014</span>';
     const fb=`<div class="fb"><a href="${att(j.yes)}">\ud83d\udc4d interested</a><a href="${att(j.no)}">\u2715 skip</a></div>`;
     return `<tr><td><span class="pill ${cls}" title="Fit score 0–100: sector weight + title keywords + job-description signals + your feedback. Strong ≥65, good ≥45.">${j.score}</span>${role}</td>`+
