@@ -1381,38 +1381,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Marianaminerals&network=%5B%22S%22%5D"
  },
  {
-  "title": "Technical Staff Product Manager - Data",
-  "company": "apartmentiq",
-  "location": "Remote",
-  "url": "https://job-boards.greenhouse.io/apartmentiq/jobs/8292666",
-  "posted": "2026-10-16T17:57:17-04:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "datainfra",
-  "blurb": "And, we're looking for exceptional people to help further accelerate our growth. While we\u2019ve raised $30MM+ to date from some of the world\u2019s best investors, we\u2019re profitable with a strong balance sheet and an indefinite runway.",
-  "role_pts": 42,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-17T00:42:51.381337+00:00",
-  "company_display": "Apartmentiq",
   "about": "We\u2019re Changing the PropTech Industry We\u2019re a profitable, growth-stage company building industry-leading martech and data products for the PropTech space.",
-  "signals": [
-   "technical",
-   "data",
-   "energy",
-   "data platform",
-   "B2B"
-  ],
-  "id": "219f4ab966c6",
-  "score": 68,
-  "role10": 8,
-  "tier": "strong",
-  "target": null,
+  "blurb": "And, we're looking for exceptional people to help further accelerate our growth. While we\u2019ve raised $30MM+ to date from some of the world\u2019s best investors, we\u2019re profitable with a strong balance sheet and an indefinite runway.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "apartmentiq",
+  "company_display": "Apartmentiq",
   "company_line": null,
-  "score_why": "datainfra sector 26 \u00b7 role match 42",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-17T00:42:51.381337+00:00",
   "fit_tags": [
    [
     "datainfra",
@@ -1439,6 +1417,28 @@
     "mid"
    ]
   ],
+  "hidden": false,
+  "id": "219f4ab966c6",
+  "location": "Remote",
+  "posted": "2026-10-16T17:57:17-04:00",
+  "role10": 8,
+  "role_pts": 42,
+  "score": 68,
+  "score_why": "datainfra sector 26 \u00b7 role match 42",
+  "sector": "datainfra",
+  "signals": [
+   "technical",
+   "data",
+   "energy",
+   "data platform",
+   "B2B"
+  ],
+  "source": "greenhouse",
+  "summary": null,
+  "target": null,
+  "tier": "strong",
+  "title": "Technical Staff Product Manager - Data",
+  "url": "https://job-boards.greenhouse.io/apartmentiq/jobs/8292666",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=219f4ab966c6&co=Apartmentiq&ti=Technical%20Staff%20Product%20Manager%20-%20Data",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=219f4ab966c6&co=Apartmentiq&ti=Technical%20Staff%20Product%20Manager%20-%20Data",
   "company_about": "ApartmentIQ integrates real-time data on 37M units into powerful tools for market surveys, market research, and revenue management.",
@@ -1870,7 +1870,7 @@
   "url": "https://jobs.ashbyhq.com/forerunner/7f7b3797-f970-452f-881c-585140694e41",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=27ad6e9b0579&co=Forerunner&ti=Senior%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=27ad6e9b0579&co=Forerunner&ti=Senior%20Product%20Manager",
-  "company_about": "We're on a mission to help communities adapt to a changing world.",
+  "company_about": "Unify geospatial data, field operations, and AI-powered workflows in one platform\u2014integrated with your existing systems and built for complex compliance environments.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Forerunner&network=%5B%22S%22%5D"
  },
  {
@@ -2083,6 +2083,60 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d07c46c64eb8&co=Sardine&ti=Technical%20Product%20Manager%20-%20Sonar",
   "company_about": "The top agentic risk platform used by leading banks and merchants worldwide to stop fraud in real-time, prevent AI-driven attacks, automate fraud & AML operations",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Sardine&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, Financial Data Intelligence",
+  "company": "dave",
+  "location": "United States / Remote",
+  "url": "https://jobs.ashbyhq.com/dave/53589f14-86f2-4c8e-b064-0b2aa5854fec",
+  "posted": "2026-10-05T19:59:45.427000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$150K \u2013 $200K",
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "Dave vs. Goliath.",
+  "role_pts": 28,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-10-17T01:20:04.056685+00:00",
+  "company_display": "Dave",
+  "about": "Dave is a financial app on a mission to build products that level the financial playing field.",
+  "signals": [
+   "data",
+   "compliance",
+   "data platform"
+  ],
+  "id": "dda43ae40e6d",
+  "score": 55,
+  "role10": 6,
+  "tier": "good",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 28",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "data",
+    "mid"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "data platform",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dda43ae40e6d&co=Dave&ti=Senior%20Product%20Manager%2C%20Financial%20Data%20Intelligence",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dda43ae40e6d&co=Dave&ti=Senior%20Product%20Manager%2C%20Financial%20Data%20Intelligence",
+  "company_about": "Want the best mobile financial app? Millions of people use Dave to get cash with no credit check, side hustles, and banking accounts with fewer fees. Join now.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Dave&network=%5B%22S%22%5D"
  },
  {
   "about": "At Vanta, our mission is to help businesses earn and prove trust.",
@@ -4922,6 +4976,55 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Brellium&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, Clinical Products",
+  "company": "archy",
+  "location": "United States / Remote",
+  "url": "https://jobs.ashbyhq.com/archy/c7f0c210-bb92-4c28-82c5-1df9c93f7259",
+  "posted": "2026-09-23T19:30:12.026000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$150K \u2013 $190K",
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "As the PM for our clinical products, you'll own the product vision and roadmap for this product area, working in partnership with engineering and design to give dentists the best clinical tools so they can provide the best possible care to their patients. \u2026",
+  "role_pts": 12,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-10-17T01:20:04.056685+00:00",
+  "company_display": "Archy",
+  "about": "",
+  "signals": [
+   "compliance",
+   "B2B"
+  ],
+  "id": "4c8f68dd453b",
+  "score": 39,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 12",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=4c8f68dd453b&co=Archy&ti=Senior%20Product%20Manager%2C%20Clinical%20Products",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4c8f68dd453b&co=Archy&ti=Senior%20Product%20Manager%2C%20Clinical%20Products",
+  "company_about": "Archy, an all-in-one cloud dental practice management software, replaces 5+ tools with one system for care, billing, imaging, and reporting. Get a demo.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Archy&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Wheel solutions include configurable virtual care programs, an intuitive consumer interface, and access to a nationwide network of board-certified clinicians.",
   "blurb": "About the Role As a Staff/Principal Product Manager, Patient Experience at Wheel, you will own the strategy and roadmap behind the consumer-facing experience that patients use to access care through our enterprise partners. This is a B2B2C role: our patients \u2026",
   "bucket": "Remote (US)",
@@ -4967,7 +5070,7 @@
   "url": "https://jobs.ashbyhq.com/wheel/556f72a3-3393-4512-9dc4-edacb1abbf9f",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a3860b3426df&co=Wheel&ti=Staff%2FPrincipal%20Product%20Manager%2C%20Patient%20Experience",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a3860b3426df&co=Wheel&ti=Staff%2FPrincipal%20Product%20Manager%2C%20Patient%20Experience",
-  "company_about": "Wheel solutions include configurable virtual care programs, an intuitive consumer interface, and access to a nationwide network of board-certified clinicians.",
+  "company_about": "Wheel provides everything companies and clinicians need to deliver virtual care.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Wheel&network=%5B%22S%22%5D"
  },
  {
@@ -6506,34 +6609,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Temporal&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager, Virtual Care",
-  "company": "oscar",
-  "location": "San Francisco, California, United States",
-  "url": "https://job-boards.greenhouse.io/oscar/jobs/8292619",
-  "posted": "2026-10-16T16:53:25-04:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": "$164\u2013215K",
-  "bucket": "SF / Bay",
-  "sector": "health",
-  "blurb": "We're hiring a Senior Product Manager, Virtual Care to join our Product team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members.",
-  "role_pts": 9,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-17T00:42:51.381337+00:00",
-  "company_display": "Oscar",
   "about": "Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members.",
-  "signals": [
-   "compliance"
-  ],
-  "id": "78cae335b5f7",
-  "score": 33,
-  "role10": 2,
-  "tier": "other",
-  "target": null,
+  "blurb": "We're hiring a Senior Product Manager, Virtual Care to join our Product team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members.",
+  "bucket": "SF / Bay",
+  "comp": "$164\u2013215K",
+  "company": "oscar",
+  "company_display": "Oscar",
   "company_line": null,
-  "score_why": "health sector 24 \u00b7 role match 9",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-17T00:42:51.381337+00:00",
   "fit_tags": [
    [
     "health",
@@ -6544,6 +6629,24 @@
     "hi"
    ]
   ],
+  "hidden": false,
+  "id": "78cae335b5f7",
+  "location": "San Francisco, California, United States",
+  "posted": "2026-10-16T16:53:25-04:00",
+  "role10": 2,
+  "role_pts": 9,
+  "score": 33,
+  "score_why": "health sector 24 \u00b7 role match 9",
+  "sector": "health",
+  "signals": [
+   "compliance"
+  ],
+  "source": "greenhouse",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Virtual Care",
+  "url": "https://job-boards.greenhouse.io/oscar/jobs/8292619",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=78cae335b5f7&co=Oscar&ti=Senior%20Product%20Manager%2C%20Virtual%20Care",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=78cae335b5f7&co=Oscar&ti=Senior%20Product%20Manager%2C%20Virtual%20Care",
   "company_about": "Giving people power over their healthcare",
@@ -9251,48 +9354,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=92410e56932d&co=Natera&ti=Principal%20Product%20Manager",
   "company_about": "Dedicated to oncology, women\u2019s health, and organ health. Natera\u2019s cell-free DNA tests help protect health and inform more personalized decisions about care.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Natera&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "REQ2026882",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "earlywarning",
-  "company_display": "Earlywarning",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-17T01:05:12.981724+00:00",
-  "fit_tags": [
-   [
-    "datainfra",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "054f49830a56",
-  "location": "New York City / Chicago / San Francisco / Scottsdale",
-  "posted": "2026-09-17T01:06:16.289743+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "datainfra sector 26 \u00b7 role match 0",
-  "sector": "datainfra",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, Agentic",
-  "url": "https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/New-York-City/Principal-Product-Manager--Agentic_REQ2026882",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=054f49830a56&co=Earlywarning&ti=Principal%20Product%20Manager%2C%20Agentic",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=054f49830a56&co=Earlywarning&ti=Principal%20Product%20Manager%2C%20Agentic",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
  },
  {
   "about": "We are backed by world-class investors and operators including Khosla Ventures, Sequoia, Blackstone, Ali Ghodsi (CEO of Databricks), and Frank Slootman (Former CEO of Snowflake).",
@@ -12959,7 +13020,7 @@
   "url": "https://jobs.ashbyhq.com/revel/cb4aa535-119b-49a3-9a7f-ce6ae6924a7e",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=532ce3aef0f2&co=Revel&ti=Product%20Manager%20%28Mid-Senior%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=532ce3aef0f2&co=Revel&ti=Product%20Manager%20%28Mid-Senior%29",
-  "company_about": "We are building infrastructure where software decisions have real-world consequences.",
+  "company_about": "Software platform for hardware development, testing, and command. From prototype to production\u2014accelerate timelines across aerospace, energy, and defense.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Revel&network=%5B%22S%22%5D"
  },
  {
@@ -13385,50 +13446,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c6790e5708b8&co=Adobe&ti=Sr.%20Applied%20AI%20Product%20Manager",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Adobe&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "R-109044",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "expedia",
-  "company_display": "Expedia",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-24T01:05:32.903006+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "platform",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "ff473fb7a60f",
-  "location": "Washington - Seattle Campus",
-  "posted": "2026-09-17T01:09:10.757554+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 20,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "sector": "",
-  "signals": [
-   "platform"
-  ],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Air Shopping Platform",
-  "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Senior-Product-Manager--Air-Shopping-Platform_R-109044-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ff473fb7a60f&co=Expedia&ti=Senior%20Product%20Manager%2C%20Air%20Shopping%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ff473fb7a60f&co=Expedia&ti=Senior%20Product%20Manager%2C%20Air%20Shopping%20Platform",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Expedia&network=%5B%22S%22%5D"
  },
  {
   "blurb": "About the Role Own a major area of a fintech banking platform, spanning payment experiences, account services, platform reliability, and customer security. You will work across Product, Engineering, Design, Operations, Risk, Compliance, Legal, and external \u2026",
@@ -15749,7 +15766,7 @@
   "url": "https://jobs.ashbyhq.com/orb/7d6f8c12-4d40-467e-9614-958f3b956a61",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=98e5e87295a2&co=Orb&ti=Lead%20Product%20Manager%2C%20Pricing%20Lifecycle",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=98e5e87295a2&co=Orb&ti=Lead%20Product%20Manager%2C%20Pricing%20Lifecycle",
-  "company_about": "We\u2019re building the revenue design platform that helps teams automate billing, evolve pricing, and grow revenue with confidence.",
+  "company_about": "Design, execute, and operate revenue with usage-based billing. Orb helps modern software companies adapt pricing as products, usage, and costs evolve.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Orb&network=%5B%22S%22%5D"
  },
  {
@@ -15793,36 +15810,20 @@
   "url": "https://jobs.ashbyhq.com/mudflap/884091b6-debc-4cf3-ae91-3c1263ab6bcb",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6facb75845dd&co=Mudflap&ti=Senior%20Product%20Manager%2C%20Merchant",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6facb75845dd&co=Mudflap&ti=Senior%20Product%20Manager%2C%20Merchant",
-  "company_about": "At Mudflap, we're modernizing the $1 trillion trucking industry, the backbone of the U.S.",
+  "company_about": "Get huge cost-plus diesel discounts with Mudflap\u2014the network recommended by 94% of owner-operators and fleets.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Mudflap&network=%5B%22S%22%5D"
  },
  {
-  "title": "Sr. Product Manager, Embedded Payments",
-  "company": "wexinc",
-  "location": "US - Remote",
-  "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Sr-Product-Manager--Embedded-Payments_R23098",
-  "posted": "2026-10-17T00:47:19.293802+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "R23098",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-17T00:42:51.381337+00:00",
-  "company_display": "Wexinc",
   "about": "",
-  "signals": [],
-  "id": "460d36991ee7",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "R23098",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "wexinc",
+  "company_display": "Wexinc",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-17T00:42:51.381337+00:00",
   "fit_tags": [
    [
     "sector unknown",
@@ -15833,6 +15834,22 @@
     "dim"
    ]
   ],
+  "hidden": false,
+  "id": "460d36991ee7",
+  "location": "US - Remote",
+  "posted": "2026-10-17T00:47:19.293802+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Sr. Product Manager, Embedded Payments",
+  "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Sr-Product-Manager--Embedded-Payments_R23098",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=460d36991ee7&co=Wexinc&ti=Sr.%20Product%20Manager%2C%20Embedded%20Payments",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=460d36991ee7&co=Wexinc&ti=Sr.%20Product%20Manager%2C%20Embedded%20Payments",
   "company_about": "",
@@ -19226,7 +19243,7 @@
   "url": "https://job-boards.greenhouse.io/twitch/jobs/8843932002",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3b531d374cdf&co=Twitch&ti=Senior%20Product%20Manager%2C%20Commerce",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3b531d374cdf&co=Twitch&ti=Senior%20Product%20Manager%2C%20Commerce",
-  "company_about": "We\u2019re on a quest to empower live communities, so if this sounds good to you, see what we\u2019re up to on LinkedIn and X , and discover the projects we\u2019re solving on our Blog .",
+  "company_about": "Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Twitch&network=%5B%22S%22%5D"
  },
  {
@@ -21044,88 +21061,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f69f63a75e9f&co=Zillow&ti=Senior%20Product%20Manager%2C%20Rich%20Media",
   "company_about": "Zillow, officially known as Zillow Group, Inc., is an American tech real-estate marketplace company that was founded in 2006 by co-executive chairmen Rich Barton and Lloyd Frink \u2026",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Zillow&network=%5B%22S%22%5D"
- },
- {
-  "blurb": "R0065893",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "geico",
-  "company_display": "Geico",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-24T01:05:32.903006+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "a8f86c8f653f",
-  "location": "Palo Alto, CA / San Francisco, CA / San Jose, CA / Dallas, TX / Bethesda, MD / Seattle, WA",
-  "posted": "2026-09-17T01:09:33.055686+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Agency Management",
-  "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-CA/Senior-Product-Manager--Agency-Management_R0065893",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a8f86c8f653f&co=Geico&ti=Senior%20Product%20Manager%2C%20Agency%20Management",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a8f86c8f653f&co=Geico&ti=Senior%20Product%20Manager%2C%20Agency%20Management",
-  "company_about": "The Government Employees Insurance Company is an American vehicle insurance company headquartered in Bethesda, Maryland.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Geico&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "JR106110",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "collectorsuniverse",
-  "company_display": "Collectorsuniverse",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-17T01:05:12.981724+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "0a34e188f4db",
-  "location": "US - Remote",
-  "posted": "2026-09-17T01:05:54.380226+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Vault Operations",
-  "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/en-US/collectors/job/US---Remote/Senior-Product-Manager--Vault-Operations_JR106110",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0a34e188f4db&co=Collectorsuniverse&ti=Senior%20Product%20Manager%2C%20Vault%20Operations",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0a34e188f4db&co=Collectorsuniverse&ti=Senior%20Product%20Manager%2C%20Vault%20Operations",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Collectorsuniverse&network=%5B%22S%22%5D"
  },
  {
   "about": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.",
