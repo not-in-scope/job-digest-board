@@ -1,73 +1,6 @@
 [
  {
   "about": "",
-  "blurb": "You will be the key leader who transforms that fragmentation into a coherent, streamlined integration strategy. The Role As the Lead Product Manager, you will own how EnergyHub connects and integrates with utility operational systems, ensuring we understand \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$133\u2013179K",
-  "company": "energyhub",
-  "company_display": "EnergyHub",
-  "company_line": "DER management / VPP platform; Matt Hepworth is Director of Product there",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-18T17:30:08.566132+00:00",
-  "fit_tags": [
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ],
-   [
-    "\u2605 warm contact",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "b8609bc0b108",
-  "location": "Remote - United States",
-  "posted": "2026-09-18T13:00:12-04:00",
-  "role10": 5,
-  "role_pts": 26,
-  "score": 73,
-  "score_why": "energy sector 35 \u00b7 role match 26 \u00b7 target company +12",
-  "sector": "energy",
-  "signals": [
-   "energy",
-   "compliance",
-   "AI/LLM",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": "a",
-  "tier": "network",
-  "title": "Lead Product Manager",
-  "url": "https://job-boards.greenhouse.io/energyhub/jobs/8743172002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b8609bc0b108&co=EnergyHub&ti=Lead%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b8609bc0b108&co=EnergyHub&ti=Lead%20Product%20Manager",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=EnergyHub&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "About the Role We\u2019re looking for a Product Manager to shape Rosalind Workbench for life sciences. You will own product strategy and execution, working directly with researchers in academic labs, biotech, and pharma to understand where AI can meaningfully \u2026",
   "bucket": "SF / Bay",
   "comp": "$347K \u2013 $468K",
@@ -1819,37 +1752,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Verse&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager, Integrations & Platform",
-  "company": "dropzoneai",
-  "location": "Remote - US",
-  "url": "https://job-boards.greenhouse.io/dropzoneai/jobs/4438191009",
-  "posted": "2026-10-15T11:57:39-04:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": "$175\u2013190K",
-  "bucket": "Remote (US)",
-  "sector": "compliance",
-  "blurb": "About the role We're looking for a Senior Product Manager to own the two squads that decide whether Dropzone works on day one of a deployment and whether it keeps working at scale. The Integrations squad gets every eligible signal source into the AI SOC Team \u2026",
-  "role_pts": 32,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-18T16:45:43.207305+00:00",
-  "company_display": "Dropzoneai",
   "about": "We are an award winning company disrupting the $200B+ cybersecurity market.",
-  "signals": [
-   "integrations",
-   "platform",
-   "compliance",
-   "B2B"
-  ],
-  "id": "e634ff8cf37f",
-  "score": 59,
-  "role10": 6,
-  "tier": "good",
-  "target": null,
+  "blurb": "About the role We're looking for a Senior Product Manager to own the two squads that decide whether Dropzone works on day one of a deployment and whether it keeps working at scale. The Integrations squad gets every eligible signal source into the AI SOC Team \u2026",
+  "bucket": "Remote (US)",
+  "comp": "$175\u2013190K",
+  "company": "dropzoneai",
+  "company_display": "Dropzoneai",
   "company_line": null,
-  "score_why": "compliance sector 27 \u00b7 role match 32",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-18T16:45:43.207305+00:00",
   "fit_tags": [
    [
     "compliance",
@@ -1872,6 +1784,27 @@
     "mid"
    ]
   ],
+  "hidden": false,
+  "id": "e634ff8cf37f",
+  "location": "Remote - US",
+  "posted": "2026-10-15T11:57:39-04:00",
+  "role10": 6,
+  "role_pts": 32,
+  "score": 59,
+  "score_why": "compliance sector 27 \u00b7 role match 32",
+  "sector": "compliance",
+  "signals": [
+   "integrations",
+   "platform",
+   "compliance",
+   "B2B"
+  ],
+  "source": "greenhouse",
+  "summary": null,
+  "target": null,
+  "tier": "good",
+  "title": "Senior Product Manager, Integrations & Platform",
+  "url": "https://job-boards.greenhouse.io/dropzoneai/jobs/4438191009",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e634ff8cf37f&co=Dropzoneai&ti=Senior%20Product%20Manager%2C%20Integrations%20%26%20Platform",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e634ff8cf37f&co=Dropzoneai&ti=Senior%20Product%20Manager%2C%20Integrations%20%26%20Platform",
   "company_about": "AI agents that investigate every alert, hunt attackers, and respond to emerging threats at machine scale. Customer guided, software executed.",
@@ -2313,6 +2246,60 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ec422b70e76e&co=Urbint&ti=Senior%20Product%20Manager",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Urbint&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, AI Clinical Care",
+  "company": "abby-care",
+  "location": "San Francisco / Remote",
+  "url": "https://jobs.ashbyhq.com/abby-care/35f565f3-a474-4b69-ab17-e51aa4d4042e",
+  "posted": "2026-10-15T02:38:33.746000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$170K \u2013 $230K",
+  "bucket": "SF / Bay",
+  "sector": "compliance",
+  "blurb": "About Abby Care: Powering the future of care at home for all of America. Abby Care is building the leading AI-native platform for family-led care.",
+  "role_pts": 23,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-10-18T17:23:44.688009+00:00",
+  "company_display": "Abby-Care",
+  "about": "We are proud to partner with leading health plans, providers, and community organizations and are backed by top VCs.",
+  "signals": [
+   "ai",
+   "compliance",
+   "AI/LLM"
+  ],
+  "id": "7211f68aed33",
+  "score": 50,
+  "role10": 5,
+  "tier": "good",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 23",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "ai",
+    "mid"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7211f68aed33&co=Abby-Care&ti=Senior%20Product%20Manager%2C%20AI%20Clinical%20Care",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7211f68aed33&co=Abby-Care&ti=Senior%20Product%20Manager%2C%20AI%20Clinical%20Care",
+  "company_about": "Empowering families to deliver exceptional care at home with clinical oversight, real-time documentation, and proven outcomes. 91% EVV rate. 46% less hospitalizations.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Abby-Care&network=%5B%22S%22%5D"
  },
  {
   "about": "Our mission at Oura is to empower every person to own their inner potential.",
@@ -4230,6 +4217,55 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3b78c492de3a&co=Everai&ti=Product%20Manager%20-%20Trust%20%26%20Safety%20%28Full%20Remote%20-%20Cyprus%29",
   "company_about": "EverAI runs an AI companionship app with 50M users, ~100 people.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Everai&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Staff Product Manager, Clinical Monitoring & Intervention",
+  "company": "abby-care",
+  "location": "San Francisco / Remote",
+  "url": "https://jobs.ashbyhq.com/abby-care/ba7fbc4f-ed31-47c6-8679-e32270757579",
+  "posted": "2026-10-15T02:38:00.236000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$230K \u2013 $270K",
+  "bucket": "SF / Bay",
+  "sector": "compliance",
+  "blurb": "About Abby Care: Powering the future of care at home for all of America. Abby Care is building the leading AI-native platform for family-led care.",
+  "role_pts": 13,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-10-18T17:23:44.688009+00:00",
+  "company_display": "Abby-Care",
+  "about": "We are proud to partner with leading health plans, providers, and community organizations and are backed by top VCs.",
+  "signals": [
+   "compliance",
+   "AI/LLM"
+  ],
+  "id": "3122e84f6b32",
+  "score": 40,
+  "role10": 3,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 13",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3122e84f6b32&co=Abby-Care&ti=Staff%20Product%20Manager%2C%20Clinical%20Monitoring%20%26%20Intervention",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3122e84f6b32&co=Abby-Care&ti=Staff%20Product%20Manager%2C%20Clinical%20Monitoring%20%26%20Intervention",
+  "company_about": "Empowering families to deliver exceptional care at home with clinical oversight, real-time documentation, and proven outcomes. 91% EVV rate. 46% less hospitalizations.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Abby-Care&network=%5B%22S%22%5D"
  },
  {
   "about": "",
