@@ -3720,12 +3720,12 @@
   "url": "https://jobs.ashbyhq.com/writer/ceb3bacb-039f-4428-b2a5-3c865b44972f",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cbaafef5cdce&co=Writer&ti=Lead%20product%20manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cbaafef5cdce&co=Writer&ti=Lead%20product%20manager",
-  "company_about": "",
+  "company_about": "WRITER is the enterprise AI agent platform trusted by Fortune 500 companies, built to help teams execute and scale on-brand, compliant work.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Writer&network=%5B%22S%22%5D"
  },
  {
   "about": "ClickHouse Cloud, the fully managed version of the open source ClickHouse database, is available on AWS, GCP, and Azure.",
-  "blurb": "As Principal Product Manager for Billing and Marketplaces, you will lead that work and report to the Director of Product Management, Billing and Marketplaces. What you will do: Own the multi-year vision, strategy, and roadmap for billing, from usage metering \u2026",
+  "blurb": "Owns multi-year vision for billing: usage metering, pricing, invoicing, payments, rev rec and cloud marketplaces.",
   "bucket": "Seattle",
   "comp": "$190K \u2013 $300K",
   "company": "clickhouse",
@@ -3736,16 +3736,20 @@
   "first_seen": "2026-10-17T16:36:59.528404+00:00",
   "fit_tags": [
    [
-    "datainfra",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "\u25ce target company",
+    "fit 8/10",
     "amber"
+   ],
+   [
+    "Metering/billing data platform",
+    "hi"
+   ],
+   [
+    "Principal level, $190-300K",
+    "hi"
+   ],
+   [
+    "Remote US; Seattle listed",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -3761,14 +3765,26 @@
    "compliance"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-17T22:46:18Z",
+   "company": "ClickHouse sells ClickHouse Cloud, a managed open-source analytical database on AWS, GCP and Azure.",
+   "fit": 8,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns multi-year vision for billing: usage metering, pricing, invoicing, payments, rev rec and cloud marketplaces.",
+   "source": "posting",
+   "why": [
+    "Metering/billing data platform",
+    "Principal level, $190-300K",
+    "Remote US; Seattle listed"
+   ]
+  },
   "target": "b",
   "tier": "other",
   "title": "Principal Product Manager, Billing & Marketplaces",
   "url": "https://jobs.ashbyhq.com/clickhouse/dab5bb2b-db63-49b4-b839-684dc4743675",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3c2c13483e26&co=ClickHouse&ti=Principal%20Product%20Manager%2C%20Billing%20%26%20Marketplaces",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3c2c13483e26&co=ClickHouse&ti=Principal%20Product%20Manager%2C%20Billing%20%26%20Marketplaces",
-  "company_about": "ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries",
+  "company_about": "ClickHouse sells ClickHouse Cloud, a managed open-source analytical database on AWS, GCP and Azure.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=ClickHouse&network=%5B%22S%22%5D"
  },
  {
@@ -4145,300 +4161,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd0435fdde46&co=Asana&ti=Senior%20Product%20Manager%2C%20Integrations%20Platform",
   "company_about": "We are looking for enthusiastic collaborators who are passionate about their craft to be a part of our journey building technology that is a force for positive change in the world.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Asana&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Job Summary The Senior Product Manager will own the strategy and execution of a new suite of AI-powered creative and marketing products. Reporting directly to the CTO, this role bridges creative services and scalable product development by managing two \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "truelogic",
-  "company_display": "Truelogic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-10T02:05:12.752087+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "32ccf3a6333b",
-  "location": "Uruguay / Remote",
-  "posted": "2026-09-17T20:24:31.533000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 42,
-  "score_why": "ai sector 28 \u00b7 role match 14",
-  "sector": "ai",
-  "signals": [
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (AI & Creative Products) \u2014 PropTech / Luxury Real Estate & Media",
-  "url": "https://jobs.ashbyhq.com/truelogic/7795249c-5756-4b05-b80d-47a5c003c3cd",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=32ccf3a6333b&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=32ccf3a6333b&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "company_about": "Embed elite LATAM AI engineers and software talent directly into your US team. 21+ years, <6% attrition, 30\u201350% lower cost than US hiring.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Truelogic&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Job Summary The Senior Product Manager will own the strategy and execution of a new suite of AI-powered creative and marketing products. Reporting directly to the CTO, this role bridges creative services and scalable product development by managing two \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "truelogic",
-  "company_display": "Truelogic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-10T02:05:12.752087+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "f43990b2e6f7",
-  "location": "S\u00e3o Paulo / Remote",
-  "posted": "2026-09-17T20:24:18.842000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 42,
-  "score_why": "ai sector 28 \u00b7 role match 14",
-  "sector": "ai",
-  "signals": [
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (AI & Creative Products) \u2014 PropTech / Luxury Real Estate & Media",
-  "url": "https://jobs.ashbyhq.com/truelogic/c0d4369c-9e67-4e05-abfd-1fcf12c879d6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f43990b2e6f7&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f43990b2e6f7&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "company_about": "Embed elite LATAM AI engineers and software talent directly into your US team. 21+ years, <6% attrition, 30\u201350% lower cost than US hiring.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Truelogic&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Job Summary The Senior Product Manager will own the strategy and execution of a new suite of AI-powered creative and marketing products. Reporting directly to the CTO, this role bridges creative services and scalable product development by managing two \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "truelogic",
-  "company_display": "Truelogic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-10T02:05:12.752087+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "34f0836eb391",
-  "location": "Santo Domingo / Remote",
-  "posted": "2026-09-17T20:24:06.138000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 42,
-  "score_why": "ai sector 28 \u00b7 role match 14",
-  "sector": "ai",
-  "signals": [
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (AI & Creative Products) \u2014 PropTech / Luxury Real Estate & Media",
-  "url": "https://jobs.ashbyhq.com/truelogic/d1603ec3-59d7-477e-921b-5069217c8d53",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=34f0836eb391&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=34f0836eb391&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "company_about": "Embed elite LATAM AI engineers and software talent directly into your US team. 21+ years, <6% attrition, 30\u201350% lower cost than US hiring.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Truelogic&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Job Summary The Senior Product Manager will own the strategy and execution of a new suite of AI-powered creative and marketing products. Reporting directly to the CTO, this role bridges creative services and scalable product development by managing two \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "truelogic",
-  "company_display": "Truelogic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-10T02:05:12.752087+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "e6cf4ad72402",
-  "location": "Peru / Remote",
-  "posted": "2026-09-17T20:23:52.541000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 42,
-  "score_why": "ai sector 28 \u00b7 role match 14",
-  "sector": "ai",
-  "signals": [
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (AI & Creative Products) \u2014 PropTech / Luxury Real Estate & Media",
-  "url": "https://jobs.ashbyhq.com/truelogic/dc280c93-0ae4-46ae-87e4-cf4dd3aa51bc",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e6cf4ad72402&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e6cf4ad72402&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "company_about": "Embed elite LATAM AI engineers and software talent directly into your US team. 21+ years, <6% attrition, 30\u201350% lower cost than US hiring.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Truelogic&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Job Summary The Senior Product Manager will own the strategy and execution of a new suite of AI-powered creative and marketing products. Reporting directly to the CTO, this role bridges creative services and scalable product development by managing two \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "truelogic",
-  "company_display": "Truelogic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-10T02:05:12.752087+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "cf7e10cd8adc",
-  "location": "Panama / Remote",
-  "posted": "2026-09-17T20:23:42.397000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 42,
-  "score_why": "ai sector 28 \u00b7 role match 14",
-  "sector": "ai",
-  "signals": [
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (AI & Creative Products) \u2014 PropTech / Luxury Real Estate & Media",
-  "url": "https://jobs.ashbyhq.com/truelogic/cb6b7e33-0b13-4257-beb4-62b858bc6bd6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cf7e10cd8adc&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cf7e10cd8adc&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "company_about": "Embed elite LATAM AI engineers and software talent directly into your US team. 21+ years, <6% attrition, 30\u201350% lower cost than US hiring.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Truelogic&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Job Summary The Senior Product Manager will own the strategy and execution of a new suite of AI-powered creative and marketing products. Reporting directly to the CTO, this role bridges creative services and scalable product development by managing two \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "truelogic",
-  "company_display": "Truelogic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-10T02:05:12.752087+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "0244c600a018",
-  "location": "Bogota / Remote",
-  "posted": "2026-09-17T20:23:03.134000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 42,
-  "score_why": "ai sector 28 \u00b7 role match 14",
-  "sector": "ai",
-  "signals": [
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (AI & Creative Products) \u2014 PropTech / Luxury Real Estate & Media",
-  "url": "https://jobs.ashbyhq.com/truelogic/11590782-c4c8-478a-a007-3ed6c53f2ea6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0244c600a018&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0244c600a018&co=Truelogic&ti=Senior%20Product%20Manager%20%28AI%20%26%20Creative%20Products%29%20%E2%80%94%20PropTech%20%2F%20Luxury%20Real%20Estate%20%26%20Media",
-  "company_about": "Embed elite LATAM AI engineers and software talent directly into your US team. 21+ years, <6% attrition, 30\u201350% lower cost than US hiring.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Truelogic&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -6128,7 +5850,7 @@
  },
  {
   "about": "ClickHouse Cloud, the fully managed version of the open source ClickHouse database, is available on AWS, GCP, and Azure.",
-  "blurb": "As Senior Product Manager for Billing and Marketplaces, you will own a key area of that work and report to the Director of Product Management, Billing and Marketplaces. You Will: Own the roadmap, execution, and launches for a key area of billing or \u2026",
+  "blurb": "Owns one billing area (metering, prepaid commit or a marketplace), scoping and launching features with engineering.",
   "bucket": "Seattle",
   "comp": "$175K \u2013 $265K",
   "company": "clickhouse",
@@ -6139,16 +5861,20 @@
   "first_seen": "2026-10-17T16:36:59.528404+00:00",
   "fit_tags": [
    [
-    "datainfra",
+    "fit 7/10",
+    "amber"
+   ],
+   [
+    "Finance-grade billing data",
     "hi"
    ],
    [
-    "no axis match",
-    "dim"
+    "Senior level, $175-265K",
+    "hi"
    ],
    [
-    "\u25ce target company",
-    "amber"
+    "Remote US; narrower than Principal",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -6162,14 +5888,26 @@
   "sector": "datainfra",
   "signals": [],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-17T22:46:18Z",
+   "company": "ClickHouse sells ClickHouse Cloud, a managed open-source analytical database on AWS, GCP and Azure.",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns one billing area (metering, prepaid commit or a marketplace), scoping and launching features with engineering.",
+   "source": "posting",
+   "why": [
+    "Finance-grade billing data",
+    "Senior level, $175-265K",
+    "Remote US; narrower than Principal"
+   ]
+  },
   "target": "b",
   "tier": "other",
   "title": "Senior Product Manager, Billing & Marketplaces",
   "url": "https://jobs.ashbyhq.com/clickhouse/e966d4cd-3373-43fe-879d-876e854b8a86",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7ed516c54f58&co=ClickHouse&ti=Senior%20Product%20Manager%2C%20Billing%20%26%20Marketplaces",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7ed516c54f58&co=ClickHouse&ti=Senior%20Product%20Manager%2C%20Billing%20%26%20Marketplaces",
-  "company_about": "ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries",
+  "company_about": "ClickHouse sells ClickHouse Cloud, a managed open-source analytical database on AWS, GCP and Azure.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=ClickHouse&network=%5B%22S%22%5D"
  },
  {
@@ -7285,7 +7023,7 @@
   "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5426247008",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a6fdf170268f&co=The%20Knot%20Worldwide&ti=AI%20Principal%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a6fdf170268f&co=The%20Knot%20Worldwide&ti=AI%20Principal%20Product%20Manager",
-  "company_about": "",
+  "company_about": "The Knot Worldwide (TKWW) is a technology company that operates a portfolio of platforms and brands, including The Knot, WeddingWire and WeddingPro.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=The+Knot+Worldwide&network=%5B%22S%22%5D"
  },
  {
@@ -8345,90 +8083,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Geico&network=%5B%22S%22%5D"
  },
  {
-  "about": "Plaud Inc. is a Delaware-incorporated, San Francisco-based company pushing the boundary of human\u2013AI intelligence through a hardware\u2013software combination.",
-  "blurb": "About Plaud Inc. Plaud is building the real-world AI interface for professionals to amplify intelligence, elevate productivity and performance, loved by over 2,500,000 users worldwide since 2023.",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "plaud",
-  "company_display": "Plaud",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-07T19:44:24.009450+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "0\u21921",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "5fc163f627eb",
-  "location": "San Francisco, CA / Remote",
-  "posted": "2026-09-17T20:10:37.968000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 30,
-  "score_why": "compliance sector 27 \u00b7 role match 3",
-  "sector": "compliance",
-  "signals": [
-   "0\u21921"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager - San Francisco",
-  "url": "https://jobs.ashbyhq.com/plaud/4c7cd4b0-0c7c-491e-b8fa-4cf24236ce6c",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5fc163f627eb&co=Plaud&ti=Staff%20Product%20Manager%20-%20San%20Francisco",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5fc163f627eb&co=Plaud&ti=Staff%20Product%20Manager%20-%20San%20Francisco",
-  "company_about": "The only AI note-taking platform that bridges in-person, phone calls, and online meetings into one workflow, trusted by 2.5 million+ users globally. Discover...",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Plaud&network=%5B%22S%22%5D"
- },
- {
-  "blurb": "R0064614",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "geico",
-  "company_display": "Geico",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-23T18:15:39.931625+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "a590ffdf1228",
-  "location": "Bethesda, MD / Palo Alto, CA / Dallas, TX / Seattle, WA",
-  "posted": "2026-09-17T18:18:33.044327+00:00",
-  "role10": 4,
-  "role_pts": 20,
-  "score": 30,
-  "score_why": "unknown sector 10 \u00b7 role match 20",
-  "sector": "",
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, AI Platform",
-  "url": "https://geico.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Senior-Product-Manager--AI-Platform_R0064614",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a590ffdf1228&co=Geico&ti=Senior%20Product%20Manager%2C%20AI%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a590ffdf1228&co=Geico&ti=Senior%20Product%20Manager%2C%20AI%20Platform",
-  "company_about": "The Government Employees Insurance Company is an American vehicle insurance company headquartered in Bethesda, Maryland.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Geico&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Nobody checks every box - we\u2019re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. The Mission Kong is building the future of AI connectivity, empowering developers to connect, secure, and \u2026",
   "bucket": "Remote (US)",
@@ -8964,50 +8618,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Grow-Therapy&network=%5B%22S%22%5D"
  },
  {
-  "about": "Founded in 2019, Brightline has delivered care to tens of thousands of families with industry-leading results .",
-  "blurb": "Brightline is redefining what pediatric behavioral health care looks like for families across the country, we are seeking a Principal Product Manager to lead product strategy and execution for Brightline's Public Sector business. This is one of the most \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$180\u2013200K",
-  "company": "hellobrightline",
-  "company_display": "Hellobrightline",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-07T02:05:59.582306+00:00",
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "0\u21921",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "3be2e25fc32d",
-  "location": "Remote (National) / Remote",
-  "posted": "2026-09-17T23:11:35.848000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 27,
-  "score_why": "health sector 24 \u00b7 role match 3",
-  "sector": "health",
-  "signals": [
-   "0\u21921"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, Public Sector",
-  "url": "https://jobs.ashbyhq.com/hellobrightline/730543fa-e444-4a56-bdb5-9dc8620fb4f7",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3be2e25fc32d&co=Hellobrightline&ti=Principal%20Product%20Manager%2C%20Public%20Sector",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3be2e25fc32d&co=Hellobrightline&ti=Principal%20Product%20Manager%2C%20Public%20Sector",
-  "company_about": "Founded in 2019, Brightline has delivered care to tens of thousands of families with industry-leading results .",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Hellobrightline&network=%5B%22S%22%5D"
- },
- {
   "about": "Upside is not liable for, and will not pay, placement fees for candidates submitted by any party or agency other than its approved recruitment partners.",
   "blurb": "The Impact You'll Make Upside has established itself in fuel and scaled into grocery. Restaurant is the vertical with the most headroom and the least built \u2014 and this role owns it.",
   "bucket": "Remote (US)",
@@ -9497,46 +9107,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1f55933cd829&co=Plug&ti=Sr.%20Product%20Manager%2C%20Growth",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Plug&network=%5B%22S%22%5D"
- },
- {
-  "blurb": "In this role, you will own how Fleetio captures and activates real-time data from customers' vehicles from the hardware and data sources it comes from to the products built on top of it, and build a new product line and the business around it, largely from \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "fleetio",
-  "company_display": "Fleetio",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-24T18:12:09.011152+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "d249e4fb562a",
-  "location": "Remote - USA, CAN, MEX",
-  "posted": "2026-09-17T14:02:42-04:00",
-  "role10": 3,
-  "role_pts": 15,
-  "score": 25,
-  "score_why": "unknown sector 10 \u00b7 role match 15",
-  "sector": "",
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Connected Ecosystem",
-  "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241221007",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d249e4fb562a&co=Fleetio&ti=Staff%20Product%20Manager%2C%20Connected%20Ecosystem",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d249e4fb562a&co=Fleetio&ti=Staff%20Product%20Manager%2C%20Connected%20Ecosystem",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fleetio&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -10893,60 +10463,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Reddit&network=%5B%22S%22%5D"
  },
  {
-  "about": "We are committed to a work environment that supports, inspires, and respects all individuals.",
-  "blurb": "About the Role: We are seeking a Principal Product Manager to define and lead the development of Enterprise Administration at AlphaSense, building the systems, workflows, and tooling that enable both internal teams and enterprise customers to configure \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$190\u2013250K",
-  "company": "alphasense",
-  "company_display": "Alphasense",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-23T18:15:39.931625+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "c16c3a88e343",
-  "location": "New York, New York, United States; Remote",
-  "posted": "2026-09-17T15:21:22-04:00",
-  "role10": 2,
-  "role_pts": 12,
-  "score": 22,
-  "score_why": "unknown sector 10 \u00b7 role match 12",
-  "sector": "",
-  "signals": [
-   "energy",
-   "compliance",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager - Enterprise Admin Experience",
-  "url": "https://job-boards.greenhouse.io/alphasense/jobs/8813574002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c16c3a88e343&co=Alphasense&ti=Principal%20Product%20Manager%20-%20Enterprise%20Admin%20Experience",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c16c3a88e343&co=Alphasense&ti=Principal%20Product%20Manager%20-%20Enterprise%20Admin%20Experience",
-  "company_about": "Find company insights, market data and research across 500M+ documents instantly. Make faster, confident decisions with AlphaSense's AI-powered platform.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Alphasense&network=%5B%22S%22%5D"
- },
- {
   "about": "Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers.",
   "blurb": "About the Role A customer runs distributed training across 64 to 1,024+ GPUs (Graphics Processing Units). When a job slows down, customers need one question answered instantly: is it my code, NCCL (NVIDIA Collective Communications Library) configuration \u2026",
   "bucket": "Seattle",
@@ -11137,52 +10653,8 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Faire&network=%5B%22S%22%5D"
  },
  {
-  "about": "Yoodli helps people get measurably better in their careers.",
-  "blurb": "About Yoodli Yoodli is a venture-backed company building an AI Coach which helps people get measurably better in their careers by supporting them in the flow of work. Our team includes former employees from Google, Apple, Microsoft, Tableau, and beyond \u2026",
-  "bucket": "Seattle",
-  "comp": "$174\u2013200K",
-  "company": "yoodliinc",
-  "company_display": "Yoodli",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-19T00:58:21.199503+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "0c713a5b7d16",
-  "location": "Seattle, WA",
-  "posted": "2026-09-17T17:29:55-04:00",
-  "role10": 0,
-  "role_pts": -7,
-  "score": 21,
-  "score_why": "ai sector 28 \u00b7 role match -7",
-  "sector": "ai",
-  "signals": [
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager- Growth",
-  "url": "https://job-boards.greenhouse.io/yoodliinc/jobs/4410487009",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0c713a5b7d16&co=Yoodli&ti=Senior%20Product%20Manager-%20Growth",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0c713a5b7d16&co=Yoodli&ti=Senior%20Product%20Manager-%20Growth",
-  "company_about": "Yoodli helps people get measurably better in their careers.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Yoodli&network=%5B%22S%22%5D"
- },
- {
   "about": "",
-  "blurb": "Product",
+  "blurb": "Likely owns product direction for agentic AI features; details not available.",
   "bucket": "Remote (US)",
   "comp": null,
   "company": "legion",
@@ -11193,12 +10665,20 @@
   "first_seen": "2026-10-17T16:36:59.528404+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 4/10",
+    "amber"
    ],
    [
-    "ai",
-    "mid"
+    "Principal level, AI scope",
+    "hi"
+   ],
+   [
+    "'Anywhere in World' may mean non-US",
+    "hi"
+   ],
+   [
+    "No domain or comp info",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -11214,14 +10694,26 @@
    "ai"
   ],
   "source": "wwr",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-17T22:46:18Z",
+   "company": "Legion is a company hiring a remote Principal PM for agentic AI; the posting text was unavailable (unclear).",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely owns product direction for agentic AI features; details not available.",
+   "source": "fallback",
+   "why": [
+    "Principal level, AI scope",
+    "'Anywhere in World' may mean non-US",
+    "No domain or comp info"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Principal Product Manager, Agentic AI",
   "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=444f31afc7cb&co=Legion&ti=Principal%20Product%20Manager%2C%20Agentic%20AI",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=444f31afc7cb&co=Legion&ti=Principal%20Product%20Manager%2C%20Agentic%20AI",
-  "company_about": "",
+  "company_about": "Legion is a company hiring a remote Principal PM for agentic AI; the posting text was unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Legion&network=%5B%22S%22%5D"
  },
  {
@@ -20989,48 +20481,6 @@
   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Rich-Media_P751273-1",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e3caf682039c&co=Zillow&ti=Senior%20Product%20Manager%2C%20Rich%20Media",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e3caf682039c&co=Zillow&ti=Senior%20Product%20Manager%2C%20Rich%20Media",
-  "company_about": "Zillow, officially known as Zillow Group, Inc., is an American tech real-estate marketplace company that was founded in 2006 by co-executive chairmen Rich Barton and Lloyd Frink \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Zillow&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "P751273",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "zillow",
-  "company_display": "Zillow",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-25T18:13:39.898986+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "f69f63a75e9f",
-  "location": "Remote-USA",
-  "posted": "2026-09-17T18:36:11.748371+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Rich Media",
-  "url": "https://zillow.wd5.myworkdayjobs.com/en-US/zillow_group_external/job/Remote-USA/Senior-Product-Manager--Rich-Media_P751273-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f69f63a75e9f&co=Zillow&ti=Senior%20Product%20Manager%2C%20Rich%20Media",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f69f63a75e9f&co=Zillow&ti=Senior%20Product%20Manager%2C%20Rich%20Media",
   "company_about": "Zillow, officially known as Zillow Group, Inc., is an American tech real-estate marketplace company that was founded in 2006 by co-executive chairmen Rich Barton and Lloyd Frink \u2026",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Zillow&network=%5B%22S%22%5D"
  },
