@@ -1176,6 +1176,59 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Marianaminerals&network=%5B%22S%22%5D"
  },
  {
+  "title": "Technical Product Manager, Life Sciences",
+  "company": "arcadia",
+  "location": "Remote",
+  "url": "https://jobs.lever.co/arcadia/4c02f554-6101-4e2e-8c95-9cefd6c1c3f6",
+  "posted": "2026-10-21T12:59:44.235000+00:00",
+  "source": "lever",
+  "company_name": "",
+  "comp": "$147\u2013161K",
+  "bucket": "Remote (US)",
+  "sector": "energy",
+  "blurb": "Why This Role Is Important To Arcadia The Technical Product Manager, Life Sciences sits at the intersection of product strategy and engineering execution, embedded directly with our teams to turn complex healthcare data and platform capabilities into products \u2026",
+  "role_pts": 19,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-21T18:39:58.579992+00:00",
+  "company_display": "Arcadia",
+  "about": "Arcadia is dedicated to happier, healthier days for all.",
+  "signals": [
+   "technical",
+   "data platform"
+  ],
+  "id": "d8448b474d1a",
+  "score": 70,
+  "role10": 4,
+  "tier": "strong",
+  "target": "a",
+  "company_line": "Utility data API platform (Arc) \u2014 energy DATA platform; top-scored role on the board",
+  "score_why": "energy sector 35 \u00b7 sector feedback +4 \u00b7 role match 19 \u00b7 target company +12",
+  "summary": null,
+  "fit_tags": [
+   [
+    "energy",
+    "hi"
+   ],
+   [
+    "technical",
+    "mid"
+   ],
+   [
+    "data platform",
+    "hi"
+   ],
+   [
+    "\u25ce target company",
+    "amber"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d8448b474d1a&co=Arcadia&ti=Technical%20Product%20Manager%2C%20Life%20Sciences",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d8448b474d1a&co=Arcadia&ti=Technical%20Product%20Manager%2C%20Life%20Sciences",
+  "company_about": "Arcadia is dedicated to happier, healthier days for all.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Arcadia&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "We're hiring a Senior Product Manager to wake up every day thinking about driving quality results and expanding our datasets in tight coordination with the Insurance product team. You own and deliver the vendor stack, the quality and hit rate, and telemetry \u2026",
   "bucket": "SF / Bay",
@@ -4098,6 +4151,60 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c7f91eeb24c1&co=Anthropic&ti=Product%20Manager%2C%20Safeguards%20%28Generalist%29%20",
   "company_about": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Anthropic&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Staff Product Manager \u2013 Firefox Enterprise",
+  "company": "mozilla",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/mozilla/jobs/8304193",
+  "posted": "2026-10-21T11:48:14-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "You will set direction, align engineering, design and go-to-market partners, and deliver. This role is ideal for someone who can work across teams with empathy, build trust with a wide range of partners, and move work forward in a practical, low-ego way.",
+  "role_pts": 15,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-21T18:39:58.579992+00:00",
+  "company_display": "Mozilla",
+  "about": "Mozilla Corporation is wholly owned by the 501(c) non-profit Mozilla Foundation , meaning we\u2019re accountable not to shareholders, but to our mission.",
+  "signals": [
+   "compliance",
+   "B2B",
+   "0\u21921"
+  ],
+  "id": "73ae012e1d34",
+  "score": 42,
+  "role10": 3,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 15",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=73ae012e1d34&co=Mozilla&ti=Staff%20Product%20Manager%20%E2%80%93%20Firefox%20Enterprise",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=73ae012e1d34&co=Mozilla&ti=Staff%20Product%20Manager%20%E2%80%93%20Firefox%20Enterprise",
+  "company_about": "Mozilla is a free software community founded in 1998 by members of Netscape.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Mozilla&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -11889,6 +11996,50 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Faire&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Technical Product Manager",
+  "company": "raydar",
+  "location": "United States / Remote",
+  "url": "https://apply.workable.com/j/285A335301",
+  "posted": "2026-10-21T00:00:00+00:00",
+  "source": "workable",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "",
+  "role_pts": 10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-21T18:39:58.579992+00:00",
+  "company_display": "Raydar",
+  "about": "",
+  "signals": [
+   "technical"
+  ],
+  "id": "c5326b497bd2",
+  "score": 20,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 10",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "technical",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c5326b497bd2&co=Raydar&ti=Senior%20Technical%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c5326b497bd2&co=Raydar&ti=Senior%20Technical%20Product%20Manager",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Raydar&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We are a globally distributed, remote-first team building the tools that define how software gets built and delivered.",
   "blurb": "Owns the core Sandbox platform for AI-agent workloads, from concept to operation.",
   "bucket": "Seattle",
@@ -16178,6 +16329,90 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Karat&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager (Commercial Lending)",
+  "company": "keybank",
+  "location": "Cleveland, OH / Columbus, OH / Remote, United States / Cincinnati, OH / Amherst, NY",
+  "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/Senior-Product-Manager--Commercial-Lending-_R-42590",
+  "posted": "2026-10-21T18:44:28.344501+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "R-42590",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-21T18:39:58.579992+00:00",
+  "company_display": "Keybank",
+  "about": "",
+  "signals": [],
+  "id": "7dc87a291a25",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7dc87a291a25&co=Keybank&ti=Senior%20Product%20Manager%20%28Commercial%20Lending%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7dc87a291a25&co=Keybank&ti=Senior%20Product%20Manager%20%28Commercial%20Lending%29",
+  "company_about": "KeyBank is an American regional bank, headquartered in Cleveland, Ohio.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Keybank&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, Loyalty",
+  "company": "expedia",
+  "location": "Washington - Seattle Campus / USA - California - San Jose",
+  "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Senior-Product-Manager--Loyalty_R-109310-1",
+  "posted": "2026-10-21T18:42:50.553050+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Seattle",
+  "sector": "",
+  "blurb": "R-109310",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-21T18:39:58.579992+00:00",
+  "company_display": "Expedia",
+  "about": "",
+  "signals": [],
+  "id": "d17d43ac1ee8",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d17d43ac1ee8&co=Expedia&ti=Senior%20Product%20Manager%2C%20Loyalty",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d17d43ac1ee8&co=Expedia&ti=Senior%20Product%20Manager%2C%20Loyalty",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Expedia&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Owns the shared hosting product line (title only; no description available).",
   "bucket": "Remote (US)",
@@ -16238,6 +16473,48 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=33499e4b5036&co=Web&ti=Senior%20Product%20Manager%2C%20Shared%20Hosting",
   "company_about": "Appears to be a web hosting provider; the listing has no company detail (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Web&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager",
+  "company": "raydar",
+  "location": "San Francisco, California, United States",
+  "url": "https://apply.workable.com/j/2C009310D9",
+  "posted": "2026-10-21T00:00:00+00:00",
+  "source": "workable",
+  "company_name": "",
+  "comp": null,
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-21T18:39:58.579992+00:00",
+  "company_display": "Raydar",
+  "about": "",
+  "signals": [],
+  "id": "eeb1bbfa0fe9",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=eeb1bbfa0fe9&co=Raydar&ti=Principal%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=eeb1bbfa0fe9&co=Raydar&ti=Principal%20Product%20Manager",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Raydar&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -21559,48 +21836,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8e28a58599cc&co=Tbkbank&ti=Staff%20Product%20Manager%20-%20Customer%20Experience",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Tbkbank&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "R-112029",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "lilly",
-  "company_display": "Lilly",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-27T18:02:54.747925+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "dc76123634da",
-  "location": "US, San Francisco CA / US, Remote",
-  "posted": "2026-09-21T18:14:10.302495+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Catalyze360",
-  "url": "https://lilly.wd115.myworkdayjobs.com/en-US/LLY/job/US-San-Francisco-CA/Staff-Product-Manager--Catalyze360_R-112029",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dc76123634da&co=Lilly&ti=Staff%20Product%20Manager%2C%20Catalyze360",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dc76123634da&co=Lilly&ti=Staff%20Product%20Manager%2C%20Catalyze360",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Lilly&network=%5B%22S%22%5D"
  },
  {
   "about": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.",
