@@ -1934,46 +1934,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Anthropic&network=%5B%22S%22%5D"
  },
  {
-  "blurb": "Application Software. Artificial Intelligence (AI).",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "urbint",
-  "company_display": "Urbint",
-  "company_line": null,
-  "company_name": "Urbint",
-  "emailed": true,
-  "first_seen": "2026-09-25T01:08:44.935073+00:00",
-  "fit_tags": [
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "ec422b70e76e",
-  "location": "United States / San Jose, CA, USA / Washington, USA / Austin, TX, USA / South Carolina, USA / Latin America / Chicago, IL, USA / Raleigh, NC, USA / West Union, WV, USA / Remote",
-  "posted": "2026-09-24T14:25:05+00:00",
-  "role10": 3,
-  "role_pts": 17,
-  "score": 60,
-  "score_why": "energy sector 35 \u00b7 sector feedback +8 \u00b7 role match 17",
-  "sector": "energy",
-  "source": "climatedraft",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Senior Product Manager",
-  "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Senior-Product-Manager_JR102943",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ec422b70e76e&co=Urbint&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ec422b70e76e&co=Urbint&ti=Senior%20Product%20Manager",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Urbint&network=%5B%22S%22%5D"
- },
- {
   "about": "We are an award winning company disrupting the $200B+ cybersecurity market.",
   "blurb": "Owns the integrations and platform squads: signal ingestion, self-serve admin, tenancy, audit trail.",
   "bucket": "Remote (US)",
@@ -2040,66 +2000,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e634ff8cf37f&co=Dropzoneai&ti=Senior%20Product%20Manager%2C%20Integrations%20%26%20Platform",
   "company_about": "Dropzone AI sells an AI SOC analyst that investigates security alerts; venture-backed cybersecurity startup.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Dropzoneai&network=%5B%22S%22%5D"
- },
- {
-  "about": "We're on a mission to help communities adapt to a changing world.",
-  "blurb": "About the role We're looking for a Senior Product Manager to lead product for the Field Intelligence team. You\u2019ll own the strategy and roadmap for how Forerunner helps field teams understand what needs attention, capture trustworthy information, and turn \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$180\u2013210K",
-  "company": "forerunner",
-  "company_display": "Forerunner",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-28T01:24:21.903792+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "data platform",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "27ad6e9b0579",
-  "last_seen": "2026-10-24",
-  "location": "Portland, ME / Remote",
-  "posted": "2026-09-24T14:06:40.085000+00:00",
-  "role10": 6,
-  "role_pts": 31,
-  "score": 58,
-  "score_why": "compliance sector 27 \u00b7 role match 31",
-  "sector": "compliance",
-  "signals": [
-   "energy",
-   "compliance",
-   "data platform",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/forerunner/7f7b3797-f970-452f-881c-585140694e41",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=27ad6e9b0579&co=Forerunner&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=27ad6e9b0579&co=Forerunner&ti=Senior%20Product%20Manager",
-  "company_about": "Unify geospatial data, field operations, and AI-powered workflows in one platform\u2014integrated with your existing systems and built for complex compliance environments.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Forerunner&network=%5B%22S%22%5D"
  },
  {
   "about": "Kettle designs digital products with soul, for some of the most ambitious consumer brands in the world.",
@@ -3682,7 +3582,7 @@
  },
  {
   "about": "Suno is the fastest growing consumer entertainment company and the leader in AI music.",
-  "blurb": "About the Role At the core of Suno\u2019s user experience is inspiring people to create their next favorite song. Personalization makes this possible, by helping people discover music they love and ideas that spark their own creativity.",
+  "blurb": "Owns recommendations and personalization strategy across Suno, working with ML engineers and data scientists.",
   "bucket": "SF / Bay",
   "comp": "$250K \u2013 $330K",
   "company": "suno",
@@ -3693,20 +3593,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "ai",
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer entertainment, no data axis",
     "hi"
    ],
    [
-    "compliance",
+    "5 days onsite in SF",
     "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
+    "$250-330K base, strong comp",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -3725,14 +3625,26 @@
    "0\u21921"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Suno, AI music-creation app with 100M+ users, ~250 people, Series D at $5.4B valuation.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns recommendations and personalization strategy across Suno, working with ML engineers and data scientists.",
+   "source": "posting",
+   "why": [
+    "Consumer entertainment, no data axis",
+    "5 days onsite in SF",
+    "$250-330K base, strong comp"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Product Manager, Recommendations ",
   "url": "https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cee770d28ff1&co=Suno&ti=Product%20Manager%2C%20Recommendations%20",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cee770d28ff1&co=Suno&ti=Product%20Manager%2C%20Recommendations%20",
-  "company_about": "Create stunning original music for free in seconds using our AI generator. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
+  "company_about": "Suno, AI music-creation app with 100M+ users, ~250 people, Series D at $5.4B valuation.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Suno&network=%5B%22S%22%5D"
  },
  {
@@ -4619,7 +4531,7 @@
  },
  {
   "about": "",
-  "blurb": "REF089581W",
+  "blurb": "Likely owns dispute-management product with data integrations and AI; scope inferred from title only.",
   "bucket": "Seattle",
   "comp": null,
   "company": "visa",
@@ -4630,20 +4542,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 5/10",
+    "amber"
    ],
    [
-    "data",
-    "mid"
+    "Data integrations + AI in title",
+    "hi"
    ],
    [
-    "integrations",
-    "mid"
+    "Bellevue WA option",
+    "hi"
    ],
    [
-    "ai",
-    "mid"
+    "Big-co payments, no climate axis",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -4662,19 +4574,31 @@
    "ai"
   ],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Visa, global payments network (posting text unavailable; details not stated).",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely owns dispute-management product with data integrations and AI; scope inferred from title only.",
+   "source": "fallback",
+   "why": [
+    "Data integrations + AI in title",
+    "Bellevue WA option",
+    "Big-co payments, no climate axis"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Sr. Product Manager \u2013 Dispute Management, Data Integrations & AI",
   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Sr-Product-Manager---Dispute-Management--Data-Integrations---AI_REF089581W",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=db477a187e62&co=Visa&ti=Sr.%20Product%20Manager%20%E2%80%93%20Dispute%20Management%2C%20Data%20Integrations%20%26%20AI",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=db477a187e62&co=Visa&ti=Sr.%20Product%20Manager%20%E2%80%93%20Dispute%20Management%2C%20Data%20Integrations%20%26%20AI",
-  "company_about": "",
+  "company_about": "Visa, global payments network (posting text unavailable; details not stated).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Visa&network=%5B%22S%22%5D"
  },
  {
   "about": "",
-  "blurb": "REF089581W",
+  "blurb": "Likely owns dispute-management product with data integrations and AI; scope inferred from title only.",
   "bucket": "Seattle",
   "comp": null,
   "company": "visa",
@@ -4685,20 +4609,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 5/10",
+    "amber"
    ],
    [
-    "data",
-    "mid"
+    "Data integrations + AI in title",
+    "hi"
    ],
    [
-    "integrations",
-    "mid"
+    "Bellevue WA option",
+    "hi"
    ],
    [
-    "ai",
-    "mid"
+    "Big-co payments, no climate axis",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -4717,14 +4641,26 @@
    "ai"
   ],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Visa, global payments network (posting text unavailable; details not stated).",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely owns dispute-management product with data integrations and AI; scope inferred from title only.",
+   "source": "fallback",
+   "why": [
+    "Data integrations + AI in title",
+    "Bellevue WA option",
+    "Big-co payments, no climate axis"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Sr. Product Manager \u2013 Dispute Management, Data Integrations & AI",
   "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Sr-Product-Manager---Dispute-Management--Data-Integrations---AI_REF089581W",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=faa78039e213&co=Visa&ti=Sr.%20Product%20Manager%20%E2%80%93%20Dispute%20Management%2C%20Data%20Integrations%20%26%20AI",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=faa78039e213&co=Visa&ti=Sr.%20Product%20Manager%20%E2%80%93%20Dispute%20Management%2C%20Data%20Integrations%20%26%20AI",
-  "company_about": "",
+  "company_about": "Visa, global payments network (posting text unavailable; details not stated).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Visa&network=%5B%22S%22%5D"
  },
  {
@@ -6559,71 +6495,6 @@
  },
  {
   "about": "",
-  "blurb": "Owns fiat money-movement and banking-rail strategy for the regulated FCM platform.",
-  "bucket": "SF / Bay",
-  "comp": "$170\u2013220K",
-  "company": "crypto",
-  "company_display": "Crypto",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Regulated funds flow",
-    "hi"
-   ],
-   [
-    "SF; $170-220K",
-    "hi"
-   ],
-   [
-    "Payments, not data platform",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "2dd35b3de7bf",
-  "last_seen": "2026-10-24",
-  "location": "San Francisco",
-  "posted": "2026-09-24T15:56:19.454000+00:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 36,
-  "score_why": "compliance sector 27 \u00b7 role match 9",
-  "sector": "compliance",
-  "signals": [
-   "compliance"
-  ],
-  "source": "lever",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Crypto.com runs a regulated crypto trading business, including a CFTC/NFA-regulated FCM.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns fiat money-movement and banking-rail strategy for the regulated FCM platform.",
-   "source": "posting",
-   "why": [
-    "Regulated funds flow",
-    "SF; $170-220K",
-    "Payments, not data platform"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Product Manager, Fiat & FCM",
-  "url": "https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2dd35b3de7bf&co=Crypto&ti=Product%20Manager%2C%20Fiat%20%26%20FCM",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2dd35b3de7bf&co=Crypto&ti=Product%20Manager%2C%20Fiat%20%26%20FCM",
-  "company_about": "Crypto.com runs a regulated crypto trading business, including a CFTC/NFA-regulated FCM.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crypto&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Leads product for how Google's docs ground AI agents: Developer Knowledge API, RAG evals.",
   "bucket": "Seattle",
   "comp": "$192,000-$278,000 base + bonus + equity + benefits",
@@ -7970,51 +7841,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1aabeeb21d88&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
   "company_about": "Clera builds a financial platform for small businesses (invoicing, reconciliation, integrations, AI).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
- },
- {
-  "about": "We are striving to make high-quality healthcare free and accessible to everyone through AI.",
-  "blurb": "About the Role We're looking for a Senior Product Manager to lead key parts of our core consumer product experience. You'll turn a fast-moving roadmap into a shipped product, optimize the existing experience for completion and conversion to a physician visit \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$160K \u2013 $200K",
-  "company": "doctronic",
-  "company_display": "Doctronic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-08T19:40:03.233534+00:00",
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "8efe0a0da475",
-  "last_seen": "2026-10-24",
-  "location": "New York City / Remote",
-  "posted": "2026-09-24T12:10:47.037000+00:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 33,
-  "score_why": "health sector 24 \u00b7 role match 9",
-  "sector": "health",
-  "signals": [
-   "compliance"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Consumer",
-  "url": "https://jobs.ashbyhq.com/doctronic/3bed9c6b-cd82-4793-83cc-f7413c5ca80b",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=8efe0a0da475&co=Doctronic&ti=Senior%20Product%20Manager%2C%20Consumer",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8efe0a0da475&co=Doctronic&ti=Senior%20Product%20Manager%2C%20Consumer",
-  "company_about": "Doctronic is the world's most popular AI doctor. 100% Private. Get free, personalized, and immediate access to comprehensible health information with real-time issue exploration \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Doctronic&network=%5B%22S%22%5D"
  },
  {
   "about": "We\u2019re backed by leading investors including Accel, Y Combinator, Sequoia, BOND, and Franklin Templeton.",
@@ -12616,7 +12442,7 @@
  },
  {
   "about": "",
-  "blurb": "2026633",
+  "blurb": "Likely owns AI safety and security product; scope inferred from title only.",
   "bucket": "SF / Bay",
   "comp": null,
   "company": "cisco",
@@ -12627,12 +12453,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "ai",
-    "mid"
+    "AI security, no data/compliance axis",
+    "hi"
+   ],
+   [
+    "Hybrid San Jose/Milpitas/SF",
+    "hi"
+   ],
+   [
+    "SF listed but Bay hybrid",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -12649,19 +12483,31 @@
    "ai"
   ],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Cisco, networking and security vendor (posting text unavailable; details not stated).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely owns AI safety and security product; scope inferred from title only.",
+   "source": "fallback",
+   "why": [
+    "AI security, no data/compliance axis",
+    "Hybrid San Jose/Milpitas/SF",
+    "SF listed but Bay hybrid"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager - AI Safety and Security (Hybrid)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Senior-Product-Manager---AI-Safety-and-Security--Hybrid-_2026633",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2787a5b3e100&co=Cisco&ti=Senior%20Product%20Manager%20-%20AI%20Safety%20and%20Security%20%28Hybrid%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2787a5b3e100&co=Cisco&ti=Senior%20Product%20Manager%20-%20AI%20Safety%20and%20Security%20%28Hybrid%29",
-  "company_about": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software \u2026",
+  "company_about": "Cisco, networking and security vendor (posting text unavailable; details not stated).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Cisco&network=%5B%22S%22%5D"
  },
  {
   "about": "",
-  "blurb": "2026633",
+  "blurb": "Likely owns AI safety and security product; scope inferred from title only.",
   "bucket": "SF / Bay",
   "comp": null,
   "company": "cisco",
@@ -12672,12 +12518,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "ai",
-    "mid"
+    "AI security, no data/compliance axis",
+    "hi"
+   ],
+   [
+    "Hybrid San Jose/Milpitas/SF",
+    "hi"
+   ],
+   [
+    "SF listed but Bay hybrid",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -12694,14 +12548,26 @@
    "ai"
   ],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Cisco, networking and security vendor (posting text unavailable; details not stated).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely owns AI safety and security product; scope inferred from title only.",
+   "source": "fallback",
+   "why": [
+    "AI security, no data/compliance axis",
+    "Hybrid San Jose/Milpitas/SF",
+    "SF listed but Bay hybrid"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager - AI Safety and Security (Hybrid)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Senior-Product-Manager---AI-Safety-and-Security--Hybrid-_2026633",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e002c7313c4b&co=Cisco&ti=Senior%20Product%20Manager%20-%20AI%20Safety%20and%20Security%20%28Hybrid%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e002c7313c4b&co=Cisco&ti=Senior%20Product%20Manager%20-%20AI%20Safety%20and%20Security%20%28Hybrid%29",
-  "company_about": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software \u2026",
+  "company_about": "Cisco, networking and security vendor (posting text unavailable; details not stated).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Cisco&network=%5B%22S%22%5D"
  },
  {
@@ -15173,7 +15039,7 @@
  },
  {
   "about": "Roo empowers the largest network of over 20,000 veterinary professionals to help more than 9,000 animal hospitals provide quality care to more pets.",
-  "blurb": "As a Staff Product Manager at Roo, you\u2019ll play a pivotal role in driving company-wide impact by leading high-priority initiatives that map directly to our most critical business goals. You\u2019ll partner with cross-functional teams\u2014including engineering, design \u2026",
+  "blurb": "Owns sign-up-to-first-shift funnel, incentives and growth experiments for a marketplace business unit.",
   "bucket": "Remote (US)",
   "comp": "$125\u2013220K",
   "company": "roo",
@@ -15184,12 +15050,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "marketplace",
-    "mid"
+    "fit 4/10",
+    "amber"
    ],
    [
-    "0\u21921",
-    "mid"
+    "Remote Staff PM, seniority match",
+    "hi"
+   ],
+   [
+    "Growth/funnel focus, no data platform",
+    "hi"
+   ],
+   [
+    "$125-220K tiered by location",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -15206,14 +15080,26 @@
    "0\u21921"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Roo, veterinary staffing marketplace connecting 20,000+ vets with 9,000+ animal hospitals.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns sign-up-to-first-shift funnel, incentives and growth experiments for a marketplace business unit.",
+   "source": "posting",
+   "why": [
+    "Remote Staff PM, seniority match",
+    "Growth/funnel focus, no data platform",
+    "$125-220K tiered by location"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Staff Product Manager",
   "url": "https://job-boards.greenhouse.io/roo/jobs/5462945008",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1b5615ade0fd&co=Roo&ti=Staff%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1b5615ade0fd&co=Roo&ti=Staff%20Product%20Manager",
-  "company_about": "About Roo Happy vets make for happy pets.",
+  "company_about": "Roo, veterinary staffing marketplace connecting 20,000+ vets with 9,000+ animal hospitals.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Roo&network=%5B%22S%22%5D"
  },
  {
@@ -16416,7 +16302,7 @@
  },
  {
   "about": "",
-  "blurb": "Overview As a Senior Product Manager, you own the strategy, roadmap, and outcomes for a key product area within Rithum's commerce platform. You operate largely independently, tackle open-ended and ambiguous problems, and bring cross-functional teams together \u2026",
+  "blurb": "Owns roadmap for a product area in the commerce platform, using AI tools heavily in discovery and docs.",
   "bucket": "Remote (US)",
   "comp": "$135\u2013200K",
   "company": "rithumliboard",
@@ -16427,12 +16313,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 4/10",
+    "amber"
    ],
    [
-    "B2B",
-    "mid"
+    "Remote US",
+    "hi"
+   ],
+   [
+    "$135-200K, below target",
+    "hi"
+   ],
+   [
+    "Commerce SaaS, no regulated data",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -16449,14 +16343,26 @@
    "B2B"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Rithum, e-commerce network serving 40,000+ brands and retailers, $50B+ annual GMV.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns roadmap for a product area in the commerce platform, using AI tools heavily in discovery and docs.",
+   "source": "posting",
+   "why": [
+    "Remote US",
+    "$135-200K, below target",
+    "Commerce SaaS, no regulated data"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager",
   "url": "https://job-boards.greenhouse.io/rithumliboard/jobs/8319565",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a4fbdf1e3e36&co=Rithumliboard&ti=Senior%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a4fbdf1e3e36&co=Rithumliboard&ti=Senior%20Product%20Manager",
-  "company_about": "Use Microsoft Forms to easily create online surveys, forms, quizzes and questionnaires. AI powered, free survey tool from Microsoft.",
+  "company_about": "Rithum, e-commerce network serving 40,000+ brands and retailers, $50B+ annual GMV.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Rithumliboard&network=%5B%22S%22%5D"
  },
  {
@@ -17443,7 +17349,7 @@
  },
  {
   "about": "We're not building another point solution, we're building the financial backbone of insurance.",
-  "blurb": "What We Do Insurance is a $10T industry still running on PDFs, email threads, and manual reconciliation. Ascend is changing that.",
+  "blurb": "Leads money-movement products (invoicing, payments, receivables) and AI automation of financial ops.",
   "bucket": "SF / Bay",
   "comp": "$180\u2013240K",
   "company": "ascend21",
@@ -17454,12 +17360,20 @@
   "first_seen": "2026-10-24T00:58:39.018056+00:00",
   "fit_tags": [
    [
-    "fintech",
-    "mid"
+    "fit 7/10",
+    "amber"
    ],
    [
-    "B2B",
-    "mid"
+    "Lead PM, $180-240K in range",
+    "hi"
+   ],
+   [
+    "Audit-grade finance workflows",
+    "hi"
+   ],
+   [
+    "Onsite SF; fintech not climate",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -17476,14 +17390,26 @@
    "B2B"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-24T13:46:22Z",
+   "company": "Ascend, insurance financial-operations platform (accounting, payments, premium financing); 4,000+ businesses.",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Leads money-movement products (invoicing, payments, receivables) and AI automation of financial ops.",
+   "source": "posting",
+   "why": [
+    "Lead PM, $180-240K in range",
+    "Audit-grade finance workflows",
+    "Onsite SF; fintech not climate"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Lead Product Manager",
   "url": "https://job-boards.greenhouse.io/ascend21/jobs/5446183008",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=33b0f8919aca&co=Ascend21&ti=Lead%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=33b0f8919aca&co=Ascend21&ti=Lead%20Product%20Manager",
-  "company_about": "We're not building another point solution, we're building the financial backbone of insurance.",
+  "company_about": "Ascend, insurance financial-operations platform (accounting, payments, premium financing); 4,000+ businesses.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ascend21&network=%5B%22S%22%5D"
  },
  {
@@ -23251,94 +23177,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=331076e533fd&co=Autodesk&ti=Senior%20Product%20Manager%20-%20AEC%20Solutions%20%28East%20Coast%29",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Autodesk&network=%5B%22S%22%5D"
- },
- {
-  "about": "Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with \u2026",
-  "blurb": "About the Role Our Content team creates the scenarios, units, and entities that make up Atom Engine exercises. You will own the vision for what that content should deliver and how it gets built.",
-  "bucket": "Remote (US)",
-  "comp": "$160K \u2013 $210K",
-  "company": "onebrief",
-  "company_display": "Onebrief",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-02T18:58:08.033736+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "37eb4619f6c8",
-  "last_seen": "2026-10-24",
-  "location": "United States | Remote / Remote",
-  "posted": "2026-09-24T02:30:50.263000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Atom Engine",
-  "url": "https://jobs.ashbyhq.com/onebrief/f700472d-c290-4873-a448-0450694543e1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=37eb4619f6c8&co=Onebrief&ti=Senior%20Product%20Manager%2C%20Atom%20Engine",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=37eb4619f6c8&co=Onebrief&ti=Senior%20Product%20Manager%2C%20Atom%20Engine",
-  "company_about": "Onebrief is collaboration and AI-powered workflow software designed specifically for military staffs. Onebrief makes the staff as a whole superhuman \u2014 faster, smarter, and more \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Onebrief&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "R_106886",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "remitly",
-  "company_display": "Remitly",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-02T02:00:45.644672+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "platform",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "6ae9c15864af",
-  "last_seen": "2026-10-24",
-  "location": "Seattle, Washington United States",
-  "posted": "2026-09-24T02:27:49.061405+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [
-   "platform"
-  ],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Product-Manager_R_106886",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6ae9c15864af&co=Remitly&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6ae9c15864af&co=Remitly&ti=Senior%20Product%20Manager",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Remitly&network=%5B%22S%22%5D"
  },
  {
   "about": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.",
