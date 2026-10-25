@@ -2897,6 +2897,60 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Anthropic&network=%5B%22S%22%5D"
  },
  {
+  "title": "Product Manager, Compliance",
+  "company": "coreweave",
+  "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
+  "url": "https://coreweave.com/careers/job?4718789006&board=coreweave&gh_jid=4718789006",
+  "posted": "2026-10-04T22:25:38-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$153\u2013204K",
+  "bucket": "Seattle",
+  "sector": "ai",
+  "blurb": "About the Role This is not a traditional audit-support role. As the Product Manager, IT SOX Compliance, you\u2019ll translate SOX compliance requirements into structured programs, drive accountability across IT process owners, and build the systems and workflows \u2026",
+  "role_pts": 12,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-25T17:40:00.453366+00:00",
+  "last_seen": "2026-10-25",
+  "company_display": "CoreWeave",
+  "about": "CoreWeave is The Essential Cloud for AI\u2122.",
+  "signals": [
+   "compliance",
+   "B2B"
+  ],
+  "id": "34cd4ab32d0c",
+  "score": 48,
+  "role10": 2,
+  "tier": "good",
+  "target": "b",
+  "company_line": "AI datacenters \u2014 the energy-of-compute story from the compute side",
+  "score_why": "ai sector 28 \u00b7 role match 12 \u00b7 target company +8",
+  "summary": null,
+  "fit_tags": [
+   [
+    "ai",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "\u25ce target company",
+    "amber"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=34cd4ab32d0c&co=CoreWeave&ti=Product%20Manager%2C%20Compliance",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=34cd4ab32d0c&co=CoreWeave&ti=Product%20Manager%2C%20Compliance",
+  "company_about": "The AI Cloud platform of technology and teams fully integrated and purpose-built to turn pioneers\u2019 most complex AI workloads into discovery and creation.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=CoreWeave&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Founded in 2000, Kaseya was built by builders - and we're still building.",
   "blurb": "PM for order-to-cash systems: billing and revenue flows.",
   "bucket": "Remote (US)",
