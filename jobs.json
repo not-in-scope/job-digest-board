@@ -478,108 +478,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Exa&network=%5B%22S%22%5D"
  },
  {
-  "about": "We're a largely SF-based team of ~150 from Harvard, MIT, Meta, Google Research, ex-founders, and dropouts alike.",
-  "blurb": "About this role Forward Deployed PM candidates are customer obsessed. Majority of your time will be spent in the field talking to customers and connecting their technical requirements to Exa product offerings.",
-  "bucket": "SF / Bay",
-  "comp": "$155K \u2013 $275K",
-  "company": "exa",
-  "company_display": "Exa",
-  "company_line": "Knows Tanner Heaphy (VP Sales); AI search infra",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-26T01:11:41.080381+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ],
-   [
-    "\u2605 warm contact",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "56d1f3c1faa7",
-  "last_seen": "2026-10-26",
-  "location": "San Francisco, California",
-  "posted": "2026-09-26T00:43:10.463000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 32,
-  "score_why": "ai sector 28 \u00b7 role match 0 \u00b7 target company +4",
-  "sector": "ai",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": "c",
-  "tier": "network",
-  "title": "Forward Deployed Product Manager",
-  "url": "https://jobs.ashbyhq.com/exa/521540d5-697e-4020-aa83-cd2f60e144a2",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=56d1f3c1faa7&co=Exa&ti=Forward%20Deployed%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=56d1f3c1faa7&co=Exa&ti=Forward%20Deployed%20Product%20Manager",
-  "company_about": "Search API for AI agents that need real-time web data, deep research, and structured content from one endpoint. Try our API for free.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Exa&network=%5B%22S%22%5D"
- },
- {
-  "about": "We're a largely SF-based team of ~150 from Harvard, MIT, Meta, Google Research, ex-founders, and dropouts alike.",
-  "blurb": "About this role Exa\u2019s Product org is small. We are designed around outcomes: better user growth, stronger developer adoption, successful launches, and clearer company wide prioritization.",
-  "bucket": "SF / Bay",
-  "comp": "$160K \u2013 $300K",
-  "company": "exa",
-  "company_display": "Exa",
-  "company_line": "Knows Tanner Heaphy (VP Sales); AI search infra",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-26T01:11:41.080381+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ],
-   [
-    "\u2605 warm contact",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "35504967c105",
-  "last_seen": "2026-10-26",
-  "location": "San Francisco, California",
-  "posted": "2026-09-26T00:40:39.945000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 32,
-  "score_why": "ai sector 28 \u00b7 role match 0 \u00b7 target company +4",
-  "sector": "ai",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": "c",
-  "tier": "network",
-  "title": "Product Manager",
-  "url": "https://jobs.ashbyhq.com/exa/cc781bb2-baa6-44c3-8708-d33fd065e64e",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=35504967c105&co=Exa&ti=Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=35504967c105&co=Exa&ti=Product%20Manager",
-  "company_about": "Search API for AI agents that need real-time web data, deep research, and structured content from one endpoint. Try our API for free.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Exa&network=%5B%22S%22%5D"
- },
- {
   "blurb": "WHAT YOU\u2019LL DO Develop Mission Autonomy products that support the operation of Group 5 autonomous air vehicles Drive product development for the entire lifecycle from initial requirements development to fielding Define product roadmaps and timelines, guide \u2026",
   "bucket": "Remote (US)",
   "comp": "$166\u2013220K",
@@ -2856,7 +2754,7 @@
   "company_display": "CoreWeave",
   "company_line": "AI datacenters \u2014 the energy-of-compute story from the compute side",
   "company_name": "",
-  "emailed": false,
+  "emailed": true,
   "first_seen": "2026-10-25T17:40:00.453366+00:00",
   "fit_tags": [
    [
