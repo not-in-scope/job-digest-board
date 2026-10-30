@@ -5232,53 +5232,69 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Virtahealth&network=%5B%22S%22%5D"
  },
  {
-  "title": "Principal Product Manager",
-  "company": "mcghealth",
-  "location": "Remote",
-  "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8924750002",
-  "posted": "2026-10-30T14:57:17-04:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "health",
-  "blurb": "At MCG, we lead the healthcare community to deliver patient-focused care. We have a mission-driven team of talented physicians and technical experts developing our evidence-based content and innovating our products to accelerate improvements in healthcare.",
-  "role_pts": 12,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-30T19:23:31.613251+00:00",
-  "last_seen": "2026-10-30",
-  "company_display": "Mcghealth",
   "about": "",
+  "blurb": "Sets strategy for healthcare AI and data products and mentors PMs; senior IC with investment-case work.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "mcghealth",
+  "company_display": "Mcghealth",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-30T19:23:31.613251+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Regulated healthcare data, health access",
+    "hi"
+   ],
+   [
+    "Remote US, $163-228K",
+    "hi"
+   ],
+   [
+    "Wants 10-15 yrs, healthcare domain",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "26fc6c615f54",
+  "last_seen": "2026-10-30",
+  "location": "Remote",
+  "posted": "2026-10-30T14:57:17-04:00",
+  "role10": 2,
+  "role_pts": 12,
+  "score": 38,
+  "score_why": "health sector 24 \u00b7 sector feedback +2 \u00b7 role match 12",
+  "sector": "health",
   "signals": [
    "compliance",
    "B2B"
   ],
-  "id": "26fc6c615f54",
-  "score": 38,
-  "role10": 2,
-  "tier": "other",
-  "target": null,
-  "company_line": null,
-  "score_why": "health sector 24 \u00b7 sector feedback +2 \u00b7 role match 12",
-  "summary": null,
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-10-30T22:46:27Z",
+   "company": "MCG (Hearst-owned) sells evidence-based clinical guidelines and AI/data products to payers and providers.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Sets strategy for healthcare AI and data products and mentors PMs; senior IC with investment-case work.",
+   "source": "posting",
+   "why": [
+    "Regulated healthcare data, health access",
+    "Remote US, $163-228K",
+    "Wants 10-15 yrs, healthcare domain"
    ]
-  ],
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Principal Product Manager",
+  "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8924750002",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=26fc6c615f54&co=Mcghealth&ti=Principal%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=26fc6c615f54&co=Mcghealth&ti=Principal%20Product%20Manager",
-  "company_about": "Innovative healthcare technology solutions to streamline patient care and improve operational efficiency.",
+  "company_about": "MCG (Hearst-owned) sells evidence-based clinical guidelines and AI/data products to payers and providers.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Mcghealth&network=%5B%22S%22%5D"
  },
  {
@@ -5644,63 +5660,71 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Snowflake&network=%5B%22S%22%5D"
  },
  {
-  "title": "Principal Product Manager, Enterprise AI",
-  "company": "okta",
-  "location": "San Francisco, California",
-  "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523",
-  "posted": "2026-10-30T15:04:37-04:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": "$210\u2013289K",
-  "bucket": "SF / Bay",
-  "sector": "",
-  "blurb": "We are looking for builders and owners who operate with speed and urgency and execute with excellence. This is an opportunity to do career-defining work.",
-  "role_pts": 26,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-30T19:23:31.613251+00:00",
-  "last_seen": "2026-10-30",
-  "company_display": "Okta",
   "about": "Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era.",
+  "blurb": "Owns 0-to-1 and 1-to-N internal AI products (agents, copilots, workflow automation) and AI quality evals.",
+  "bucket": "SF / Bay",
+  "comp": "$210\u2013289K",
+  "company": "okta",
+  "company_display": "Okta",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-30T19:23:31.613251+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "0-to-1 AI/LLM scope, evals",
+    "hi"
+   ],
+   [
+    "$210-289K base, Bay Area",
+    "hi"
+   ],
+   [
+    "No energy/data-platform axis",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "1d98e0da374e",
+  "last_seen": "2026-10-30",
+  "location": "San Francisco, California",
+  "posted": "2026-10-30T15:04:37-04:00",
+  "role10": 5,
+  "role_pts": 26,
+  "score": 36,
+  "score_why": "unknown sector 10 \u00b7 role match 26",
+  "sector": "",
   "signals": [
    "ai",
    "compliance",
    "AI/LLM",
    "B2B"
   ],
-  "id": "1d98e0da374e",
-  "score": 36,
-  "role10": 5,
-  "tier": "other",
-  "target": null,
-  "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 26",
-  "summary": null,
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "B2B",
-    "mid"
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-10-30T22:46:27Z",
+   "company": "Okta builds identity and access security software; this team is its internal Enterprise AI group.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns 0-to-1 and 1-to-N internal AI products (agents, copilots, workflow automation) and AI quality evals.",
+   "source": "posting",
+   "why": [
+    "0-to-1 AI/LLM scope, evals",
+    "$210-289K base, Bay Area",
+    "No energy/data-platform axis"
    ]
-  ],
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Principal Product Manager, Enterprise AI",
+  "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1d98e0da374e&co=Okta&ti=Principal%20Product%20Manager%2C%20Enterprise%20AI",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1d98e0da374e&co=Okta&ti=Principal%20Product%20Manager%2C%20Enterprise%20AI",
-  "company_about": "Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era.",
+  "company_about": "Okta builds identity and access security software; this team is its internal Enterprise AI group.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Okta&network=%5B%22S%22%5D"
  },
  {
@@ -6075,6 +6099,51 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Seed&network=%5B%22S%22%5D"
  },
  {
+  "title": "Product Manager (Accounting SME)",
+  "company": "navapbc",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/navapbc/jobs/4450583009",
+  "posted": "2026-10-13T16:45:19-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$98\u2013153K",
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "Please note: the level of the role will be determined by Nava leadership based on experience and skillset. Position summary The Product Manager (Accounting SME and Tech Solutions Advisor) role\u2019s purpose is to rapidly validate product strategies and user needs \u2026",
+  "role_pts": 9,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Nava PBC",
+  "about": "",
+  "signals": [
+   "compliance"
+  ],
+  "id": "7f96d0f66d53",
+  "score": 36,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 9",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust \u2026",
   "blurb": "Owns tokenization surface (Instant Tokenization Network) for issuers, market makers and brokers.",
   "bucket": "Remote (US)",
@@ -6338,6 +6407,51 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=fabc6e92990d&co=Foodsmart&ti=Senior%20Product%20Manager",
   "company_about": "Foodsmart seamlessly integrates dietary assessments and nutrition counseling with online food ordering and cost-effective meal planning for the entire family, optimizing \u2026",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Foodsmart&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Product Manager - MBA Grad, Summer 2027",
+  "company": "heartflowinc",
+  "location": "San Francisco, California; Rohnert Park, California",
+  "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6218478004",
+  "posted": "2026-10-06T17:00:31-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$160\u2013175K",
+  "bucket": "SF / Bay",
+  "sector": "compliance",
+  "blurb": "You will own a customer-facing area of the Heartflow platform: how it fits into the workflows, systems, and business of the hospitals, imaging centers, and physicians who rely on it. You will combine customer insight, business judgment, and technical \u2026",
+  "role_pts": 9,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Heartflowinc",
+  "about": "",
+  "signals": [
+   "compliance"
+  ],
+  "id": "0947fb7bb500",
+  "score": 36,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 role match 9",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0947fb7bb500&co=Heartflowinc&ti=Product%20Manager%20-%20MBA%20Grad%2C%20Summer%202027",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0947fb7bb500&co=Heartflowinc&ti=Product%20Manager%20-%20MBA%20Grad%2C%20Summer%202027",
+  "company_about": "Heartflow\u2019s vision is to transform CAD from the leading cause of death into a disease that can be managed for life.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Heartflowinc&network=%5B%22S%22%5D"
  },
  {
   "about": "We are committed to providing reasonable accommodations and ensuring an equitable hiring experience for all candidates.",
@@ -9178,6 +9292,61 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Headway&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Platform Product Manager",
+  "company": "acuitymd",
+  "location": "Boston or Remote",
+  "url": "https://job-boards.greenhouse.io/acuitymd/jobs/6239875004",
+  "posted": "2026-10-30T16:07:34-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$175\u2013215K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "As a Platform Product Manager, you will build and refine AcuityMD\u2019s data assets, products, model and platform. You\u2019ll play a critical role in identifying market opportunities, crafting compelling product offerings, and bringing agentic AI solutions to life.",
+  "role_pts": 17,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Acuitymd",
+  "about": "",
+  "signals": [
+   "platform",
+   "AI/LLM",
+   "B2B"
+  ],
+  "id": "a7baaf494f8e",
+  "score": 27,
+  "role10": 3,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 17",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "platform",
+    "mid"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a7baaf494f8e&co=Acuitymd&ti=Senior%20Platform%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a7baaf494f8e&co=Acuitymd&ti=Senior%20Platform%20Product%20Manager",
+  "company_about": "The Company We are builders, who are inspired by our mission to expand patient access to cutting edge medical technologies.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Acuitymd&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Deepgram\u2019s voice-native foundation models are accessed through cloud APIs or as self-hosted and on-premises software, with unmatched accuracy, low latency, and cost efficiency.",
   "blurb": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 \u2026",
   "bucket": "Remote (US)",
@@ -9281,6 +9450,56 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2911402cfe7c&co=Geniusai&ti=Senior%20Product%20Manager%20-%20Core%20AI",
   "company_about": "Genius AI powers the self-running business\u2014one that works, earns, and grows while practitioners do what they do best: care for the client in front of them.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Geniusai&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager (Agentic Automation)",
+  "company": "uipath",
+  "location": "Bellevue",
+  "url": "https://jobs.ashbyhq.com/uipath/84fcafa0-6458-4fce-8a3f-97a92ace64fa",
+  "posted": "2026-10-30T20:22:02.951000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$220K \u2013 $255K",
+  "bucket": "Seattle",
+  "sector": "devtools",
+  "blurb": "Your mission We're seeking a Principal Product Manager to join our team to help advance our Agentic Automation vision. You'll drive product direction across how coding agents build and operate automations on UiPath, how UiPath's own coding agents and \u2026",
+  "role_pts": 12,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Uipath",
+  "about": "We\u2019re committed to creating category-leading enterprise software that unleashes that power.",
+  "signals": [
+   "compliance",
+   "B2B"
+  ],
+  "id": "ee38945f3981",
+  "score": 26,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "devtools sector 14 \u00b7 role match 12",
+  "summary": null,
+  "fit_tags": [
+   [
+    "devtools",
+    "mid"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ee38945f3981&co=Uipath&ti=Principal%20Product%20Manager%20%28Agentic%20Automation%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ee38945f3981&co=Uipath&ti=Principal%20Product%20Manager%20%28Agentic%20Automation%29",
+  "company_about": "Transform enterprise operations with the UiPath Platform\u2122 for business orchestration and automation, enabling AI agents, robots, and people to deliver secure, compliant outcomes \u2026",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Uipath&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -11444,7 +11663,7 @@
   ],
   "hidden": false,
   "id": "d127bb123023",
-  "last_seen": "2026-10-28",
+  "last_seen": "2026-10-30",
   "location": "Bellevue, Washington, USA; Santa Clara, California, USA",
   "posted": "2026-10-06T15:04:07-04:00",
   "role10": 2,
@@ -11726,48 +11945,68 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Blueorigin&network=%5B%22S%22%5D"
  },
  {
-  "title": "Lead Product Manager, AI Agents",
-  "company": "lawnstarter",
-  "location": "United States / Remote",
-  "url": "https://apply.workable.com/j/3E8B7F71A9",
-  "posted": "2026-10-30T00:00:00+00:00",
-  "source": "workable",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "Product",
-  "role_pts": 10,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-30T19:23:31.613251+00:00",
-  "last_seen": "2026-10-30",
-  "company_display": "Lawnstarter",
   "about": "",
+  "blurb": "Likely leads AI agent product work; posting text unavailable.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "lawnstarter",
+  "company_display": "Lawnstarter",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-30T19:23:31.613251+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer services, no data axis",
+    "hi"
+   ],
+   [
+    "Location and comp unknown",
+    "hi"
+   ],
+   [
+    "Lead PM seniority matches",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "c07cc622c72a",
+  "last_seen": "2026-10-30",
+  "location": "United States / Remote",
+  "posted": "2026-10-30T00:00:00+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 20,
+  "score_why": "unknown sector 10 \u00b7 role match 10",
+  "sector": "",
   "signals": [
    "ai"
   ],
-  "id": "c07cc622c72a",
-  "score": 20,
-  "role10": 2,
-  "tier": "other",
-  "target": null,
-  "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "summary": null,
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "ai",
-    "mid"
+  "source": "workable",
+  "summary": {
+   "at": "2026-10-30T22:46:27Z",
+   "company": "LawnStarter runs an online lawn-care marketplace (inferred from name; posting text unavailable) (unclear).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely leads AI agent product work; posting text unavailable.",
+   "source": "fallback",
+   "why": [
+    "Consumer services, no data axis",
+    "Location and comp unknown",
+    "Lead PM seniority matches"
    ]
-  ],
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Lead Product Manager, AI Agents",
+  "url": "https://apply.workable.com/j/3E8B7F71A9",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c07cc622c72a&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20AI%20Agents",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c07cc622c72a&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20AI%20Agents",
-  "company_about": "LawnStarter is an American online platform for mowing.",
+  "company_about": "LawnStarter runs an online lawn-care marketplace (inferred from name; posting text unavailable) (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lawnstarter&network=%5B%22S%22%5D"
  },
  {
@@ -14260,49 +14499,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Gallup&network=%5B%22S%22%5D"
  },
  {
-  "about": "Headway\u2019s mission is to fix this by building a new mental healthcare system everyone can access.",
-  "blurb": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway\u2019s mission is to fix this by building a new mental healthcare system everyone can access.",
-  "bucket": "Remote (US)",
-  "comp": "$265K \u2013 $331.5K",
-  "company": "headway",
-  "company_display": "Headway",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T01:48:24.181609+00:00",
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "59482c3e66c4",
-  "last_seen": "2026-10-30",
-  "location": "Remote",
-  "posted": "2026-09-30T23:03:22.978000+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 16,
-  "score_why": "health sector 24 \u00b7 sector feedback +2 \u00b7 role match -10",
-  "sector": "health",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Growth Automation & Enablement",
-  "url": "https://jobs.ashbyhq.com/headway/1069db3a-1043-454a-86f4-691e55d4210d",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=59482c3e66c4&co=Headway&ti=Staff%20Product%20Manager%2C%20Growth%20Automation%20%26%20Enablement",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=59482c3e66c4&co=Headway&ti=Staff%20Product%20Manager%2C%20Growth%20Automation%20%26%20Enablement",
-  "company_about": "Headway\u2019s mission is to fix this by building a new mental healthcare system everyone can access.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Headway&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Senior PM for telecom products; scope not visible.",
   "bucket": "Remote (US)",
@@ -15929,6 +16125,49 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Allstate&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager (Salesforce)",
+  "company": "navapbc",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/navapbc/jobs/4472691009",
+  "posted": "2026-10-29T18:35:43-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$98\u2013153K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "Please note: the level of the role will be determined by Nava leadership based on experience and skillset. This position may support multiple projects, including active contracts and future opportunities pending contract award.",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Nava PBC",
+  "about": "",
+  "signals": [],
+  "id": "ea999745118d",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ea999745118d&co=Nava%20PBC&ti=Senior%20Product%20Manager%20%28Salesforce%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ea999745118d&co=Nava%20PBC&ti=Senior%20Product%20Manager%20%28Salesforce%29",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Greenlight is a family technology company on a mission to help families raise financially smart kids and navigate life together.",
   "blurb": "Owns the paid-media-to-signup conversion funnel and runs a high-volume A/B experimentation program.",
   "bucket": "Remote (US)",
@@ -17230,6 +17469,49 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=15f1c96869af&co=Workiva&ti=Principal%20Product%20Manager%2C%20GRC",
   "company_about": "Workiva sells cloud software for connected reporting, compliance and GRC.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Workiva&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager (Pacific/Mountain Time Zone)",
+  "company": "navapbc",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/navapbc/jobs/4382009009",
+  "posted": "2026-10-26T15:28:56-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$154\u2013174K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "Please note: the level of the role will be determined by Nava leadership based on experience and skillset. Position summary The Principal Product Manager\u2019s purpose is to work collaboratively with client stakeholders and cross-functional team members to define \u2026",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Nava PBC",
+  "about": "",
+  "signals": [],
+  "id": "7df2acf9c985",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7df2acf9c985&co=Nava%20PBC&ti=Principal%20Product%20Manager%20%28Pacific%2FMountain%20Time%20Zone%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7df2acf9c985&co=Nava%20PBC&ti=Principal%20Product%20Manager%20%28Pacific%2FMountain%20Time%20Zone%29",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -20922,49 +21204,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Raydar&network=%5B%22S%22%5D"
  },
  {
-  "about": "We\u2019re a springboard for building and scaling payroll businesses.",
-  "blurb": "On our team, you'll use creative problem-solving, critical thinking, and grit to simplify the complexity of payroll for thousands of employers of every size, across all industries. We ignore conventional role boundaries in favor of the unique strengths and \u2026",
-  "bucket": "SF / Bay",
-  "comp": "$184,050 \u2013 $224,950",
-  "company": "check-technologies",
-  "company_display": "Check-Technologies",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T01:48:24.181609+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "93a5c9831dc4",
-  "last_seen": "2026-10-26",
-  "location": "Remote / New York City, NY / San Francisco, CA",
-  "posted": "2026-09-30T19:26:09.711000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/check-technologies/f97a7dd6-21f3-480c-a06d-f443fffdda16",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=93a5c9831dc4&co=Check-Technologies&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=93a5c9831dc4&co=Check-Technologies&ti=Senior%20Product%20Manager",
-  "company_about": "Embed payroll into your platform with Check. Everything you need to build native payroll products for customers of any size, structure, and industry.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Check-Technologies&network=%5B%22S%22%5D"
- },
- {
   "about": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.",
   "blurb": "About the role The Consumer Payments team powers how customers successfully make payments to Affirm. As a Senior Product Manager, you will create new payment experiences that make repaying easier, improve payment success, and define how payments are processed \u2026",
   "bucket": "Remote (US)",
@@ -21159,6 +21398,49 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=35d953e0e232&co=Engine&ti=Senior%20Product%20Manager%2C%20Growth",
   "company_about": "Engine is the travel management software trusted by 30,000+ businesses. Book hotels, flights, and rental cars, manage corporate travel and spend, and save 26% on average. Free to \u2026",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Engine&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager II (Growth & Traffic)",
+  "company": "livecareer",
+  "location": "United States (Remote)",
+  "url": "https://www.bold.com/job-description/8315794?gh_jid=8315794",
+  "posted": "2026-10-29T19:15:45-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$150\u2013190K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "About the Role We\u2019re hiring a Senior Product Manager II to grow traffic across BOLD\u2019s brands. You\u2019ll work with Marketing, Paid Acquisition, SEO, and Engineering to build and scale how we acquire users across our sites.",
+  "role_pts": -10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "last_seen": "2026-10-30",
+  "company_display": "Livecareer",
+  "about": "",
+  "signals": [],
+  "id": "88c0b6605253",
+  "score": 0,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match -10",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
+  "company_about": "ABOUT BOLD As an established global organization (17 years and counting), BOLD helps people find jobs.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Livecareer&network=%5B%22S%22%5D"
  },
  {
   "about": "",
