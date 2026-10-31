@@ -2053,50 +2053,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life.",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "lgelectronics",
-  "company_display": "Lgelectronics",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-02T18:58:08.033736+00:00",
-  "fit_tags": [
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "129296b5374f",
-  "location": "San Francisco, CA ",
-  "posted": "2026-10-01T13:22:25-04:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 53,
-  "score_why": "energy sector 35 \u00b7 sector feedback +8 \u00b7 role match 10",
-  "sector": "energy",
-  "signals": [
-   "energy"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Fractional Product Manager, Renewable Energy (LG NOVA)",
-  "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5440537008",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=129296b5374f&co=Lgelectronics&ti=Fractional%20Product%20Manager%2C%20Renewable%20Energy%20%28LG%20NOVA%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=129296b5374f&co=Lgelectronics&ti=Fractional%20Product%20Manager%2C%20Renewable%20Energy%20%28LG%20NOVA%29",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Lgelectronics&network=%5B%22S%22%5D"
- },
- {
   "about": "At Lyft, our purpose is to serve and connect.",
   "blurb": "Defines objective functions and roadmap for applied ML/AI that personalizes every screen of the rider app.",
   "bucket": "SF / Bay",
@@ -5496,56 +5452,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Uipath&network=%5B%22S%22%5D"
  },
  {
-  "about": "Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us.",
-  "blurb": "Learn more at mavenclinic.com An award-winning culture working towards an important mission \u2013 Maven Clinic is a recipient of over 30 workplace and innovation awards, including: TIME 100 Most Influential Companies (2023, 2026) Fortune Change the World (2024) \u2026",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "mavenclinic",
-  "company_display": "Maven Clinic",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T19:16:44.723701+00:00",
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "59aa299375ea",
-  "last_seen": "2026-10-31",
-  "location": "San Francisco, CA; Remote, US",
-  "posted": "2026-10-01T13:33:46-04:00",
-  "role10": 2,
-  "role_pts": 12,
-  "score": 38,
-  "score_why": "health sector 24 \u00b7 sector feedback +2 \u00b7 role match 12",
-  "sector": "health",
-  "signals": [
-   "compliance",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Product Manager, Care Delivery",
-  "url": "https://job-boards.greenhouse.io/mavenclinic/jobs/8860743002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=59aa299375ea&co=Maven%20Clinic&ti=Product%20Manager%2C%20Care%20Delivery",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=59aa299375ea&co=Maven%20Clinic&ti=Product%20Manager%2C%20Care%20Delivery",
-  "company_about": "Thank you for your interest in Maven Clinic!",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Maven+Clinic&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "First PM: sets product direction with founders for an LLM observability product.",
   "bucket": "Remote (US)",
@@ -6100,7 +6006,7 @@
  },
  {
   "about": "",
-  "blurb": "Please note: the level of the role will be determined by Nava leadership based on experience and skillset. Position summary The Product Manager (Accounting SME and Tech Solutions Advisor) role\u2019s purpose is to rapidly validate product strategies and user needs \u2026",
+  "blurb": "Advises state government clients bridging accounting practices and technology on system conversions.",
   "bucket": "Remote (US)",
   "comp": "$98\u2013153K",
   "company": "navapbc",
@@ -6111,11 +6017,19 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "compliance",
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "Accounting/tax background matches",
     "hi"
    ],
    [
-    "compliance",
+    "Public-sector mission",
+    "hi"
+   ],
+   [
+    "Un-leveled, $98-153K below target",
     "hi"
    ]
   ],
@@ -6133,14 +6047,26 @@
    "compliance"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Advises state government clients bridging accounting practices and technology on system conversions.",
+   "source": "posting",
+   "why": [
+    "Accounting/tax background matches",
+    "Public-sector mission",
+    "Un-leveled, $98-153K below target"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Product Manager (Accounting SME)",
   "url": "https://job-boards.greenhouse.io/navapbc/jobs/4450583009",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
-  "company_about": "",
+  "company_about": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
  },
  {
@@ -6410,7 +6336,7 @@
  },
  {
   "about": "",
-  "blurb": "You will own a customer-facing area of the Heartflow platform: how it fits into the workflows, systems, and business of the hospitals, imaging centers, and physicians who rely on it. You will combine customer insight, business judgment, and technical \u2026",
+  "blurb": "Owns a customer-facing platform area for hospitals and imaging centers; MBA-grad rotational role.",
   "bucket": "SF / Bay",
   "comp": "$160\u2013175K",
   "company": "heartflowinc",
@@ -6421,11 +6347,19 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "compliance",
+    "fit 1/10",
+    "amber"
+   ],
+   [
+    "Early-career MBA program",
     "hi"
    ],
    [
-    "compliance",
+    "Summer 2027 start; below seniority",
+    "hi"
+   ],
+   [
+    "SF/Rohnert Park, medtech",
     "hi"
    ]
   ],
@@ -6443,14 +6377,26 @@
    "compliance"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "Heartflow is a public medtech company with AI-driven non-invasive coronary artery disease diagnostics.",
+   "fit": 1,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns a customer-facing platform area for hospitals and imaging centers; MBA-grad rotational role.",
+   "source": "posting",
+   "why": [
+    "Early-career MBA program",
+    "Summer 2027 start; below seniority",
+    "SF/Rohnert Park, medtech"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Product Manager - MBA Grad, Summer 2027",
   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6218478004",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0947fb7bb500&co=Heartflowinc&ti=Product%20Manager%20-%20MBA%20Grad%2C%20Summer%202027",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0947fb7bb500&co=Heartflowinc&ti=Product%20Manager%20-%20MBA%20Grad%2C%20Summer%202027",
-  "company_about": "Heartflow\u2019s vision is to transform CAD from the leading cause of death into a disease that can be managed for life.",
+  "company_about": "Heartflow is a public medtech company with AI-driven non-invasive coronary artery disease diagnostics.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Heartflowinc&network=%5B%22S%22%5D"
  },
  {
@@ -7678,53 +7624,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Flexe&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "As a Senior Product Manager on the Cloud team at ClickHouse, you will be responsible for leading the development and delivery of Cloud-focused features for our flagship offering. Potential areas of focus include the ClickHouse Cloud query experience, data \u2026",
-  "bucket": "Seattle",
-  "comp": "$180K \u2013 $270K",
-  "company": "clickhouse",
-  "company_display": "ClickHouse",
-  "company_line": "Fastest-growing OLAP engine; technical PM surface",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T19:16:44.723701+00:00",
-  "fit_tags": [
-   [
-    "datainfra",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "5840164be951",
-  "last_seen": "2026-10-31",
-  "location": "United States / Denver / Chicago / Seattle / Austin / Phoenix / Washington D.C. / New York / Los Angeles / Boston / San Francisco / Remote",
-  "posted": "2026-10-01T17:24:07.313000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "datainfra sector 26 \u00b7 role match 0 \u00b7 target company +8",
-  "sector": "datainfra",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": "b",
-  "tier": "other",
-  "title": "Senior Product Manager, Cloud",
-  "url": "https://jobs.ashbyhq.com/clickhouse/9a84365b-a447-42f0-8aa0-2deb2170d9f8",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5840164be951&co=ClickHouse&ti=Senior%20Product%20Manager%2C%20Cloud",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5840164be951&co=ClickHouse&ti=Senior%20Product%20Manager%2C%20Cloud",
-  "company_about": "ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=ClickHouse&network=%5B%22S%22%5D"
- },
- {
   "about": "At Lyft, our purpose is to serve and connect.",
   "blurb": "We are looking for product managers who bring exceptional creative and analytical skills to drive forward a best in class product. Product management at Lyft leads the integration of engineering, data science, and design to achieve the company's vision for \u2026",
   "bucket": "SF / Bay",
@@ -7771,66 +7670,70 @@
  },
  {
   "about": "",
-  "blurb": "Product Manager for the Vercel dashboard, per title only.",
+  "blurb": "Owns AI features, onboarding, workflows and integrations/APIs for an SMB finance product.",
   "bucket": "Remote (US)",
-  "comp": null,
-  "company": "vercel",
-  "company_display": "Vercel",
-  "company_line": "Frontend cloud; elite dev-product org (Lenny 100)",
-  "company_name": "Vercel",
+  "comp": "$160\u2013200K",
+  "company": "clera",
+  "company_display": "Clera",
+  "company_line": null,
+  "company_name": "",
   "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
+  "first_seen": "2026-10-15T18:00:41.385806+00:00",
   "fit_tags": [
    [
     "fit 3/10",
     "amber"
    ],
    [
-    "Dashboard UX, not data",
+    "Hybrid NYC, 2-3 days onsite",
     "hi"
    ],
    [
-    "Remote anywhere",
+    "$160-200K, below target",
     "hi"
    ],
    [
-    "Un-leveled PM",
+    "LLM and integrations, growth-led",
     "hi"
    ]
   ],
   "hidden": false,
-  "id": "440e87638de7",
+  "id": "a04895b5bb15",
   "last_seen": "2026-10-31",
-  "location": "Remote (Anywhere in the World)",
-  "posted": "2026-10-01T07:30:56+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "datainfra sector 26 \u00b7 role match 0 \u00b7 target company +8",
-  "sector": "datainfra",
-  "signals": [],
-  "source": "wwr",
+  "location": "New York / Remote",
+  "posted": "2026-10-31T17:07:57.208000+00:00",
+  "role10": 5,
+  "role_pts": 23,
+  "score": 33,
+  "score_why": "unknown sector 10 \u00b7 role match 23",
+  "sector": "",
+  "signals": [
+   "platform",
+   "compliance",
+   "AI/LLM"
+  ],
+  "source": "ashby",
   "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Vercel: posting text unavailable; developer cloud platform (unclear).",
+   "at": "2026-10-22T22:46:49Z",
+   "company": "Clera is a fintech building a financial platform for small businesses.",
    "fit": 3,
    "model": "claude-sonnet-5-5",
-   "role": "Product Manager for the Vercel dashboard, per title only.",
-   "source": "fallback",
+   "role": "Owns AI features, onboarding, workflows and integrations/APIs for an SMB finance product.",
+   "source": "posting",
    "why": [
-    "Dashboard UX, not data",
-    "Remote anywhere",
-    "Un-leveled PM"
+    "Hybrid NYC, 2-3 days onsite",
+    "$160-200K, below target",
+    "LLM and integrations, growth-led"
    ]
   },
-  "target": "b",
+  "target": null,
   "tier": "other",
-  "title": "Product Manager, Dashboard",
-  "url": "https://weworkremotely.com/remote-jobs/vercel-product-manager-dashboard",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=440e87638de7&co=Vercel&ti=Product%20Manager%2C%20Dashboard",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=440e87638de7&co=Vercel&ti=Product%20Manager%2C%20Dashboard",
-  "company_about": "Vercel: posting text unavailable; developer cloud platform (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Vercel&network=%5B%22S%22%5D"
+  "title": "Senior Product Manager, SMB Platform",
+  "url": "https://jobs.ashbyhq.com/clera/e07e6986-86f6-464d-a7f3-d79048eb8622",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a04895b5bb15&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a04895b5bb15&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
+  "company_about": "Clera is a fintech building a financial platform for small businesses.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
  },
  {
   "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
@@ -7966,73 +7869,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=51d28d5b33a6&co=Everquote&ti=AI%20Product%20Lead%20%28Principal%20Product%20Manager%29",
   "company_about": "EverQuote runs an AI-powered customer-acquisition marketplace for regulated P&C insurance carriers and agents.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Everquote&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Owns AI features, onboarding, workflows and integrations/APIs for an SMB finance product.",
-  "bucket": "Remote (US)",
-  "comp": "$160\u2013200K",
-  "company": "clera",
-  "company_display": "Clera",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T18:00:41.385806+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Hybrid NYC, 2-3 days onsite",
-    "hi"
-   ],
-   [
-    "$160-200K, below target",
-    "hi"
-   ],
-   [
-    "LLM and integrations, growth-led",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "a04895b5bb15",
-  "last_seen": "2026-10-30",
-  "location": "New York / Remote",
-  "posted": "2026-10-22T17:23:27.693000+00:00",
-  "role10": 5,
-  "role_pts": 23,
-  "score": 33,
-  "score_why": "unknown sector 10 \u00b7 role match 23",
-  "sector": "",
-  "signals": [
-   "platform",
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-22T22:46:49Z",
-   "company": "Clera is a fintech building a financial platform for small businesses.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns AI features, onboarding, workflows and integrations/APIs for an SMB finance product.",
-   "source": "posting",
-   "why": [
-    "Hybrid NYC, 2-3 days onsite",
-    "$160-200K, below target",
-    "LLM and integrations, growth-led"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, SMB Platform",
-  "url": "https://jobs.ashbyhq.com/clera/5ca4e378-8f68-4e9a-b4ac-041b933bb9f3",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a04895b5bb15&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a04895b5bb15&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
-  "company_about": "Clera is a fintech building a financial platform for small businesses.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
  },
  {
   "about": "Latent\u2019s platform enables more than 60 leading health systems that collectively serve an estimated 70 million people.",
@@ -9174,7 +9010,7 @@
  },
  {
   "about": "",
-  "blurb": "As a Platform Product Manager, you will build and refine AcuityMD\u2019s data assets, products, model and platform. You\u2019ll play a critical role in identifying market opportunities, crafting compelling product offerings, and bringing agentic AI solutions to life.",
+  "blurb": "Builds data assets, models and agentic AI platform capabilities for AcuityAI.",
   "bucket": "Remote (US)",
   "comp": "$175\u2013215K",
   "company": "acuitymd",
@@ -9185,20 +9021,20 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 7/10",
+    "amber"
    ],
    [
-    "platform",
-    "mid"
+    "Data platform + AI/LLM scope",
+    "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
+    "$175-215K, Boston or Remote",
+    "hi"
    ],
    [
-    "B2B",
-    "mid"
+    "Healthcare data, commercial not mission",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -9217,14 +9053,26 @@
    "B2B"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "AcuityMD is an AI platform for MedTech commercial teams built on healthcare data; backed by Benchmark, Redpoint.",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Builds data assets, models and agentic AI platform capabilities for AcuityAI.",
+   "source": "posting",
+   "why": [
+    "Data platform + AI/LLM scope",
+    "$175-215K, Boston or Remote",
+    "Healthcare data, commercial not mission"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Platform Product Manager",
   "url": "https://job-boards.greenhouse.io/acuitymd/jobs/6239875004",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a7baaf494f8e&co=Acuitymd&ti=Senior%20Platform%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a7baaf494f8e&co=Acuitymd&ti=Senior%20Platform%20Product%20Manager",
-  "company_about": "The Company We are builders, who are inspired by our mission to expand patient access to cutting edge medical technologies.",
+  "company_about": "AcuityMD is an AI platform for MedTech commercial teams built on healthcare data; backed by Benchmark, Redpoint.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Acuitymd&network=%5B%22S%22%5D"
  },
  {
@@ -9334,7 +9182,7 @@
  },
  {
   "about": "We\u2019re committed to creating category-leading enterprise software that unleashes that power.",
-  "blurb": "Your mission We're seeking a Principal Product Manager to join our team to help advance our Agentic Automation vision. You'll drive product direction across how coding agents build and operate automations on UiPath, how UiPath's own coding agents and \u2026",
+  "blurb": "Sets direction for coding agents, agent handoffs, human-in-the-loop, evals and observability.",
   "bucket": "Seattle",
   "comp": "$220K \u2013 $255K",
   "company": "uipath",
@@ -9345,16 +9193,20 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "devtools",
-    "mid"
+    "fit 7/10",
+    "amber"
    ],
    [
-    "compliance",
+    "AI/LLM pipelines, human-in-the-loop",
     "hi"
    ],
    [
-    "B2B",
-    "mid"
+    "Bellevue, Principal, $220-255K",
+    "hi"
+   ],
+   [
+    "Enterprise automation, no climate axis",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -9372,14 +9224,26 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "UiPath sells enterprise automation software and is expanding into agentic automation.",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Sets direction for coding agents, agent handoffs, human-in-the-loop, evals and observability.",
+   "source": "posting",
+   "why": [
+    "AI/LLM pipelines, human-in-the-loop",
+    "Bellevue, Principal, $220-255K",
+    "Enterprise automation, no climate axis"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Principal Product Manager (Agentic Automation)",
   "url": "https://jobs.ashbyhq.com/uipath/84fcafa0-6458-4fce-8a3f-97a92ace64fa",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ee38945f3981&co=Uipath&ti=Principal%20Product%20Manager%20%28Agentic%20Automation%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ee38945f3981&co=Uipath&ti=Principal%20Product%20Manager%20%28Agentic%20Automation%29",
-  "company_about": "Transform enterprise operations with the UiPath Platform\u2122 for business orchestration and automation, enabling AI agents, robots, and people to deliver secure, compliant outcomes \u2026",
+  "company_about": "UiPath sells enterprise automation software and is expanding into agentic automation.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Uipath&network=%5B%22S%22%5D"
  },
  {
@@ -14380,53 +14244,69 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Gallup&network=%5B%22S%22%5D"
  },
  {
-  "title": "Staff Product Manager, Databases",
-  "company": "rubrik",
-  "location": "US - Remote",
-  "url": "https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831",
-  "posted": "2026-10-27T14:02:02-04:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": "$190\u2013317K",
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "About the Role When a bank or a hospital loses a critical database to ransomware or a bad change, nobody asks about backup schedules. They ask how fast it's back and whether they can trust what came back.",
-  "role_pts": 6,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-10-31T02:24:21.727289+00:00",
-  "last_seen": "2026-10-31",
-  "company_display": "Rubrik",
   "about": "",
+  "blurb": "Owns Oracle database protection roadmap end to end, plus cross-database work, as an IC.",
+  "bucket": "Remote (US)",
+  "comp": "$190\u2013317K",
+  "company": "rubrik",
+  "company_display": "Rubrik",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-31T02:24:21.727289+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Data platform, regulated customers",
+    "hi"
+   ],
+   [
+    "Staff IC, Remote US, $190-317K",
+    "hi"
+   ],
+   [
+    "Backup/security, no energy/climate",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "d70af6031658",
+  "last_seen": "2026-10-31",
+  "location": "US - Remote",
+  "posted": "2026-10-27T14:02:02-04:00",
+  "role10": 1,
+  "role_pts": 6,
+  "score": 16,
+  "score_why": "unknown sector 10 \u00b7 role match 6",
+  "sector": "",
   "signals": [
    "B2B",
    "0\u21921"
   ],
-  "id": "d70af6031658",
-  "score": 16,
-  "role10": 1,
-  "tier": "other",
-  "target": null,
-  "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 6",
-  "summary": null,
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "Rubrik (NYSE: RBRK) sells a cyber-resilience and data-protection platform for enterprises.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns Oracle database protection roadmap end to end, plus cross-database work, as an IC.",
+   "source": "posting",
+   "why": [
+    "Data platform, regulated customers",
+    "Staff IC, Remote US, $190-317K",
+    "Backup/security, no energy/climate"
    ]
-  ],
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, Databases",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d70af6031658&co=Rubrik&ti=Staff%20Product%20Manager%2C%20Databases",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d70af6031658&co=Rubrik&ti=Staff%20Product%20Manager%2C%20Databases",
-  "company_about": "At Rubrik, you\u2019ll work with a world-class team that is revolutionizing cloud data management by creating the first platform to orchestrate data for hybrid cloud enterprises \u2026",
+  "company_about": "Rubrik (NYSE: RBRK) sells a cyber-resilience and data-protection platform for enterprises.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Rubrik&network=%5B%22S%22%5D"
  },
  {
@@ -15689,51 +15569,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Kira&network=%5B%22S%22%5D"
  },
  {
-  "about": "Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions.",
-  "blurb": "You will work on building a real-time notifications platform (in-app, push, email, and potentially new channels) that can surface the right content to the right user at the right time in the right context. You will also be responsible for tackling difficult \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$191\u2013267K",
-  "company": "reddit",
-  "company_display": "Reddit",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T19:16:44.723701+00:00",
-  "fit_tags": [
-   [
-    "consumer",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "075e29e18a38",
-  "last_seen": "2026-10-31",
-  "location": "Remote - United States",
-  "posted": "2026-10-01T13:19:27-04:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 13,
-  "score_why": "consumer sector 10 \u00b7 role match 3",
-  "sector": "consumer",
-  "signals": [
-   "0\u21921"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Notifications",
-  "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=075e29e18a38&co=Reddit&ti=Senior%20Product%20Manager%2C%20Notifications",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=075e29e18a38&co=Reddit&ti=Senior%20Product%20Manager%2C%20Notifications",
-  "company_about": "Reddit is a proprietary American social news website, news aggregator, forum and social media platform.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Reddit&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re a $1B+ learning platform used by two-thirds of U.S.",
   "blurb": "Owns growth strategy across free experience, ads, internationalization and growth loops.",
   "bucket": "SF / Bay",
@@ -16057,7 +15892,7 @@
  },
  {
   "about": "",
-  "blurb": "Please note: the level of the role will be determined by Nava leadership based on experience and skillset. This position may support multiple projects, including active contracts and future opportunities pending contract award.",
+  "blurb": "Product manages Salesforce-based government projects; contingent on contract awards.",
   "bucket": "Remote (US)",
   "comp": "$98\u2013153K",
   "company": "navapbc",
@@ -16068,12 +15903,20 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Civic mission, but Salesforce work",
+    "hi"
+   ],
+   [
+    "$98-153K below target",
+    "hi"
+   ],
+   [
+    "Contingent on contract award",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -16088,14 +15931,26 @@
   "sector": "",
   "signals": [],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Product manages Salesforce-based government projects; contingent on contract awards.",
+   "source": "posting",
+   "why": [
+    "Civic mission, but Salesforce work",
+    "$98-153K below target",
+    "Contingent on contract award"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager (Salesforce)",
   "url": "https://job-boards.greenhouse.io/navapbc/jobs/4472691009",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ea999745118d&co=Nava%20PBC&ti=Senior%20Product%20Manager%20%28Salesforce%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ea999745118d&co=Nava%20PBC&ti=Senior%20Product%20Manager%20%28Salesforce%29",
-  "company_about": "",
+  "company_about": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
  },
  {
@@ -17403,7 +17258,7 @@
  },
  {
   "about": "",
-  "blurb": "Please note: the level of the role will be determined by Nava leadership based on experience and skillset. Position summary The Principal Product Manager\u2019s purpose is to work collaboratively with client stakeholders and cross-functional team members to define \u2026",
+  "blurb": "Leads product vision and delivery for government client software as Principal PM.",
   "bucket": "Remote (US)",
   "comp": "$154\u2013174K",
   "company": "navapbc",
@@ -17414,12 +17269,20 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 6/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Public-sector civic mission",
+    "hi"
+   ],
+   [
+    "Remote Pacific/Mountain, $154-174K",
+    "hi"
+   ],
+   [
+    "Consultancy; comp below target",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -17434,14 +17297,26 @@
   "sector": "",
   "signals": [],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Leads product vision and delivery for government client software as Principal PM.",
+   "source": "posting",
+   "why": [
+    "Public-sector civic mission",
+    "Remote Pacific/Mountain, $154-174K",
+    "Consultancy; comp below target"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Principal Product Manager (Pacific/Mountain Time Zone)",
   "url": "https://job-boards.greenhouse.io/navapbc/jobs/4382009009",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7df2acf9c985&co=Nava%20PBC&ti=Principal%20Product%20Manager%20%28Pacific%2FMountain%20Time%20Zone%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7df2acf9c985&co=Nava%20PBC&ti=Principal%20Product%20Manager%20%28Pacific%2FMountain%20Time%20Zone%29",
-  "company_about": "",
+  "company_about": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
  },
  {
@@ -21135,49 +21010,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Affirm&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.",
-  "blurb": "About the Role As a Staff Product Manager on Affirm\u2019s Credit & Pricing team, you\u2019ll shape how consumers discover, understand, and use available credit. You\u2019ll own the strategy for credit experiences spanning shopping, repayment, and marketing, turning complex \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$204\u2013290K",
-  "company": "affirm",
-  "company_display": "Affirm",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T19:16:44.723701+00:00",
-  "fit_tags": [
-   [
-    "fintech",
-    "mid"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "4486ca16d3be",
-  "last_seen": "2026-10-31",
-  "location": "Remote US",
-  "posted": "2026-10-01T12:26:32-04:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 8,
-  "score_why": "fintech sector 8 \u00b7 role match 0",
-  "sector": "fintech",
-  "signals": [],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Credit & Pricing",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8006357003",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=4486ca16d3be&co=Affirm&ti=Staff%20Product%20Manager%2C%20Credit%20%26%20Pricing",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4486ca16d3be&co=Affirm&ti=Staff%20Product%20Manager%2C%20Credit%20%26%20Pricing",
-  "company_about": "Buy now pay later without the fees. Flexible payment options with longer plans, lower payments, and no fees. Pay in 4 interest-free or get more time and see your total cost \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Affirm&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Owns onboarding, provisioning, activation and PLG for NodeZero.",
   "bucket": "SF / Bay",
@@ -21289,7 +21121,7 @@
  },
  {
   "about": "",
-  "blurb": "About the Role We\u2019re hiring a Senior Product Manager II to grow traffic across BOLD\u2019s brands. You\u2019ll work with Marketing, Paid Acquisition, SEO, and Engineering to build and scale how we acquire users across our sites.",
+  "blurb": "Owns traffic growth: CPC bidding engine, partner integrations, attribution, bot and fraud controls.",
   "bucket": "Remote (US)",
   "comp": "$150\u2013190K",
   "company": "livecareer",
@@ -21300,12 +21132,20 @@
   "first_seen": "2026-10-30T23:14:19.702790+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Consumer growth, no data axis",
+    "hi"
+   ],
+   [
+    "Remote US, $150-190K",
+    "hi"
+   ],
+   [
+    "Marketing-adjacent PM work",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -21320,14 +21160,26 @@
   "sector": "",
   "signals": [],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "BOLD (LiveCareer) runs multi-brand career and job-search sites with a job marketplace.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns traffic growth: CPC bidding engine, partner integrations, attribution, bot and fraud controls.",
+   "source": "posting",
+   "why": [
+    "Consumer growth, no data axis",
+    "Remote US, $150-190K",
+    "Marketing-adjacent PM work"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager II (Growth & Traffic)",
   "url": "https://www.bold.com/job-description/8315794?gh_jid=8315794",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
-  "company_about": "ABOUT BOLD As an established global organization (17 years and counting), BOLD helps people find jobs.",
+  "company_about": "BOLD (LiveCareer) runs multi-brand career and job-search sites with a job marketplace.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Livecareer&network=%5B%22S%22%5D"
  },
  {
