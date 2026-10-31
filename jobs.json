@@ -7624,51 +7624,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Flexe&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Lyft, our purpose is to serve and connect.",
-  "blurb": "We are looking for product managers who bring exceptional creative and analytical skills to drive forward a best in class product. Product management at Lyft leads the integration of engineering, data science, and design to achieve the company's vision for \u2026",
-  "bucket": "SF / Bay",
-  "comp": "$148\u2013185K",
-  "company": "lyft",
-  "company_display": "Lyft",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T19:16:44.723701+00:00",
-  "fit_tags": [
-   [
-    "mobility",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "8ef24edebdbc",
-  "last_seen": "2026-10-31",
-  "location": "San Francisco, CA",
-  "posted": "2026-10-01T14:25:17-04:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 34,
-  "score_why": "mobility sector 24 \u00b7 role match 10",
-  "sector": "mobility",
-  "signals": [
-   "energy"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Verticals",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8860904002?gh_jid=8860904002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=8ef24edebdbc&co=Lyft&ti=Senior%20Product%20Manager%2C%20Verticals",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8ef24edebdbc&co=Lyft&ti=Senior%20Product%20Manager%2C%20Verticals",
-  "company_about": "Wherever you\u2019re headed, count on Lyft for rides in minutes.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Lyft&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Owns AI features, onboarding, workflows and integrations/APIs for an SMB finance product.",
   "bucket": "Remote (US)",
@@ -20923,48 +20878,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=32d904bd77b8&co=Edwards&ti=Senior%20Product%20Manager%2C%20Professional%20Education%20Training",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Edwards&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "R46045",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "ssctech",
-  "company_display": "Ssctech",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-04T17:58:33.328811+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "646a99505542",
-  "location": "New York, NY / Remote - Kansas, US",
-  "posted": "2026-10-01T18:25:37.516581+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/New-York-NY/Senior-Product-Manager_R46045",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=646a99505542&co=Ssctech&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=646a99505542&co=Ssctech&ti=Senior%20Product%20Manager",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ssctech&network=%5B%22S%22%5D"
  },
  {
   "about": "At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.",
