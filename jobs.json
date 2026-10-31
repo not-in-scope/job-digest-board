@@ -6621,70 +6621,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=G2&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Pebl, every team member drives our success.",
-  "blurb": "Owns Lifecycle Management: post-onboarding employee, employer and internal experience.",
-  "bucket": "Remote (US)",
-  "comp": "CA$112,738 \u2013 CA$169,000",
-  "company": "pebl",
-  "company_display": "Pebl",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Canada-based comp (CAD)",
-    "hi"
-   ],
-   [
-    "Non-US role: likely dealbreaker",
-    "hi"
-   ],
-   [
-    "Compliance-heavy domain",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "2c3be7b0ba73",
-  "location": "Toronto, Ontario / Remote",
-  "posted": "2026-10-01T01:48:53.541000+00:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 36,
-  "score_why": "compliance sector 27 \u00b7 role match 9",
-  "sector": "compliance",
-  "signals": [
-   "compliance"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Pebl runs a global work platform for hiring and paying employees in 185+ countries.",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns Lifecycle Management: post-onboarding employee, employer and internal experience.",
-   "source": "posting",
-   "why": [
-    "Canada-based comp (CAD)",
-    "Non-US role: likely dealbreaker",
-    "Compliance-heavy domain"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Product Manager, Lifecycle Management",
-  "url": "https://jobs.ashbyhq.com/pebl/5eb6e142-b9a9-4d74-8e28-32591569e1bc",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2c3be7b0ba73&co=Pebl&ti=Product%20Manager%2C%20Lifecycle%20Management",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2c3be7b0ba73&co=Pebl&ti=Product%20Manager%2C%20Lifecycle%20Management",
-  "company_about": "Pebl runs a global work platform for hiring and paying employees in 185+ countries.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Pebl&network=%5B%22S%22%5D"
- },
- {
   "about": "Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members.",
   "blurb": "Leads roadmap for a D2C/ICHRA health marketplace across growth, UX, AI and partnerships.",
   "bucket": "SF / Bay",
@@ -14444,6 +14380,56 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Gallup&network=%5B%22S%22%5D"
  },
  {
+  "title": "Staff Product Manager, Databases",
+  "company": "rubrik",
+  "location": "US - Remote",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831",
+  "posted": "2026-10-27T14:02:02-04:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$190\u2013317K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "About the Role When a bank or a hospital loses a critical database to ransomware or a bad change, nobody asks about backup schedules. They ask how fast it's back and whether they can trust what came back.",
+  "role_pts": 6,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-10-31T02:24:21.727289+00:00",
+  "last_seen": "2026-10-31",
+  "company_display": "Rubrik",
+  "about": "",
+  "signals": [
+   "B2B",
+   "0\u21921"
+  ],
+  "id": "d70af6031658",
+  "score": 16,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 6",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d70af6031658&co=Rubrik&ti=Staff%20Product%20Manager%2C%20Databases",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d70af6031658&co=Rubrik&ti=Staff%20Product%20Manager%2C%20Databases",
+  "company_about": "At Rubrik, you\u2019ll work with a world-class team that is revolutionizing cloud data management by creating the first platform to orchestrate data for hybrid cloud enterprises \u2026",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Rubrik&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Senior PM for telecom products; scope not visible.",
   "bucket": "Remote (US)",
@@ -17867,7 +17853,7 @@
   ],
   "hidden": false,
   "id": "33499e4b5036",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "location": "United States - Remote",
   "posted": "2026-10-21T00:54:06.440472+00:00",
   "role10": 0,
@@ -21639,45 +21625,5 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f5ad5e81ca0c&co=Bentleysystems&ti=Senior%20Product%20Manager%2C%20Web%20Experience%20%26%20Growth",
   "company_about": "",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Bentleysystems&network=%5B%22S%22%5D"
- },
- {
-  "blurb": "R0047000",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "snapchat",
-  "company_display": "Snapchat",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T01:48:24.181609+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "cafbcc44e57f",
-  "location": "Los Angeles, California / San Francisco, California / Palo Alto, California / New York, New York / Bellevue, Washington",
-  "posted": "2026-10-01T02:17:02.794198+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 0,
-  "score_why": "unknown sector 10 \u00b7 role match -10",
-  "sector": "",
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Growth",
-  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Staff-Product-Manager--Growth_R0047000-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cafbcc44e57f&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Growth",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cafbcc44e57f&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Growth",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
  }
 ]
