@@ -2857,6 +2857,51 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Vanta&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior/Staff Product Manager",
+  "company": "civilgrid",
+  "location": "Boston / Remote",
+  "url": "https://jobs.ashbyhq.com/civilgrid/a7d6ada4-b618-4ce4-8b59-e0db79ff38ec",
+  "posted": "2026-10-27T18:45:03.655000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$142,061 \u2013 $198,000",
+  "bucket": "Remote (US)",
+  "sector": "energy",
+  "blurb": "WHY THIS ROLE As a Senior/Staff Product Manager at CivilGrid, you\u2019ll help build out our product portfolio. You\u2019ll manage and grow the products customers already rely on, build the business case for what comes next, and deliver new products from idea to launch.",
+  "role_pts": 3,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-01T18:56:49.475968+00:00",
+  "last_seen": "2026-11-01",
+  "company_display": "Civilgrid",
+  "about": "We're a venture-backed Series A startup tackling a $4.7T US infrastructure market that has been underserved by software for decades.",
+  "signals": [
+   "B2B"
+  ],
+  "id": "dd629cf3025a",
+  "score": 46,
+  "role10": 1,
+  "tier": "good",
+  "target": null,
+  "company_line": null,
+  "score_why": "energy sector 35 \u00b7 sector feedback +8 \u00b7 role match 3",
+  "summary": null,
+  "fit_tags": [
+   [
+    "energy",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd629cf3025a&co=Civilgrid&ti=Senior%2FStaff%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd629cf3025a&co=Civilgrid&ti=Senior%2FStaff%20Product%20Manager",
+  "company_about": "CivilGrid centralizes verified utility, environmental, and geotechnical data on one collaborative map so teams design faster, safer, and at lower cost.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Civilgrid&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents \u2026",
   "blurb": "Owns the enterprise deployment product and roadmap for self-managed Grafana customers.",
   "bucket": "Remote (US)",
@@ -7534,61 +7579,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d177e47431c0&co=Latent&ti=Senior%20Product%20Manager",
   "company_about": "Enterprise pharmacy intelligence for leading health systems. Latent's clinical agentic engine helps pharmacy grow, serve more patients, and capture more value.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Latent&network=%5B%22S%22%5D"
- },
- {
-  "about": "We\u2019re backed by leading investors including Accel, Y Combinator, Sequoia, BOND, and Franklin Templeton.",
-  "blurb": "About the role Procurement teams need more than a repository for contracts. They need an intelligent system that helps them understand supplier relationships, prevent leakage, manage commitments, prepare for renewals and amendments, and turn contract data \u2026",
-  "bucket": "SF / Bay",
-  "comp": "$210K \u2013 $255K",
-  "company": "ironcladhq",
-  "company_display": "Ironcladhq",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-02T18:58:08.033736+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "data platform",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "c6fcd74713df",
-  "last_seen": "2026-11-01",
-  "location": "San Francisco / Remote",
-  "posted": "2026-10-02T18:51:44.765000+00:00",
-  "role10": 4,
-  "role_pts": 22,
-  "score": 32,
-  "score_why": "unknown sector 10 \u00b7 role match 22",
-  "sector": "",
-  "signals": [
-   "ai",
-   "data platform",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager - Procurement AI",
-  "url": "https://jobs.ashbyhq.com/ironcladhq/da831db9-87c9-4761-a7b0-ec248303d1f6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c6fcd74713df&co=Ironcladhq&ti=Staff%20Product%20Manager%20-%20Procurement%20AI",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c6fcd74713df&co=Ironcladhq&ti=Staff%20Product%20Manager%20-%20Procurement%20AI",
-  "company_about": "Design and deploy any type of contract in minutes. Instantly surface insights from legal agreements; manage risk. Get a custom demo.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ironcladhq&network=%5B%22S%22%5D"
  },
  {
   "about": "At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission.",
@@ -14905,33 +14895,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ascend21&network=%5B%22S%22%5D"
  },
  {
-  "title": "Principal Product Manager - Identity",
-  "company": "zoominfo-technologies-llc",
-  "location": "Remote (Anywhere in the World)",
-  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-manager-identity",
-  "posted": "2026-11-01T07:31:04+00:00",
-  "source": "wwr",
-  "company_name": "ZoomInfo Technologies LLC",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "Product",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-01T18:29:43.181034+00:00",
-  "last_seen": "2026-11-01",
-  "company_display": "ZoomInfo Technologies LLC",
   "about": "",
-  "signals": [],
-  "id": "33d495bc1022",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Product",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "zoominfo-technologies-llc",
+  "company_display": "ZoomInfo Technologies LLC",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "ZoomInfo Technologies LLC",
+  "emailed": true,
+  "first_seen": "2026-11-01T18:29:43.181034+00:00",
   "fit_tags": [
    [
     "sector unknown",
@@ -14942,6 +14915,23 @@
     "dim"
    ]
   ],
+  "hidden": false,
+  "id": "33d495bc1022",
+  "last_seen": "2026-11-01",
+  "location": "Remote (Anywhere in the World)",
+  "posted": "2026-11-01T07:31:04+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "wwr",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Principal Product Manager - Identity",
+  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-manager-identity",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=33d495bc1022&co=ZoomInfo%20Technologies%20LLC&ti=Principal%20Product%20Manager%20-%20Identity",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=33d495bc1022&co=ZoomInfo%20Technologies%20LLC&ti=Principal%20Product%20Manager%20-%20Identity",
   "company_about": "",
