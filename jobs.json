@@ -3827,58 +3827,70 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Anthropic&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager | Mobile",
-  "company": "affinipay1",
-  "location": "Remote - US",
-  "url": "https://www.8am.com/openings/?gh_jid=4726547006",
-  "posted": "2026-11-02T15:59:52-05:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": "$160\u2013200K",
-  "bucket": "Remote (US)",
-  "sector": "compliance",
-  "blurb": "About the role: We're looking for a Senior Product Manager to own mobile at 8am. The solo and small firms we serve increasingly run their practices from their phones, and our mobile apps need a dedicated owner.",
-  "role_pts": 15,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-02T22:26:39.249340+00:00",
-  "last_seen": "2026-11-02",
-  "company_display": "Affinipay1",
   "about": "Founded in 2005, 8am\u2122 (formerly AffiniPay) is the professional business platform built to help legal, accounting, and other client-focused professionals run stronger, more \u2026",
+  "blurb": "Owns mobile 0-to-1: strategy, AI assistant on phones and tap-to-pay, leading two engineers.",
+  "bucket": "Remote (US)",
+  "comp": "$160\u2013200K",
+  "company": "affinipay1",
+  "company_display": "Affinipay1",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-02T22:26:39.249340+00:00",
+  "fit_tags": [
+   [
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "0-to-1 scope, AI platforms team",
+    "hi"
+   ],
+   [
+    "Mobile UX, no data platform axis",
+    "hi"
+   ],
+   [
+    "Remote US, $160-200K below target",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "d047396628cd",
+  "last_seen": "2026-11-02",
+  "location": "Remote - US",
+  "posted": "2026-11-02T15:59:52-05:00",
+  "role10": 3,
+  "role_pts": 15,
+  "score": 42,
+  "score_why": "compliance sector 27 \u00b7 role match 15",
+  "sector": "compliance",
   "signals": [
    "compliance",
    "B2B",
    "0\u21921"
   ],
-  "id": "d047396628cd",
-  "score": 42,
-  "role10": 3,
-  "tier": "other",
-  "target": null,
-  "company_line": null,
-  "score_why": "compliance sector 27 \u00b7 role match 15",
-  "summary": null,
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-02T22:46:01Z",
+   "company": "8am (formerly AffiniPay), SaaS and payments platform for legal and accounting firms (MyCase, LawPay).",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns mobile 0-to-1: strategy, AI assistant on phones and tap-to-pay, leading two engineers.",
+   "source": "posting",
+   "why": [
+    "0-to-1 scope, AI platforms team",
+    "Mobile UX, no data platform axis",
+    "Remote US, $160-200K below target"
    ]
-  ],
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager | Mobile",
+  "url": "https://www.8am.com/openings/?gh_jid=4726547006",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d047396628cd&co=Affinipay1&ti=Senior%20Product%20Manager%20%7C%20Mobile",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d047396628cd&co=Affinipay1&ti=Senior%20Product%20Manager%20%7C%20Mobile",
-  "company_about": "Founded in 2005, 8am\u2122 (formerly AffiniPay) is the professional business platform built to help legal, accounting, and other client-focused professionals run stronger, more \u2026",
+  "company_about": "8am (formerly AffiniPay), SaaS and payments platform for legal and accounting firms (MyCase, LawPay).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Affinipay1&network=%5B%22S%22%5D"
  },
  {
@@ -5019,6 +5031,7 @@
   ],
   "hidden": false,
   "id": "f773ac453aa3",
+  "last_seen": "2026-11-02",
   "location": "San Francisco, California",
   "posted": "2026-10-08T11:00:17-04:00",
   "role10": 5,
@@ -5038,7 +5051,6 @@
   "tier": "other",
   "title": "Senior Product Manager, Okta for AI Agents",
   "url": "https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918",
-  "last_seen": "2026-11-02",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f773ac453aa3&co=Okta&ti=Senior%20Product%20Manager%2C%20Okta%20for%20AI%20Agents",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f773ac453aa3&co=Okta&ti=Senior%20Product%20Manager%2C%20Okta%20for%20AI%20Agents",
   "company_about": "Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era.",
@@ -14544,218 +14556,318 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ascend21&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager",
-  "company": "web",
-  "location": "United States - Remote",
-  "url": "https://web.wd1.myworkdayjobs.com/en-US/ExternalCareerSite/job/United-States---Remote/Senior-Product-Manager_R15351",
-  "posted": "2026-11-02T22:31:58.679531+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "R15351",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-02T22:26:39.249340+00:00",
-  "last_seen": "2026-11-02",
-  "company_display": "Web",
   "about": "",
-  "signals": [],
-  "id": "f423ddfde2f5",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Owns platform billing, payments and pricing: invoicing, subscriptions, tax compliance, monetization.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "web",
+  "company_display": "Web",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-02T22:26:39.249340+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 5/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Billing platform, finance compliance",
+    "hi"
+   ],
+   [
+    "Web hosting, no energy/climate",
+    "hi"
+   ],
+   [
+    "Remote US; asks 3+ yrs, may be junior",
+    "hi"
    ]
   ],
+  "hidden": false,
+  "id": "f423ddfde2f5",
+  "last_seen": "2026-11-02",
+  "location": "United States - Remote",
+  "posted": "2026-11-02T22:31:58.679531+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-02T22:46:01Z",
+   "company": "Newfold Digital (Bluehost, HostGator, Web.com), web hosting and domain provider.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns platform billing, payments and pricing: invoicing, subscriptions, tax compliance, monetization.",
+   "source": "posting",
+   "why": [
+    "Billing platform, finance compliance",
+    "Web hosting, no energy/climate",
+    "Remote US; asks 3+ yrs, may be junior"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager",
+  "url": "https://web.wd1.myworkdayjobs.com/en-US/ExternalCareerSite/job/United-States---Remote/Senior-Product-Manager_R15351",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f423ddfde2f5&co=Web&ti=Senior%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f423ddfde2f5&co=Web&ti=Senior%20Product%20Manager",
-  "company_about": "",
+  "company_about": "Newfold Digital (Bluehost, HostGator, Web.com), web hosting and domain provider.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Web&network=%5B%22S%22%5D"
  },
  {
-  "title": "Sr. Product Manager (MSUITE BIM \u2013 DEWALT) \u2013 Remote",
-  "company": "sbdinc",
-  "location": "Maryland USA - Remote",
-  "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Maryland-USA---Remote/Sr-Product-Manager--MSUITE-BIM---DEWALT----Remote_REQ-1000053201",
-  "posted": "2026-11-02T22:31:16.019105+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "REQ-1000053201",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-02T22:26:39.249340+00:00",
-  "last_seen": "2026-11-02",
-  "company_display": "Sbdinc",
   "about": "",
-  "signals": [],
-  "id": "92eac83c992d",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Sets roadmap for MSUITE BIM, expanding from spooling/hanger software into design and field workflows.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "sbdinc",
+  "company_display": "Sbdinc",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-02T22:26:39.249340+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Needs Revit MEP/BIM domain depth",
+    "hi"
+   ],
+   [
+    "Construction software, no data axis",
+    "hi"
+   ],
+   [
+    "Remote US; seniority fits",
+    "hi"
    ]
   ],
+  "hidden": false,
+  "id": "92eac83c992d",
+  "last_seen": "2026-11-02",
+  "location": "Maryland USA - Remote",
+  "posted": "2026-11-02T22:31:16.019105+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-02T22:46:01Z",
+   "company": "DEWALT (Stanley Black & Decker, ~43,500 staff) BIM software for MEP design, detailing and fabrication.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Sets roadmap for MSUITE BIM, expanding from spooling/hanger software into design and field workflows.",
+   "source": "posting",
+   "why": [
+    "Needs Revit MEP/BIM domain depth",
+    "Construction software, no data axis",
+    "Remote US; seniority fits"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Sr. Product Manager (MSUITE BIM \u2013 DEWALT) \u2013 Remote",
+  "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Maryland-USA---Remote/Sr-Product-Manager--MSUITE-BIM---DEWALT----Remote_REQ-1000053201",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=92eac83c992d&co=Sbdinc&ti=Sr.%20Product%20Manager%20%28MSUITE%20BIM%20%E2%80%93%20DEWALT%29%20%E2%80%93%20Remote",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=92eac83c992d&co=Sbdinc&ti=Sr.%20Product%20Manager%20%28MSUITE%20BIM%20%E2%80%93%20DEWALT%29%20%E2%80%93%20Remote",
-  "company_about": "",
+  "company_about": "DEWALT (Stanley Black & Decker, ~43,500 staff) BIM software for MEP design, detailing and fabrication.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Sbdinc&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager",
-  "company": "pitneybowes",
-  "location": "US CT Remote / US NC Remote / US FL Remote / US TX Remote",
-  "url": "https://pitneybowes.wd1.myworkdayjobs.com/en-US/PBCareers/job/US-CT-Remote/Senior-Product-Manager_R22540",
-  "posted": "2026-11-02T22:30:49.778988+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "R22540",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-02T22:26:39.249340+00:00",
-  "last_seen": "2026-11-02",
-  "company_display": "Pitneybowes",
   "about": "",
-  "signals": [],
-  "id": "ab377c672300",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Runs a shipping product portfolio with P&L duty, mixing IoT hardware and cloud software.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "pitneybowes",
+  "company_display": "Pitneybowes",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-02T22:26:39.249340+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Hardware-heavy portfolio, P&L focus",
+    "hi"
+   ],
+   [
+    "No energy or compliance angle",
+    "hi"
+   ],
+   [
+    "Remote US; seniority fits",
+    "hi"
    ]
   ],
+  "hidden": false,
+  "id": "ab377c672300",
+  "last_seen": "2026-11-02",
+  "location": "US CT Remote / US NC Remote / US FL Remote / US TX Remote",
+  "posted": "2026-11-02T22:30:49.778988+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-02T22:46:01Z",
+   "company": "Pitney Bowes shipping and mailing business; PitneyShip, PitneyTrack, ParcelPoint lockers, PitneyAnalytics.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Runs a shipping product portfolio with P&L duty, mixing IoT hardware and cloud software.",
+   "source": "posting",
+   "why": [
+    "Hardware-heavy portfolio, P&L focus",
+    "No energy or compliance angle",
+    "Remote US; seniority fits"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager",
+  "url": "https://pitneybowes.wd1.myworkdayjobs.com/en-US/PBCareers/job/US-CT-Remote/Senior-Product-Manager_R22540",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ab377c672300&co=Pitneybowes&ti=Senior%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ab377c672300&co=Pitneybowes&ti=Senior%20Product%20Manager",
-  "company_about": "",
+  "company_about": "Pitney Bowes shipping and mailing business; PitneyShip, PitneyTrack, ParcelPoint lockers, PitneyAnalytics.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Pitneybowes&network=%5B%22S%22%5D"
  },
  {
-  "title": "Sr Product Manager, Financial Crimes Compliance (FCC)",
-  "company": "lendingclub",
-  "location": "New York,  NY / San Francisco, CA",
-  "url": "https://lendingclub.wd1.myworkdayjobs.com/en-US/External/job/New-York--NY/Sr-Product-Manager--Financial-Crimes-Compliance--FCC-_R0007534",
-  "posted": "2026-11-02T22:30:06.107224+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "SF / Bay",
-  "sector": "",
-  "blurb": "R0007534",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-02T22:26:39.249340+00:00",
-  "last_seen": "2026-11-02",
-  "company_display": "Lendingclub",
   "about": "",
-  "signals": [],
-  "id": "0f27082da8ed",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Owns product vision and tooling for financial-crimes investigators: workflows, case platforms, FCC data.",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "lendingclub",
+  "company_display": "Lendingclub",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-02T22:26:39.249340+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 8/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Regulated-data compliance product",
+    "hi"
+   ],
+   [
+    "Investigator tooling, audit-grade",
+    "hi"
+   ],
+   [
+    "NYC/SF location; comp not stated",
+    "hi"
    ]
   ],
+  "hidden": false,
+  "id": "0f27082da8ed",
+  "last_seen": "2026-11-02",
+  "location": "New York,  NY / San Francisco, CA",
+  "posted": "2026-11-02T22:30:06.107224+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-02T22:46:01Z",
+   "company": "Happen Bank (formerly LendingClub), a US digital bank; size not stated.",
+   "fit": 8,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns product vision and tooling for financial-crimes investigators: workflows, case platforms, FCC data.",
+   "source": "posting",
+   "why": [
+    "Regulated-data compliance product",
+    "Investigator tooling, audit-grade",
+    "NYC/SF location; comp not stated"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Sr Product Manager, Financial Crimes Compliance (FCC)",
+  "url": "https://lendingclub.wd1.myworkdayjobs.com/en-US/External/job/New-York--NY/Sr-Product-Manager--Financial-Crimes-Compliance--FCC-_R0007534",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0f27082da8ed&co=Lendingclub&ti=Sr%20Product%20Manager%2C%20Financial%20Crimes%20Compliance%20%28FCC%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0f27082da8ed&co=Lendingclub&ti=Sr%20Product%20Manager%2C%20Financial%20Crimes%20Compliance%20%28FCC%29",
-  "company_about": "",
+  "company_about": "Happen Bank (formerly LendingClub), a US digital bank; size not stated.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lendingclub&network=%5B%22S%22%5D"
  },
  {
-  "title": "Lead Editor Product Manager",
-  "company": "descript",
-  "location": "Remote (Anywhere in the World)",
-  "url": "https://weworkremotely.com/remote-jobs/descript-lead-editor-product-manager",
-  "posted": "2026-11-02T07:31:04+00:00",
-  "source": "wwr",
-  "company_name": "Descript",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "Product",
-  "role_pts": 0,
-  "emailed": true,
-  "hidden": false,
-  "first_seen": "2026-11-02T22:26:39.249340+00:00",
-  "last_seen": "2026-11-02",
-  "company_display": "Descript",
   "about": "",
-  "signals": [],
-  "id": "e2d1ec9a2301",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Editor product management; scope unknown from the title and tags alone.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "descript",
+  "company_display": "Descript",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "Descript",
+  "emailed": true,
+  "first_seen": "2026-11-02T22:26:39.249340+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 2/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Consumer creative tool, no data axis",
+    "hi"
+   ],
+   [
+    "Lead title, remote (global)",
+    "hi"
+   ],
+   [
+    "Details unavailable, low confidence",
+    "hi"
    ]
   ],
+  "hidden": false,
+  "id": "e2d1ec9a2301",
+  "last_seen": "2026-11-02",
+  "location": "Remote (Anywhere in the World)",
+  "posted": "2026-11-02T07:31:04+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "wwr",
+  "summary": {
+   "at": "2026-11-02T22:46:01Z",
+   "company": "Descript, an audio and video editing product; posting text was unavailable (unclear).",
+   "fit": 2,
+   "model": "claude-sonnet-5-5",
+   "role": "Editor product management; scope unknown from the title and tags alone.",
+   "source": "fallback",
+   "why": [
+    "Consumer creative tool, no data axis",
+    "Lead title, remote (global)",
+    "Details unavailable, low confidence"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Lead Editor Product Manager",
+  "url": "https://weworkremotely.com/remote-jobs/descript-lead-editor-product-manager",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e2d1ec9a2301&co=Descript&ti=Lead%20Editor%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e2d1ec9a2301&co=Descript&ti=Lead%20Editor%20Product%20Manager",
-  "company_about": "",
+  "company_about": "Descript, an audio and video editing product; posting text was unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Descript&network=%5B%22S%22%5D"
  },
  {
