@@ -13502,100 +13502,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lambda&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "JR2027147",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "nvidia",
-  "company_display": "Nvidia",
-  "company_line": "Emerald AI backer; the energy-of-AI epicenter",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-03T01:43:18.186129+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "b030e38eb04d",
-  "last_seen": "2026-10-27",
-  "location": "US, CA, Santa Clara / US, Remote",
-  "posted": "2026-10-03T02:04:07.591433+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 14,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 target company +4",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": "c",
-  "tier": "other",
-  "title": "Senior Product Manager, Agent Optimization",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Agent-Optimization_JR2027147",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b030e38eb04d&co=Nvidia&ti=Senior%20Product%20Manager%2C%20Agent%20Optimization",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b030e38eb04d&co=Nvidia&ti=Senior%20Product%20Manager%2C%20Agent%20Optimization",
-  "company_about": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "JR2027146",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "nvidia",
-  "company_display": "Nvidia",
-  "company_line": "Emerald AI backer; the energy-of-AI epicenter",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-03T01:43:18.186129+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "9e95d63cb1de",
-  "last_seen": "2026-10-27",
-  "location": "US, CA, Santa Clara / US, Remote",
-  "posted": "2026-10-03T02:04:07.591413+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 14,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 target company +4",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": "c",
-  "tier": "other",
-  "title": "Senior Product Manager, Switchyard",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Switchyard_JR2027146",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9e95d63cb1de&co=Nvidia&ti=Senior%20Product%20Manager%2C%20Switchyard",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9e95d63cb1de&co=Nvidia&ti=Senior%20Product%20Manager%2C%20Switchyard",
-  "company_about": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
- },
- {
   "about": "Our Mission and Opportunity Early education is one of the most important determinants of childhood outcomes, a critical support for working families, and a $175B market that \u2026",
   "blurb": "Owns the education business line (curriculum, assessment, PD), taking it to product-market fit and scale.",
   "bucket": "Remote (US)",
@@ -14675,7 +14581,7 @@
   ],
   "hidden": false,
   "id": "10dde6de8046",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "location": "New York, NY / Atlanta, GA / Charlotte, NC / Milwaukee, WI / San Francisco, CA / Saint Louis, MO / Boston, MA / Los Angeles, CA / Overland Park, KS / Fargo, ND / Cincinnati, OH / Oshkosh, WI / Chicago, IL / Knoxville, TN / Gresham, OR / Denver, CO / Philadelphia, PA / Columbus, OH / Minneapolis, MN / Tempe, AZ / Irving, TX / Owensboro, KY",
   "posted": "2026-10-29T19:14:52.659216+00:00",
   "role10": 0,
@@ -17804,7 +17710,7 @@
   ],
   "hidden": false,
   "id": "4c54ffe731aa",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "location": "Mountain View, CA, USA / Bellevue, WA, USA",
   "posted": "2026-10-15T18:50:05.001771+00:00",
   "role10": 0,
