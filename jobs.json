@@ -68,64 +68,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Samsara&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "About the Role We\u2019re looking for a Product Manager to help define and build OpenAI\u2019s financial services products. Reporting to the GM of Financial Services, you will own product strategy, roadmap, and execution for key experiences, taking them from customer \u2026",
-  "bucket": "SF / Bay",
-  "comp": "$401K \u2013 $530K",
-  "company": "openai",
-  "company_display": "OpenAI",
-  "company_line": "Network-tier: Alexandre Robicquet (research lead), Adam Groth, Lauren Guerdat",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-07T02:05:59.582306+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "data platform",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ],
-   [
-    "\u2605 warm contact",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "819ec21bb2b1",
-  "last_seen": "2026-11-05",
-  "location": "San Francisco / New York City",
-  "posted": "2026-10-06T20:13:24.418000+00:00",
-  "role10": 2,
-  "role_pts": 12,
-  "score": 48,
-  "score_why": "ai sector 28 \u00b7 role match 12 \u00b7 target company +8",
-  "sector": "ai",
-  "signals": [
-   "data platform",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": "b",
-  "tier": "network",
-  "title": "Product Manager, Financial Services",
-  "url": "https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=819ec21bb2b1&co=OpenAI&ti=Product%20Manager%2C%20Financial%20Services",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=819ec21bb2b1&co=OpenAI&ti=Product%20Manager%2C%20Financial%20Services",
-  "company_about": "OpenAI is an American artificial intelligence (AI) public benefit corporation (PBC) headquartered in San Francisco, California, led by CEO Sam Altman.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=OpenAI&network=%5B%22S%22%5D"
- },
- {
   "about": "At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy.",
   "blurb": "Lead PM on the connected-operations platform and AI agents (team not specified).",
   "bucket": "Remote (US)",
@@ -430,6 +372,7 @@
   "tier": "network",
   "title": "Senior Product Manager, Forwarded Deployed",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259047007?gh_jid=5259047007",
+  "last_seen": "2026-11-05",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a92a0e66bb72&co=Anduril&ti=Senior%20Product%20Manager%2C%20Forwarded%20Deployed",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a92a0e66bb72&co=Anduril&ti=Senior%20Product%20Manager%2C%20Forwarded%20Deployed",
   "company_about": "Anduril Industries builds advanced autonomous systems and defense technology to protect US and allied forces. Creating the future of national security through AI, robotics, and \u2026",
@@ -1577,7 +1520,7 @@
  },
  {
   "about": "",
-  "blurb": "About The Role Hello Patient is hiring an AI Agent Product Manager with a strong background in building AI voice agents from scratch. We build AI-powered voice, SMS, and chat agents that integrate deeply into how healthcare practices actually operate.",
+  "blurb": "Hands-on builds and configures production AI voice agents: prompts, flows, tool calls, transfers.",
   "bucket": "Remote (US)",
   "comp": "$110K \u2013 $145K",
   "company": "hellopatient",
@@ -1588,24 +1531,20 @@
   "first_seen": "2026-11-05T02:42:01.890089+00:00",
   "fit_tags": [
    [
-    "health",
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "$110-145K below target",
     "hi"
    ],
    [
-    "ai",
-    "mid"
-   ],
-   [
-    "energy",
+    "Conversation design, not data platform",
     "hi"
    ],
    [
-    "compliance",
+    "Not senior-scope",
     "hi"
-   ],
-   [
-    "0\u21921",
-    "mid"
    ]
   ],
   "hidden": false,
@@ -1625,19 +1564,31 @@
    "0\u21921"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-05T13:48:03Z",
+   "company": "Hello Patient builds AI voice, SMS and chat agents for healthcare practices.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Hands-on builds and configures production AI voice agents: prompts, flows, tool calls, transfers.",
+   "source": "posting",
+   "why": [
+    "$110-145K below target",
+    "Conversation design, not data platform",
+    "Not senior-scope"
+   ]
+  },
   "target": null,
   "tier": "good",
   "title": "AI Agent Product Manager, Builder",
   "url": "https://jobs.ashbyhq.com/hellopatient/aefdc89b-62b1-42dc-9ef5-d22342ca65bf",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=337753dd0a9a&co=Hellopatient&ti=AI%20Agent%20Product%20Manager%2C%20Builder",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=337753dd0a9a&co=Hellopatient&ti=AI%20Agent%20Product%20Manager%2C%20Builder",
-  "company_about": "Hello Patient builds AI agents for patient conversations: calls, scheduling, intake, billing, and recall across voice, text, and web chat. HIPAA, SOC 2 Type 2.",
+  "company_about": "Hello Patient builds AI voice, SMS and chat agents for healthcare practices.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Hellopatient&network=%5B%22S%22%5D"
  },
  {
   "about": "",
-  "blurb": "About The Role Hello Patient is hiring an AI Agent Product Manager with a strong background in building AI voice agents from scratch. We build AI-powered voice, SMS, and chat agents that integrate deeply into how healthcare practices actually operate.",
+  "blurb": "Hands-on builds and configures production AI voice agents: prompts, flows, tool calls, transfers.",
   "bucket": "Remote (US)",
   "comp": "$110K \u2013 $145K",
   "company": "hellopatient",
@@ -1648,24 +1599,20 @@
   "first_seen": "2026-11-05T02:42:01.890089+00:00",
   "fit_tags": [
    [
-    "health",
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "$110-145K below target",
     "hi"
    ],
    [
-    "ai",
-    "mid"
-   ],
-   [
-    "energy",
+    "Conversation design, not data platform",
     "hi"
    ],
    [
-    "compliance",
+    "Not senior-scope",
     "hi"
-   ],
-   [
-    "0\u21921",
-    "mid"
    ]
   ],
   "hidden": false,
@@ -1685,14 +1632,26 @@
    "0\u21921"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-05T13:48:03Z",
+   "company": "Hello Patient builds AI voice, SMS and chat agents for healthcare practices.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Hands-on builds and configures production AI voice agents: prompts, flows, tool calls, transfers.",
+   "source": "posting",
+   "why": [
+    "$110-145K below target",
+    "Conversation design, not data platform",
+    "Not senior-scope"
+   ]
+  },
   "target": null,
   "tier": "good",
   "title": "AI Agent Product Manager, Builder",
   "url": "https://jobs.ashbyhq.com/hellopatient/01134b55-bbf6-47e7-8402-0a702aeb9128",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=817d91f0a625&co=Hellopatient&ti=AI%20Agent%20Product%20Manager%2C%20Builder",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=817d91f0a625&co=Hellopatient&ti=AI%20Agent%20Product%20Manager%2C%20Builder",
-  "company_about": "Hello Patient builds AI agents for patient conversations: calls, scheduling, intake, billing, and recall across voice, text, and web chat. HIPAA, SOC 2 Type 2.",
+  "company_about": "Hello Patient builds AI voice, SMS and chat agents for healthcare practices.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Hellopatient&network=%5B%22S%22%5D"
  },
  {
@@ -1765,7 +1724,7 @@
  },
  {
   "about": "At Vanta, our mission is to help businesses earn and prove trust.",
-  "blurb": "As the Senior Product Manager for GRC Platform, you will own core platform capabilities and primitives that customers rely on every day and that power critical GRC workflows\u2014such as search, imports, exports, custom fields, and approval workflows. You will \u2026",
+  "blurb": "Owns GRC platform primitives (search, imports, exports, custom fields, approvals) and agentic redesigns.",
   "bucket": "Remote (US)",
   "comp": "$207K \u2013 $244K",
   "company": "vanta",
@@ -1776,24 +1735,20 @@
   "first_seen": "2026-11-05T02:42:01.890089+00:00",
   "fit_tags": [
    [
-    "compliance",
-    "hi"
-   ],
-   [
-    "platform",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
+    "fit 9/10",
     "amber"
+   ],
+   [
+    "Compliance platform, core domain",
+    "hi"
+   ],
+   [
+    "0-to-1 platform and LLM match",
+    "hi"
+   ],
+   [
+    "Remote US, $207-244K",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -1812,14 +1767,26 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-05T13:48:03Z",
+   "company": "Vanta sells compliance automation software helping companies prove security and trust.",
+   "fit": 9,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns GRC platform primitives (search, imports, exports, custom fields, approvals) and agentic redesigns.",
+   "source": "posting",
+   "why": [
+    "Compliance platform, core domain",
+    "0-to-1 platform and LLM match",
+    "Remote US, $207-244K"
+   ]
+  },
   "target": "b",
   "tier": "good",
   "title": "Senior Product Manager, GRC Platform",
   "url": "https://jobs.ashbyhq.com/vanta/7816b5fe-e916-43b8-9200-d0d45298ba9f",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=72a30a30a9ef&co=Vanta&ti=Senior%20Product%20Manager%2C%20GRC%20Platform",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=72a30a30a9ef&co=Vanta&ti=Senior%20Product%20Manager%2C%20GRC%20Platform",
-  "company_about": "Vanta automates the complex and time-consuming process of SOC 2, HIPAA, ISO 27001, PCI, and GDPR compliance certification. Automate your security monitoring in weeks instead of \u2026",
+  "company_about": "Vanta sells compliance automation software helping companies prove security and trust.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Vanta&network=%5B%22S%22%5D"
  },
  {
@@ -2646,73 +2613,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Mixpanel&network=%5B%22S%22%5D"
  },
  {
-  "about": "We're passionate problem-solvers helping the world's largest organizations protect what matters most: their human and machine identities.",
-  "blurb": "Owns part of the identity security platform's authorization and access control.",
-  "bucket": "Remote (US)",
-  "comp": "$130K \u2013 $162K",
-  "company": "delinea",
-  "company_display": "Delinea",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-21T00:48:40.333422+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Security software, no data axis",
-    "hi"
-   ],
-   [
-    "Remote US; comp $130-162K",
-    "hi"
-   ],
-   [
-    "Below his comp target",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "02986760b8e0",
-  "last_seen": "2026-11-05",
-  "location": "U.S. Remote / Remote",
-  "posted": "2026-10-06T15:29:55.100000+00:00",
-  "role10": 4,
-  "role_pts": 22,
-  "score": 49,
-  "score_why": "compliance sector 27 \u00b7 role match 22",
-  "sector": "compliance",
-  "signals": [
-   "energy",
-   "compliance",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-21T13:46:30Z",
-   "company": "Delinea sells an identity security platform for workforce and machine identities; TPG-backed.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns part of the identity security platform's authorization and access control.",
-   "source": "posting",
-   "why": [
-    "Security software, no data axis",
-    "Remote US; comp $130-162K",
-    "Below his comp target"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=02986760b8e0&co=Delinea&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=02986760b8e0&co=Delinea&ti=Senior%20Product%20Manager",
-  "company_about": "Delinea sells an identity security platform for workforce and machine identities; TPG-backed.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Delinea&network=%5B%22S%22%5D"
- },
- {
   "about": "We're a remote-first, US-based team that values transparency, empathy, inclusivity, creativity, and ownership.",
   "blurb": "Owns strategy and ingestion for claims data: sourcing, quality, mapping, AI use.",
   "bucket": "Remote (US)",
@@ -2966,6 +2866,60 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4ef2d7ca7676&co=Anthropic&ti=Product%20Manager%2C%20Enterprise%20Privacy",
   "company_about": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Anthropic&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, Organizational Units",
+  "company": "vanta",
+  "location": "Remote U.S. / Remote",
+  "url": "https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8",
+  "posted": "2026-11-05T18:42:13.290000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$207K \u2013 $244K",
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "As a Senior Product Manager on the Organizational Units team, you will own the structural layer of Vanta for enterprise customers. This includes Org Unit object, the access and permissions model for org units, and the reporting that rolls up across units.",
+  "role_pts": 12,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-05T20:46:43.495484+00:00",
+  "last_seen": "2026-11-05",
+  "company_display": "Vanta",
+  "about": "At Vanta, our mission is to help businesses earn and prove trust.",
+  "signals": [
+   "compliance",
+   "B2B"
+  ],
+  "id": "169de665ec24",
+  "score": 47,
+  "role10": 2,
+  "tier": "good",
+  "target": "b",
+  "company_line": "Compliance automation; his Amazon ops-risk-compliance PM maps directly (Lenny 100)",
+  "score_why": "compliance sector 27 \u00b7 role match 12 \u00b7 target company +8",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "\u25ce target company",
+    "amber"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=169de665ec24&co=Vanta&ti=Senior%20Product%20Manager%2C%20Organizational%20Units",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=169de665ec24&co=Vanta&ti=Senior%20Product%20Manager%2C%20Organizational%20Units",
+  "company_about": "Vanta automates the complex and time-consuming process of SOC 2, HIPAA, ISO 27001, PCI, and GDPR compliance certification. Automate your security monitoring in weeks instead of \u2026",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Vanta&network=%5B%22S%22%5D"
  },
  {
   "about": "At Vanta, our mission is to help businesses earn and prove trust.",
@@ -3349,56 +3303,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Picarroinc&network=%5B%22S%22%5D"
  },
  {
-  "about": "We\u2019re proud to be a mission-driven company where every role contributes to improving lives.",
-  "blurb": "About the Role Caregiving is broken. Families facing one of the hardest decisions of their lives are left to navigate it alone, with little clarity on what their loved one needs or where to find it.",
-  "bucket": "Remote (US)",
-  "comp": "$165K \u2013 $195K",
-  "company": "a-place-for-mom",
-  "company_display": "A-Place-For-Mom",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-06T19:18:32.435650+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7ad7d8e8bdd5",
-  "last_seen": "2026-10-30",
-  "location": "Remote-US / Remote",
-  "posted": "2026-10-06T16:33:33.138000+00:00",
-  "role10": 4,
-  "role_pts": 19,
-  "score": 46,
-  "score_why": "compliance sector 27 \u00b7 role match 19",
-  "sector": "compliance",
-  "signals": [
-   "ai",
-   "compliance"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Senior Product Manager, AI Copilot & Conversation Intelligence",
-  "url": "https://jobs.ashbyhq.com/a-place-for-mom/5f6a5e8c-05a7-462b-9454-e1af6b67e376",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7ad7d8e8bdd5&co=A-Place-For-Mom&ti=Senior%20Product%20Manager%2C%20AI%20Copilot%20%26%20Conversation%20Intelligence",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7ad7d8e8bdd5&co=A-Place-For-Mom&ti=Senior%20Product%20Manager%2C%20AI%20Copilot%20%26%20Conversation%20Intelligence",
-  "company_about": "Find the top assisted living, memory care & other senior living communities near you. Read reviews, get pricing & connect with a local Senior Living Advisor.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=A-Place-For-Mom&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re in an exciting moment for the way our users are thinking about and working with product data, and we need help figuring out how our position in the data infrastructure stack \u2026",
   "blurb": "Owns strategy for Mixpanel's data architecture: build vs integrate, and external data connectivity.",
   "bucket": "SF / Bay",
@@ -3463,56 +3367,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=558776646383&co=Mixpanel&ti=Product%20Manager%20-%20Data",
   "company_about": "Mixpanel is a product analytics platform used by 29,000+ companies.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Mixpanel&network=%5B%22S%22%5D"
- },
- {
-  "about": "Foodsmart seamlessly integrates dietary assessments and nutrition counseling with online food ordering and cost-effective meal planning for the entire family, optimizing \u2026",
-  "blurb": "About Us: Foodsmart is the leading Foodcare platform in the U.S., built to deliver nutrition-driven healthcare at scale. Powered by a national network of Registered Dietitians, Foodsmart combines personalized clinical nutrition care, behavior change tools \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$165\u2013205K",
-  "company": "foodsmart",
-  "company_display": "Foodsmart",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-06T19:18:32.435650+00:00",
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "11d665fc1c6f",
-  "last_seen": "2026-11-05",
-  "location": "Remote (US)",
-  "posted": "2026-10-06T13:53:30.852000+00:00",
-  "role10": 4,
-  "role_pts": 19,
-  "score": 45,
-  "score_why": "health sector 24 \u00b7 sector feedback +2 \u00b7 role match 19",
-  "sector": "health",
-  "signals": [
-   "energy",
-   "compliance"
-  ],
-  "source": "lever",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Staff Product Manager",
-  "url": "https://jobs.lever.co/foodsmart/5f98df13-a16f-47fa-aa4b-6085c04883d6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=11d665fc1c6f&co=Foodsmart&ti=Staff%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=11d665fc1c6f&co=Foodsmart&ti=Staff%20Product%20Manager",
-  "company_about": "Foodsmart seamlessly integrates dietary assessments and nutrition counseling with online food ordering and cost-effective meal planning for the entire family, optimizing \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Foodsmart&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -5971,7 +5825,7 @@
  },
  {
   "about": "We are considering applicants for Dallas, Los Angeles, or San Francisco.",
-  "blurb": "About the role Every Crunchyroll experience starts with identity: creating an account, signing in on a phone, PC, TV, or console, recovering access, verifying age, and trusting that an account is safe. As Staff Product Manager for Identity & Access, you'll \u2026",
+  "blurb": "Owns identity strategy: sign-in, MFA, account recovery, age assurance, and privacy compliance.",
   "bucket": "SF / Bay",
   "comp": "$195\u2013270K",
   "company": "crunchyroll",
@@ -5982,11 +5836,19 @@
   "first_seen": "2026-11-05T02:42:01.890089+00:00",
   "fit_tags": [
    [
-    "compliance",
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "Consumer streaming, no data axis",
     "hi"
    ],
    [
-    "compliance",
+    "Hybrid Dallas/LA/SF onsite",
+    "hi"
+   ],
+   [
+    "Staff level, $195-270K",
     "hi"
    ]
   ],
@@ -6004,14 +5866,26 @@
    "compliance"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-05T13:48:03Z",
+   "company": "Crunchyroll is an anime streaming company serving 100M+ fans; 20M+ in this scope.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns identity strategy: sign-in, MFA, account recovery, age assurance, and privacy compliance.",
+   "source": "posting",
+   "why": [
+    "Consumer streaming, no data axis",
+    "Hybrid Dallas/LA/SF onsite",
+    "Staff level, $195-270K"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Staff Product Manager, Access & Identity Management",
   "url": "https://boards.greenhouse.io/crunchyroll/jobs/8306599?gh_jid=8306599",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d74420c1e0f4&co=Crunchyroll&ti=Staff%20Product%20Manager%2C%20Access%20%26%20Identity%20Management",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d74420c1e0f4&co=Crunchyroll&ti=Staff%20Product%20Manager%2C%20Access%20%26%20Identity%20Management",
-  "company_about": "Crunchyroll is an American subscription video on-demand over-the-top streaming television service owned by the Sony Group Corporation.",
+  "company_about": "Crunchyroll is an anime streaming company serving 100M+ fans; 20M+ in this scope.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Crunchyroll&network=%5B%22S%22%5D"
  },
  {
@@ -8126,6 +8000,61 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Everquote&network=%5B%22S%22%5D"
  },
  {
+  "title": "Staff Product Manager, Agentic Workflows",
+  "company": "apartmentiq",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/apartmentiq/jobs/8355574",
+  "posted": "2026-11-05T09:59:09-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "And, we're looking for exceptional people to help further accelerate our growth. While we\u2019ve raised $30MM+ to date from some of the world\u2019s best investors, we\u2019re profitable with a strong balance sheet and an indefinite runway.",
+  "role_pts": 22,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-05T20:46:43.495484+00:00",
+  "last_seen": "2026-11-05",
+  "company_display": "Apartmentiq",
+  "about": "We\u2019re Changing the PropTech Industry We\u2019re a profitable, growth-stage company building industry-leading martech and data products for the PropTech space.",
+  "signals": [
+   "energy",
+   "data platform",
+   "0\u21921"
+  ],
+  "id": "230afd57572e",
+  "score": 32,
+  "role10": 4,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 22",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "energy",
+    "hi"
+   ],
+   [
+    "data platform",
+    "hi"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=230afd57572e&co=Apartmentiq&ti=Staff%20Product%20Manager%2C%20Agentic%20Workflows",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=230afd57572e&co=Apartmentiq&ti=Staff%20Product%20Manager%2C%20Agentic%20Workflows",
+  "company_about": "ApartmentIQ integrates real-time data on 37M units into powerful tools for market surveys, market research, and revenue management.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Apartmentiq&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Nobody checks every box - we\u2019re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. The Mission At Kong, we are building the future of AI connectivity, empowering developers to connect \u2026",
   "bucket": "SF / Bay",
@@ -9832,49 +9761,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Deaa6Ad2-D184-436B-B69E-17F761Da1D94&network=%5B%22S%22%5D"
  },
  {
-  "about": "We are modernizing the 50 billion dollar plus animal health industry by giving veterinary organizations the tools to focus more on patient care.",
-  "blurb": "About the Position As a Senior Product Manager at Vetcove, you\u2019ll be at the heart of enhancing and scaling the platforms that power veterinary clinics and their pet parents. You will own high-impact product initiatives end-to-end, from defining strategy and \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$110\u2013190K",
-  "company": "vetcove",
-  "company_display": "Vetcove",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-28T01:24:21.903792+00:00",
-  "fit_tags": [
-   [
-    "health",
-    "hi"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "7eab696c81c9",
-  "last_seen": "2026-11-05",
-  "location": "Remote  / Remote",
-  "posted": "2026-10-06T20:44:01.629000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "health sector 24 \u00b7 sector feedback +2 \u00b7 role match 0",
-  "sector": "health",
-  "signals": [],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/vetcove/3d24db8c-0d43-46da-adcb-96ad799d4064",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7eab696c81c9&co=Vetcove&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7eab696c81c9&co=Vetcove&ti=Senior%20Product%20Manager",
-  "company_about": "Vetcove is the single source for veterinarians to research and buy supplies, pharmaceuticals, equipment, diagnostics, biologics for dogs, cats, equine & more!",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Vetcove&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re a $1B+ learning platform used by two-thirds of U.S.",
   "blurb": "Owns payments, billing infrastructure and subscription lifecycle across web, iOS and Android.",
   "bucket": "SF / Bay",
@@ -10421,6 +10307,56 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8fa3bb35186d&co=Nvidia&ti=Senior%20Technical%20Product%20Manager%2C%20Accelerated%20Compute%20Platforms",
   "company_about": "Nvidia: posting text unavailable; accelerated compute platforms team (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager",
+  "company": "playlab",
+  "location": "Remote",
+  "url": "https://jobs.ashbyhq.com/playlab/f8b16f4b-408e-4a9f-9a33-93fe05cf644e",
+  "posted": "2026-10-13T12:39:55.494000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$150K \u2013 $200K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "If you're passionate about building creative, equitable futures for students and teachers, we hope you'll join us. The Role This is a hands-on, high-ownership role for someone who wants to shape how educators and students build with AI.",
+  "role_pts": 14,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-05T20:46:43.495484+00:00",
+  "last_seen": "2026-11-05",
+  "company_display": "Playlab",
+  "about": "Playlab is an early-stage product with significant scope, a growing team, and limited existing product process.",
+  "signals": [
+   "energy",
+   "AI/LLM"
+  ],
+  "id": "9f7b5337438f",
+  "score": 24,
+  "role10": 3,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 14",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "energy",
+    "hi"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9f7b5337438f&co=Playlab&ti=Senior%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9f7b5337438f&co=Playlab&ti=Senior%20Product%20Manager",
+  "company_about": "Create, share, and evaluate AI applications for your context. Playlab is where educators shape AI.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Playlab&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -11557,49 +11493,8 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Margaux&network=%5B%22S%22%5D"
  },
  {
-  "blurb": "Role We are looking for a Principal Product Manager \u2013 Zscaler Logging and Analytics Platform to join our team. This is a Hybrid (3 days a week, Santa Clara or Bellevue office) role, reporting to the Senior Director of Product Management, Platform \u2026",
-  "bucket": "Seattle",
-  "comp": "$196\u2013245K",
-  "company": "zscaler",
-  "company_display": "Zscaler",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-06T19:18:32.435650+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "d127bb123023",
-  "last_seen": "2026-11-05",
-  "location": "Bellevue, Washington, USA; Santa Clara, California, USA",
-  "posted": "2026-10-06T15:04:07-04:00",
-  "role10": 2,
-  "role_pts": 12,
-  "score": 22,
-  "score_why": "unknown sector 10 \u00b7 role match 12",
-  "sector": "",
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5257756007",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d127bb123023&co=Zscaler&ti=Principal%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d127bb123023&co=Zscaler&ti=Principal%20Product%20Manager",
-  "company_about": "Zscaler (NASDAQ: ZS) is a pioneer and global leader in zero trust security.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Zscaler&network=%5B%22S%22%5D"
- },
- {
   "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "As a Senior Product Manager on the Payments Platform team within the Platform product group, you'll own how customers add and use bank accounts, cards, and digital wallets on Coinbase. Payments Platform builds and runs the systems that move customer money in \u2026",
+  "blurb": "Owns how customers add bank accounts, cards and wallets, including multi-provider payment routing.",
   "bucket": "Remote (US)",
   "comp": "$207\u2013244K",
   "company": "coinbase",
@@ -11610,16 +11505,20 @@
   "first_seen": "2026-11-05T02:42:01.890089+00:00",
   "fit_tags": [
    [
-    "fintech",
-    "mid"
+    "fit 5/10",
+    "amber"
    ],
    [
-    "compliance",
+    "Payments funnel, no data-platform axis",
     "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
+    "Remote US, $207-244K",
+    "hi"
+   ],
+   [
+    "Regulated finance, partial fit",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -11637,14 +11536,26 @@
    "AI/LLM"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-05T13:48:03Z",
+   "company": "Coinbase is a crypto exchange and financial platform; remote-first with quarterly in-person meetups.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns how customers add bank accounts, cards and wallets, including multi-provider payment routing.",
+   "source": "posting",
+   "why": [
+    "Payments funnel, no data-platform axis",
+    "Remote US, $207-244K",
+    "Regulated finance, partial fit"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager, Payments",
   "url": "https://www.coinbase.com/careers/positions/8351170?gh_jid=8351170",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e2db66c68b4c&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Payments",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e2db66c68b4c&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Payments",
-  "company_about": "Ready to be pushed beyond what you think you\u2019re capable of?",
+  "company_about": "Coinbase is a crypto exchange and financial platform; remote-first with quarterly in-person meetups.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
  },
  {
@@ -11844,6 +11755,51 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=898cb084ff40&co=Runway-Ml&ti=Sr%2FStaff%20Product%20Manager%2C%20Research%20Products",
   "company_about": "Runway builds generative AI video and world models for creators.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Runway-Ml&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager,  International Platform and Globalization",
+  "company": "clio",
+  "location": "New York / Remote - PA / Remote - NJ / Remote - NY, USA",
+  "url": "https://clio.wd3.myworkdayjobs.com/en-US/cliocareersite/job/New-York/Senior-Product-Manager---International-Platform-and-Globalization_REQ-5610",
+  "posted": "2026-11-05T20:48:34.705632+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "REQ-5610",
+  "role_pts": 10,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-05T20:46:43.495484+00:00",
+  "last_seen": "2026-11-05",
+  "company_display": "Clio",
+  "about": "",
+  "signals": [
+   "platform"
+  ],
+  "id": "c151d677fe68",
+  "score": 20,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 10",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "platform",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c151d677fe68&co=Clio&ti=Senior%20Product%20Manager%2C%20%20International%20Platform%20and%20Globalization",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c151d677fe68&co=Clio&ti=Senior%20Product%20Manager%2C%20%20International%20Platform%20and%20Globalization",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clio&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -15161,51 +15117,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Reddit&network=%5B%22S%22%5D"
  },
  {
-  "about": "Ibotta is seeking a Senior Product Manager to join our Publisher team and help us Make Every Purchase Rewarding.",
-  "blurb": "You will own products that help those partners, and the brands they work with, get more value from promotions. Much of this work is in problem spaces we haven't mapped yet, so you will spend real time in discovery: talking with partners, testing ideas by \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$128\u2013153K",
-  "company": "ibotta",
-  "company_display": "Ibotta",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-08T02:31:36.170062+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "377125a88d2e",
-  "last_seen": "2026-11-05",
-  "location": "Hybrid - Denver / Remote",
-  "posted": "2026-10-06T16:32:32.450000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 13,
-  "score_why": "unknown sector 10 \u00b7 role match 3",
-  "sector": "",
-  "signals": [
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Retail Publisher Partnerships",
-  "url": "https://jobs.ashbyhq.com/ibotta/6046fcfa-a654-45c2-889d-e3642d37d8a6",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=377125a88d2e&co=Ibotta&ti=Senior%20Product%20Manager%2C%20Retail%20Publisher%20Partnerships",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=377125a88d2e&co=Ibotta&ti=Senior%20Product%20Manager%2C%20Retail%20Publisher%20Partnerships",
-  "company_about": "Make every purchase rewarding with our cash back app and performance marketing services.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ibotta&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re a $1B+ learning platform used by two-thirds of U.S.",
   "blurb": "Owns growth strategy across free experience, ads, internationalization and growth loops.",
   "bucket": "SF / Bay",
@@ -15402,6 +15313,92 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ascend21&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, Machine Learning",
+  "company": "remitly",
+  "location": "Seattle, Washington United States",
+  "url": "https://remitly.wd5.myworkdayjobs.com/en-US/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Manager--Machine-Learning_R_107162",
+  "posted": "2026-11-05T20:50:52.752366+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Seattle",
+  "sector": "",
+  "blurb": "R_107162",
+  "role_pts": 0,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-05T20:46:43.495484+00:00",
+  "last_seen": "2026-11-05",
+  "company_display": "Remitly",
+  "about": "",
+  "signals": [],
+  "id": "7510835ed36c",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7510835ed36c&co=Remitly&ti=Senior%20Product%20Manager%2C%20Machine%20Learning",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7510835ed36c&co=Remitly&ti=Senior%20Product%20Manager%2C%20Machine%20Learning",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Remitly&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager, Revenue Cycle Management",
+  "company": "pointclickcare",
+  "location": "Remote, USA",
+  "url": "https://jobs.lever.co/pointclickcare/c28f5039-42db-48e6-b421-7600b4811895",
+  "posted": "2026-11-05T18:26:37.033000+00:00",
+  "source": "lever",
+  "company_name": "",
+  "comp": "$156\u2013195K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "",
+  "role_pts": 0,
+  "emailed": true,
+  "hidden": false,
+  "first_seen": "2026-11-05T20:46:43.495484+00:00",
+  "last_seen": "2026-11-05",
+  "company_display": "Pointclickcare",
+  "about": "",
+  "signals": [],
+  "id": "160e91cf584d",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=160e91cf584d&co=Pointclickcare&ti=Principal%20Product%20Manager%2C%20Revenue%20Cycle%20Management",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=160e91cf584d&co=Pointclickcare&ti=Principal%20Product%20Manager%2C%20Revenue%20Cycle%20Management",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Pointclickcare&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Lead PM for clinical strategy products; scope unclear.",
   "bucket": "Remote (US)",
@@ -15560,7 +15557,7 @@
   "id": "56eac9ee1a43",
   "last_seen": "2026-11-05",
   "location": "Remote",
-  "posted": "2026-11-04T03:33:44.245983+00:00",
+  "posted": "2026-11-03T20:50:43.341094+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 10,
@@ -20643,6 +20640,69 @@
  },
  {
   "about": "",
+  "blurb": "Owns traffic growth: CPC bidding engine, partner integrations, attribution, bot and fraud controls.",
+  "bucket": "Remote (US)",
+  "comp": "$150\u2013190K",
+  "company": "livecareer",
+  "company_display": "Livecareer",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-30T23:14:19.702790+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer growth, no data axis",
+    "hi"
+   ],
+   [
+    "Remote US, $150-190K",
+    "hi"
+   ],
+   [
+    "Marketing-adjacent PM work",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "88c0b6605253",
+  "last_seen": "2026-11-05",
+  "location": "United States (Remote)",
+  "posted": "2026-10-29T19:15:45-04:00",
+  "role10": 0,
+  "role_pts": -10,
+  "score": 4,
+  "score_why": "marketplace sector 14 \u00b7 role match -10",
+  "sector": "marketplace",
+  "signals": [],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-10-31T13:46:25Z",
+   "company": "BOLD (LiveCareer) runs multi-brand career and job-search sites with a job marketplace.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns traffic growth: CPC bidding engine, partner integrations, attribution, bot and fraud controls.",
+   "source": "posting",
+   "why": [
+    "Consumer growth, no data axis",
+    "Remote US, $150-190K",
+    "Marketing-adjacent PM work"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager II (Growth & Traffic)",
+  "url": "https://www.bold.com/job-description/8315794?gh_jid=8315794",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
+  "company_about": "BOLD (LiveCareer) runs multi-brand career and job-search sites with a job marketplace.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Livecareer&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "Owns onboarding, provisioning, activation and PLG for NodeZero.",
   "bucket": "SF / Bay",
   "comp": "$194\u2013265K",
@@ -20750,69 +20810,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=35d953e0e232&co=Engine&ti=Senior%20Product%20Manager%2C%20Growth",
   "company_about": "Engine is the travel management software trusted by 30,000+ businesses. Book hotels, flights, and rental cars, manage corporate travel and spend, and save 26% on average. Free to \u2026",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Engine&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Owns traffic growth: CPC bidding engine, partner integrations, attribution, bot and fraud controls.",
-  "bucket": "Remote (US)",
-  "comp": "$150\u2013190K",
-  "company": "livecareer",
-  "company_display": "Livecareer",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-30T23:14:19.702790+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Consumer growth, no data axis",
-    "hi"
-   ],
-   [
-    "Remote US, $150-190K",
-    "hi"
-   ],
-   [
-    "Marketing-adjacent PM work",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "88c0b6605253",
-  "last_seen": "2026-11-05",
-  "location": "United States (Remote)",
-  "posted": "2026-10-29T19:15:45-04:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 0,
-  "score_why": "unknown sector 10 \u00b7 role match -10",
-  "sector": "",
-  "signals": [],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-31T13:46:25Z",
-   "company": "BOLD (LiveCareer) runs multi-brand career and job-search sites with a job marketplace.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns traffic growth: CPC bidding engine, partner integrations, attribution, bot and fraud controls.",
-   "source": "posting",
-   "why": [
-    "Consumer growth, no data axis",
-    "Remote US, $150-190K",
-    "Marketing-adjacent PM work"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager II (Growth & Traffic)",
-  "url": "https://www.bold.com/job-description/8315794?gh_jid=8315794",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88c0b6605253&co=Livecareer&ti=Senior%20Product%20Manager%20II%20%28Growth%20%26%20Traffic%29",
-  "company_about": "BOLD (LiveCareer) runs multi-brand career and job-search sites with a job marketplace.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Livecareer&network=%5B%22S%22%5D"
  },
  {
   "about": "",
