@@ -2441,7 +2441,7 @@
  },
  {
   "about": "Socure is building the identity trust infrastructure for the digital economy \u2014 verifying 100% of good identities in real time and stopping fraud before it starts.",
-  "blurb": "We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision.",
+  "blurb": "Commercializes graph-powered products: packaging, pricing, APIs and go-to-market on the RiskOS platform.",
   "bucket": "Seattle",
   "comp": "$180K \u2013 $210K",
   "company": "socure",
@@ -2452,24 +2452,20 @@
   "first_seen": "2026-11-11T02:08:12.391218+00:00",
   "fit_tags": [
    [
-    "compliance",
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Regulated identity data domain",
     "hi"
    ],
    [
-    "platform",
-    "mid"
-   ],
-   [
-    "compliance",
+    "Commercial/pricing-heavy scope",
     "hi"
    ],
    [
-    "B2B",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
+    "Seattle or Remote; Senior match",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -2489,14 +2485,26 @@
    "0\u21921"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-11T14:47:21Z",
+   "company": "Socure sells identity verification and fraud-prevention software built on a proprietary Identity Graph.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Commercializes graph-powered products: packaging, pricing, APIs and go-to-market on the RiskOS platform.",
+   "source": "posting",
+   "why": [
+    "Regulated identity data domain",
+    "Commercial/pricing-heavy scope",
+    "Seattle or Remote; Senior match"
+   ]
+  },
   "target": null,
   "tier": "good",
   "title": "Senior Product Manager, Identity Graph Platform Products",
   "url": "https://jobs.ashbyhq.com/socure/9b3db58d-1330-44f5-9530-1f21c38519f3",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0773745f0e46&co=Socure&ti=Senior%20Product%20Manager%2C%20Identity%20Graph%20Platform%20Products",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0773745f0e46&co=Socure&ti=Senior%20Product%20Manager%2C%20Identity%20Graph%20Platform%20Products",
-  "company_about": "Socure is the leading AI-powered identity verification platform trusted by 3,000+ customers to verify consumers, businesses, & employees with confidence.",
+  "company_about": "Socure sells identity verification and fraud-prevention software built on a proprietary Identity Graph.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Socure&network=%5B%22S%22%5D"
  },
  {
@@ -2963,7 +2971,7 @@
  },
  {
   "about": "",
-  "blurb": "Why this role Evolve\u2019s Protection Programs help protect homeowners, guests, and Evolve from the unexpected. Programs such as damage protection, travel insurance, and chargeback insurance can reduce financial risk and give customers greater confidence \u2026",
+  "blurb": "Owns strategy, roadmap and economics for Protection Programs (damage, travel, chargeback insurance).",
   "bucket": "Remote (US)",
   "comp": "$170\u2013205K",
   "company": "evolvevacationrental",
@@ -2974,20 +2982,20 @@
   "first_seen": "2026-11-11T02:08:12.391218+00:00",
   "fit_tags": [
    [
-    "compliance",
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer insurance, no data axis",
     "hi"
    ],
    [
-    "energy",
+    "Principal level, Remote US",
     "hi"
    ],
    [
-    "compliance",
+    "Pricing/claims, not platform",
     "hi"
-   ],
-   [
-    "0\u21921",
-    "mid"
    ]
   ],
   "hidden": false,
@@ -3006,14 +3014,26 @@
    "0\u21921"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-11T14:47:21Z",
+   "company": "Evolve is a vacation rental management company; this role covers its damage, travel and chargeback insurance programs.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns strategy, roadmap and economics for Protection Programs (damage, travel, chargeback insurance).",
+   "source": "posting",
+   "why": [
+    "Consumer insurance, no data axis",
+    "Principal level, Remote US",
+    "Pricing/claims, not platform"
+   ]
+  },
   "target": null,
   "tier": "good",
   "title": "Principal Product Manager, Protection Programs",
   "url": "https://job-boards.greenhouse.io/evolvevacationrental/jobs/8200824003",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b167b2bbd9ea&co=Evolvevacationrental&ti=Principal%20Product%20Manager%2C%20Protection%20Programs",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b167b2bbd9ea&co=Evolvevacationrental&ti=Principal%20Product%20Manager%2C%20Protection%20Programs",
-  "company_about": "Evolve makes vacation rental easy for guests and homeowners. Our professionally-managed vacation homes are private, safe, and 100% verified.",
+  "company_about": "Evolve is a vacation rental management company; this role covers its damage, travel and chargeback insurance programs.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Evolvevacationrental&network=%5B%22S%22%5D"
  },
  {
@@ -4075,7 +4095,7 @@
  },
  {
   "about": "At Anthropic we work as a single cohesive team on just a few large-scale research efforts.",
-  "blurb": "About the role As a Product Manager in the Internal Products and Technologies organization, you'll own the experiences our sales teams use to configure, price, quote, approve, and close deals. You\u2019ll partner with Engineering, Sales, Deal Operations, Finance \u2026",
+  "blurb": "Owns the quoting, pricing and approvals tooling sellers use to close deals, with AI-assisted workflows.",
   "bucket": "SF / Bay",
   "comp": "$305\u2013385K",
   "company": "anthropic",
@@ -4086,20 +4106,20 @@
   "first_seen": "2026-11-11T02:08:12.391218+00:00",
   "fit_tags": [
    [
-    "ai",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
+    "fit 5/10",
     "amber"
+   ],
+   [
+    "CPQ/approvals, no data axis",
+    "hi"
+   ],
+   [
+    "Auditability and fin controls fit",
+    "hi"
+   ],
+   [
+    "SF/NYC hybrid; $305-385K",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -4117,14 +4137,26 @@
    "B2B"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-11T14:47:21Z",
+   "company": "Anthropic builds AI systems; this role sits in its Internal Products and Technologies org.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the quoting, pricing and approvals tooling sellers use to close deals, with AI-assisted workflows.",
+   "source": "posting",
+   "why": [
+    "CPQ/approvals, no data axis",
+    "Auditability and fin controls fit",
+    "SF/NYC hybrid; $305-385K"
+   ]
+  },
   "target": "b",
   "tier": "good",
   "title": "Product Manager, Seller Experience ",
   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477601008",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f0eed7038d58&co=Anthropic&ti=Product%20Manager%2C%20Seller%20Experience%20",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f0eed7038d58&co=Anthropic&ti=Product%20Manager%2C%20Seller%20Experience%20",
-  "company_about": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "company_about": "Anthropic builds AI systems; this role sits in its Internal Products and Technologies org.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Anthropic&network=%5B%22S%22%5D"
  },
  {
@@ -5892,7 +5924,7 @@
  },
  {
   "about": "Our mission: eliminating every barrier to mental health.",
-  "blurb": "This is a full-time role reporting to the Group Product Manager, Care Orchestration that is fully remote. You\u2019ll work closely with data scientists, software engineers, and clinical and business stakeholders.",
+  "blurb": "Owns Data Profiles: a common production data-access API, personalization signals, external data integration.",
   "bucket": "Remote (US)",
   "comp": null,
   "company": "deaa6ad2-d184-436b-b69e-17f761da1d94",
@@ -5903,16 +5935,20 @@
   "first_seen": "2026-11-11T02:08:12.391218+00:00",
   "fit_tags": [
    [
-    "health",
+    "fit 7/10",
+    "amber"
+   ],
+   [
+    "Data platform scope, Sr level",
     "hi"
    ],
    [
-    "data",
-    "mid"
+    "Remote; health access mission",
+    "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
+    "Reports to a GPM; no energy axis",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -5930,14 +5966,26 @@
    "AI/LLM"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-11T14:47:21Z",
+   "company": "Spring Health is a mental health company serving employers and health plans (~170M people reached).",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns Data Profiles: a common production data-access API, personalization signals, external data integration.",
+   "source": "posting",
+   "why": [
+    "Data platform scope, Sr level",
+    "Remote; health access mission",
+    "Reports to a GPM; no energy axis"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager, Data Profiles",
   "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/eda7d2b7-7fb9-460a-8e7b-d61e22d3d26e",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a06c3b8bd176&co=Deaa6Ad2-D184-436B-B69E-17F761Da1D94&ti=Senior%20Product%20Manager%2C%20Data%20Profiles",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a06c3b8bd176&co=Deaa6Ad2-D184-436B-B69E-17F761Da1D94&ti=Senior%20Product%20Manager%2C%20Data%20Profiles",
-  "company_about": "Eliminating barriers to mental healthcare. Clinically-proven technology with world-class providers to deliver precisely what your employees need.",
+  "company_about": "Spring Health is a mental health company serving employers and health plans (~170M people reached).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Deaa6Ad2-D184-436B-B69E-17F761Da1D94&network=%5B%22S%22%5D"
  },
  {
@@ -7020,71 +7068,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
   "company_about": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
- },
- {
-  "about": "We are committed to providing reasonable accommodations to qualified applicants and employees with disabilities throughout the recruiting, hiring, and employment process.",
-  "blurb": "PM driving autonomy orchestration platform from concept to customer delivery.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "noda-ai",
-  "company_display": "Noda-Ai",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Clearance required, defense",
-    "hi"
-   ],
-   [
-    "Austin hybrid, not remote",
-    "hi"
-   ],
-   [
-    "No data/energy axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "522ae6ce44c7",
-  "last_seen": "2026-11-11",
-  "location": "Austin / Remote",
-  "posted": "2026-10-12T11:00:10.770000+00:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 44,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9",
-  "sector": "compliance",
-  "signals": [
-   "compliance"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "NODA is venture-backed, building autonomous orchestration for unmanned defense systems.",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "PM driving autonomy orchestration platform from concept to customer delivery.",
-   "source": "posting",
-   "why": [
-    "Clearance required, defense",
-    "Austin hybrid, not remote",
-    "No data/energy axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Product Manager",
-  "url": "https://jobs.ashbyhq.com/noda-ai/6faad3b0-5f99-4378-aa53-05e3bf181e91",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=522ae6ce44c7&co=Noda-Ai&ti=Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=522ae6ce44c7&co=Noda-Ai&ti=Product%20Manager",
-  "company_about": "NODA is venture-backed, building autonomous orchestration for unmanned defense systems.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Noda-Ai&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -9062,6 +9045,74 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Snowflake&network=%5B%22S%22%5D"
  },
  {
+  "about": "",
+  "blurb": "Title implies a Staff PM for a data foundation platform; details not stated.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "walmart",
+  "company_display": "Walmart",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-07T02:15:59.660059+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Staff-level data platform title",
+    "hi"
+   ],
+   [
+    "Bellevue WA matches Seattle metro",
+    "hi"
+   ],
+   [
+    "Scope and domain unverified",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "dd55aaa4e7f0",
+  "last_seen": "2026-11-11",
+  "liked": true,
+  "location": "(USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office / (USA) 221 River St NJ HOBOKEN Home Office",
+  "posted": "2026-11-07T02:19:40.417640+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 36,
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +16",
+  "sector": "",
+  "signals": [
+   "data"
+  ],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-07T03:51:29.761Z",
+  "summary": {
+   "at": "2026-11-07T13:46:52Z",
+   "company": "Walmart is a large US retailer; the posting text was unavailable.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Title implies a Staff PM for a data foundation platform; details not stated.",
+   "source": "fallback",
+   "why": [
+    "Staff-level data platform title",
+    "Bellevue WA matches Seattle metro",
+    "Scope and domain unverified"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "(USA) Staff, Product Manager - WMC Data Foundation",
+  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME--USA--Staff--Product-Manager---WMC-Data-Foundation_R-2699546",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
+  "company_about": "Walmart is a large US retailer; the posting text was unavailable.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We are pioneering the Recognition Economy \u2014 a future where mundane repetition disappears and being known unlocks access, comfort and belonging everywhere you go.",
   "blurb": "Internal Applied AI PM automating Finance, Ops, and GTM workflows with agentic and RAG tooling.",
   "bucket": "Seattle",
@@ -9392,6 +9443,72 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6104141f7eb4&co=Humana&ti=Lead%20Product%20Manager%2C%20Compliance%20Ops",
   "company_about": "Humana, a large US health insurer (details unclear from fallback data).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Humana&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Senior PM for the Chronosphere observability product; the posting text was unavailable, so scope is unclear.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "paloaltonetworks",
+  "company_display": "Palo Alto Networks (Chronosphere)",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-10T20:34:02.654603+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Data/telemetry platform product",
+    "hi"
+   ],
+   [
+    "Seattle among listed locations",
+    "hi"
+   ],
+   [
+    "Infra-observability, no regulated data",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "043532f1aa8d",
+  "last_seen": "2026-11-11",
+  "liked": true,
+  "location": "Burbank, United States of America / Arlington, United States of America / Austin, United States of America / Jacksonville, United States of America / Hartford, United States of America / Bridgeport, United States of America / Boston, United States of America / Seattle, United States of America / Portland, United States of America / New York City, United States of America",
+  "posted": "2026-11-09T20:38:10.450163+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-10T21:50:31.865Z",
+  "summary": {
+   "at": "2026-11-10T23:55:00+00:00",
+   "company": "Palo Alto Networks (Chronosphere): cloud observability and telemetry platform, now part of Palo Alto Networks.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Senior PM for the Chronosphere observability product; the posting text was unavailable, so scope is unclear.",
+   "source": "fallback",
+   "why": [
+    "Data/telemetry platform product",
+    "Seattle among listed locations",
+    "Infra-observability, no regulated data"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager (Chronosphere)",
+  "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Burbank-United-States-of-America/Senior-Product-Manager--Chronosphere-_JR-022415",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=043532f1aa8d&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Senior%20Product%20Manager%20%28Chronosphere%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=043532f1aa8d&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Senior%20Product%20Manager%20%28Chronosphere%29",
+  "company_about": "Palo Alto Networks (Chronosphere): cloud observability and telemetry platform, now part of Palo Alto Networks.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Palo+Alto+Networks+%28Chronosphere%29&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -10812,69 +10929,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=730f3e99df60&co=Nordstrom&ti=Senior%20Product%20Manager%20-%20Inventory%20Value%20%28Hybrid%20-%20Seattle%29",
   "company_about": "Nordstrom is a fashion retailer.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nordstrom&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Lead PM for Provider Direct Connect; posting text unavailable, so scope is unclear.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "humana",
-  "company_display": "Humana",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-19T19:25:56.603142+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Healthcare payer, regulated data",
-    "hi"
-   ],
-   [
-    "Remote nationwide; no comp",
-    "hi"
-   ],
-   [
-    "Scope unknown; insurer, not climate",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "4ceefd5f8f0c",
-  "last_seen": "2026-10-31",
-  "location": "Remote Nationwide",
-  "posted": "2026-10-19T19:28:46.777940+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-19T22:47:31Z",
-   "company": "Humana is a large US health insurer (unclear on unit).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Lead PM for Provider Direct Connect; posting text unavailable, so scope is unclear.",
-   "source": "fallback",
-   "why": [
-    "Healthcare payer, regulated data",
-    "Remote nationwide; no comp",
-    "Scope unknown; insurer, not climate"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Lead Product Manager - Provider Direct Connect",
-  "url": "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Nationwide/Lead-Product-Manager---Provider-Direct-Connect_R-431950",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=4ceefd5f8f0c&co=Humana&ti=Lead%20Product%20Manager%20-%20Provider%20Direct%20Connect",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4ceefd5f8f0c&co=Humana&ti=Lead%20Product%20Manager%20-%20Provider%20Direct%20Connect",
-  "company_about": "Humana is a large US health insurer (unclear on unit).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Humana&network=%5B%22S%22%5D"
  },
  {
   "about": "ClickHouse Cloud, the fully managed version of the open source ClickHouse database, is available on AWS, GCP, and Azure.",
@@ -12570,74 +12624,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Midihealth&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Title implies a Staff PM for a data foundation platform; details not stated.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "walmart",
-  "company_display": "Walmart",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-07T02:15:59.660059+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Staff-level data platform title",
-    "hi"
-   ],
-   [
-    "Bellevue WA matches Seattle metro",
-    "hi"
-   ],
-   [
-    "Scope and domain unverified",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "dd55aaa4e7f0",
-  "last_seen": "2026-11-11",
-  "liked": true,
-  "location": "(USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office / (USA) 221 River St NJ HOBOKEN Home Office",
-  "posted": "2026-11-07T02:19:40.417640+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 28,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [
-   "data"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-07T03:51:29.761Z",
-  "summary": {
-   "at": "2026-11-07T13:46:52Z",
-   "company": "Walmart is a large US retailer; the posting text was unavailable.",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Title implies a Staff PM for a data foundation platform; details not stated.",
-   "source": "fallback",
-   "why": [
-    "Staff-level data platform title",
-    "Bellevue WA matches Seattle metro",
-    "Scope and domain unverified"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "(USA) Staff, Product Manager - WMC Data Foundation",
-  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME--USA--Staff--Product-Manager---WMC-Data-Foundation_R-2699546",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
-  "company_about": "Walmart is a large US retailer; the posting text was unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
- },
- {
   "about": "At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe.",
   "blurb": "Owns the vision for the retailer app and shared buying-journey UI components.",
   "bucket": "SF / Bay",
@@ -13301,6 +13287,72 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=33499e4b5036&co=Web&ti=Senior%20Product%20Manager%2C%20Shared%20Hosting",
   "company_about": "Appears to be a web hosting provider; the listing has no company detail (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Web&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Staff PM; posting text unavailable (from title only).",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "walmart",
+  "company_display": "Walmart",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-20T01:50:45.193365+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "Staff level; Bellevue office",
+    "hi"
+   ],
+   [
+    "Team and domain unknown",
+    "hi"
+   ],
+   [
+    "Posting unreadable",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "905399fa5b05",
+  "last_seen": "2026-11-11",
+  "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office / (USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office",
+  "posted": "2026-10-20T01:56:21.450188+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 26,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-10-20T22:47:27Z",
+   "company": "Walmart is a retailer with a large tech org.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Staff PM; posting text unavailable (from title only).",
+   "source": "fallback",
+   "why": [
+    "Staff level; Bellevue office",
+    "Team and domain unknown",
+    "Posting unreadable"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "(USA) Staff, Product Manager",
+  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Staff--Product-Manager_R-2648425-1",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-11T03:14:11.966Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
+  "company_about": "Walmart is a retailer with a large tech org.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
  },
  {
   "about": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure.",
@@ -14442,7 +14494,7 @@
  },
  {
   "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "As a Senior Product Manager on the Simple Trading team within the Consumer & Business group, you'll own core parts of the retail trading experience used by millions of customers every day. This team builds delightful user experiences and UIs that optimize the \u2026",
+  "blurb": "Owns buy/sell/convert UI flows for retail trading, driving conversion and revenue.",
   "bucket": "Remote (US)",
   "comp": "$218\u2013256K",
   "company": "coinbase",
@@ -14453,16 +14505,20 @@
   "first_seen": "2026-11-11T02:08:12.391218+00:00",
   "fit_tags": [
    [
-    "fintech",
-    "mid"
+    "fit 2/10",
+    "amber"
    ],
    [
-    "compliance",
+    "Consumer growth, no data axis",
     "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
+    "Needs 2+ yrs trading/fintech",
+    "hi"
+   ],
+   [
+    "Remote US, Senior match",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -14480,14 +14536,26 @@
    "AI/LLM"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-11T14:47:21Z",
+   "company": "Coinbase is a crypto exchange; this role sits on the consumer Simple Trading team.",
+   "fit": 2,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns buy/sell/convert UI flows for retail trading, driving conversion and revenue.",
+   "source": "posting",
+   "why": [
+    "Consumer growth, no data axis",
+    "Needs 2+ yrs trading/fintech",
+    "Remote US, Senior match"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager, Simple Trading",
   "url": "https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6c75f2cb8d94&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Simple%20Trading",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6c75f2cb8d94&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Simple%20Trading",
-  "company_about": "Ready to be pushed beyond what you think you\u2019re capable of?",
+  "company_about": "Coinbase is a crypto exchange; this role sits on the consumer Simple Trading team.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
  },
  {
@@ -15734,6 +15802,72 @@
  },
  {
   "about": "",
+  "blurb": "Sr PM for financial crime and AML products; the posting text was unavailable.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "relx",
+  "company_display": "Relx",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-10T20:34:02.654603+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Compliance/regulated data domain",
+    "hi"
+   ],
+   [
+    "Remote US nationwide option",
+    "hi"
+   ],
+   [
+    "Comp and scope not stated",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "6e9eea253cfe",
+  "last_seen": "2026-11-11",
+  "location": "Alpharetta, GA / Remote - USA - Nationwide",
+  "posted": "2026-11-10T20:38:15.277238+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 18,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-10T23:55:00+00:00",
+   "company": "Relx (LexisNexis Risk Solutions): risk and compliance data provider (inferred from the title; unclear).",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Sr PM for financial crime and AML products; the posting text was unavailable.",
+   "source": "fallback",
+   "why": [
+    "Compliance/regulated data domain",
+    "Remote US nationwide option",
+    "Comp and scope not stated"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Sr Product Manager I (Financial Crime and AML)",
+  "url": "https://relx.wd3.myworkdayjobs.com/en-US/risksolutions/job/Alpharetta-GA/Sr-Product-Manager-I_R118376",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-11T03:14:12.034Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6e9eea253cfe&co=Relx&ti=Sr%20Product%20Manager%20I%20%28Financial%20Crime%20and%20AML%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6e9eea253cfe&co=Relx&ti=Sr%20Product%20Manager%20I%20%28Financial%20Crime%20and%20AML%29",
+  "company_about": "Relx (LexisNexis Risk Solutions): risk and compliance data provider (inferred from the title; unclear).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Relx&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "Senior PM role; the posting text was unavailable, so the scope is unknown.",
   "bucket": "Remote (US)",
   "comp": null,
@@ -15863,72 +15997,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d877a25a4d83&co=Earlywarning&ti=Sr.%20Principal%20Product%20Manager%2C%20Agentic%20Commerce%20%26%20Payments",
   "company_about": "Early Warning, a US payments and fraud-prevention network (unclear from fallback data).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM for the Chronosphere observability product; the posting text was unavailable, so scope is unclear.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "paloaltonetworks",
-  "company_display": "Palo Alto Networks (Chronosphere)",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-10T20:34:02.654603+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Data/telemetry platform product",
-    "hi"
-   ],
-   [
-    "Seattle among listed locations",
-    "hi"
-   ],
-   [
-    "Infra-observability, no regulated data",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "043532f1aa8d",
-  "last_seen": "2026-11-11",
-  "liked": true,
-  "location": "Burbank, United States of America / Arlington, United States of America / Austin, United States of America / Jacksonville, United States of America / Hartford, United States of America / Bridgeport, United States of America / Boston, United States of America / Seattle, United States of America / Portland, United States of America / New York City, United States of America",
-  "posted": "2026-11-09T20:38:10.450163+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-10T21:50:31.865Z",
-  "summary": {
-   "at": "2026-11-10T23:55:00+00:00",
-   "company": "Palo Alto Networks (Chronosphere): cloud observability and telemetry platform, now part of Palo Alto Networks.",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for the Chronosphere observability product; the posting text was unavailable, so scope is unclear.",
-   "source": "fallback",
-   "why": [
-    "Data/telemetry platform product",
-    "Seattle among listed locations",
-    "Infra-observability, no regulated data"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager (Chronosphere)",
-  "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Burbank-United-States-of-America/Senior-Product-Manager--Chronosphere-_JR-022415",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=043532f1aa8d&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Senior%20Product%20Manager%20%28Chronosphere%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=043532f1aa8d&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Senior%20Product%20Manager%20%28Chronosphere%29",
-  "company_about": "Palo Alto Networks (Chronosphere): cloud observability and telemetry platform, now part of Palo Alto Networks.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Palo+Alto+Networks+%28Chronosphere%29&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -16127,195 +16195,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d1d3da8a6c62&co=Beigene&ti=Senior%20Product%20Manager%2C%20Clinical%20Development%20Platforms",
   "company_about": "BeiGene is a global oncology biotech; posting text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Beigene&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Staff PM; posting text unavailable (from title only).",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "walmart",
-  "company_display": "Walmart",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-20T01:50:45.193365+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Staff level; Bellevue office",
-    "hi"
-   ],
-   [
-    "Team and domain unknown",
-    "hi"
-   ],
-   [
-    "Posting unreadable",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "905399fa5b05",
-  "last_seen": "2026-11-11",
-  "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office / (USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office",
-  "posted": "2026-10-20T01:56:21.450188+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-20T22:47:27Z",
-   "company": "Walmart is a retailer with a large tech org.",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Staff PM; posting text unavailable (from title only).",
-   "source": "fallback",
-   "why": [
-    "Staff level; Bellevue office",
-    "Team and domain unknown",
-    "Posting unreadable"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "(USA) Staff, Product Manager",
-  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Staff--Product-Manager_R-2648425-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
-  "company_about": "Walmart is a retailer with a large tech org.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM for device security (title only).",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "paloaltonetworks",
-  "company_display": "Palo Alto Networks (Chronosphere)",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-23T20:49:55.527839+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Security product, no data axis",
-    "hi"
-   ],
-   [
-    "Santa Clara listed, SF possible",
-    "hi"
-   ],
-   [
-    "Hardware-adjacent",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "2c70b6e66ca0",
-  "last_seen": "2026-10-28",
-  "location": "Santa Clara, United States of America / San Francisco, United States of America / San Jose, United States of America",
-  "posted": "2026-10-16T20:54:08.253202+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-23T22:46:22Z",
-   "company": "Palo Alto Networks (Chronosphere) security vendor; posting text unavailable.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for device security (title only).",
-   "source": "fallback",
-   "why": [
-    "Security product, no data axis",
-    "Santa Clara listed, SF possible",
-    "Hardware-adjacent"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Sr. Product Manager (Device Security)",
-  "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Product-Manager--Device-Security-_JR-017655",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2c70b6e66ca0&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Sr.%20Product%20Manager%20%28Device%20Security%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2c70b6e66ca0&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Sr.%20Product%20Manager%20%28Device%20Security%29",
-  "company_about": "Palo Alto Networks (Chronosphere) security vendor; posting text unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Palo+Alto+Networks+%28Chronosphere%29&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM for PAN-OS product security and lifecycle management (title only).",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "paloaltonetworks",
-  "company_display": "Palo Alto Networks (Chronosphere)",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-23T20:49:55.527839+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Network security, no data axis",
-    "hi"
-   ],
-   [
-    "Santa Clara listed, SF possible",
-    "hi"
-   ],
-   [
-    "Hardware-first firewall OS",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "aa07ebf7f080",
-  "last_seen": "2026-10-28",
-  "location": "Santa Clara, United States of America / San Francisco, United States of America / San Jose, United States of America",
-  "posted": "2026-10-16T20:54:08.253198+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-23T22:46:22Z",
-   "company": "Palo Alto Networks (Chronosphere) security vendor; posting text unavailable.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for PAN-OS product security and lifecycle management (title only).",
-   "source": "fallback",
-   "why": [
-    "Network security, no data axis",
-    "Santa Clara listed, SF possible",
-    "Hardware-first firewall OS"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Sr. Product Manager (PAN-OS Product Security)",
-  "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Product-Manager--PAN-OS-Product-Security-and-Lifecycle-Management-_JR-018637-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=aa07ebf7f080&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Sr.%20Product%20Manager%20%28PAN-OS%20Product%20Security%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=aa07ebf7f080&co=Palo%20Alto%20Networks%20%28Chronosphere%29&ti=Sr.%20Product%20Manager%20%28PAN-OS%20Product%20Security%29",
-  "company_about": "Palo Alto Networks (Chronosphere) security vendor; posting text unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Palo+Alto+Networks+%28Chronosphere%29&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -17363,69 +17242,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c625f629e12b&co=Versapay&ti=Senior%20Product%20Manager%2C%20Payments%20Gateway",
   "company_about": "Versapay automates B2B accounts receivable and payments; 10,000+ customers, $257B annual volume.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Versapay&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Sr PM for financial crime and AML products; the posting text was unavailable.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "relx",
-  "company_display": "Relx",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-10T20:34:02.654603+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Compliance/regulated data domain",
-    "hi"
-   ],
-   [
-    "Remote US nationwide option",
-    "hi"
-   ],
-   [
-    "Comp and scope not stated",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "6e9eea253cfe",
-  "last_seen": "2026-11-11",
-  "location": "Alpharetta, GA / Remote - USA - Nationwide",
-  "posted": "2026-11-10T20:38:15.277238+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-11-10T23:55:00+00:00",
-   "company": "Relx (LexisNexis Risk Solutions): risk and compliance data provider (inferred from the title; unclear).",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Sr PM for financial crime and AML products; the posting text was unavailable.",
-   "source": "fallback",
-   "why": [
-    "Compliance/regulated data domain",
-    "Remote US nationwide option",
-    "Comp and scope not stated"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Sr Product Manager I (Financial Crime and AML)",
-  "url": "https://relx.wd3.myworkdayjobs.com/en-US/risksolutions/job/Alpharetta-GA/Sr-Product-Manager-I_R118376",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6e9eea253cfe&co=Relx&ti=Sr%20Product%20Manager%20I%20%28Financial%20Crime%20and%20AML%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6e9eea253cfe&co=Relx&ti=Sr%20Product%20Manager%20I%20%28Financial%20Crime%20and%20AML%29",
-  "company_about": "Relx (LexisNexis Risk Solutions): risk and compliance data provider (inferred from the title; unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Relx&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -20397,51 +20213,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=34b468c86ecc&co=Horizon3Ai&ti=Staff%20Product%20Manager%2C%20Growth",
   "company_about": "Horizon3.ai makes NodeZero, an autonomous pentesting platform; fast-growing and remote-friendly.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Horizon3Ai&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "We're looking for bold, ambitious people to help redefine how businesses manage and experience travel. Working here, you can expect exponential growth, an ambitious pace, full ownership, and high-caliber colleagues who push you to do the best work of your \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$181\u2013213K",
-  "company": "engine",
-  "company_display": "Engine",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-12T21:58:34.663003+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "35d953e0e232",
-  "last_seen": "2026-11-11",
-  "location": "Remote - US",
-  "posted": "2026-10-12T12:42:34-04:00",
-  "role10": 0,
-  "role_pts": -7,
-  "score": 3,
-  "score_why": "unknown sector 10 \u00b7 role match -7",
-  "sector": "",
-  "signals": [
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Growth",
-  "url": "https://job-boards.greenhouse.io/engine/jobs/7999646003",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=35d953e0e232&co=Engine&ti=Senior%20Product%20Manager%2C%20Growth",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=35d953e0e232&co=Engine&ti=Senior%20Product%20Manager%2C%20Growth",
-  "company_about": "Engine is the travel management software trusted by 30,000+ businesses. Book hotels, flights, and rental cars, manage corporate travel and spend, and save 26% on average. Free to \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Engine&network=%5B%22S%22%5D"
  },
  {
   "about": "TeamSnap ONE lets families live stream those games.",
