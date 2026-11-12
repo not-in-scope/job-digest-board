@@ -2852,124 +2852,8 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Abby-Care&network=%5B%22S%22%5D"
  },
  {
-  "about": "Our mission at Oura is to empower every person to own their inner potential.",
-  "blurb": "We are looking for a hands-on Senior Technical Product Manager to own Oura's IT service management (ITSM) and employee service management (ESM) platforms. You will lead our move off a legacy ITSM tool to a modern, AI-native platform, then bring service \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$117\u2013169K",
-  "company": "oura",
-  "company_display": "Oura",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "technical",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "1cab0dd31124",
-  "last_seen": "2026-11-12",
-  "location": "Remote - United States",
-  "posted": "2026-10-13T14:35:37-04:00",
-  "role10": 5,
-  "role_pts": 23,
-  "score": 58,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 23",
-  "sector": "compliance",
-  "signals": [
-   "technical",
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Senior Technical Product Manager, IT Service Management",
-  "url": "https://job-boards.greenhouse.io/oura/jobs/4434556009",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1cab0dd31124&co=Oura&ti=Senior%20Technical%20Product%20Manager%2C%20IT%20Service%20Management",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1cab0dd31124&co=Oura&ti=Senior%20Technical%20Product%20Manager%2C%20IT%20Service%20Management",
-  "company_about": "Enhance your health journey with Oura. The Oura Ring provides round-the-clock insights into sleep, fitness, and stress for wellness. Now HSA/FSA eligible.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Oura&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "JR2027685",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "nvidia",
-  "company_display": "Nvidia",
-  "company_line": "Emerald AI backer; the energy-of-AI epicenter",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T03:21:20.758552+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "technical",
-    "mid"
-   ],
-   [
-    "infrastructure",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ],
-   [
-    "you liked similar",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "70fe9482bcc8",
-  "last_seen": "2026-11-06",
-  "liked": true,
-  "location": "US, CA, Santa Clara / US, CA, Remote",
-  "posted": "2026-10-13T03:52:23.406872+00:00",
-  "role10": 4,
-  "role_pts": 20,
-  "score": 58,
-  "score_why": "unknown sector 10 \u00b7 role match 20 \u00b7 your \ud83d\udc4d +24 \u00b7 target company +4",
-  "sector": "",
-  "signals": [
-   "technical",
-   "infrastructure"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-07T19:18:45.741Z",
-  "summary": null,
-  "target": "c",
-  "tier": "good",
-  "title": "Senior Technical Product Manager, Infrastructure Resilience",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager--Infrastructure-Resilience_JR2027685",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=70fe9482bcc8&co=Nvidia&ti=Senior%20Technical%20Product%20Manager%2C%20Infrastructure%20Resilience",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=70fe9482bcc8&co=Nvidia&ti=Senior%20Technical%20Product%20Manager%2C%20Infrastructure%20Resilience",
-  "company_about": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
- },
- {
   "about": "We're growing quickly and recently raised our $1.5B Series F , led by Altimeter Capital, Conviction Partners, and Spark Capital.",
-  "blurb": "We\u2019re hiring builders and tastemakers with the ambition to help create that future. You should bring a strong point of view about what should exist, the taste to make complex technology feel simple, and the technical judgment to build it alongside engineers \u2026",
+  "blurb": "Owns Grid, a new model-routing product starting with coding agents, incl. eval frameworks measuring quality and cost.",
   "bucket": "SF / Bay",
   "comp": "$200K \u2013 $400K",
   "company": "baseten",
@@ -2980,24 +2864,20 @@
   "first_seen": "2026-11-12T03:16:58.775607+00:00",
   "fit_tags": [
    [
-    "ai",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
+    "fit 6/10",
     "amber"
+   ],
+   [
+    "0-to-1 AI platform, LLM evals",
+    "hi"
+   ],
+   [
+    "No energy/compliance axis",
+    "hi"
+   ],
+   [
+    "$200-400K, Remote OK",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -3016,14 +2896,26 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-12T14:46:58Z",
+   "company": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns Grid, a new model-routing product starting with coding agents, incl. eval frameworks measuring quality and cost.",
+   "source": "posting",
+   "why": [
+    "0-to-1 AI platform, LLM evals",
+    "No energy/compliance axis",
+    "$200-400K, Remote OK"
+   ]
+  },
   "target": "b",
   "tier": "good",
   "title": "Product Manager, Grid",
   "url": "https://jobs.ashbyhq.com/baseten/9b71cb02-d82c-421c-b73b-4b783076409e",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e0f9ebf26f57&co=Baseten&ti=Product%20Manager%2C%20Grid",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e0f9ebf26f57&co=Baseten&ti=Product%20Manager%2C%20Grid",
-  "company_about": "Serve and scale open-source and custom AI models on the fastest, most reliable inference platform.",
+  "company_about": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Baseten&network=%5B%22S%22%5D"
  },
  {
@@ -3698,7 +3590,7 @@
  },
  {
   "about": "We're growing quickly and recently raised our $1.5B Series F , led by Altimeter Capital, Conviction Partners, and Spark Capital.",
-  "blurb": "We\u2019re hiring builders and tastemakers with the ambition to help create that future. You should bring a strong point of view about what should exist, the taste to make complex technology feel simple, and the technical judgment to build it alongside engineers \u2026",
+  "blurb": "Owns the developer experience for training jobs: submission, scheduling, debugging, checkpointing and recovery.",
   "bucket": "SF / Bay",
   "comp": "$200K \u2013 $400K",
   "company": "baseten",
@@ -3709,20 +3601,20 @@
   "first_seen": "2026-11-12T03:16:58.775607+00:00",
   "fit_tags": [
    [
-    "ai",
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "Platform PM scope, but dev tools",
     "hi"
    ],
    [
-    "platform",
-    "mid"
+    "No energy or regulated-data angle",
+    "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
+    "$200-400K, Remote OK",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -3740,14 +3632,26 @@
    "AI/LLM"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-12T14:46:58Z",
+   "company": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the developer experience for training jobs: submission, scheduling, debugging, checkpointing and recovery.",
+   "source": "posting",
+   "why": [
+    "Platform PM scope, but dev tools",
+    "No energy or regulated-data angle",
+    "$200-400K, Remote OK"
+   ]
+  },
   "target": "b",
   "tier": "good",
   "title": "Product Manager, Training Platform",
   "url": "https://jobs.ashbyhq.com/baseten/0a6f7d46-a0c3-4020-a697-e1bf1a8aeafa",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5bca96a9bf43&co=Baseten&ti=Product%20Manager%2C%20Training%20Platform",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5bca96a9bf43&co=Baseten&ti=Product%20Manager%2C%20Training%20Platform",
-  "company_about": "Serve and scale open-source and custom AI models on the fastest, most reliable inference platform.",
+  "company_about": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Baseten&network=%5B%22S%22%5D"
  },
  {
@@ -4089,56 +3993,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lambda&network=%5B%22S%22%5D"
  },
  {
-  "about": "Our mission is to provide institutional-grade, blockchain-enabled investment products and services.",
-  "blurb": "About the role We're hiring a Senior Product Manager, Platform Experience to own the customer-facing experience across the Ondo Finance App \u2014 the single interface through which users discover, understand, buy, sell, trade, and manage Ondo's products (Stocks \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "ondofinance",
-  "company_display": "Ondofinance",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "platform",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "d41dff160a79",
-  "last_seen": "2026-11-02",
-  "location": "Remote (US)",
-  "posted": "2026-10-13T02:14:55-04:00",
-  "role10": 4,
-  "role_pts": 19,
-  "score": 54,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 19",
-  "sector": "compliance",
-  "signals": [
-   "platform",
-   "compliance"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Senior Product Manager, Platform Experience ",
-  "url": "https://job-boards.greenhouse.io/ondofinance/jobs/4391015009",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d41dff160a79&co=Ondofinance&ti=Senior%20Product%20Manager%2C%20Platform%20Experience%20",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d41dff160a79&co=Ondofinance&ti=Senior%20Product%20Manager%2C%20Platform%20Experience%20",
-  "company_about": "Our mission is to provide institutional-grade, blockchain-enabled investment products and services.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ondofinance&network=%5B%22S%22%5D"
- },
- {
   "about": "At Anthropic we work as a single cohesive team on just a few large-scale research efforts.",
   "blurb": "Owns the quoting, pricing and approvals tooling sellers use to close deals, with AI-assisted workflows.",
   "bucket": "SF / Bay",
@@ -4335,71 +4189,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dfbb72e2dbb3&co=Turquoise-Health&ti=Senior%20Product%20Manager%2C%20Claims%20Data",
   "company_about": "Turquoise Health is a healthcare price-transparency data platform (stage/size not stated).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Turquoise-Health&network=%5B%22S%22%5D"
- },
- {
-  "about": "We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust \u2026",
-  "blurb": "Owns tokenization surface (Instant Tokenization Network) for issuers, market makers and brokers.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "alpaca",
-  "company_display": "Alpaca",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-19T19:57:12.768704+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Tokenized securities, niche domain",
-    "hi"
-   ],
-   [
-    "Regulated, but no data axis",
-    "hi"
-   ],
-   [
-    "Remote Americas; no comp",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "87e66e7871c5",
-  "last_seen": "2026-11-02",
-  "location": "Remote - Americas",
-  "posted": "2026-10-13T09:35:19-04:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 52,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9 \u00b7 your \ud83d\udc4d +8",
-  "sector": "compliance",
-  "signals": [
-   "compliance"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-19T22:47:31Z",
-   "company": "Alpaca provides brokerage and clearing APIs to financial institutions in 40 countries; ~400 people.",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns tokenization surface (Instant Tokenization Network) for issuers, market makers and brokers.",
-   "source": "posting",
-   "why": [
-    "Tokenized securities, niche domain",
-    "Regulated, but no data axis",
-    "Remote Americas; no comp"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Product Manager, Digital Assets - Tokenization",
-  "url": "https://job-boards.greenhouse.io/alpaca/jobs/6221619004",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=87e66e7871c5&co=Alpaca&ti=Product%20Manager%2C%20Digital%20Assets%20-%20Tokenization",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=87e66e7871c5&co=Alpaca&ti=Product%20Manager%2C%20Digital%20Assets%20-%20Tokenization",
-  "company_about": "Alpaca provides brokerage and clearing APIs to financial institutions in 40 countries; ~400 people.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Alpaca&network=%5B%22S%22%5D"
  },
  {
   "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
@@ -4727,6 +4516,56 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3ad4cc3169c2&co=Okta&ti=Staff%20Product%20Manager%20-%20Okta%20Identity%20Governance",
   "company_about": "Okta sells identity and access management; Identity Governance handles access certification and compliance.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Okta&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Technical Product Manager, Recognition",
+  "company": "socure",
+  "location": "Hub - San Francisco / Hub - Seattle / Remote",
+  "url": "https://jobs.ashbyhq.com/socure/ef4ab7b8-0a33-4ceb-9438-06c1fefeed41",
+  "posted": "2026-11-12T17:30:54.438000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$170K \u2013 $205K",
+  "bucket": "Seattle",
+  "sector": "compliance",
+  "blurb": "We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision.",
+  "role_pts": 14,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-12T21:01:32.506190+00:00",
+  "last_seen": "2026-11-12",
+  "company_display": "Socure",
+  "about": "Socure is building the identity trust infrastructure for the digital economy \u2014 verifying 100% of good identities in real time and stopping fraud before it starts.",
+  "signals": [
+   "technical",
+   "AI/LLM"
+  ],
+  "id": "82650f38e2a9",
+  "score": 49,
+  "role10": 3,
+  "tier": "good",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 14",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "technical",
+    "mid"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=82650f38e2a9&co=Socure&ti=Senior%20Technical%20Product%20Manager%2C%20Recognition",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=82650f38e2a9&co=Socure&ti=Senior%20Technical%20Product%20Manager%2C%20Recognition",
+  "company_about": "Socure is the leading AI-powered identity verification platform trusted by 3,000+ customers to verify consumers, businesses, & employees with confidence.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Socure&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -5436,7 +5275,7 @@
  },
  {
   "about": "We're growing quickly and recently raised our $1.5B Series F , led by Altimeter Capital, Conviction Partners, and Spark Capital.",
-  "blurb": "We\u2019re hiring builders and tastemakers with the ambition to help create that future. You should bring a strong point of view about what should exist, the taste to make complex technology feel simple, and the technical judgment to build it alongside engineers \u2026",
+  "blurb": "Owns pricing, packaging and usage metering for inference, training and Grid; works with finance on GPU margins.",
   "bucket": "SF / Bay",
   "comp": "$200K \u2013 $400K",
   "company": "baseten",
@@ -5447,24 +5286,20 @@
   "first_seen": "2026-11-12T03:16:58.775607+00:00",
   "fit_tags": [
    [
-    "ai",
-    "hi"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
+    "fit 4/10",
     "amber"
+   ],
+   [
+    "Pricing/GTM, not data platform",
+    "hi"
+   ],
+   [
+    "AI infra, no energy/compliance axis",
+    "hi"
+   ],
+   [
+    "$200-400K, Remote OK",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -5483,14 +5318,26 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-12T14:46:58Z",
+   "company": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns pricing, packaging and usage metering for inference, training and Grid; works with finance on GPU margins.",
+   "source": "posting",
+   "why": [
+    "Pricing/GTM, not data platform",
+    "AI infra, no energy/compliance axis",
+    "$200-400K, Remote OK"
+   ]
+  },
   "target": "b",
   "tier": "good",
   "title": "Product Manager, Pricing and Monetization",
   "url": "https://jobs.ashbyhq.com/baseten/bed53da9-5d16-482a-94ed-12992dfe0cfe",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1cca4a158998&co=Baseten&ti=Product%20Manager%2C%20Pricing%20and%20Monetization",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1cca4a158998&co=Baseten&ti=Product%20Manager%2C%20Pricing%20and%20Monetization",
-  "company_about": "Serve and scale open-source and custom AI models on the fastest, most reliable inference platform.",
+  "company_about": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Baseten&network=%5B%22S%22%5D"
  },
  {
@@ -6028,7 +5875,7 @@
  },
  {
   "about": "We're growing quickly and recently raised our $1.5B Series F , led by Altimeter Capital, Conviction Partners, and Spark Capital.",
-  "blurb": "We\u2019re hiring builders and tastemakers with the ambition to help create that future. You should bring a strong point of view about what should exist, the taste to make complex technology feel simple, and the technical judgment to build it alongside engineers \u2026",
+  "blurb": "Owns roadmap for Model APIs, Dedicated Inference, Evaluations and Model Library, aimed at developer adoption.",
   "bucket": "SF / Bay",
   "comp": "$200K \u2013 $400K",
   "company": "baseten",
@@ -6039,16 +5886,20 @@
   "first_seen": "2026-11-12T03:16:58.775607+00:00",
   "fit_tags": [
    [
-    "ai",
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "AI platform PM, dev-facing",
     "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
+    "No energy or regulated-data axis",
+    "hi"
    ],
    [
-    "\u25ce target company",
-    "amber"
+    "$200-400K, Remote OK",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -6065,14 +5916,26 @@
    "AI/LLM"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-12T14:46:58Z",
+   "company": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns roadmap for Model APIs, Dedicated Inference, Evaluations and Model Library, aimed at developer adoption.",
+   "source": "posting",
+   "why": [
+    "AI platform PM, dev-facing",
+    "No energy or regulated-data axis",
+    "$200-400K, Remote OK"
+   ]
+  },
   "target": "b",
   "tier": "other",
   "title": "Product Manager, Inference Experience",
   "url": "https://jobs.ashbyhq.com/baseten/8c49e4ee-615d-4ef8-a189-8c9da532e33a",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9d8e8a3cf9de&co=Baseten&ti=Product%20Manager%2C%20Inference%20Experience",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9d8e8a3cf9de&co=Baseten&ti=Product%20Manager%2C%20Inference%20Experience",
-  "company_about": "Serve and scale open-source and custom AI models on the fastest, most reliable inference platform.",
+  "company_about": "Baseten sells an AI inference and training cloud; Series F ($1.5B raise), customers include Cursor and Notion.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Baseten&network=%5B%22S%22%5D"
  },
  {
@@ -7111,119 +6974,6 @@
  },
  {
   "about": "",
-  "blurb": "2019172",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "cisco",
-  "company_display": "Cisco",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "you liked similar",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "01bec41e0b23",
-  "location": "Seattle, Washington, US / Austin, Texas, US",
-  "posted": "2026-10-13T20:15:50.777317+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 44,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [
-   "ai"
-  ],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Staff Product Manager, AI Knowledge Graph & Intelligence",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Seattle-Washington-US/Senior-Staff-Product-Manager--AI-Knowledge-Graph---Intelligence_2019172-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=01bec41e0b23&co=Cisco&ti=Senior%20Staff%20Product%20Manager%2C%20AI%20Knowledge%20Graph%20%26%20Intelligence",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=01bec41e0b23&co=Cisco&ti=Senior%20Staff%20Product%20Manager%2C%20AI%20Knowledge%20Graph%20%26%20Intelligence",
-  "company_about": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Cisco&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Advises state government clients bridging accounting practices and technology on system conversions.",
-  "bucket": "Remote (US)",
-  "comp": "$98\u2013153K",
-  "company": "navapbc",
-  "company_display": "Nava PBC",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-30T23:14:19.702790+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Accounting/tax background matches",
-    "hi"
-   ],
-   [
-    "Public-sector mission",
-    "hi"
-   ],
-   [
-    "Un-leveled, $98-153K below target",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7f96d0f66d53",
-  "last_seen": "2026-11-12",
-  "location": "Remote",
-  "posted": "2026-10-13T16:45:19-04:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 44,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9",
-  "sector": "compliance",
-  "signals": [
-   "compliance"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-31T13:46:25Z",
-   "company": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Advises state government clients bridging accounting practices and technology on system conversions.",
-   "source": "posting",
-   "why": [
-    "Accounting/tax background matches",
-    "Public-sector mission",
-    "Un-leveled, $98-153K below target"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Product Manager (Accounting SME)",
-  "url": "https://job-boards.greenhouse.io/navapbc/jobs/4450583009",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7f96d0f66d53&co=Nava%20PBC&ti=Product%20Manager%20%28Accounting%20SME%29",
-  "company_about": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Leads product for how Google's docs ground AI agents: Developer Knowledge API, RAG evals.",
   "bucket": "Seattle",
   "comp": "$192,000-$278,000 base + bonus + equity + benefits",
@@ -8174,60 +7924,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Betterhelpcom&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Snowflake, we are powering the era of the agentic enterprise.",
-  "blurb": "This role advances that mission into the next paradigm shift: transforming data-sharing infrastructure into an AI-first intelligence marketplace for autonomous agents, semantic models, remote Model Context Protocol (MCP) servers, and AI-ready data primitives. \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$200K \u2013 $287.5K",
-  "company": "snowflake",
-  "company_display": "Snowflake",
-  "company_line": "Data cloud; open PM roles in dev platform/Snowpark match his data-infra background",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "datainfra",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
-    "amber"
-   ]
-  ],
-  "hidden": false,
-  "id": "d76ca9799103",
-  "last_seen": "2026-11-12",
-  "location": "US-CA-Menlo Park / Remote",
-  "posted": "2026-10-13T19:17:25.788000+00:00",
-  "role10": 1,
-  "role_pts": 6,
-  "score": 40,
-  "score_why": "datainfra sector 26 \u00b7 role match 6 \u00b7 target company +8",
-  "sector": "datainfra",
-  "signals": [
-   "B2B",
-   "0\u21921"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": "b",
-  "tier": "other",
-  "title": "Senior Product Manager \u2013 Agent Marketplace",
-  "url": "https://jobs.ashbyhq.com/snowflake/3c565761-4ce8-40f4-a346-1997b117afbc",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d76ca9799103&co=Snowflake&ti=Senior%20Product%20Manager%20%E2%80%93%20Agent%20Marketplace",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d76ca9799103&co=Snowflake&ti=Senior%20Product%20Manager%20%E2%80%93%20Agent%20Marketplace",
-  "company_about": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud\u2014eliminating silos and accelerating innovation.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snowflake&network=%5B%22S%22%5D"
- },
- {
   "about": "Seed Health is a microbiome science company pioneering clinically validated innovations for gut and whole-body health.",
   "blurb": "seedhealth.com \u2022 seed.com \u2022 luca.bio About the Role Seed is seeking a Senior Product Manager (Member Product), reporting to the VP, Digital Product + Ecommerce, to own the end-to-end post-purchase member experience\u2014from the moment a member converts through \u2026",
   "bucket": "Remote (US)",
@@ -9017,6 +8713,55 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0a6b59f03fea&co=Capitalone&ti=Senior%20Product%20Manager%2C%20AI%20Enablement%20-%20Analytics%3A%20Capital%20One%20Shopping%20%28Remote-Eligible%29",
   "company_about": "Capital One Financial Corporation is an American bank holding company headquartered in Tysons, Virginia, with operations in the United States, Canada, and the United Kingdom.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Capitalone&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Product Manager, Agent Governance ",
+  "company": "hex",
+  "location": "New York / San Francisco / Remote",
+  "url": "https://jobs.ashbyhq.com/hex/0b305b41-f094-4a97-9bbd-7e793227de89",
+  "posted": "2026-11-12T18:49:05.941000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$189K \u2013 $300K",
+  "bucket": "SF / Bay",
+  "sector": "datainfra",
+  "blurb": "About the role We\u2019re hiring an experienced, customer-centric product manager to drive the future of how agentic analytics is deployed, governed, and observed. You will tackle complex core product and platform challenges with real revenue impact.",
+  "role_pts": 3,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-12T21:01:32.506190+00:00",
+  "last_seen": "2026-11-12",
+  "company_display": "Hex",
+  "about": "Hex has raised over $100M from leading investors like Sequoia, a16z, Snowflake and Amplify.",
+  "signals": [
+   "B2B"
+  ],
+  "id": "40a6020d801f",
+  "score": 37,
+  "role10": 1,
+  "tier": "other",
+  "target": "b",
+  "company_line": "Analytics workspace; Lenny-100 product bar + data tooling",
+  "score_why": "datainfra sector 26 \u00b7 role match 3 \u00b7 target company +8",
+  "summary": null,
+  "fit_tags": [
+   [
+    "datainfra",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "\u25ce target company",
+    "amber"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=40a6020d801f&co=Hex&ti=Product%20Manager%2C%20Agent%20Governance%20",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=40a6020d801f&co=Hex&ti=Product%20Manager%2C%20Agent%20Governance%20",
+  "company_about": "Rethinking BI Conversational analytics and Context management for the agentic era.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Hex&network=%5B%22S%22%5D"
  },
  {
   "about": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents \u2026",
@@ -11343,170 +11088,6 @@
  },
  {
   "about": "",
-  "blurb": "R22989",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "wexinc",
-  "company_display": "Wexinc",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "you liked similar",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "77aa8f3b6075",
-  "last_seen": "2026-11-08",
-  "liked": true,
-  "location": "US - Remote",
-  "posted": "2026-10-13T20:52:59.189788+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-08T03:05:03.049Z",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Merchant Products",
-  "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Senior-Product-Manager--Merchant-Products_R22989",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=77aa8f3b6075&co=Wexinc&ti=Senior%20Product%20Manager%2C%20Merchant%20Products",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=77aa8f3b6075&co=Wexinc&ti=Senior%20Product%20Manager%2C%20Merchant%20Products",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Wexinc&network=%5B%22S%22%5D"
- },
- {
-  "blurb": "JR356268",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "salesforce",
-  "company_display": "Salesforce",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "you liked similar",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "d73bf86cd411",
-  "last_seen": "2026-11-09",
-  "liked": true,
-  "location": "Virginia - Herndon / Virginia - Washington DC Metro - Remote",
-  "posted": "2026-10-13T20:44:43.490171+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-09T02:56:24.550Z",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Missionforce - Senior Product Manager, Agentforce Public Sector",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Herndon/Missionforce---Senior-Product-Manager--Agentforce-Public-Sector_JR356268",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d73bf86cd411&co=Salesforce&ti=Missionforce%20-%20Senior%20Product%20Manager%2C%20Agentforce%20Public%20Sector",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d73bf86cd411&co=Salesforce&ti=Missionforce%20-%20Senior%20Product%20Manager%2C%20Agentforce%20Public%20Sector",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Salesforce&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Likely owns communications and intelligence products (inferred from title only).",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "expedia",
-  "company_display": "Expedia",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Principal level, seniority match",
-    "hi"
-   ],
-   [
-    "Seattle or San Jose",
-    "hi"
-   ],
-   [
-    "Scope unclear, travel domain",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "033461d26b6f",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "USA - California - San Jose / Washington - Seattle Campus",
-  "posted": "2026-10-13T20:21:16.960701+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-07T03:20:33.030Z",
-  "summary": {
-   "at": "2026-10-22T22:46:49Z",
-   "company": "Expedia is a large online travel company; no posting text available.",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Likely owns communications and intelligence products (inferred from title only).",
-   "source": "fallback",
-   "why": [
-    "Principal level, seniority match",
-    "Seattle or San Jose",
-    "Scope unclear, travel domain"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, Comms & Intelligence",
-  "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/USA---California---San-Jose/Principal-Product-Manager--Comms---Intelligence_R-110450",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=033461d26b6f&co=Expedia&ti=Principal%20Product%20Manager%2C%20Comms%20%26%20Intelligence",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=033461d26b6f&co=Expedia&ti=Principal%20Product%20Manager%2C%20Comms%20%26%20Intelligence",
-  "company_about": "Expedia is a large online travel company; no posting text available.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Expedia&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Owns AI features, onboarding, workflows and integrations/APIs for an SMB finance product.",
   "bucket": "Remote (US)",
   "comp": "$160\u2013200K",
@@ -12652,6 +12233,56 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Getbuilt&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, Fulfillment",
+  "company": "flexport",
+  "location": "Bellevue, Washington, United States",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/8337555",
+  "posted": "2026-11-12T15:32:07-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$156\u2013194K",
+  "bucket": "Seattle",
+  "sector": "logistics",
+  "blurb": "The Opportunity As a Senior Product Manager on Flexport's Warehouse Management System (WMS), you will own the software that runs work inside the warehouses fulfilling orders for Flexport merchants. You will set the product vision for your area of a modern \u2026",
+  "role_pts": 7,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-12T21:01:32.506190+00:00",
+  "last_seen": "2026-11-12",
+  "company_display": "Flexport",
+  "about": "We\u2019re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people.",
+  "signals": [
+   "AI/LLM",
+   "B2B"
+  ],
+  "id": "23fbc0ba1d72",
+  "score": 29,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "logistics sector 22 \u00b7 role match 7",
+  "summary": null,
+  "fit_tags": [
+   [
+    "logistics",
+    "mid"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=23fbc0ba1d72&co=Flexport&ti=Senior%20Product%20Manager%2C%20Fulfillment",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=23fbc0ba1d72&co=Flexport&ti=Senior%20Product%20Manager%2C%20Fulfillment",
+  "company_about": "Ship smarter with Flexport's AI-powered freight forwarding platform. Ocean, air, and trucking logistics with end-to-end supply chain visibility.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Flexport&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Founded in 2021, Pulley combines deep permitting expertise with purpose-built AI from people who have created products used by millions.",
   "blurb": "What You\u2019ll Do As Pulley's first Product Manager, you\u2019ll report directly to our CEO and partner closely with engineering and design to help shape and execute our product roadmap. Accelerate the launch of Pulley\u2019s newest AI product offerings and operate as the \u2026",
   "bucket": "SF / Bay",
@@ -12775,6 +12406,74 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6834cdd2f5ef&co=Midihealth&ti=Senior%20Product%20Manager%2C%20Growth",
   "company_about": "Midi is a telehealth provider for women's midlife care.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Midihealth&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Principal PM for fixed-income investment analytics tools, per title only.",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "capgroup",
+  "company_display": "Capgroup",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-12T03:16:58.775607+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "Principal seniority fits",
+    "hi"
+   ],
+   [
+    "Finance data, not energy/climate",
+    "hi"
+   ],
+   [
+    "LA/NY/SF; SF is the only listed fit",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "88d073bc48cb",
+  "last_seen": "2026-11-12",
+  "location": "Los Angeles / New York / San Francisco",
+  "posted": "2026-11-12T03:17:40.595870+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 28,
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [
+   "analytics"
+  ],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-12T14:46:58Z",
+   "company": "Capital Group (Capital Research & Mgmt) is an investment manager; posting text was unavailable (unclear).",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Principal PM for fixed-income investment analytics tools, per title only.",
+   "source": "fallback",
+   "why": [
+    "Principal seniority fits",
+    "Finance data, not energy/climate",
+    "LA/NY/SF; SF is the only listed fit"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Principal Product Manager - Investment Analytics (Fixed Income)",
+  "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Principal-Product-Manager---Investment-Analytics--Fixed-Income-_JR7221-1",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-12T04:49:48.244Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=88d073bc48cb&co=Capgroup&ti=Principal%20Product%20Manager%20-%20Investment%20Analytics%20%28Fixed%20Income%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88d073bc48cb&co=Capgroup&ti=Principal%20Product%20Manager%20-%20Investment%20Analytics%20%28Fixed%20Income%29",
+  "company_about": "Capital Group (Capital Research & Mgmt) is an investment manager; posting text was unavailable (unclear).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Capgroup&network=%5B%22S%22%5D"
  },
  {
   "about": "At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe.",
@@ -12975,6 +12674,71 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c151d677fe68&co=Clio&ti=Senior%20Product%20Manager%2C%20%20International%20Platform%20and%20Globalization",
   "company_about": "Clio makes legal practice management software; the posting text was unavailable.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Clio&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Appears to lead AI strategy and product for investment research tools (unclear; posting text unavailable).",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "capgroup",
+  "company_display": "Capgroup",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-04T02:36:49.269365+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "Principal level, AI product",
+    "hi"
+   ],
+   [
+    "LA/NY/SF; SF only fits",
+    "hi"
+   ],
+   [
+    "Finance, no energy; comp unknown",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "6b3269e82fa2",
+  "last_seen": "2026-11-12",
+  "location": "Los Angeles / New York / San Francisco",
+  "posted": "2026-11-04T02:37:46.172924+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 28,
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [
+   "ai"
+  ],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-04T13:46:40Z",
+   "company": "Capital Group, a large investment management firm (unclear).",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Appears to lead AI strategy and product for investment research tools (unclear; posting text unavailable).",
+   "source": "fallback",
+   "why": [
+    "Principal level, AI product",
+    "LA/NY/SF; SF only fits",
+    "Finance, no energy; comp unknown"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Principal Product Manager, AI Strategy and Product Development for Investment Research",
+  "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Principal-Product-Manager--AI-Strategy-and-Product-Development-for-Investment-Research_JR7731",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6b3269e82fa2&co=Capgroup&ti=Principal%20Product%20Manager%2C%20AI%20Strategy%20and%20Product%20Development%20for%20Investment%20Research",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6b3269e82fa2&co=Capgroup&ti=Principal%20Product%20Manager%2C%20AI%20Strategy%20and%20Product%20Development%20for%20Investment%20Research",
+  "company_about": "Capital Group, a large investment management firm (unclear).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Capgroup&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -13957,72 +13721,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Google&network=%5B%22S%22%5D"
  },
  {
-  "about": "Playlab is an early-stage product with significant scope, a growing team, and limited existing product process.",
-  "blurb": "Hand-on PM for AI app-building tools, safety and moderation systems, and product process.",
-  "bucket": "Remote (US)",
-  "comp": "$150K \u2013 $200K",
-  "company": "playlab",
-  "company_display": "Playlab",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-05T20:46:43.495484+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Public-good mission, remote",
-    "hi"
-   ],
-   [
-    "$150-200K, below target range",
-    "hi"
-   ],
-   [
-    "Education AI, no data axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "9f7b5337438f",
-  "last_seen": "2026-11-12",
-  "location": "Remote",
-  "posted": "2026-10-13T12:39:55.494000+00:00",
-  "role10": 3,
-  "role_pts": 14,
-  "score": 24,
-  "score_why": "unknown sector 10 \u00b7 role match 14",
-  "sector": "",
-  "signals": [
-   "energy",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-11-05T22:46:15Z",
-   "company": "Playlab is a tech non-profit whose open-source tools let educators and students build AI apps.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Hand-on PM for AI app-building tools, safety and moderation systems, and product process.",
-   "source": "posting",
-   "why": [
-    "Public-good mission, remote",
-    "$150-200K, below target range",
-    "Education AI, no data axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/playlab/f8b16f4b-408e-4a9f-9a33-93fe05cf644e",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9f7b5337438f&co=Playlab&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9f7b5337438f&co=Playlab&ti=Senior%20Product%20Manager",
-  "company_about": "Playlab is a tech non-profit whose open-source tools let educators and students build AI apps.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Playlab&network=%5B%22S%22%5D"
- },
- {
   "about": "We're excited about you because\u2026 You have 7+ years of product management experience, including end-to-end ownership of internal tools, HR technology, case management, support, or \u2026",
   "blurb": "Owns HR-partner internal products (employee relations casework, workflow automation) and decides where AI stays human-reviewed.",
   "bucket": "Remote (US)",
@@ -14268,72 +13966,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=eb93d74dada8&co=Ibotta&ti=Senior%20Product%20Manager%2C%20Buy-side%20Integrations",
   "company_about": "Make every purchase rewarding with our cash back app and performance marketing services.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ibotta&network=%5B%22S%22%5D"
- },
- {
-  "about": "HiveMQ is the Industrial AI Platform helping enterprises move from connected devices to intelligent operations.",
-  "blurb": "Owns the Data Streaming portfolio: Enterprise Broker core and its extension system for OT/IT integrations.",
-  "bucket": "Remote (US)",
-  "comp": "\u20ac120K \u2013 \u20ac154K",
-  "company": "hivemq",
-  "company_display": "Hivemq",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-28T19:01:36.809750+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "IoT data platform, Remote US",
-    "hi"
-   ],
-   [
-    "Infra scope fits platform skills",
-    "hi"
-   ],
-   [
-    "Pay in EUR, no energy focus",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "3d6a5090e737",
-  "last_seen": "2026-11-12",
-  "location": "United States / Remote",
-  "posted": "2026-10-13T12:24:04.598000+00:00",
-  "role10": 3,
-  "role_pts": 13,
-  "score": 23,
-  "score_why": "unknown sector 10 \u00b7 role match 13",
-  "sector": "",
-  "signals": [
-   "data",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-28T22:46:47Z",
-   "company": "HiveMQ is an Industrial AI platform built on its MQTT enterprise broker for edge-to-cloud industrial data.",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the Data Streaming portfolio: Enterprise Broker core and its extension system for OT/IT integrations.",
-   "source": "posting",
-   "why": [
-    "IoT data platform, Remote US",
-    "Infra scope fits platform skills",
-    "Pay in EUR, no energy focus"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager - Data Streaming ",
-  "url": "https://jobs.ashbyhq.com/hivemq/486fc6b8-8b82-47ea-b6e8-4dd83c326938",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3d6a5090e737&co=Hivemq&ti=Senior%20Product%20Manager%20-%20Data%20Streaming%20",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3d6a5090e737&co=Hivemq&ti=Senior%20Product%20Manager%20-%20Data%20Streaming%20",
-  "company_about": "HiveMQ is an Industrial AI platform built on its MQTT enterprise broker for edge-to-cloud industrial data.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Hivemq&network=%5B%22S%22%5D"
  },
  {
   "about": "Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.",
@@ -14595,55 +14227,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e45acd0bb95f&co=Interface-Ai&ti=Senior%20Product%20Manager",
   "company_about": "interface.ai sells agentic AI to credit unions and banks; Series A $30M, cash-flow positive.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Interface-Ai&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "About the Role Join a customer-facing product team at a Series A fintech AI company, helping enterprise customers deploy AI automation across complex operations. You will connect customer needs with technical delivery, guiding implementations that improve \u2026",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "clera",
-  "company_display": "Clera",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-30T18:49:44.007691+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "08140c10e464",
-  "location": "Los Angeles / Remote",
-  "posted": "2026-10-13T17:13:20.788000+00:00",
-  "role10": 2,
-  "role_pts": 12,
-  "score": 22,
-  "score_why": "unknown sector 10 \u00b7 role match 12",
-  "sector": "",
-  "signals": [
-   "compliance",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Agent Product Manager",
-  "url": "https://jobs.ashbyhq.com/clera/84727a3a-0e75-4bf3-9fd7-0e17c2709fe9",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=08140c10e464&co=Clera&ti=Senior%20Agent%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=08140c10e464&co=Clera&ti=Senior%20Agent%20Product%20Manager",
-  "company_about": "Stop sorting through applicants. Start getting introduced. Clera introduces you to people who already want the move and actually fit your roles.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
  },
  {
   "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
@@ -15108,51 +14691,6 @@
  },
  {
   "about": "",
-  "blurb": "JR7221",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "capgroup",
-  "company_display": "Capgroup",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-12T03:16:58.775607+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "analytics",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "88d073bc48cb",
-  "last_seen": "2026-11-12",
-  "location": "Los Angeles / New York / San Francisco",
-  "posted": "2026-11-12T03:17:40.595870+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 20,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "sector": "",
-  "signals": [
-   "analytics"
-  ],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager - Investment Analytics (Fixed Income)",
-  "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Principal-Product-Manager---Investment-Analytics--Fixed-Income-_JR7221-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=88d073bc48cb&co=Capgroup&ti=Principal%20Product%20Manager%20-%20Investment%20Analytics%20%28Fixed%20Income%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88d073bc48cb&co=Capgroup&ti=Principal%20Product%20Manager%20-%20Investment%20Analytics%20%28Fixed%20Income%29",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Capgroup&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Likely leads AI agent product work; posting text unavailable.",
   "bucket": "Remote (US)",
   "comp": null,
@@ -15215,71 +14753,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c07cc622c72a&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20AI%20Agents",
   "company_about": "LawnStarter runs an online lawn-care marketplace (inferred from name; posting text unavailable) (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lawnstarter&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Appears to lead AI strategy and product for investment research tools (unclear; posting text unavailable).",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "capgroup",
-  "company_display": "Capgroup",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-04T02:36:49.269365+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Principal level, AI product",
-    "hi"
-   ],
-   [
-    "LA/NY/SF; SF only fits",
-    "hi"
-   ],
-   [
-    "Finance, no energy; comp unknown",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "6b3269e82fa2",
-  "last_seen": "2026-11-12",
-  "location": "Los Angeles / New York / San Francisco",
-  "posted": "2026-11-04T02:37:46.172924+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 20,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "sector": "",
-  "signals": [
-   "ai"
-  ],
-  "source": "workday",
-  "summary": {
-   "at": "2026-11-04T13:46:40Z",
-   "company": "Capital Group, a large investment management firm (unclear).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Appears to lead AI strategy and product for investment research tools (unclear; posting text unavailable).",
-   "source": "fallback",
-   "why": [
-    "Principal level, AI product",
-    "LA/NY/SF; SF only fits",
-    "Finance, no energy; comp unknown"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, AI Strategy and Product Development for Investment Research",
-  "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Principal-Product-Manager--AI-Strategy-and-Product-Development-for-Investment-Research_JR7731",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6b3269e82fa2&co=Capgroup&ti=Principal%20Product%20Manager%2C%20AI%20Strategy%20and%20Product%20Development%20for%20Investment%20Research",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6b3269e82fa2&co=Capgroup&ti=Principal%20Product%20Manager%2C%20AI%20Strategy%20and%20Product%20Development%20for%20Investment%20Research",
-  "company_about": "Capital Group, a large investment management firm (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Capgroup&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -16396,6 +15869,69 @@
  },
  {
   "about": "",
+  "blurb": "Senior PM for professional education training, per title only.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "edwards",
+  "company_display": "Edwards",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-15T23:39:42.237208+00:00",
+  "fit_tags": [
+   [
+    "fit 2/10",
+    "amber"
+   ],
+   [
+    "Training/education product",
+    "hi"
+   ],
+   [
+    "Medical device company",
+    "hi"
+   ],
+   [
+    "No data axis",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "77eb8280554c",
+  "last_seen": "2026-11-09",
+  "location": "USA - California - Irvine - Hybrid / USA - California \u2013 San Francisco / USA-Idaho-Field / USA - Washington - Seattle / USA - Arizona \u2013 Tucson / USA - Nevada \u2013 Las Vegas / USA - Oregon \u2013 Portland",
+  "posted": "2026-10-15T23:56:07.622066+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 18,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-10-16T19:11:54Z",
+   "company": "Edwards Lifesciences (medical devices); posting text unavailable (unclear).",
+   "fit": 2,
+   "model": "claude-sonnet-5-5",
+   "role": "Senior PM for professional education training, per title only.",
+   "source": "fallback",
+   "why": [
+    "Training/education product",
+    "Medical device company",
+    "No data axis"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Professional Education Training",
+  "url": "https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/USA---California---Irvine---Hybrid/Senior-Product-Manager--Professional-Education-Training_Req-51390",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=77eb8280554c&co=Edwards&ti=Senior%20Product%20Manager%2C%20Professional%20Education%20Training",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=77eb8280554c&co=Edwards&ti=Senior%20Product%20Manager%2C%20Professional%20Education%20Training",
+  "company_about": "Edwards Lifesciences (medical devices); posting text unavailable (unclear).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Edwards&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "About the Role Own a major area of a fintech banking platform, spanning payment experiences, account services, platform reliability, and customer security. You will work across Product, Engineering, Design, Operations, Risk, Compliance, Legal, and external \u2026",
   "bucket": "Remote (US)",
   "comp": "$160\u2013200K",
@@ -16698,6 +16234,56 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7ca467317532&co=Instacart&ti=Senior%20Product%20Manager%2C%20Ad%20Formats",
   "company_about": "Instacart is a grocery delivery marketplace with a retail media ads business.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Instacart&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, New Products",
+  "company": "axion",
+  "location": "San Francisco, CA / New York, NY / Remote",
+  "url": "https://jobs.ashbyhq.com/axion/ecd5d9a4-6eec-47a1-98fe-da290ea75f4d",
+  "posted": "2026-11-12T17:07:12.858000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$200K \u2013 $250K",
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "Backed by leading investors, including Bessemer Venture Partners and Salesforce Ventures, Axion is poised to lead the quality revolution in manufacturing. About the role We\u2019re looking for an experienced Product Manager to chart the course for Axion\u2019s next \u2026",
+  "role_pts": 6,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-12T21:01:32.506190+00:00",
+  "last_seen": "2026-11-12",
+  "company_display": "Axion",
+  "about": "",
+  "signals": [
+   "B2B",
+   "0\u21921"
+  ],
+  "id": "dfc0b45f0a95",
+  "score": 16,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 6",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dfc0b45f0a95&co=Axion&ti=Senior%20Product%20Manager%2C%20New%20Products",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dfc0b45f0a95&co=Axion&ti=Senior%20Product%20Manager%2C%20New%20Products",
+  "company_about": "Axion is the AI platform solving customers\u2019 product quality issues - helping global leaders like Daikin, Harley-Davidson and SharkNinja detect issues earlier, fix them faster, and \u2026",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Axion&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -17266,51 +16852,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ibotta&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Product Manager for Construction Financials , you\u2019ll own product strategy and execution for our platform serving construction owners and general contractors. The product has a solid foundation and significant growth potential.",
-  "bucket": "Remote (US)",
-  "comp": "$135\u2013200K",
-  "company": "getbuilt",
-  "company_display": "Getbuilt",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "008f61a0d50a",
-  "last_seen": "2026-11-12",
-  "location": "Nashville, TN (Onsite) or Remote",
-  "posted": "2026-10-13T10:55:13-04:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 13,
-  "score_why": "unknown sector 10 \u00b7 role match 3",
-  "sector": "",
-  "signals": [
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Construction Financials",
-  "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4743176005",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=008f61a0d50a&co=Getbuilt&ti=Senior%20Product%20Manager%2C%20Construction%20Financials",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=008f61a0d50a&co=Getbuilt&ti=Senior%20Product%20Manager%2C%20Construction%20Financials",
-  "company_about": "Fund, develop, build, and manage on one AI-powered platform. Built for banks, private credit, owners, developers, and general contractors.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Getbuilt&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re a $1B+ learning platform used by two-thirds of U.S.",
   "blurb": "Owns growth strategy across free experience, ads, internationalization and growth loops.",
   "bucket": "SF / Bay",
@@ -17440,6 +16981,92 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c625f629e12b&co=Versapay&ti=Senior%20Product%20Manager%2C%20Payments%20Gateway",
   "company_about": "Versapay automates B2B accounts receivable and payments; 10,000+ customers, $257B annual volume.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Versapay&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Director, Product Manager",
+  "company": "workday",
+  "location": "USA, CA, Remote / USA, WA, Seattle / USA, WA, Remote / USA, CA, Pleasanton",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Remote/Senior-Director--Product-Manager_JR-0111325",
+  "posted": "2026-11-12T21:06:21.884497+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Seattle",
+  "sector": "",
+  "blurb": "JR-0111325",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-12T21:01:32.506190+00:00",
+  "last_seen": "2026-11-12",
+  "company_display": "Workday",
+  "about": "",
+  "signals": [],
+  "id": "4f5bd81eff47",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=4f5bd81eff47&co=Workday&ti=Senior%20Director%2C%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4f5bd81eff47&co=Workday&ti=Senior%20Director%2C%20Product%20Manager",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Workday&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Staff Product Manager, Voice & Telephony",
+  "company": "servicetitan",
+  "location": "US Remote",
+  "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Staff-Product-Manager--Voice---Telephony_JR116471",
+  "posted": "2026-11-12T21:05:31.334911+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "JR116471",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-12T21:01:32.506190+00:00",
+  "last_seen": "2026-11-12",
+  "company_display": "Servicetitan",
+  "about": "",
+  "signals": [],
+  "id": "9731b7a10f62",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9731b7a10f62&co=Servicetitan&ti=Staff%20Product%20Manager%2C%20Voice%20%26%20Telephony",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9731b7a10f62&co=Servicetitan&ti=Staff%20Product%20Manager%2C%20Voice%20%26%20Telephony",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Servicetitan&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -17915,7 +17542,7 @@
   "id": "56eac9ee1a43",
   "last_seen": "2026-11-12",
   "location": "Remote",
-  "posted": "2026-11-04T03:19:55.994949+00:00",
+  "posted": "2026-11-03T21:05:10.645485+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 10,
@@ -19584,69 +19211,6 @@
  },
  {
   "about": "",
-  "blurb": "Senior PM for professional education training, per title only.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "edwards",
-  "company_display": "Edwards",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Training/education product",
-    "hi"
-   ],
-   [
-    "Medical device company",
-    "hi"
-   ],
-   [
-    "No data axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "77eb8280554c",
-  "last_seen": "2026-11-09",
-  "location": "USA - California - Irvine - Hybrid / USA - California \u2013 San Francisco / USA-Idaho-Field / USA - Washington - Seattle / USA - Arizona \u2013 Tucson / USA - Nevada \u2013 Las Vegas / USA - Oregon \u2013 Portland",
-  "posted": "2026-10-15T23:56:07.622066+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Edwards Lifesciences (medical devices); posting text unavailable (unclear).",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for professional education training, per title only.",
-   "source": "fallback",
-   "why": [
-    "Training/education product",
-    "Medical device company",
-    "No data axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Professional Education Training",
-  "url": "https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/USA---California---Irvine---Hybrid/Senior-Product-Manager--Professional-Education-Training_Req-51390",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=77eb8280554c&co=Edwards&ti=Senior%20Product%20Manager%2C%20Professional%20Education%20Training",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=77eb8280554c&co=Edwards&ti=Senior%20Product%20Manager%2C%20Professional%20Education%20Training",
-  "company_about": "Edwards Lifesciences (medical devices); posting text unavailable (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Edwards&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Staff PM for 'Vector' (unclear from available text).",
   "bucket": "Seattle",
   "comp": null,
@@ -20006,177 +19570,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0041cd9116d2&co=Keybank&ti=Product%20Manager%3A%20Senior%20Partnership%20Lead",
   "company_about": "KeyBank is an American regional bank, headquartered in Cleveland, Ohio.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Keybank&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "JR-IC-000069",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "workday",
-  "company_display": "Workday",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "579e81cd3a70",
-  "last_seen": "2026-11-12",
-  "location": "USA, CA, San Francisco",
-  "posted": "2026-10-13T20:53:40.435475+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal, Product Manager",
-  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Principal--Product-Manager_JR-IC-000069-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=579e81cd3a70&co=Workday&ti=Principal%2C%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=579e81cd3a70&co=Workday&ti=Principal%2C%20Product%20Manager",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Workday&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "26WD101495",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "autodesk",
-  "company_display": "Autodesk",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "8c043f108b41",
-  "location": "California, USA - Remote",
-  "posted": "2026-10-13T20:09:50.748957+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Principal Product Manager\u00a0",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/California-USA---Remote/Senior-Principal-Product-Manager-_26WD101495-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=8c043f108b41&co=Autodesk&ti=Senior%20Principal%20Product%20Manager%C2%A0",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8c043f108b41&co=Autodesk&ti=Senior%20Principal%20Product%20Manager%C2%A0",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Autodesk&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "product manager exec technical customer support testing senior ops medical engineer recruiter",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "thyme-care",
-  "company_display": "Thyme Care",
-  "company_line": null,
-  "company_name": "Thyme Care",
-  "emailed": true,
-  "first_seen": "2026-10-14T18:18:13.820137+00:00",
-  "fit_tags": [
-   [
-    "remote",
-    "mid"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "bcf02bb70862",
-  "last_seen": "2026-11-12",
-  "location": "Remote (Remote)",
-  "posted": "2026-10-13T08:00:11+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "remote sector 10 \u00b7 role match 0",
-  "sector": "remote",
-  "signals": [],
-  "source": "remoteok",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager Strategic Initiatives",
-  "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=bcf02bb70862&co=Thyme%20Care&ti=Principal%20Product%20Manager%20Strategic%20Initiatives",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=bcf02bb70862&co=Thyme%20Care&ti=Principal%20Product%20Manager%20Strategic%20Initiatives",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Thyme+Care&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Product",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "oportun",
-  "company_display": "Oportun",
-  "company_line": null,
-  "company_name": "Oportun",
-  "emailed": true,
-  "first_seen": "2026-10-13T20:05:15.426470+00:00",
-  "fit_tags": [
-   [
-    "remote",
-    "mid"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "0dca5c9dc506",
-  "last_seen": "2026-11-12",
-  "location": "Remote (Anywhere in the World)",
-  "posted": "2026-10-13T07:31:00+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "remote sector 10 \u00b7 role match 0",
-  "sector": "remote",
-  "signals": [],
-  "source": "wwr",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, Savings (R13997)",
-  "url": "https://weworkremotely.com/remote-jobs/oportun-principal-product-manager-savings-r13997",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0dca5c9dc506&co=Oportun&ti=Principal%20Product%20Manager%2C%20Savings%20%28R13997%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0dca5c9dc506&co=Oportun&ti=Principal%20Product%20Manager%2C%20Savings%20%28R13997%29",
-  "company_about": "Get quick, affordable personal loans between $300 and $10,000. Or, put your savings on auto. Your goals are our goals.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Oportun&network=%5B%22S%22%5D"
  },
  {
   "about": "",
