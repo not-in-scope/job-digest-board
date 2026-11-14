@@ -1158,74 +1158,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Natera&network=%5B%22S%22%5D"
  },
  {
-  "about": "We are an award winning company disrupting the $200B+ cybersecurity market.",
-  "blurb": "Owns the integrations and platform squads: signal ingestion, self-serve admin, tenancy, audit trail.",
-  "bucket": "Remote (US)",
-  "comp": "$175\u2013190K",
-  "company": "dropzoneai",
-  "company_display": "Dropzoneai",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-18T16:45:43.207305+00:00",
-  "fit_tags": [
-   [
-    "fit 7/10",
-    "amber"
-   ],
-   [
-    "Integrations/data ingestion platform",
-    "hi"
-   ],
-   [
-    "Audit trail, governed actions",
-    "hi"
-   ],
-   [
-    "Remote US; $175-190K; security domain",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "e634ff8cf37f",
-  "last_seen": "2026-11-14",
-  "location": "Remote - US",
-  "posted": "2026-10-15T11:57:39-04:00",
-  "role10": 6,
-  "role_pts": 32,
-  "score": 67,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 32",
-  "sector": "compliance",
-  "signals": [
-   "integrations",
-   "platform",
-   "compliance",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-18T22:45:58Z",
-   "company": "Dropzone AI sells an AI SOC analyst that investigates security alerts; venture-backed cybersecurity startup.",
-   "fit": 7,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the integrations and platform squads: signal ingestion, self-serve admin, tenancy, audit trail.",
-   "source": "posting",
-   "why": [
-    "Integrations/data ingestion platform",
-    "Audit trail, governed actions",
-    "Remote US; $175-190K; security domain"
-   ]
-  },
-  "target": null,
-  "tier": "strong",
-  "title": "Senior Product Manager, Integrations & Platform",
-  "url": "https://job-boards.greenhouse.io/dropzoneai/jobs/4438191009",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e634ff8cf37f&co=Dropzoneai&ti=Senior%20Product%20Manager%2C%20Integrations%20%26%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e634ff8cf37f&co=Dropzoneai&ti=Senior%20Product%20Manager%2C%20Integrations%20%26%20Platform",
-  "company_about": "Dropzone AI sells an AI SOC analyst that investigates security alerts; venture-backed cybersecurity startup.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Dropzoneai&network=%5B%22S%22%5D"
- },
- {
   "about": "We're about 30 people running one agent across energy, broadband, mobile, insurance, mortgages and subscriptions (with more being added), each with its own suppliers, rules and \u2026",
   "blurb": "PM running a squad on an agent that acts for households; PMs prototype and commit code.",
   "bucket": "Remote (US)",
@@ -1425,6 +1357,73 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e48be81ee842&co=Mural&ti=Senior%20Product%20Manager%2C%20Data%20Products%20",
   "company_about": "Mural is a collaboration/whiteboard SaaS used by large enterprises.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Mural&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
+  "blurb": "Owns the core platform: documents, sheets, permissions, integrations and the agent infrastructure under every product.",
+  "bucket": "SF / Bay",
+  "comp": "$225K \u2013 $315K",
+  "company": "fieldguide",
+  "company_display": "Fieldguide",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-14T02:38:11.503281+00:00",
+  "fit_tags": [
+   [
+    "fit 9/10",
+    "amber"
+   ],
+   [
+    "Platform scope, audit-grade domain",
+    "hi"
+   ],
+   [
+    "Auditor fluency from BDO/tax work",
+    "hi"
+   ],
+   [
+    "Principal/Staff, $225-315K, Remote US",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "da865bd5f399",
+  "last_seen": "2026-11-14",
+  "location": "San Francisco, CA or Remote (USA) / Remote",
+  "posted": "2026-11-13T22:27:26.195000+00:00",
+  "role10": 4,
+  "role_pts": 22,
+  "score": 65,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 22 \u00b7 your \ud83d\udc4d +8",
+  "sector": "compliance",
+  "signals": [
+   "platform",
+   "compliance",
+   "B2B"
+  ],
+  "source": "ashby",
+  "summary": {
+   "at": "2026-11-14T14:46:12Z",
+   "company": "Fieldguide makes AI-native software for audit and risk advisory firms, used by most top-100 CPA firms.",
+   "fit": 9,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the core platform: documents, sheets, permissions, integrations and the agent infrastructure under every product.",
+   "source": "posting",
+   "why": [
+    "Platform scope, audit-grade domain",
+    "Auditor fluency from BDO/tax work",
+    "Principal/Staff, $225-315K, Remote US"
+   ]
+  },
+  "target": null,
+  "tier": "strong",
+  "title": "Principal/Staff Product Manager, Platform",
+  "url": "https://jobs.ashbyhq.com/fieldguide/5014884c-a8e0-49d5-adb7-60fbbcd9447f",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=da865bd5f399&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Platform",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=da865bd5f399&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Platform",
+  "company_about": "Fieldguide makes AI-native software for audit and risk advisory firms, used by most top-100 CPA firms.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
  },
  {
   "about": "We're growing quickly and recently raised our $1.5B Series F , led by Altimeter Capital, Conviction Partners, and Spark Capital.",
@@ -2186,73 +2185,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Horizon3Ai&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Owns roadmaps for core modules and AI agents, with audit logs and decision boundaries.",
-  "bucket": "Remote (US)",
-  "comp": "$170\u2013200K",
-  "company": "clera",
-  "company_display": "Clera",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T18:00:41.385806+00:00",
-  "fit_tags": [
-   [
-    "fit 8/10",
-    "amber"
-   ],
-   [
-    "Audit logs, regulated supply chain",
-    "hi"
-   ],
-   [
-    "AI agents with guardrails",
-    "hi"
-   ],
-   [
-    "Remote, $170-200K",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "9ce99d39f5a5",
-  "location": "remote",
-  "posted": "2026-10-15T17:10:42.770000+00:00",
-  "role10": 5,
-  "role_pts": 26,
-  "score": 61,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 26",
-  "sector": "compliance",
-  "signals": [
-   "technical",
-   "compliance",
-   "AI/LLM",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Clera builds software for temperature-sensitive logistics and regulated pharma supply chains.",
-   "fit": 8,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns roadmaps for core modules and AI agents, with audit logs and decision boundaries.",
-   "source": "posting",
-   "why": [
-    "Audit logs, regulated supply chain",
-    "AI agents with guardrails",
-    "Remote, $170-200K"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Senior Technical Product Manager",
-  "url": "https://jobs.ashbyhq.com/clera/1d67bd15-900e-4c02-b998-eaa4607c5f73",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9ce99d39f5a5&co=Clera&ti=Senior%20Technical%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9ce99d39f5a5&co=Clera&ti=Senior%20Technical%20Product%20Manager",
-  "company_about": "Clera builds software for temperature-sensitive logistics and regulated pharma supply chains.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
- },
- {
   "about": "Socure is building the identity trust infrastructure for the digital economy \u2014 verifying 100% of good identities in real time and stopping fraud before it starts.",
   "blurb": "Commercializes graph-powered products: packaging, pricing, APIs and go-to-market on the RiskOS platform.",
   "bucket": "Seattle",
@@ -2390,6 +2322,76 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1d98e0da374e&co=Okta&ti=Principal%20Product%20Manager%2C%20Enterprise%20AI",
   "company_about": "Okta builds identity and access security software; this team is its internal Enterprise AI group.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Okta&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
+  "blurb": "Leads product for Risk Advisory: AI agents and workflows for practitioners doing advisory and assurance work.",
+  "bucket": "SF / Bay",
+  "comp": "$225K \u2013 $315K",
+  "company": "fieldguide",
+  "company_display": "Fieldguide",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-14T02:38:11.503281+00:00",
+  "fit_tags": [
+   [
+    "fit 9/10",
+    "amber"
+   ],
+   [
+    "Audit-grade, regulated domain",
+    "hi"
+   ],
+   [
+    "BDO + tax background maps directly",
+    "hi"
+   ],
+   [
+    "Principal/Staff, $225-315K, Remote US",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "6e8f481a6797",
+  "last_seen": "2026-11-14",
+  "location": "San Francisco, CA or Remote (USA) / Remote",
+  "posted": "2026-11-13T22:27:24.151000+00:00",
+  "role10": 3,
+  "role_pts": 16,
+  "score": 59,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 16 \u00b7 your \ud83d\udc4d +8",
+  "sector": "compliance",
+  "signals": [
+   "compliance",
+   "AI/LLM",
+   "B2B"
+  ],
+  "source": "ashby",
+  "summary": {
+   "at": "2026-11-14T14:46:12Z",
+   "company": "Fieldguide makes AI-native software for audit and risk advisory firms, used by most top-100 CPA firms.",
+   "fit": 9,
+   "model": "claude-sonnet-5-5",
+   "role": "Leads product for Risk Advisory: AI agents and workflows for practitioners doing advisory and assurance work.",
+   "source": "posting",
+   "why": [
+    "Audit-grade, regulated domain",
+    "BDO + tax background maps directly",
+    "Principal/Staff, $225-315K, Remote US"
+   ]
+  },
+  "target": null,
+  "tier": "good",
+  "title": "Principal/Staff Product Manager, Risk Advisory",
+  "url": "https://jobs.ashbyhq.com/fieldguide/25902b53-e03c-40cc-8be3-72513a4eb97f",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-14T03:47:44.183Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6e8f481a6797&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Risk%20Advisory",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6e8f481a6797&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Risk%20Advisory",
+  "company_about": "Fieldguide makes AI-native software for audit and risk advisory firms, used by most top-100 CPA firms.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
  },
  {
   "about": "Fireworks AI is an equal-opportunity employer.",
@@ -2596,6 +2598,73 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Acuitymd&network=%5B%22S%22%5D"
  },
  {
+  "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
+  "blurb": "Owns strategy and roadmap for the corporate internal audit line, building AI audit agents for the audit lifecycle.",
+  "bucket": "SF / Bay",
+  "comp": "$200K \u2013 $290K",
+  "company": "fieldguide",
+  "company_display": "Fieldguide",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-04T20:30:45.142779+00:00",
+  "fit_tags": [
+   [
+    "fit 9/10",
+    "amber"
+   ],
+   [
+    "Audit/SOX/compliance data core",
+    "hi"
+   ],
+   [
+    "Tax and audit background, BDO",
+    "hi"
+   ],
+   [
+    "Remote US/SF; $200-290K",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "a625c39a4847",
+  "last_seen": "2026-11-14",
+  "location": "San Francisco, CA or Remote (USA) / Remote",
+  "posted": "2026-11-04T16:38:39.231000+00:00",
+  "role10": 3,
+  "role_pts": 16,
+  "score": 59,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 16 \u00b7 your \ud83d\udc4d +8",
+  "sector": "compliance",
+  "signals": [
+   "compliance",
+   "AI/LLM",
+   "B2B"
+  ],
+  "source": "ashby",
+  "summary": {
+   "at": "2026-11-04T22:45:58Z",
+   "company": "Fieldguide, growth-stage startup building audit and tax software for CPA firms, backed by Goldman Sachs, Bessemer, 8VC.",
+   "fit": 9,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns strategy and roadmap for the corporate internal audit line, building AI audit agents for the audit lifecycle.",
+   "source": "posting",
+   "why": [
+    "Audit/SOX/compliance data core",
+    "Tax and audit background, BDO",
+    "Remote US/SF; $200-290K"
+   ]
+  },
+  "target": null,
+  "tier": "good",
+  "title": "Lead/Principal/Staff Product Manager, Corporate Internal Audit",
+  "url": "https://jobs.ashbyhq.com/fieldguide/0deffd26-4a15-499b-9912-5969d0884e99",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a625c39a4847&co=Fieldguide&ti=Lead%2FPrincipal%2FStaff%20Product%20Manager%2C%20Corporate%20Internal%20Audit",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a625c39a4847&co=Fieldguide&ti=Lead%2FPrincipal%2FStaff%20Product%20Manager%2C%20Corporate%20Internal%20Audit",
+  "company_about": "Fieldguide, growth-stage startup building audit and tax software for CPA firms, backed by Goldman Sachs, Bessemer, 8VC.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Likely owns technical product for AI agents tooling or platform (unclear).",
   "bucket": "Remote (US)",
@@ -2626,7 +2695,7 @@
   ],
   "hidden": false,
   "id": "b7490c5eb22a",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US, CA, Santa Clara / US, Remote",
   "posted": "2026-11-09T23:10:11.601988+00:00",
@@ -2663,6 +2732,65 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b7490c5eb22a&co=Nvidia&ti=Senior%20Technical%20Product%20Manager%20%E2%80%93%20AI%20Agents",
   "company_about": "Nvidia; posting details unavailable, title implies AI agent products.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "Fieldguide\u2019s team is inclusive, driven, humble and supportive.",
+  "blurb": "As a growth stage startup employee, you\u2019ll have the opportunity to build out the future of business trust. We make audit practitioners\u2019 lives easier by eliminating up to 50% of their work and giving them better work-life balance.",
+  "bucket": "SF / Bay",
+  "comp": "$200K \u2013 $275K",
+  "company": "fieldguide",
+  "company_display": "Fieldguide",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-09-25T18:13:39.898986+00:00",
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "1b6820d95b1a",
+  "last_seen": "2026-11-14",
+  "location": "San Francisco, CA or Remote (USA) / Remote",
+  "posted": "2026-11-04T16:36:58.559000+00:00",
+  "role10": 3,
+  "role_pts": 15,
+  "score": 58,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 15 \u00b7 your \ud83d\udc4d +8",
+  "sector": "compliance",
+  "signals": [
+   "compliance",
+   "B2B",
+   "0\u21921"
+  ],
+  "source": "ashby",
+  "summary": null,
+  "target": null,
+  "tier": "good",
+  "title": "Lead/Principal Product Manager, Tax Agents",
+  "url": "https://jobs.ashbyhq.com/fieldguide/8f4af483-f70a-4065-8d55-8395e512bc95",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1b6820d95b1a&co=Fieldguide&ti=Lead%2FPrincipal%20Product%20Manager%2C%20Tax%20Agents",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1b6820d95b1a&co=Fieldguide&ti=Lead%2FPrincipal%20Product%20Manager%2C%20Tax%20Agents",
+  "company_about": "Fieldguide is the agentic AI platform for audit and advisory firms. Field Agents run planning, testing, and review\u2014trusted by 50% of the top 100 firms.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
  },
  {
   "about": "Founded in 2005, 8am\u2122 (formerly AffiniPay) is the professional business platform built to help legal, accounting, and other client-focused professionals run stronger, more \u2026",
@@ -2802,61 +2930,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ee38945f3981&co=Uipath&ti=Principal%20Product%20Manager%20%28Agentic%20Automation%29",
   "company_about": "UiPath sells enterprise automation software and is expanding into agentic automation.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Uipath&network=%5B%22S%22%5D"
- },
- {
-  "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
-  "blurb": "As a growth stage startup employee, you'll have the opportunity to build the future of business trust. We make audit practitioners' lives easier by eliminating up to 50% of their work and giving them better work-life balance.",
-  "bucket": "SF / Bay",
-  "comp": "$225K \u2013 $315K",
-  "company": "fieldguide",
-  "company_display": "Fieldguide",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-14T02:38:11.503281+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "platform",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "da865bd5f399",
-  "last_seen": "2026-11-14",
-  "location": "San Francisco, CA or Remote (USA) / Remote",
-  "posted": "2026-11-13T22:27:26.195000+00:00",
-  "role10": 4,
-  "role_pts": 22,
-  "score": 57,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 22",
-  "sector": "compliance",
-  "signals": [
-   "platform",
-   "compliance",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Principal/Staff Product Manager, Platform",
-  "url": "https://jobs.ashbyhq.com/fieldguide/5014884c-a8e0-49d5-adb7-60fbbcd9447f",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=da865bd5f399&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=da865bd5f399&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Platform",
-  "company_about": "Fieldguide is the agentic AI platform for audit and advisory firms. Field Agents run planning, testing, and review\u2014trusted by 50% of the top 100 firms.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -3194,73 +3267,7 @@
  },
  {
   "about": "",
-  "blurb": "Trust & Safety PM for moderation system EverGuard.",
-  "bucket": "Remote (US)",
-  "comp": "$95K \u2013 $125K",
-  "company": "everai",
-  "company_display": "Everai",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
-  "fit_tags": [
-   [
-    "fit 1/10",
-    "amber"
-   ],
-   [
-    "Cyprus-based, non-US",
-    "hi"
-   ],
-   [
-    "$95-125K",
-    "hi"
-   ],
-   [
-    "Dealbreaker: non-US",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "3b78c492de3a",
-  "last_seen": "2026-10-27",
-  "location": "Cyprus / Remote",
-  "posted": "2026-10-15T10:00:08.187000+00:00",
-  "role10": 3,
-  "role_pts": 13,
-  "score": 56,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 13 \u00b7 your \ud83d\udc4d +8",
-  "sector": "compliance",
-  "signals": [
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "EverAI runs an AI companionship app with 50M users, ~100 people.",
-   "fit": 1,
-   "model": "claude-sonnet-5-5",
-   "role": "Trust & Safety PM for moderation system EverGuard.",
-   "source": "posting",
-   "why": [
-    "Cyprus-based, non-US",
-    "$95-125K",
-    "Dealbreaker: non-US"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Product Manager - Trust & Safety (Full Remote - Cyprus)",
-  "url": "https://jobs.ashbyhq.com/everai/2b8b84eb-410d-4fc0-ac98-8c5fd8626b23",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3b78c492de3a&co=Everai&ti=Product%20Manager%20-%20Trust%20%26%20Safety%20%28Full%20Remote%20-%20Cyprus%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3b78c492de3a&co=Everai&ti=Product%20Manager%20-%20Trust%20%26%20Safety%20%28Full%20Remote%20-%20Cyprus%29",
-  "company_about": "EverAI runs an AI companionship app with 50M users, ~100 people.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Everai&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "About the Role Motive data powers the physical economy, and a growing set of partners want to build on it. As the Senior Product Manager, Data Partnerships, you will turn Motive's data into innovative products that partners use.",
+  "blurb": "Owns the data partnerships platform: consent, APIs, access controls, and flagship partner data products.",
   "bucket": "Remote (US)",
   "comp": "$150\u2013187K",
   "company": "gomotive",
@@ -3271,19 +3278,19 @@
   "first_seen": "2026-11-14T02:38:11.503281+00:00",
   "fit_tags": [
    [
-    "iot",
+    "fit 7/10",
+    "amber"
+   ],
+   [
+    "Data platform + partner data products",
     "hi"
    ],
    [
-    "data",
-    "mid"
-   ],
-   [
-    "energy",
+    "Consent/access controls, data schedules",
     "hi"
    ],
    [
-    "compliance",
+    "Remote US; $150-187K below target",
     "hi"
    ]
   ],
@@ -3303,14 +3310,26 @@
    "compliance"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-14T14:46:12Z",
+   "company": "Motive sells fleet and physical-operations software to ~100,000 customers; fintech-style fleet spend and AI.",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the data partnerships platform: consent, APIs, access controls, and flagship partner data products.",
+   "source": "posting",
+   "why": [
+    "Data platform + partner data products",
+    "Consent/access controls, data schedules",
+    "Remote US; $150-187K below target"
+   ]
+  },
   "target": null,
   "tier": "good",
   "title": "Senior Product Manager - Data Partnerships",
   "url": "https://job-boards.greenhouse.io/gomotive/jobs/8933687002",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=393705b2ca86&co=Motive&ti=Senior%20Product%20Manager%20-%20Data%20Partnerships",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=393705b2ca86&co=Motive&ti=Senior%20Product%20Manager%20-%20Data%20Partnerships",
-  "company_about": "Motive provides an integrated platform to help improve the safety, productivity, and profitability of fleet operations for the physical economy.",
+  "company_about": "Motive sells fleet and physical-operations software to ~100,000 customers; fintech-style fleet spend and AI.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Motive&network=%5B%22S%22%5D"
  },
  {
@@ -3948,7 +3967,7 @@
   ],
   "hidden": false,
   "id": "41f7380992b8",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-04T02:41:18.006009+00:00",
@@ -4388,128 +4407,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Vanta&network=%5B%22S%22%5D"
  },
  {
-  "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
-  "blurb": "As a growth stage startup employee, you'll have the opportunity to build the future of business trust. We make audit practitioners' lives easier by eliminating up to 50% of their work and giving them better work-life balance.",
-  "bucket": "SF / Bay",
-  "comp": "$225K \u2013 $315K",
-  "company": "fieldguide",
-  "company_display": "Fieldguide",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-14T02:38:11.503281+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "6e8f481a6797",
-  "last_seen": "2026-11-14",
-  "location": "San Francisco, CA or Remote (USA) / Remote",
-  "posted": "2026-11-13T22:27:24.151000+00:00",
-  "role10": 3,
-  "role_pts": 16,
-  "score": 51,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 16",
-  "sector": "compliance",
-  "signals": [
-   "compliance",
-   "AI/LLM",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Principal/Staff Product Manager, Risk Advisory",
-  "url": "https://jobs.ashbyhq.com/fieldguide/25902b53-e03c-40cc-8be3-72513a4eb97f",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6e8f481a6797&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Risk%20Advisory",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6e8f481a6797&co=Fieldguide&ti=Principal%2FStaff%20Product%20Manager%2C%20Risk%20Advisory",
-  "company_about": "Fieldguide is the agentic AI platform for audit and advisory firms. Field Agents run planning, testing, and review\u2014trusted by 50% of the top 100 firms.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
- },
- {
-  "about": "We're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere.",
-  "blurb": "Owns strategy and roadmap for the corporate internal audit line, building AI audit agents for the audit lifecycle.",
-  "bucket": "SF / Bay",
-  "comp": "$200K \u2013 $290K",
-  "company": "fieldguide",
-  "company_display": "Fieldguide",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-04T20:30:45.142779+00:00",
-  "fit_tags": [
-   [
-    "fit 9/10",
-    "amber"
-   ],
-   [
-    "Audit/SOX/compliance data core",
-    "hi"
-   ],
-   [
-    "Tax and audit background, BDO",
-    "hi"
-   ],
-   [
-    "Remote US/SF; $200-290K",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "a625c39a4847",
-  "last_seen": "2026-11-14",
-  "location": "San Francisco, CA or Remote (USA) / Remote",
-  "posted": "2026-11-04T16:38:39.231000+00:00",
-  "role10": 3,
-  "role_pts": 16,
-  "score": 51,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 16",
-  "sector": "compliance",
-  "signals": [
-   "compliance",
-   "AI/LLM",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-11-04T22:45:58Z",
-   "company": "Fieldguide, growth-stage startup building audit and tax software for CPA firms, backed by Goldman Sachs, Bessemer, 8VC.",
-   "fit": 9,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns strategy and roadmap for the corporate internal audit line, building AI audit agents for the audit lifecycle.",
-   "source": "posting",
-   "why": [
-    "Audit/SOX/compliance data core",
-    "Tax and audit background, BDO",
-    "Remote US/SF; $200-290K"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Lead/Principal/Staff Product Manager, Corporate Internal Audit",
-  "url": "https://jobs.ashbyhq.com/fieldguide/0deffd26-4a15-499b-9912-5969d0884e99",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a625c39a4847&co=Fieldguide&ti=Lead%2FPrincipal%2FStaff%20Product%20Manager%2C%20Corporate%20Internal%20Audit",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a625c39a4847&co=Fieldguide&ti=Lead%2FPrincipal%2FStaff%20Product%20Manager%2C%20Corporate%20Internal%20Audit",
-  "company_about": "Fieldguide, growth-stage startup building audit and tax software for CPA firms, backed by Goldman Sachs, Bessemer, 8VC.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re building the AI intelligence platform that restores humanity to healthcare and drives meaningful ROI for health systems across the country.",
   "blurb": "Owns a product area on the clinical AI platform: roadmap, AI output quality evals, and clinician adoption.",
   "bucket": "SF / Bay",
@@ -4711,61 +4608,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=754210118d03&co=Snowflake&ti=Senior%20Product%20Manager%20-%20Openflow",
   "company_about": "Snowflake: cloud data platform; Openflow is its managed data integration service built on Apache NiFi.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Snowflake&network=%5B%22S%22%5D"
- },
- {
-  "about": "Fieldguide\u2019s team is inclusive, driven, humble and supportive.",
-  "blurb": "As a growth stage startup employee, you\u2019ll have the opportunity to build out the future of business trust. We make audit practitioners\u2019 lives easier by eliminating up to 50% of their work and giving them better work-life balance.",
-  "bucket": "SF / Bay",
-  "comp": "$200K \u2013 $275K",
-  "company": "fieldguide",
-  "company_display": "Fieldguide",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-25T18:13:39.898986+00:00",
-  "fit_tags": [
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "0\u21921",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "1b6820d95b1a",
-  "last_seen": "2026-11-14",
-  "location": "San Francisco, CA or Remote (USA) / Remote",
-  "posted": "2026-11-04T16:36:58.559000+00:00",
-  "role10": 3,
-  "role_pts": 15,
-  "score": 50,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 15",
-  "sector": "compliance",
-  "signals": [
-   "compliance",
-   "B2B",
-   "0\u21921"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Lead/Principal Product Manager, Tax Agents",
-  "url": "https://jobs.ashbyhq.com/fieldguide/8f4af483-f70a-4065-8d55-8395e512bc95",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1b6820d95b1a&co=Fieldguide&ti=Lead%2FPrincipal%20Product%20Manager%2C%20Tax%20Agents",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1b6820d95b1a&co=Fieldguide&ti=Lead%2FPrincipal%20Product%20Manager%2C%20Tax%20Agents",
-  "company_about": "Fieldguide is the agentic AI platform for audit and advisory firms. Field Agents run planning, testing, and review\u2014trusted by 50% of the top 100 firms.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -5526,7 +5368,7 @@
   ],
   "hidden": false,
   "id": "f0a330c832b1",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US, CA, Santa Clara / US, WA, Seattle",
   "posted": "2026-11-13T02:53:43.523977+00:00",
@@ -5594,7 +5436,7 @@
   ],
   "hidden": false,
   "id": "ef85b0090461",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US, CA, Santa Clara / US, WA, Seattle",
   "posted": "2026-11-09T23:10:11.601985+00:00",
@@ -5833,7 +5675,7 @@
  },
  {
   "about": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered \u2026",
-  "blurb": "About the role The world\u2019s most regulated companies, from global banks to healthcare systems, need a secure and reliable way to orchestrate the flow of mission-critical data. With 3,600+ contributors and 30 million downloads a month, Airflow is one of the \u2026",
+  "blurb": "Owns Astro Private Cloud: managed Airflow inside regulated customers' locked-down or air-gapped infra.",
   "bucket": "SF / Bay",
   "comp": "$230\u2013300K",
   "company": "astronomer",
@@ -5844,20 +5686,20 @@
   "first_seen": "2026-11-14T02:38:11.503281+00:00",
   "fit_tags": [
    [
-    "datainfra",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
+    "fit 7/10",
     "amber"
+   ],
+   [
+    "Data platform, regulated customers",
+    "hi"
+   ],
+   [
+    "Staff level, $230-300K",
+    "hi"
+   ],
+   [
+    "SF hybrid or Remote; infra-heavy",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -5875,14 +5717,26 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-14T14:46:12Z",
+   "company": "Astronomer makes Astro, managed Apache Airflow data orchestration used by 900+ enterprises.",
+   "fit": 7,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns Astro Private Cloud: managed Airflow inside regulated customers' locked-down or air-gapped infra.",
+   "source": "posting",
+   "why": [
+    "Data platform, regulated customers",
+    "Staff level, $230-300K",
+    "SF hybrid or Remote; infra-heavy"
+   ]
+  },
   "target": "b",
   "tier": "good",
   "title": "Staff Product Manager",
   "url": "https://jobs.ashbyhq.com/astronomer/132a4732-ee65-4879-a445-98407aa26870",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=09c25e0a7f7a&co=Astronomer&ti=Staff%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=09c25e0a7f7a&co=Astronomer&ti=Staff%20Product%20Manager",
-  "company_about": "Apache Airflow\u00ae orchestrates the world\u2019s data, ML, and AI pipelines. Astro is the best way to build, run, and observe them at scale.",
+  "company_about": "Astronomer makes Astro, managed Apache Airflow data orchestration used by 900+ enterprises.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Astronomer&network=%5B%22S%22%5D"
  },
  {
@@ -6139,6 +5993,9 @@
   "tier": "good",
   "title": "Staff, Product Manager - Identity",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-14T03:48:28.671Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a3cfa6c9045f&co=Twilio&ti=Staff%2C%20Product%20Manager%20-%20Identity",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a3cfa6c9045f&co=Twilio&ti=Staff%2C%20Product%20Manager%20-%20Identity",
   "company_about": "Twilio is a remote-first communications API platform for developers.",
@@ -6212,6 +6069,74 @@
  },
  {
   "about": "",
+  "blurb": "Title implies a Staff PM for a data foundation platform; details not stated.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "walmart",
+  "company_display": "Walmart",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-07T02:15:59.660059+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Staff-level data platform title",
+    "hi"
+   ],
+   [
+    "Bellevue WA matches Seattle metro",
+    "hi"
+   ],
+   [
+    "Scope and domain unverified",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "dd55aaa4e7f0",
+  "last_seen": "2026-11-14",
+  "liked": true,
+  "location": "(USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office / (USA) 221 River St NJ HOBOKEN Home Office",
+  "posted": "2026-11-07T02:19:40.417640+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 44,
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [
+   "data"
+  ],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-07T03:51:29.761Z",
+  "summary": {
+   "at": "2026-11-07T13:46:52Z",
+   "company": "Walmart is a large US retailer; the posting text was unavailable.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Title implies a Staff PM for a data foundation platform; details not stated.",
+   "source": "fallback",
+   "why": [
+    "Staff-level data platform title",
+    "Bellevue WA matches Seattle metro",
+    "Scope and domain unverified"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "(USA) Staff, Product Manager - WMC Data Foundation",
+  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME--USA--Staff--Product-Manager---WMC-Data-Foundation_R-2699546",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
+  "company_about": "Walmart is a large US retailer; the posting text was unavailable.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "Title implies Principal PM for the AI Defense security product; scope not stated.",
   "bucket": "SF / Bay",
   "comp": null,
@@ -6241,7 +6166,7 @@
   ],
   "hidden": false,
   "id": "32a7061bd779",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Milpitas, California, US / San Jose, California, US / San Francisco, California, US / Santa Clara, California, US / San Mateo, California, US",
   "posted": "2026-11-07T02:17:05.459749+00:00",
@@ -7148,70 +7073,6 @@
  },
  {
   "about": "",
-  "blurb": "Owns software running Signatera's high-throughput lab execution.",
-  "bucket": "Remote (US)",
-  "comp": "$128\u2013152K",
-  "company": "natera",
-  "company_display": "Natera",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-15T23:39:42.237208+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Regulated lab (CLIA) software",
-    "hi"
-   ],
-   [
-    "Remote US",
-    "hi"
-   ],
-   [
-    "$128-152K below target",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7b8da2f55657",
-  "location": "US Remote",
-  "posted": "2026-10-15T12:11:08-04:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 44,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9",
-  "sector": "compliance",
-  "signals": [
-   "compliance"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Natera is a genetic testing company; Signatera is its cancer-recurrence test.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns software running Signatera's high-throughput lab execution.",
-   "source": "fallback",
-   "why": [
-    "Regulated lab (CLIA) software",
-    "Remote US",
-    "$128-152K below target"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Product Manager, Lab Execution Oncology (Signatera)",
-  "url": "https://job-boards.greenhouse.io/natera/jobs/6224881004",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7b8da2f55657&co=Natera&ti=Product%20Manager%2C%20Lab%20Execution%20Oncology%20%28Signatera%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7b8da2f55657&co=Natera&ti=Product%20Manager%2C%20Lab%20Execution%20Oncology%20%28Signatera%29",
-  "company_about": "Natera is a genetic testing company; Signatera is its cancer-recurrence test.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Natera&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Leads product for how Google's docs ground AI agents: Developer Knowledge API, RAG evals.",
   "bucket": "Seattle",
   "comp": "$192,000-$278,000 base + bonus + equity + benefits",
@@ -7606,7 +7467,7 @@
  },
  {
   "about": "Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers.",
-  "blurb": "About the Role Customers come to Lambda for compute, and then decide whether to stay based on where their data lives. Weights, checkpoints, and training sets are the part of the workload that is expensive to move and painful to lose, so storage is where a GPU \u2026",
+  "blurb": "Owns storage products (block, shared, object) and data throughput, durability and key handling for GPU customers.",
   "bucket": "Seattle",
   "comp": "$291K \u2013 $430K",
   "company": "lambda",
@@ -7617,19 +7478,19 @@
   "first_seen": "2026-11-14T02:38:11.503281+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "B2B",
-    "mid"
-   ],
-   [
-    "\u25ce target company",
+    "fit 5/10",
     "amber"
    ],
    [
-    "you liked similar",
+    "Staff, $291-430K top comp",
+    "hi"
+   ],
+   [
+    "Infra storage, no energy/compliance",
+    "hi"
+   ],
+   [
+    "Bellevue/SF office 4 days a week",
     "hi"
    ]
   ],
@@ -7647,14 +7508,29 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-14T14:46:12Z",
+   "company": "Lambda is an AI GPU cloud serving tens of thousands of customers, from researchers to hyperscalers.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns storage products (block, shared, object) and data throughput, durability and key handling for GPU customers.",
+   "source": "posting",
+   "why": [
+    "Staff, $291-430K top comp",
+    "Infra storage, no energy/compliance",
+    "Bellevue/SF office 4 days a week"
+   ]
+  },
   "target": "c",
   "tier": "other",
   "title": "Staff Product Manager - Storage",
   "url": "https://jobs.ashbyhq.com/Lambda/7ea9a4fa-7b86-4464-a921-24f50f6c9879",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-14T03:49:48.431Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=50eb93dab89d&co=Lambda&ti=Staff%20Product%20Manager%20-%20Storage",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=50eb93dab89d&co=Lambda&ti=Staff%20Product%20Manager%20-%20Storage",
-  "company_about": "Train and scale AI on NVIDIA VR200 NVL 72, GB300 NVL 72, B300, B200, H200, H100, and more GPUs. Launch on-demand instances or reserve a cluster. Get started.",
+  "company_about": "Lambda is an AI GPU cloud serving tens of thousands of customers, from researchers to hyperscalers.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lambda&network=%5B%22S%22%5D"
  },
  {
@@ -8255,7 +8131,7 @@
   ],
   "hidden": false,
   "id": "cc10ed56d92d",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "San Francisco, California, US",
   "posted": "2026-11-03T20:32:09.783164+00:00",
@@ -8324,7 +8200,7 @@
   ],
   "hidden": false,
   "id": "b8d1b34920c9",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US, CA, Santa Clara / US, CA, Remote",
   "posted": "2026-10-27T01:38:48.144946+00:00",
@@ -8585,7 +8461,7 @@
   ],
   "hidden": false,
   "id": "88d073bc48cb",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Los Angeles / New York / San Francisco",
   "posted": "2026-11-12T03:17:40.595870+00:00",
@@ -8621,74 +8497,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=88d073bc48cb&co=Capgroup&ti=Principal%20Product%20Manager%20-%20Investment%20Analytics%20%28Fixed%20Income%29",
   "company_about": "Capital Group (Capital Research & Mgmt) is an investment manager; posting text was unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Capgroup&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Title implies a Staff PM for a data foundation platform; details not stated.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "walmart",
-  "company_display": "Walmart",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-07T02:15:59.660059+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Staff-level data platform title",
-    "hi"
-   ],
-   [
-    "Bellevue WA matches Seattle metro",
-    "hi"
-   ],
-   [
-    "Scope and domain unverified",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "dd55aaa4e7f0",
-  "last_seen": "2026-11-14",
-  "liked": true,
-  "location": "(USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office / (USA) 221 River St NJ HOBOKEN Home Office",
-  "posted": "2026-11-07T02:19:40.417640+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 36,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [
-   "data"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-07T03:51:29.761Z",
-  "summary": {
-   "at": "2026-11-07T13:46:52Z",
-   "company": "Walmart is a large US retailer; the posting text was unavailable.",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Title implies a Staff PM for a data foundation platform; details not stated.",
-   "source": "fallback",
-   "why": [
-    "Staff-level data platform title",
-    "Bellevue WA matches Seattle metro",
-    "Scope and domain unverified"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "(USA) Staff, Product Manager - WMC Data Foundation",
-  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME--USA--Staff--Product-Manager---WMC-Data-Foundation_R-2699546",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
-  "company_about": "Walmart is a large US retailer; the posting text was unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -8894,6 +8702,53 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Acuitymd&network=%5B%22S%22%5D"
  },
  {
+  "title": "Lead Engineering Product Manager, Application Synthetics(Hybrid)",
+  "company": "cisco",
+  "location": "San Francisco, California, US / Milpitas, California, US / Mountain View, California, US",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/Lead-Engineering-Product-Manager--Application-Synthetics-Hybrid-_2027106",
+  "posted": "2026-11-14T18:50:10.245275+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "2027106",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-14T18:49:05.022663+00:00",
+  "last_seen": "2026-11-14",
+  "company_display": "Cisco",
+  "about": "",
+  "signals": [],
+  "id": "82a28f597fda",
+  "score": 34,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=82a28f597fda&co=Cisco&ti=Lead%20Engineering%20Product%20Manager%2C%20Application%20Synthetics%28Hybrid%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=82a28f597fda&co=Cisco&ti=Lead%20Engineering%20Product%20Manager%2C%20Application%20Synthetics%28Hybrid%29",
+  "company_about": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software \u2026",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Cisco&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Senior PM for Visa Spend Clarity, a spend visibility product; details not available.",
   "bucket": "SF / Bay",
@@ -8924,7 +8779,7 @@
   ],
   "hidden": false,
   "id": "694df7d33410",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "US - San Francisco, CA",
   "posted": "2026-11-13T20:41:59.560189+00:00",
   "role10": 0,
@@ -8951,6 +8806,9 @@
   "tier": "other",
   "title": "Sr. Product Manager - Visa Spend Clarity",
   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Sr-Product-Manager---Visa-Spend-Clarity_REF090435W",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-14T03:53:08.873Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=694df7d33410&co=Visa&ti=Sr.%20Product%20Manager%20-%20Visa%20Spend%20Clarity",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=694df7d33410&co=Visa&ti=Sr.%20Product%20Manager%20-%20Visa%20Spend%20Clarity",
   "company_about": "Visa: global payments network; Spend Clarity is a spend-data product (posting text unavailable).",
@@ -8987,7 +8845,7 @@
   ],
   "hidden": false,
   "id": "195c01339665",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US - Remote",
   "posted": "2026-11-13T20:37:37.463948+00:00",
@@ -9053,7 +8911,7 @@
   ],
   "hidden": false,
   "id": "4210817435a7",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-12T20:42:19.566113+00:00",
@@ -9119,7 +8977,7 @@
   ],
   "hidden": false,
   "id": "e21591e7eba4",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "San Francisco, California, US / San Jose, California, US",
   "posted": "2026-11-10T20:35:27.875976+00:00",
@@ -9317,7 +9175,7 @@
   ],
   "hidden": false,
   "id": "6104141f7eb4",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote Nationwide",
   "posted": "2026-11-09T23:09:24.513553+00:00",
@@ -9445,7 +9303,7 @@
   ],
   "hidden": false,
   "id": "a204c5c34843",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote Nationwide",
   "posted": "2026-11-09T20:36:51.697420+00:00",
@@ -9499,7 +9357,7 @@
   ],
   "hidden": false,
   "id": "f9fe7a95d344",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-07T02:19:45.754783+00:00",
@@ -9631,7 +9489,7 @@
   ],
   "hidden": false,
   "id": "deebfee2897c",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-06T20:07:42.305006+00:00",
@@ -9829,7 +9687,7 @@
   ],
   "hidden": false,
   "id": "92eac83c992d",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Maryland USA - Remote",
   "posted": "2026-11-02T22:31:16.019105+00:00",
@@ -9866,6 +9724,72 @@
  },
  {
   "about": "",
+  "blurb": "Senior PM for AdTech products at Vizio (details unclear).",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "walmart",
+  "company_display": "Walmart",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-14T02:38:11.503281+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Ad tech, no data-platform axis",
+    "hi"
+   ],
+   [
+    "NY or SF; no energy/climate tie",
+    "hi"
+   ],
+   [
+    "Little posting detail",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "3d784a0fc268",
+  "last_seen": "2026-11-14",
+  "location": "(USA) NY NEW YORK 11582 HOME OFFICE / (USA) VIZIO SAN FRANCISCO CA San Francisco Home Office",
+  "posted": "2026-10-31T02:39:45.759729+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-14T14:46:12Z",
+   "company": "Vizio Services (Walmart) runs advertising products on Vizio smart-TV data.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Senior PM for AdTech products at Vizio (details unclear).",
+   "source": "fallback",
+   "why": [
+    "Ad tech, no data-platform axis",
+    "NY or SF; no energy/climate tie",
+    "Little posting detail"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "(USA) Senior Product Manager - AdTech",
+  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-NEW-YORK-11582-HOME-OFFICE/XMLNAME--USA--Senior-Product-Manager---AdTech_R-2683597",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-14T04:22:03.972Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3d784a0fc268&co=Walmart&ti=%28USA%29%20Senior%20Product%20Manager%20-%20AdTech",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3d784a0fc268&co=Walmart&ti=%28USA%29%20Senior%20Product%20Manager%20-%20AdTech",
+  "company_about": "Vizio Services (Walmart) runs advertising products on Vizio smart-TV data.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "Listing Media product, inferred from the title only.",
   "bucket": "Remote (US)",
   "comp": null,
@@ -9895,7 +9819,7 @@
   ],
   "hidden": false,
   "id": "4f08730f262c",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-10-28T19:08:01.160965+00:00",
@@ -10153,7 +10077,7 @@
   ],
   "hidden": false,
   "id": "7c74379ceb3a",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US - Remote",
   "posted": "2026-10-28T01:34:41.866999+00:00",
@@ -10408,7 +10332,7 @@
   ],
   "hidden": false,
   "id": "8ac302a4f084",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-10-27T18:58:48.833351+00:00",
@@ -10671,7 +10595,7 @@
   ],
   "hidden": false,
   "id": "3728ae4a1096",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-10-20T18:12:15.093293+00:00",
@@ -10773,6 +10697,72 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nordstrom&network=%5B%22S%22%5D"
  },
  {
+  "about": "",
+  "blurb": "Staff PM; posting text unavailable (from title only).",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "walmart",
+  "company_display": "Walmart",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-20T01:50:45.193365+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "Staff level; Bellevue office",
+    "hi"
+   ],
+   [
+    "Team and domain unknown",
+    "hi"
+   ],
+   [
+    "Posting unreadable",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "905399fa5b05",
+  "last_seen": "2026-11-14",
+  "liked": true,
+  "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office / (USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office",
+  "posted": "2026-10-20T01:56:21.450188+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-11T03:14:11.966Z",
+  "summary": {
+   "at": "2026-10-20T22:47:27Z",
+   "company": "Walmart is a retailer with a large tech org.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Staff PM; posting text unavailable (from title only).",
+   "source": "fallback",
+   "why": [
+    "Staff level; Bellevue office",
+    "Team and domain unknown",
+    "Posting unreadable"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "(USA) Staff, Product Manager",
+  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Staff--Product-Manager_R-2648425-1",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
+  "company_about": "Walmart is a retailer with a large tech org.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
+ },
+ {
   "about": "ClickHouse Cloud, the fully managed version of the open source ClickHouse database, is available on AWS, GCP, and Azure.",
   "blurb": "Owns one billing area (metering, prepaid commit or a marketplace), scoping and launching features with engineering.",
   "bucket": "Seattle",
@@ -10866,7 +10856,7 @@
   ],
   "hidden": false,
   "id": "460d36991ee7",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US - Remote",
   "posted": "2026-10-17T00:47:19.293802+00:00",
@@ -11061,9 +11051,9 @@
   ],
   "hidden": false,
   "id": "a04895b5bb15",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "New York / Remote",
-  "posted": "2026-11-07T17:18:59.369000+00:00",
+  "posted": "2026-11-14T17:18:19.349000+00:00",
   "role10": 5,
   "role_pts": 23,
   "score": 33,
@@ -11091,7 +11081,7 @@
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager, SMB Platform",
-  "url": "https://jobs.ashbyhq.com/Clera/ec27bed9-71f0-4eaa-a64a-a6accf95c08c",
+  "url": "https://jobs.ashbyhq.com/Clera/09be342c-2507-499b-aa7f-7411023b4388",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a04895b5bb15&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a04895b5bb15&co=Clera&ti=Senior%20Product%20Manager%2C%20SMB%20Platform",
   "company_about": "Clera is a fintech building a financial platform for small businesses.",
@@ -12412,7 +12402,7 @@
   ],
   "hidden": false,
   "id": "e1764a9e14b5",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote - Maryland / Remote - Michigan / Remote - Massachusetts / Remote - Ohio / Remote - Georgia / Remote - Texas",
   "posted": "2026-10-30T02:07:27.942970+00:00",
@@ -12448,6 +12438,71 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e1764a9e14b5&co=Clearesult&ti=Senior%20Product%20Manager%2C%20Analytics%20%26%20Insights",
   "company_about": "CLEAResult runs energy-efficiency and decarbonization programs for utilities and clients; role is in its analytics products.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Clearesult&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Principal PM for the Asset Platform; scope not visible.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "crowdstrike",
+  "company_display": "Crowdstrike",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-27T01:35:29.852341+00:00",
+  "fit_tags": [
+   [
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "Platform/data-adjacent title",
+    "hi"
+   ],
+   [
+    "Redmond hybrid is Seattle-area",
+    "hi"
+   ],
+   [
+    "Security, no energy/compliance axis",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "19c41c31c315",
+  "last_seen": "2026-10-27",
+  "location": "USA - Redmond, WA / USA - Boston, MA / USA - Austin, TX",
+  "posted": "2026-10-27T01:36:52.056885+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 28,
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [
+   "platform"
+  ],
+  "source": "workday",
+  "summary": {
+   "at": "2026-10-27T13:48:44Z",
+   "company": "CrowdStrike is a cybersecurity company (inferred; posting text unavailable).",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Principal PM for the Asset Platform; scope not visible.",
+   "source": "fallback",
+   "why": [
+    "Platform/data-adjacent title",
+    "Redmond hybrid is Seattle-area",
+    "Security, no energy/compliance axis"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Principal Product Manager \u2013 Asset Platform (Hybrid)",
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Redmond-WA/Principal-Product-Manager---Asset-Platform--Hybrid-_R29323",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=19c41c31c315&co=Crowdstrike&ti=Principal%20Product%20Manager%20%E2%80%93%20Asset%20Platform%20%28Hybrid%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=19c41c31c315&co=Crowdstrike&ti=Principal%20Product%20Manager%20%E2%80%93%20Asset%20Platform%20%28Hybrid%29",
+  "company_about": "CrowdStrike is a cybersecurity company (inferred; posting text unavailable).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crowdstrike&network=%5B%22S%22%5D"
  },
  {
   "about": "We are a globally distributed, remote-first team building the tools that define how software gets built and delivered.",
@@ -12546,7 +12601,7 @@
   ],
   "hidden": false,
   "id": "4f5bd81eff47",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "USA, CA, Remote / USA, WA, Seattle / USA, WA, Remote / USA, CA, Pleasanton",
   "posted": "2026-11-12T21:06:21.884497+00:00",
@@ -12678,7 +12733,7 @@
   ],
   "hidden": false,
   "id": "f423ddfde2f5",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "United States - Remote",
   "posted": "2026-11-02T22:31:58.679531+00:00",
@@ -12715,53 +12770,6 @@
  },
  {
   "about": "",
-  "blurb": "R-2683597",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "walmart",
-  "company_display": "Walmart",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-14T02:38:11.503281+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "you liked similar",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "3d784a0fc268",
-  "last_seen": "2026-11-14",
-  "location": "(USA) NY NEW YORK 11582 HOME OFFICE / (USA) VIZIO SAN FRANCISCO CA San Francisco Home Office",
-  "posted": "2026-10-31T02:39:45.759729+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "(USA) Senior Product Manager - AdTech",
-  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NY-NEW-YORK-11582-HOME-OFFICE/XMLNAME--USA--Senior-Product-Manager---AdTech_R-2683597",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3d784a0fc268&co=Walmart&ti=%28USA%29%20Senior%20Product%20Manager%20-%20AdTech",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3d784a0fc268&co=Walmart&ti=%28USA%29%20Senior%20Product%20Manager%20-%20AdTech",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Owns the shared hosting product line (title only; no description available).",
   "bucket": "Remote (US)",
   "comp": null,
@@ -12791,7 +12799,7 @@
   ],
   "hidden": false,
   "id": "33499e4b5036",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "United States - Remote",
   "posted": "2026-10-21T00:54:06.440472+00:00",
@@ -12825,72 +12833,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=33499e4b5036&co=Web&ti=Senior%20Product%20Manager%2C%20Shared%20Hosting",
   "company_about": "Appears to be a web hosting provider; the listing has no company detail (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Web&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Staff PM; posting text unavailable (from title only).",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "walmart",
-  "company_display": "Walmart",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-20T01:50:45.193365+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Staff level; Bellevue office",
-    "hi"
-   ],
-   [
-    "Team and domain unknown",
-    "hi"
-   ],
-   [
-    "Posting unreadable",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "905399fa5b05",
-  "last_seen": "2026-11-14",
-  "liked": true,
-  "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office / (USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office",
-  "posted": "2026-10-20T01:56:21.450188+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-11T03:14:11.966Z",
-  "summary": {
-   "at": "2026-10-20T22:47:27Z",
-   "company": "Walmart is a retailer with a large tech org.",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Staff PM; posting text unavailable (from title only).",
-   "source": "fallback",
-   "why": [
-    "Staff level; Bellevue office",
-    "Team and domain unknown",
-    "Posting unreadable"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "(USA) Staff, Product Manager",
-  "url": "https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Staff--Product-Manager_R-2648425-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=905399fa5b05&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager",
-  "company_about": "Walmart is a retailer with a large tech org.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Walmart&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -14422,7 +14364,7 @@
   ],
   "hidden": false,
   "id": "0cec0b96cee9",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Bay Area, CA",
   "posted": "2026-11-03T20:32:22.650599+00:00",
   "role10": 2,
@@ -14783,71 +14725,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Procore&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Principal PM for the Asset Platform; scope not visible.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "crowdstrike",
-  "company_display": "Crowdstrike",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-27T01:35:29.852341+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Platform/data-adjacent title",
-    "hi"
-   ],
-   [
-    "Redmond hybrid is Seattle-area",
-    "hi"
-   ],
-   [
-    "Security, no energy/compliance axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "19c41c31c315",
-  "last_seen": "2026-10-27",
-  "location": "USA - Redmond, WA / USA - Boston, MA / USA - Austin, TX",
-  "posted": "2026-10-27T01:36:52.056885+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 20,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "sector": "",
-  "signals": [
-   "platform"
-  ],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-27T13:48:44Z",
-   "company": "CrowdStrike is a cybersecurity company (inferred; posting text unavailable).",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Principal PM for the Asset Platform; scope not visible.",
-   "source": "fallback",
-   "why": [
-    "Platform/data-adjacent title",
-    "Redmond hybrid is Seattle-area",
-    "Security, no energy/compliance axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager \u2013 Asset Platform (Hybrid)",
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Redmond-WA/Principal-Product-Manager---Asset-Platform--Hybrid-_R29323",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=19c41c31c315&co=Crowdstrike&ti=Principal%20Product%20Manager%20%E2%80%93%20Asset%20Platform%20%28Hybrid%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=19c41c31c315&co=Crowdstrike&ti=Principal%20Product%20Manager%20%E2%80%93%20Asset%20Platform%20%28Hybrid%29",
-  "company_about": "CrowdStrike is a cybersecurity company (inferred; posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crowdstrike&network=%5B%22S%22%5D"
- },
- {
   "about": "We are setting out to transform the global B2B software industry and become the most trusted data foundation for buyers and sellers of software for the age of AI.",
   "blurb": "Owns buyer-facing products helping software buyers evaluate and decide, with AI discovery.",
   "bucket": "Remote (US)",
@@ -15184,7 +15061,7 @@
   ],
   "hidden": false,
   "id": "8d5dcaa04fcb",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "USA - Remote / USA - Boulder - Integrated DNA Technologies, Inc.",
   "posted": "2026-11-13T20:38:29.957435+00:00",
@@ -15220,6 +15097,53 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Danaher&network=%5B%22S%22%5D"
  },
  {
+  "title": "Sr. Product Manager - Cloud Workload Protection (Hybrid)",
+  "company": "crowdstrike",
+  "location": "USA - Sunnyvale, CA / USA - New York, NY / USA - Austin, TX / USA - Redmond, WA",
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager--Hybrid-_R28828",
+  "posted": "2026-11-13T18:50:17.370749+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Seattle",
+  "sector": "",
+  "blurb": "R28828",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-14T18:49:05.022663+00:00",
+  "last_seen": "2026-11-14",
+  "company_display": "Crowdstrike",
+  "about": "",
+  "signals": [],
+  "id": "610dda19083b",
+  "score": 18,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=610dda19083b&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Cloud%20Workload%20Protection%20%28Hybrid%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=610dda19083b&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Cloud%20Workload%20Protection%20%28Hybrid%29",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crowdstrike&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Owns voice and telephony platform strategy: carriers, call quality, routing, shared call model and voice compliance.",
   "bucket": "Remote (US)",
@@ -15250,7 +15174,7 @@
   ],
   "hidden": false,
   "id": "9731b7a10f62",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "US Remote",
   "posted": "2026-11-12T21:05:31.334911+00:00",
@@ -15646,7 +15570,7 @@
   ],
   "hidden": false,
   "id": "d1d3da8a6c62",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "liked": true,
   "location": "Remote (US)",
   "posted": "2026-10-27T18:52:59.533441+00:00",
@@ -15680,6 +15604,68 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d1d3da8a6c62&co=Beigene&ti=Senior%20Product%20Manager%2C%20Clinical%20Development%20Platforms",
   "company_about": "BeiGene is a global oncology biotech; posting text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Beigene&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Senior PM for the Falcon Sensor endpoint agent (from title only).",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "crowdstrike",
+  "company_display": "Crowdstrike",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-20T18:05:04.698683+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Redmond option, but hybrid",
+    "hi"
+   ],
+   [
+    "Endpoint security, no data axis",
+    "hi"
+   ],
+   [
+    "Posting unreadable",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "23ff1ae1ec6e",
+  "location": "USA - Sunnyvale, CA / USA - Austin, TX / USA - Arlington, VA / USA - Redmond, WA",
+  "posted": "2026-10-20T18:07:04.843618+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 18,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-10-20T22:47:27Z",
+   "company": "CrowdStrike is a cybersecurity company; Falcon Sensor is its endpoint agent.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Senior PM for the Falcon Sensor endpoint agent (from title only).",
+   "source": "fallback",
+   "why": [
+    "Redmond option, but hybrid",
+    "Endpoint security, no data axis",
+    "Posting unreadable"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Sr. Product Manager - Falcon Sensor (Hybrid)",
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager-Falcon-Sensor_R29278",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=23ff1ae1ec6e&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Falcon%20Sensor%20%28Hybrid%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=23ff1ae1ec6e&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Falcon%20Sensor%20%28Hybrid%29",
+  "company_about": "CrowdStrike is a cybersecurity company; Falcon Sensor is its endpoint agent.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crowdstrike&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -17156,9 +17142,9 @@
   ],
   "hidden": false,
   "id": "56eac9ee1a43",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Remote",
-  "posted": "2026-11-03T20:41:24.594364+00:00",
+  "posted": "2026-11-03T18:52:05.371479+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 10,
@@ -17219,7 +17205,7 @@
   ],
   "hidden": false,
   "id": "ab377c672300",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "US CT Remote / US NC Remote / US FL Remote / US TX Remote",
   "posted": "2026-11-02T22:30:49.778988+00:00",
   "role10": 0,
@@ -17282,7 +17268,7 @@
   ],
   "hidden": false,
   "id": "0f27082da8ed",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "New York,  NY / San Francisco, CA",
   "posted": "2026-11-02T22:30:06.107224+00:00",
   "role10": 0,
@@ -17849,7 +17835,7 @@
   ],
   "hidden": false,
   "id": "01c8e00b18aa",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Remote",
   "posted": "2026-10-27T19:32:18.365469+00:00",
   "role10": 0,
@@ -18227,7 +18213,7 @@
   ],
   "hidden": false,
   "id": "685ff5fd6f8b",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Remote - Nationwide",
   "posted": "2026-10-21T02:38:30.649895+00:00",
   "role10": 0,
@@ -18258,68 +18244,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=685ff5fd6f8b&co=Ensemblehp&ti=Senior%20Product%20Manager%2C%20Epic%20Optimization",
   "company_about": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ensemblehp&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM for the Falcon Sensor endpoint agent (from title only).",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "crowdstrike",
-  "company_display": "Crowdstrike",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-20T18:05:04.698683+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Redmond option, but hybrid",
-    "hi"
-   ],
-   [
-    "Endpoint security, no data axis",
-    "hi"
-   ],
-   [
-    "Posting unreadable",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "23ff1ae1ec6e",
-  "location": "USA - Sunnyvale, CA / USA - Austin, TX / USA - Arlington, VA / USA - Redmond, WA",
-  "posted": "2026-10-20T18:07:04.843618+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-20T22:47:27Z",
-   "company": "CrowdStrike is a cybersecurity company; Falcon Sensor is its endpoint agent.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for the Falcon Sensor endpoint agent (from title only).",
-   "source": "fallback",
-   "why": [
-    "Redmond option, but hybrid",
-    "Endpoint security, no data axis",
-    "Posting unreadable"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Sr. Product Manager - Falcon Sensor (Hybrid)",
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager-Falcon-Sensor_R29278",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=23ff1ae1ec6e&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Falcon%20Sensor%20%28Hybrid%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=23ff1ae1ec6e&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Falcon%20Sensor%20%28Hybrid%29",
-  "company_about": "CrowdStrike is a cybersecurity company; Falcon Sensor is its endpoint agent.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crowdstrike&network=%5B%22S%22%5D"
  },
  {
   "about": "We\u2019re on a quest to empower live communities, so if this sounds good to you, see what we\u2019re up to on LinkedIn and X , and discover the projects we\u2019re solving on our Blog .",
@@ -18667,7 +18591,7 @@
   ],
   "hidden": false,
   "id": "d94a71fd3d22",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Remote/Homebased",
   "posted": "2026-10-16T18:28:43.253087+00:00",
   "role10": 0,
@@ -18730,7 +18654,7 @@
   ],
   "hidden": false,
   "id": "72172499319a",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Remote - Washington",
   "posted": "2026-10-16T00:19:21.331763+00:00",
   "role10": 0,
@@ -18856,7 +18780,7 @@
   ],
   "hidden": false,
   "id": "4c54ffe731aa",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Mountain View, CA, USA / Bellevue, WA, USA",
   "posted": "2026-10-15T18:50:05.001771+00:00",
   "role10": 0,
@@ -18887,69 +18811,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4c54ffe731aa&co=Unitytech&ti=Staff%20Product%20Manager%2C%20Vector",
   "company_about": "Unity Technologies, a game engine and tools company (posting text unavailable; 'Vector' product unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Unitytech&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM for the host side of the marketplace, per title only.",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "turo",
-  "company_display": "Turo",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-16T17:44:22.239691+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Consumer marketplace",
-    "hi"
-   ],
-   [
-    "SF location fits",
-    "hi"
-   ],
-   [
-    "No data axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "8fe76bbf3629",
-  "last_seen": "2026-11-14",
-  "location": "San Francisco",
-  "posted": "2026-10-15T17:49:07.904614+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Turo runs a peer-to-peer car-sharing marketplace; posting text was unavailable.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for the host side of the marketplace, per title only.",
-   "source": "fallback",
-   "why": [
-    "Consumer marketplace",
-    "SF location fits",
-    "No data axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Host",
-  "url": "https://turo.wd12.myworkdayjobs.com/en-US/Turo_careers/job/San-Francisco/Lead-Product-Manager--Host_R-102503",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=8fe76bbf3629&co=Turo&ti=Senior%20Product%20Manager%2C%20Host",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8fe76bbf3629&co=Turo&ti=Senior%20Product%20Manager%2C%20Host",
-  "company_about": "Turo runs a peer-to-peer car-sharing marketplace; posting text was unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Turo&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -19239,7 +19100,7 @@
   ],
   "hidden": false,
   "id": "271d900823f0",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Palo Alto, California / New York, New York / Bellevue, Washington",
   "posted": "2026-10-27T01:39:42.713955+00:00",
   "role10": 0,
