@@ -4074,75 +4074,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Wexinc&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Senior Staff PM for a data platform; posting text unavailable, so scope is unclear.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "cisco",
-  "company_display": "Cisco",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-19T19:25:56.603142+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Data platform, Sr. Staff level",
-    "hi"
-   ],
-   [
-    "SF/Seattle options; no comp",
-    "hi"
-   ],
-   [
-    "Scope unknown; Cisco size",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "067b6dc0d05b",
-  "last_seen": "2026-11-07",
-  "liked": true,
-  "location": "San Jose, California, US / Portland, Oregon, US / San Francisco, California, US / Seattle, Washington, US / San Diego, California, US",
-  "posted": "2026-10-19T19:27:23.408244+00:00",
-  "role10": 4,
-  "role_pts": 20,
-  "score": 54,
-  "score_why": "unknown sector 10 \u00b7 role match 20 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [
-   "data",
-   "platform"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-06T21:08:22.549Z",
-  "summary": {
-   "at": "2026-10-19T22:47:31Z",
-   "company": "Cisco sells networking and security products (unclear which unit).",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior Staff PM for a data platform; posting text unavailable, so scope is unclear.",
-   "source": "fallback",
-   "why": [
-    "Data platform, Sr. Staff level",
-    "SF/Seattle options; no comp",
-    "Scope unknown; Cisco size"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Senior Staff Product Manager, Data Platform",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Senior-Staff-Product-Manager--Data-Platform_2026557",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=067b6dc0d05b&co=Cisco&ti=Senior%20Staff%20Product%20Manager%2C%20Data%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=067b6dc0d05b&co=Cisco&ti=Senior%20Staff%20Product%20Manager%2C%20Data%20Platform",
-  "company_about": "Cisco sells networking and security products (unclear which unit).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Cisco&network=%5B%22S%22%5D"
- },
- {
   "about": "At Lyft, our purpose is to serve and connect.",
   "blurb": "Owns the Trust & Safety platform supporting global expansion and autonomous-vehicle partnerships.",
   "bucket": "SF / Bay",
@@ -6335,74 +6266,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nordstrom&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Rules engine and decisioning platform product, inferred from the title only.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "humana",
-  "company_display": "Humana",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-28T19:01:36.809750+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Platform + regulated health",
-    "hi"
-   ],
-   [
-    "Lead level, Remote Nationwide",
-    "hi"
-   ],
-   [
-    "Details and comp unknown",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "d9379a23b5ea",
-  "last_seen": "2026-11-07",
-  "liked": true,
-  "location": "Remote Nationwide",
-  "posted": "2026-10-28T19:04:41.848001+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 44,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [
-   "platform"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-06T21:08:24.440Z",
-  "summary": {
-   "at": "2026-10-28T22:46:47Z",
-   "company": "Humana is a large health insurer; posting text unavailable.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Rules engine and decisioning platform product, inferred from the title only.",
-   "source": "fallback",
-   "why": [
-    "Platform + regulated health",
-    "Lead level, Remote Nationwide",
-    "Details and comp unknown"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Lead Product Manager, Rules Engine & Decisioning Platform",
-  "url": "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Nationwide/Lead-Product-Manager--Rules-Engine---Decisioning-Platform_R-433782",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d9379a23b5ea&co=Humana&ti=Lead%20Product%20Manager%2C%20Rules%20Engine%20%26%20Decisioning%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d9379a23b5ea&co=Humana&ti=Lead%20Product%20Manager%2C%20Rules%20Engine%20%26%20Decisioning%20Platform",
-  "company_about": "Humana is a large health insurer; posting text unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Humana&network=%5B%22S%22%5D"
- },
- {
   "about": "We are committed to providing reasonable accommodations for qualified individuals with disabilities throughout the application and employment process.",
   "blurb": "Owns a commercial line of business: appetite, coverage, pricing and state filings.",
   "bucket": "SF / Bay",
@@ -6532,74 +6395,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c0bd6c2737e4&co=Certifyos&ti=Senior%20Product%20Manager%2C%20Forward%20Deployed%20-%20US",
   "company_about": "API-first provider-data platform automating healthcare provider licensing, enrollment and credentialing; stage and size not stated.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Certifyos&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Principal PM for the Asset Platform; scope not visible.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "crowdstrike",
-  "company_display": "Crowdstrike",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-27T01:35:29.852341+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Platform/data-adjacent title",
-    "hi"
-   ],
-   [
-    "Redmond hybrid is Seattle-area",
-    "hi"
-   ],
-   [
-    "Security, no energy/compliance axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "19c41c31c315",
-  "last_seen": "2026-10-27",
-  "location": "USA - Redmond, WA / USA - Boston, MA / USA - Austin, TX",
-  "posted": "2026-10-27T01:36:52.056885+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 44,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [
-   "platform"
-  ],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-27T13:48:44Z",
-   "company": "CrowdStrike is a cybersecurity company (inferred; posting text unavailable).",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Principal PM for the Asset Platform; scope not visible.",
-   "source": "fallback",
-   "why": [
-    "Platform/data-adjacent title",
-    "Redmond hybrid is Seattle-area",
-    "Security, no energy/compliance axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager \u2013 Asset Platform (Hybrid)",
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Redmond-WA/Principal-Product-Manager---Asset-Platform--Hybrid-_R29323",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-14T19:56:02.308Z",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=19c41c31c315&co=Crowdstrike&ti=Principal%20Product%20Manager%20%E2%80%93%20Asset%20Platform%20%28Hybrid%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=19c41c31c315&co=Crowdstrike&ti=Principal%20Product%20Manager%20%E2%80%93%20Asset%20Platform%20%28Hybrid%29",
-  "company_about": "CrowdStrike is a cybersecurity company (inferred; posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Crowdstrike&network=%5B%22S%22%5D"
  },
  {
   "about": "Loancrate aims to replace these systems and reduce the average of $11,000 in fees new homebuyers pay on their mortgage.",
@@ -8535,6 +8330,7 @@
   "hidden": false,
   "id": "82a28f597fda",
   "last_seen": "2026-11-15",
+  "liked": true,
   "location": "San Francisco, California, US / Milpitas, California, US / Mountain View, California, US",
   "posted": "2026-11-14T18:50:10.245275+00:00",
   "role10": 0,
@@ -8544,6 +8340,8 @@
   "sector": "",
   "signals": [],
   "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-14T19:56:01.497Z",
   "summary": {
    "at": "2026-11-14T23:46:17Z",
    "company": "Cisco is a large networking and observability vendor; posting text unavailable.",
@@ -8561,9 +8359,6 @@
   "tier": "other",
   "title": "Lead Engineering Product Manager, Application Synthetics(Hybrid)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/Lead-Engineering-Product-Manager--Application-Synthetics-Hybrid-_2027106",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-14T19:56:01.497Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=82a28f597fda&co=Cisco&ti=Lead%20Engineering%20Product%20Manager%2C%20Application%20Synthetics%28Hybrid%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=82a28f597fda&co=Cisco&ti=Lead%20Engineering%20Product%20Manager%2C%20Application%20Synthetics%28Hybrid%29",
   "company_about": "Cisco is a large networking and observability vendor; posting text unavailable.",
@@ -8733,6 +8528,7 @@
   "hidden": false,
   "id": "610dda19083b",
   "last_seen": "2026-11-15",
+  "liked": true,
   "location": "USA - Sunnyvale, CA / USA - New York, NY / USA - Austin, TX / USA - Redmond, WA",
   "posted": "2026-11-13T18:50:17.370749+00:00",
   "role10": 0,
@@ -8742,6 +8538,8 @@
   "sector": "",
   "signals": [],
   "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-14T20:14:44.735Z",
   "summary": {
    "at": "2026-11-14T23:46:17Z",
    "company": "CrowdStrike sells cloud-delivered endpoint and cloud security software (unclear on stage; large public company).",
@@ -8759,9 +8557,6 @@
   "tier": "other",
   "title": "Sr. Product Manager - Cloud Workload Protection (Hybrid)",
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager--Hybrid-_R28828",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-14T20:14:44.735Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=610dda19083b&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Cloud%20Workload%20Protection%20%28Hybrid%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=610dda19083b&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Cloud%20Workload%20Protection%20%28Hybrid%29",
   "company_about": "CrowdStrike sells cloud-delivered endpoint and cloud security software (unclear on stage; large public company).",
@@ -12906,72 +12701,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=614faad58f93&co=Mural&ti=Principal%20Product%20Manager%2C%20AI%20Workflows%20",
   "company_about": "Mural is a collaboration/whiteboard product adding AI and agentic features for team decisions.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Mural&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Cross-border growth solutions PM, per title only; scope not visible.",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "visa",
-  "company_display": "Visa",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-22T00:50:30.577838+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Payments, not energy/data platform",
-    "hi"
-   ],
-   [
-    "SF location ok",
-    "hi"
-   ],
-   [
-    "No comp or scope stated",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "671737557c57",
-  "last_seen": "2026-11-07",
-  "liked": true,
-  "location": "US - San Francisco, CA",
-  "posted": "2026-10-22T00:55:29.419010+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 24,
-  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-07T03:20:35.230Z",
-  "summary": {
-   "at": "2026-10-22T13:46:58Z",
-   "company": "Visa, global payments network; posting text unavailable (unclear).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Cross-border growth solutions PM, per title only; scope not visible.",
-   "source": "fallback",
-   "why": [
-    "Payments, not energy/data platform",
-    "SF location ok",
-    "No comp or scope stated"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Cross-Border Growth Solutions",
-  "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---San-Francisco-CA/Senior-Product-Manager--Cross-Border-Growth-Solutions_REF089720W",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=671737557c57&co=Visa&ti=Senior%20Product%20Manager%2C%20Cross-Border%20Growth%20Solutions",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=671737557c57&co=Visa&ti=Senior%20Product%20Manager%2C%20Cross-Border%20Growth%20Solutions",
-  "company_about": "Visa, global payments network; posting text unavailable (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Visa&network=%5B%22S%22%5D"
  },
  {
   "about": "",
