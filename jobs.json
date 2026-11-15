@@ -747,74 +747,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Google&network=%5B%22S%22%5D"
  },
  {
-  "about": "We are reshaping how life-changing therapies are delivered and financed, ensuring patients get the treatment they need while employers finally get a fair deal.",
-  "blurb": "Owns the internal data platform serving client launch, care coordination, drug sourcing and savings measurement.",
-  "bucket": "Remote (US)",
-  "comp": "$190K \u2013 $230K",
-  "company": "leap",
-  "company_display": "Leap (Health)",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-16T19:02:13.373450+00:00",
-  "fit_tags": [
-   [
-    "fit 7/10",
-    "amber"
-   ],
-   [
-    "Data platform PM, direct match",
-    "hi"
-   ],
-   [
-    "Remote US, $190-230K",
-    "hi"
-   ],
-   [
-    "Healthcare, not energy",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "e88892454334",
-  "last_seen": "2026-11-15",
-  "location": "US (Remote) / Remote",
-  "posted": "2026-10-16T03:39:50.725000+00:00",
-  "role10": 8,
-  "role_pts": 39,
-  "score": 71,
-  "score_why": "health sector 24 \u00b7 sector feedback +8 \u00b7 role match 39",
-  "sector": "health",
-  "signals": [
-   "technical",
-   "data",
-   "platform",
-   "data platform"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Leap runs an employer specialty-pharmacy and infusion benefits program for Fortune 500 clients and TPAs.",
-   "fit": 7,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the internal data platform serving client launch, care coordination, drug sourcing and savings measurement.",
-   "source": "posting",
-   "why": [
-    "Data platform PM, direct match",
-    "Remote US, $190-230K",
-    "Healthcare, not energy"
-   ]
-  },
-  "target": null,
-  "tier": "strong",
-  "title": "Technical Product Manager, Data Platform",
-  "url": "https://jobs.ashbyhq.com/leap/02d448e8-6b0c-4fa2-8b48-5b9f070e9b7e",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e88892454334&co=Leap%20%28Health%29&ti=Technical%20Product%20Manager%2C%20Data%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e88892454334&co=Leap%20%28Health%29&ti=Technical%20Product%20Manager%2C%20Data%20Platform",
-  "company_about": "Leap runs an employer specialty-pharmacy and infusion benefits program for Fortune 500 clients and TPAs.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Leap+%28Health%29&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re a company of doers, thinkers and builders, united by purpose and grounded in reality.",
   "blurb": "Owns vision and roadmap for a new agentic AI platform: APIs/SDKs, agent evals, auditability, human-in-the-loop.",
   "bucket": "Seattle",
@@ -4140,71 +4072,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lyft&network=%5B%22S%22%5D"
  },
  {
-  "about": "Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers.",
-  "blurb": "Owns the customer console that unifies Lambda's cloud services into one experience.",
-  "bucket": "Seattle",
-  "comp": "$338K \u2013 $500K",
-  "company": "lambda",
-  "company_display": "Lambda",
-  "company_line": "AI cloud (Lenny 100)",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-16T17:44:22.239691+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Principal level, $338-500K",
-    "hi"
-   ],
-   [
-    "Bellevue/SF 4 days onsite",
-    "hi"
-   ],
-   [
-    "UX console, not data platform",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "bf1c218b4601",
-  "last_seen": "2026-11-15",
-  "location": "Bellevue Office / San Francisco Office (Fremont St) / Remote",
-  "posted": "2026-10-16T02:57:46.693000+00:00",
-  "role10": 1,
-  "role_pts": 4,
-  "score": 54,
-  "score_why": "devtools sector 14 \u00b7 sector feedback +8 \u00b7 role match 4 \u00b7 your \ud83d\udc4d +24 \u00b7 target company +4",
-  "sector": "devtools",
-  "signals": [
-   "AI/LLM"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Lambda is an AI cloud infrastructure provider serving researchers, enterprises and hyperscalers.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the customer console that unifies Lambda's cloud services into one experience.",
-   "source": "posting",
-   "why": [
-    "Principal level, $338-500K",
-    "Bellevue/SF 4 days onsite",
-    "UX console, not data platform"
-   ]
-  },
-  "target": "c",
-  "tier": "good",
-  "title": "Principal Product Manager - Console",
-  "url": "https://jobs.ashbyhq.com/lambda/f990e8d8-98af-4f72-a573-0f652ee556ea",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=bf1c218b4601&co=Lambda&ti=Principal%20Product%20Manager%20-%20Console",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=bf1c218b4601&co=Lambda&ti=Principal%20Product%20Manager%20-%20Console",
-  "company_about": "Lambda is an AI cloud infrastructure provider serving researchers, enterprises and hyperscalers.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Lambda&network=%5B%22S%22%5D"
- },
- {
   "about": "At Vanta, our mission is to help businesses earn and prove trust.",
   "blurb": "Owns activation and onboarding conversion for Vanta's agentic self-serve front door across the platform.",
   "bucket": "Remote (US)",
@@ -4471,61 +4338,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=754210118d03&co=Snowflake&ti=Senior%20Product%20Manager%20-%20Openflow",
   "company_about": "Snowflake: cloud data platform; Openflow is its managed data integration service built on Apache NiFi.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Snowflake&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Founded in 2020 with office hubs in San Francisco, New York City, Seattle, Austin, Chicago, and London, our team thinks big and moves fast, and we're looking for smart, hardworking builders and scalers to join us on our journey to create a better future of \u2026",
-  "bucket": "Seattle",
-  "comp": "$183K \u2013 $283K",
-  "company": "writer",
-  "company_display": "Writer",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-16T17:58:20.844321+00:00",
-  "fit_tags": [
-   [
-    "ai",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "cbaafef5cdce",
-  "last_seen": "2026-11-09",
-  "location": "San Francisco, CA / Seattle, WA / New York City, NY / Remote",
-  "posted": "2026-11-03T23:50:02.363000+00:00",
-  "role10": 3,
-  "role_pts": 16,
-  "score": 50,
-  "score_why": "ai sector 28 \u00b7 sector feedback +6 \u00b7 role match 16",
-  "sector": "ai",
-  "signals": [
-   "compliance",
-   "AI/LLM",
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "good",
-  "title": "Lead product manager",
-  "url": "https://jobs.ashbyhq.com/writer/ad6bd836-3049-4238-886d-2a5485244ae4",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cbaafef5cdce&co=Writer&ti=Lead%20product%20manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cbaafef5cdce&co=Writer&ti=Lead%20product%20manager",
-  "company_about": "WRITER is the enterprise AI agent platform trusted by Fortune 500 companies, built to help teams execute and scale on-brand, compliant work.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Writer&network=%5B%22S%22%5D"
  },
  {
   "about": "We\u2019re scaling fast and defining a new category in real time.",
@@ -7964,71 +7776,6 @@
  },
  {
   "about": "",
-  "blurb": "First PM: sets product direction with founders for an LLM observability product.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "clickhouse",
-  "company_display": "ClickHouse",
-  "company_line": "Fastest-growing OLAP engine; technical PM surface",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-16T17:44:22.239691+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Data infra/AI tooling",
-    "hi"
-   ],
-   [
-    "Founder-level 0-to-1 scope",
-    "hi"
-   ],
-   [
-    "Dev tools, no regulated data",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "d36850bc3f45",
-  "last_seen": "2026-11-15",
-  "location": "New York / Remote",
-  "posted": "2026-10-16T14:02:06.864000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 37,
-  "score_why": "datainfra sector 26 \u00b7 role match 3 \u00b7 target company +8",
-  "sector": "datainfra",
-  "signals": [
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Langfuse (now part of ClickHouse) makes open-source LLM observability tooling for engineers.",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "First PM: sets product direction with founders for an LLM observability product.",
-   "source": "posting",
-   "why": [
-    "Data infra/AI tooling",
-    "Founder-level 0-to-1 scope",
-    "Dev tools, no regulated data"
-   ]
-  },
-  "target": "b",
-  "tier": "other",
-  "title": "Langfuse - Product Manager",
-  "url": "https://jobs.ashbyhq.com/clickhouse/adf52ecd-e075-4a65-89b9-d129960b67f5",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d36850bc3f45&co=ClickHouse&ti=Langfuse%20-%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d36850bc3f45&co=ClickHouse&ti=Langfuse%20-%20Product%20Manager",
-  "company_about": "Langfuse (now part of ClickHouse) makes open-source LLM observability tooling for engineers.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=ClickHouse&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Principal PM for fixed-income investment analytics tools, per title only.",
   "bucket": "SF / Bay",
   "comp": null,
@@ -10435,6 +10182,9 @@
   "tier": "other",
   "title": "Sr. Product Manager - Falcon Sensor (Hybrid)",
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager-Falcon-Sensor_R29278",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-15T03:19:56.051Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=23ff1ae1ec6e&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Falcon%20Sensor%20%28Hybrid%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=23ff1ae1ec6e&co=Crowdstrike&ti=Sr.%20Product%20Manager%20-%20Falcon%20Sensor%20%28Hybrid%29",
   "company_about": "CrowdStrike is a cybersecurity company; Falcon Sensor is its endpoint agent.",
@@ -10634,69 +10384,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=460d36991ee7&co=Wexinc&ti=Sr.%20Product%20Manager%2C%20Embedded%20Payments",
   "company_about": "Wex runs payments products (Workday listing); posting text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Wexinc&network=%5B%22S%22%5D"
- },
- {
-  "about": "We are in the infancy of building out our connectivity layer, called Nexus, which has been the brainchild of our founder, Maxim, for many years.",
-  "blurb": "Staff PM owning Nexus connectivity layer: MCP connector, tool registry, agent integrations.",
-  "bucket": "Seattle",
-  "comp": "$160K \u2013 $262.5K",
-  "company": "temporal",
-  "company_display": "Temporal",
-  "company_line": "SEATTLE; durable-execution platform for developers",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-16T17:44:22.239691+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Staff level, $160-262K",
-    "hi"
-   ],
-   [
-    "Platform/infra, 0-to-1 scope",
-    "hi"
-   ],
-   [
-    "Seattle or remote OK",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "50c1d29910a2",
-  "last_seen": "2026-11-15",
-  "location": "Seattle, Washington / United States (Remote) / New York, New York / San Francisco, California / Remote",
-  "posted": "2026-10-16T15:31:05.773000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "datainfra sector 26 \u00b7 role match 0 \u00b7 target company +8",
-  "sector": "datainfra",
-  "signals": [],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-16T19:11:54Z",
-   "company": "Temporal makes durable-execution infrastructure for software and AI agent workloads.",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Staff PM owning Nexus connectivity layer: MCP connector, tool registry, agent integrations.",
-   "source": "posting",
-   "why": [
-    "Staff level, $160-262K",
-    "Platform/infra, 0-to-1 scope",
-    "Seattle or remote OK"
-   ]
-  },
-  "target": "b",
-  "tier": "other",
-  "title": "Staff Product Manager, Agent Connectivity",
-  "url": "https://jobs.ashbyhq.com/temporal/1e86eefd-0918-474c-b41d-039a3179b55a",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=50c1d29910a2&co=Temporal&ti=Staff%20Product%20Manager%2C%20Agent%20Connectivity",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=50c1d29910a2&co=Temporal&ti=Staff%20Product%20Manager%2C%20Agent%20Connectivity",
-  "company_about": "Temporal makes durable-execution infrastructure for software and AI agent workloads.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Temporal&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -14208,71 +13895,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Legion&network=%5B%22S%22%5D"
  },
  {
-  "about": "We\u2019re committed to creating a work environment that fosters growth, celebrates diversity and fundamentally makes all teammates feel welcome, accepted, nurtured and respected.",
-  "blurb": "Finds and leads growth initiatives across product, data, marketing and ops to deepen member retention and revenue.",
-  "bucket": "Remote (US)",
-  "comp": "$180\u2013200K",
-  "company": "wildalaskancompany",
-  "company_display": "Wildalaskancompany",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-25T00:28:40.039498+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "DTC growth, no data-platform axis",
-    "hi"
-   ],
-   [
-    "Remote US, $180-200K",
-    "hi"
-   ],
-   [
-    "Sustainable food mission, mild plus",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "4b0864fbb833",
-  "last_seen": "2026-11-09",
-  "location": "Remote, US",
-  "posted": "2026-10-16T10:07:54-04:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 20,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "sector": "",
-  "signals": [
-   "energy"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-25T13:47:03Z",
-   "company": "Wild Alaskan Company sells wild-caught sustainable seafood to US households via a DTC subscription eCommerce platform.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Finds and leads growth initiatives across product, data, marketing and ops to deepen member retention and revenue.",
-   "source": "posting",
-   "why": [
-    "DTC growth, no data-platform axis",
-    "Remote US, $180-200K",
-    "Sustainable food mission, mild plus"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager",
-  "url": "https://job-boards.greenhouse.io/wildalaskancompany/jobs/6226547004",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=4b0864fbb833&co=Wildalaskancompany&ti=Staff%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4b0864fbb833&co=Wildalaskancompany&ti=Staff%20Product%20Manager",
-  "company_about": "Wild Alaskan Company sells wild-caught sustainable seafood to US households via a DTC subscription eCommerce platform.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Wildalaskancompany&network=%5B%22S%22%5D"
- },
- {
   "about": "Our mission at Oura is to empower every person to own their inner potential.",
   "blurb": "DESCRIPTION We are looking for a Staff Product Manager, Hardware to help us deliver groundbreaking hardware products that our customers will love. The Staff Product Manager will be a driving force in delivering an unmatched product experience in close \u2026",
   "bucket": "SF / Bay",
@@ -16387,7 +16009,7 @@
   "id": "56eac9ee1a43",
   "last_seen": "2026-11-15",
   "location": "Remote",
-  "posted": "2026-11-04T02:06:25.827900+00:00",
+  "posted": "2026-11-03T19:29:10.183504+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 10,
@@ -17802,69 +17424,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=aed5dfc051e1&co=Ensemblehp&ti=Senior%20Product%20Manager",
   "company_about": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Ensemblehp&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM role; posting text unavailable (unclear).",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "acxiomllc",
-  "company_display": "Acxiomllc",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-20T18:28:33.503362+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Remote, Senior level",
-    "hi"
-   ],
-   [
-    "Marketing data, no energy axis",
-    "hi"
-   ],
-   [
-    "Posting unreadable; low confidence",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "d94a71fd3d22",
-  "last_seen": "2026-11-15",
-  "location": "Remote/Homebased",
-  "posted": "2026-10-16T18:28:43.253087+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-20T22:47:27Z",
-   "company": "Acxiom is a data and marketing technology company (unclear).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM role; posting text unavailable (unclear).",
-   "source": "fallback",
-   "why": [
-    "Remote, Senior level",
-    "Marketing data, no energy axis",
-    "Posting unreadable; low confidence"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://acxiomllc.wd5.myworkdayjobs.com/en-US/acxiomusa/job/RemoteHomebased/Senior-Product-Manager_JR014575",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d94a71fd3d22&co=Acxiomllc&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d94a71fd3d22&co=Acxiomllc&ti=Senior%20Product%20Manager",
-  "company_about": "Acxiom is a data and marketing technology company (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Acxiomllc&network=%5B%22S%22%5D"
  },
  {
   "about": "",
