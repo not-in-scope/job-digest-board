@@ -5011,6 +5011,59 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, HPC and AI for Physics",
+  "company": "nvidia",
+  "location": "US, CA, Remote / US, MA, Remote",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Product-Manager--HPC-and-AI-for-Physics_JR2023471",
+  "posted": "2026-10-30T23:02:21.512375+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "JR2023471",
+  "role_pts": 10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Nvidia",
+  "about": "",
+  "signals": [
+   "ai"
+  ],
+  "id": "07de5130ca04",
+  "score": 48,
+  "role10": 2,
+  "tier": "good",
+  "target": "c",
+  "company_line": "Emerald AI backer; the energy-of-AI epicenter",
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +24 \u00b7 target company +4",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "ai",
+    "mid"
+   ],
+   [
+    "\u25ce target company",
+    "amber"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=07de5130ca04&co=Nvidia&ti=Senior%20Product%20Manager%2C%20HPC%20and%20AI%20for%20Physics",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=07de5130ca04&co=Nvidia&ti=Senior%20Product%20Manager%2C%20HPC%20and%20AI%20for%20Physics",
+  "company_about": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We are committed to fostering an environment where all employees feel valued, respected, and rewarded for their contributions.",
   "blurb": "Owns compliance and reporting that turns pentest results into audit-ready evidence (SOC 2, FedRAMP).",
   "bucket": "SF / Bay",
@@ -5535,6 +5588,55 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=24180f0279eb&co=Grafana%20Labs&ti=Staff%20Product%20Manager%2C%20Enterprise%20Deployment%20Solutions%20%7C%20%20USA%20%7C%20Remote",
   "company_about": "Grafana Labs makes Grafana Cloud, an observability platform used by 10,000+ organizations; fully remote.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Grafana+Labs&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager, UI Platform",
+  "company": "expedia",
+  "location": "Washington - Seattle Campus",
+  "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Principal-Product-Manager--UI-Platform_R-111284",
+  "posted": "2026-11-16T23:00:57.669950+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Seattle",
+  "sector": "",
+  "blurb": "R-111284",
+  "role_pts": 10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Expedia",
+  "about": "",
+  "signals": [
+   "platform"
+  ],
+  "id": "55984b88cab0",
+  "score": 44,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +24",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "platform",
+    "mid"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=55984b88cab0&co=Expedia&ti=Principal%20Product%20Manager%2C%20UI%20Platform",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=55984b88cab0&co=Expedia&ti=Principal%20Product%20Manager%2C%20UI%20Platform",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Expedia&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -6471,6 +6573,60 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=bb19c0154c90&co=Wk&ti=Lead%20Technology%20Product%20Manager%2C%20AI%20Quality%20%26%20Evaluation",
   "company_about": "Wk; the posting text was unavailable, so what it does is unclear (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Wk&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, Partnerships & Integrations",
+  "company": "chainguard",
+  "location": "United States - Remote",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4729544006",
+  "posted": "2026-11-16T11:38:09-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$205\u2013231K",
+  "bucket": "Remote (US)",
+  "sector": "devtools",
+  "blurb": "The role in a nutshell: Chainguard is building the most trusted source for open source software. To be that, we have to meet customers and developers where they already work: inside their SDLC, their existing tool stack, and increasingly their agent workflows.",
+  "role_pts": 13,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Chainguard",
+  "about": "Chainguard is the trusted source for open source.",
+  "signals": [
+   "integrations",
+   "B2B"
+  ],
+  "id": "123b7325304b",
+  "score": 43,
+  "role10": 3,
+  "tier": "other",
+  "target": "b",
+  "company_line": "Software supply-chain security = compliance x developer data",
+  "score_why": "devtools sector 14 \u00b7 sector feedback +8 \u00b7 role match 13 \u00b7 target company +8",
+  "summary": null,
+  "fit_tags": [
+   [
+    "devtools",
+    "mid"
+   ],
+   [
+    "integrations",
+    "mid"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "\u25ce target company",
+    "amber"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=123b7325304b&co=Chainguard&ti=Senior%20Product%20Manager%2C%20Partnerships%20%26%20Integrations",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=123b7325304b&co=Chainguard&ti=Senior%20Product%20Manager%2C%20Partnerships%20%26%20Integrations",
+  "company_about": "Chainguard provides trusted open source artifacts for every layer of your modern software stack\u2014containers, language libraries, and VM images.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Chainguard&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -7844,7 +8000,7 @@
  },
  {
   "about": "",
-  "blurb": "REF090217W",
+  "blurb": "Owns authentication product strategy and API roadmap across 3DS, tokens and AI-agent checkout, plus standards work.",
   "bucket": "SF / Bay",
   "comp": null,
   "company": "visa",
@@ -7855,15 +8011,19 @@
   "first_seen": "2026-11-16T02:20:15.676749+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 4/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Technical platform PM, seniority ok",
+    "hi"
    ],
    [
-    "you liked similar",
+    "SF but 3 days in office",
+    "hi"
+   ],
+   [
+    "Payments auth, no energy/data axis",
     "hi"
    ]
   ],
@@ -7879,14 +8039,29 @@
   "sector": "",
   "signals": [],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-16T14:47:21Z",
+   "company": "Visa is a global payments network connecting consumers, merchants, banks and governments in 200+ countries.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns authentication product strategy and API roadmap across 3DS, tokens and AI-agent checkout, plus standards work.",
+   "source": "posting",
+   "why": [
+    "Technical platform PM, seniority ok",
+    "SF but 3 days in office",
+    "Payments auth, no energy/data axis"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager \u2013 Global Authentication Product Solutioning",
   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Senior-Product-Manager---Global-Authentication-Product-Solutioning_REF090217W",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-16T03:45:27.007Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6bab7cd07687&co=Visa&ti=Senior%20Product%20Manager%20%E2%80%93%20Global%20Authentication%20Product%20Solutioning",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6bab7cd07687&co=Visa&ti=Senior%20Product%20Manager%20%E2%80%93%20Global%20Authentication%20Product%20Solutioning",
-  "company_about": "",
+  "company_about": "Visa is a global payments network connecting consumers, merchants, banks and governments in 200+ countries.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Visa&network=%5B%22S%22%5D"
  },
  {
@@ -10304,6 +10479,61 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Everquote&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, Product Infrastructure",
+  "company": "valon",
+  "location": "New York / San Francisco / Remote",
+  "url": "https://jobs.ashbyhq.com/Valon/0f1fbd7d-e30d-4b8c-9e3d-04ff6bfd7638",
+  "posted": "2026-11-07T05:21:39.861000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$200K \u2013 $235K",
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "About the Team You\u2019ll join the core Platform & Infrastructure product org. This team builds the foundational systems and services that serve as the backbone for features across our entire product suite.",
+  "role_pts": 22,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Valon",
+  "about": "Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.",
+  "signals": [
+   "infrastructure",
+   "compliance",
+   "B2B"
+  ],
+  "id": "a825e2e1ff3a",
+  "score": 32,
+  "role10": 4,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 22",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "infrastructure",
+    "mid"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a825e2e1ff3a&co=Valon&ti=Senior%20Product%20Manager%2C%20Product%20Infrastructure",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a825e2e1ff3a&co=Valon&ti=Senior%20Product%20Manager%2C%20Product%20Infrastructure",
+  "company_about": "The AI-native operating system for mortgage servicing. Building a better foundation for the American Dream.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Valon&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We\u2019re Changing the PropTech Industry We\u2019re a profitable, growth-stage company building industry-leading martech and data products for the PropTech space.",
   "blurb": "Leads a 0-to-1 AI-native product line: model placement, eval frameworks, guardrails, and data foundation.",
   "bucket": "Remote (US)",
@@ -12171,6 +12401,56 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Google&network=%5B%22S%22%5D"
  },
  {
+  "title": "Sr. Product Manager",
+  "company": "6sense",
+  "location": "United States, Remote",
+  "url": "https://boards.greenhouse.io/6sense/jobs/8352600?gh_jid=8352600",
+  "posted": "2026-11-16T09:00:34-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$145\u2013206K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Every 6sensor plays a part in de\ufb01ning the future of our industry-leading technology.",
+  "role_pts": 13,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "6Sense",
+  "about": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.",
+  "signals": [
+   "energy",
+   "B2B"
+  ],
+  "id": "c240ab57f03f",
+  "score": 23,
+  "role10": 3,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 13",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "energy",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c240ab57f03f&co=6Sense&ti=Sr.%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c240ab57f03f&co=6Sense&ti=Sr.%20Product%20Manager",
+  "company_about": "We want 6sense to be the best stop and the next stop of your career!",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=6Sense&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We're excited about you because\u2026 You have 7+ years of product management experience, including end-to-end ownership of internal tools, HR technology, case management, support, or \u2026",
   "blurb": "Owns HR-partner internal products (employee relations casework, workflow automation) and decides where AI stays human-reviewed.",
   "bucket": "Remote (US)",
@@ -12366,6 +12646,56 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8310d8062fe3&co=TaskRabbit&ti=Senior%20Product%20Manager",
   "company_about": "Taskrabbit, a marketplace for home tasks, owned with IKEA.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=TaskRabbit&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager",
+  "company": "valon",
+  "location": "New York / San Francisco / Remote",
+  "url": "https://jobs.ashbyhq.com/Valon/bef72038-2483-4c8c-b062-70b3c5c09593",
+  "posted": "2026-10-20T18:30:31.749000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$200K \u2013 $235K",
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "Responsibilities As a Senior Product Manager, you will own the product strategy and execution for a critical vertical within mortgage servicing, such as collections, loss mitigation, foreclosure, payments, or escrow. This is a senior IC role reporting to the \u2026",
+  "role_pts": 12,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Valon",
+  "about": "Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.",
+  "signals": [
+   "compliance",
+   "B2B"
+  ],
+  "id": "32cf32d4be44",
+  "score": 22,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 12",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=32cf32d4be44&co=Valon&ti=Senior%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=32cf32d4be44&co=Valon&ti=Senior%20Product%20Manager",
+  "company_about": "The AI-native operating system for mortgage servicing. Building a better foundation for the American Dream.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Valon&network=%5B%22S%22%5D"
  },
  {
   "about": "Our Mission ButterflyMX is on a mission to empower people to automate property access, operations, and security from a single platform.",
@@ -12990,7 +13320,7 @@
   "id": "c07cc622c72a",
   "last_seen": "2026-11-16",
   "location": "United States / Remote",
-  "posted": "2026-11-11T00:00:00+00:00",
+  "posted": "2026-11-16T00:00:00+00:00",
   "role10": 2,
   "role_pts": 10,
   "score": 20,
@@ -13016,7 +13346,7 @@
   "target": null,
   "tier": "other",
   "title": "Lead Product Manager, AI Agents",
-  "url": "https://apply.workable.com/j/6BCC7E1038",
+  "url": "https://apply.workable.com/j/6D68D26F59",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c07cc622c72a&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20AI%20Agents",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c07cc622c72a&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20AI%20Agents",
   "company_about": "LawnStarter runs an online lawn-care marketplace (inferred from name; posting text unavailable) (unclear).",
@@ -13480,69 +13810,49 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=G2&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Likely owns product direction for agentic AI features; details not available.",
-  "bucket": "Remote (US)",
+  "title": "Principal Product Manager, PSA Liquidity Platform",
+  "company": "collectorsuniverse",
+  "location": "US Remote - California",
+  "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/en-US/collectors/job/US-Remote---California/Principal-Product-Manager--PSA-Liquidity-Platform_JR104556-1",
+  "posted": "2026-10-21T23:00:21.238393+00:00",
+  "source": "workday",
+  "company_name": "",
   "comp": null,
-  "company": "legion",
-  "company_display": "Legion",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "JR104556",
+  "role_pts": 10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Collectorsuniverse",
+  "about": "",
+  "signals": [
+   "platform"
+  ],
+  "id": "2d69e725928c",
+  "score": 20,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
   "company_line": null,
-  "company_name": "Legion",
-  "emailed": true,
-  "first_seen": "2026-10-17T16:36:59.528404+00:00",
+  "score_why": "unknown sector 10 \u00b7 role match 10",
+  "summary": null,
   "fit_tags": [
    [
-    "fit 4/10",
-    "amber"
+    "sector unknown",
+    "dim"
    ],
    [
-    "Principal level, AI scope",
-    "hi"
-   ],
-   [
-    "'Anywhere in World' may mean non-US",
-    "hi"
-   ],
-   [
-    "No domain or comp info",
-    "hi"
+    "platform",
+    "mid"
    ]
   ],
-  "hidden": false,
-  "id": "444f31afc7cb",
-  "last_seen": "2026-11-16",
-  "location": "Remote (Anywhere in the World)",
-  "posted": "2026-10-17T07:31:02+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 20,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "sector": "",
-  "signals": [
-   "ai"
-  ],
-  "source": "wwr",
-  "summary": {
-   "at": "2026-10-17T22:46:18Z",
-   "company": "Legion is a company hiring a remote Principal PM for agentic AI; the posting text was unavailable (unclear).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Likely owns product direction for agentic AI features; details not available.",
-   "source": "fallback",
-   "why": [
-    "Principal level, AI scope",
-    "'Anywhere in World' may mean non-US",
-    "No domain or comp info"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, Agentic AI",
-  "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=444f31afc7cb&co=Legion&ti=Principal%20Product%20Manager%2C%20Agentic%20AI",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=444f31afc7cb&co=Legion&ti=Principal%20Product%20Manager%2C%20Agentic%20AI",
-  "company_about": "Legion is a company hiring a remote Principal PM for agentic AI; the posting text was unavailable (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Legion&network=%5B%22S%22%5D"
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2d69e725928c&co=Collectorsuniverse&ti=Principal%20Product%20Manager%2C%20PSA%20Liquidity%20Platform",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2d69e725928c&co=Collectorsuniverse&ti=Principal%20Product%20Manager%2C%20PSA%20Liquidity%20Platform",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Collectorsuniverse&network=%5B%22S%22%5D"
  },
  {
   "about": "Our mission at Oura is to empower every person to own their inner potential.",
@@ -14181,6 +14491,69 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d1d3da8a6c62&co=Beigene&ti=Senior%20Product%20Manager%2C%20Clinical%20Development%20Platforms",
   "company_about": "BeiGene is a global oncology biotech; posting text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Beigene&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Likely optimizes Epic EHR workflows for revenue cycle operations (unclear; text unavailable).",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "ensemblehp",
+  "company_display": "Ensemblehp",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-04T02:36:49.269365+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Epic optimization, ops-tooling lean",
+    "hi"
+   ],
+   [
+    "Remote nationwide, senior level",
+    "hi"
+   ],
+   [
+    "No data platform scope visible",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "685ff5fd6f8b",
+  "last_seen": "2026-11-16",
+  "location": "Remote - Nationwide",
+  "posted": "2026-10-21T02:38:30.649895+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 18,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-04T13:46:40Z",
+   "company": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Likely optimizes Epic EHR workflows for revenue cycle operations (unclear; text unavailable).",
+   "source": "fallback",
+   "why": [
+    "Epic optimization, ops-tooling lean",
+    "Remote nationwide, senior level",
+    "No data platform scope visible"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Epic Optimization",
+  "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Product-Manager--Epic-Optimization_R052514",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=685ff5fd6f8b&co=Ensemblehp&ti=Senior%20Product%20Manager%2C%20Epic%20Optimization",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=685ff5fd6f8b&co=Ensemblehp&ti=Senior%20Product%20Manager%2C%20Epic%20Optimization",
+  "company_about": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ensemblehp&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -15055,6 +15428,49 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Betterup&network=%5B%22S%22%5D"
  },
  {
+  "title": "Principal Product Manager, Pricing & Packaging",
+  "company": "gusto",
+  "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+  "url": "https://job-boards.greenhouse.io/gusto/jobs/8346795",
+  "posted": "2026-11-16T10:24:32-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$179\u2013260K",
+  "bucket": "SF / Bay",
+  "sector": "b2b",
+  "blurb": "By the Numbers: Named #1 best software for small business of 2024 by G2 2,700+ employees in the United States, Canada, Mexico, and Turkey and growing Over $500M in annual revenue The SMB market is large (and growing!) with huge opportunities for Gusto to make \u2026",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Gusto",
+  "about": "We\u2019re here to serve small and medium businesses.",
+  "signals": [],
+  "id": "a341e956fef6",
+  "score": 12,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "b2b sector 12 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "b2b",
+    "mid"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a341e956fef6&co=Gusto&ti=Principal%20Product%20Manager%2C%20Pricing%20%26%20Packaging",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a341e956fef6&co=Gusto&ti=Principal%20Product%20Manager%2C%20Pricing%20%26%20Packaging",
+  "company_about": "We\u2019re here to serve small and medium businesses.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Gusto&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We\u2019re a $1B+ learning platform used by two-thirds of U.S.",
   "blurb": "Owns growth strategy across free experience, ads, internationalization and growth loops.",
   "bucket": "SF / Bay",
@@ -15119,6 +15535,51 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=fe957330ccf6&co=Quizlet-Inc&ti=Principal%20Product%20Manager%2C%20Growth",
   "company_about": "Quizlet is a $1B+ learning platform with 60M+ users, using generative AI and adaptive learning.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Quizlet-Inc&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager - Catering & Events",
+  "company": "toast",
+  "location": "Remote, US",
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8383535",
+  "posted": "2026-11-13T17:27:28-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$149\u2013304K",
+  "bucket": "Remote (US)",
+  "sector": "fintech",
+  "blurb": "You will shape how thousands of operators run their biggest revenue days, and you will help define where Catering & Events goes next. A day in the life (Responsibilities) Own and drive the Catering & Events product strategy, connecting investments to Toast's \u2026",
+  "role_pts": 3,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Toast",
+  "about": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees \u2026",
+  "signals": [
+   "B2B"
+  ],
+  "id": "1c8677b6a46d",
+  "score": 11,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "fintech sector 8 \u00b7 role match 3",
+  "summary": null,
+  "fit_tags": [
+   [
+    "fintech",
+    "mid"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1c8677b6a46d&co=Toast&ti=Principal%20Product%20Manager%20-%20Catering%20%26%20Events",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1c8677b6a46d&co=Toast&ti=Principal%20Product%20Manager%20-%20Catering%20%26%20Events",
+  "company_about": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees \u2026",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Toast&network=%5B%22S%22%5D"
  },
  {
   "about": "Versapay removes friction, unlocks working capital, and accelerates momentum \u2014 giving finance leaders the clarity and control they need to drive business forward.",
@@ -15218,7 +15679,7 @@
   "id": "44c6a561d91f",
   "last_seen": "2026-11-16",
   "location": "United States / Remote",
-  "posted": "2026-11-11T00:00:00+00:00",
+  "posted": "2026-11-16T00:00:00+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 10,
@@ -15242,7 +15703,7 @@
   "target": null,
   "tier": "other",
   "title": "Lead Product Manager, New Customer Experience",
-  "url": "https://apply.workable.com/j/E45D99B6D8",
+  "url": "https://apply.workable.com/j/B4A7D23738",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=44c6a561d91f&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20New%20Customer%20Experience",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=44c6a561d91f&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20New%20Customer%20Experience",
   "company_about": "LawnStarter is a lawn-care services marketplace (unclear).",
@@ -15659,7 +16120,7 @@
   "id": "56eac9ee1a43",
   "last_seen": "2026-11-16",
   "location": "Remote",
-  "posted": "2026-11-04T02:22:45.366189+00:00",
+  "posted": "2026-11-03T23:02:23.363972+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 10,
@@ -16635,6 +17096,135 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Committee+for+Children&network=%5B%22S%22%5D"
  },
  {
+  "title": "Staff Product Manager, New Business Ventures",
+  "company": "collectorsuniverse",
+  "location": "US Remote - California",
+  "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/en-US/collectors/job/US-Remote---California/Staff-Product-Manager--New-Business-Ventures_JR104976",
+  "posted": "2026-10-21T23:00:21.238396+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "JR104976",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Collectorsuniverse",
+  "about": "",
+  "signals": [],
+  "id": "953c1d74f312",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=953c1d74f312&co=Collectorsuniverse&ti=Staff%20Product%20Manager%2C%20New%20Business%20Ventures",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=953c1d74f312&co=Collectorsuniverse&ti=Staff%20Product%20Manager%2C%20New%20Business%20Ventures",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Collectorsuniverse&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager, Vault Operations",
+  "company": "collectorsuniverse",
+  "location": "US - Remote",
+  "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/en-US/collectors/job/US---Remote/Senior-Product-Manager--Vault-Operations_JR106110",
+  "posted": "2026-10-21T23:00:21.238389+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "JR106110",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Collectorsuniverse",
+  "about": "",
+  "signals": [],
+  "id": "0a34e188f4db",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0a34e188f4db&co=Collectorsuniverse&ti=Senior%20Product%20Manager%2C%20Vault%20Operations",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0a34e188f4db&co=Collectorsuniverse&ti=Senior%20Product%20Manager%2C%20Vault%20Operations",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Collectorsuniverse&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Principal Product Manager, Payments",
+  "company": "collectorsuniverse",
+  "location": "US Remote - California",
+  "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/en-US/collectors/job/US-Remote---California/Principal-Product-Manager--Payments_JR106111",
+  "posted": "2026-10-21T23:00:21.238371+00:00",
+  "source": "workday",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "JR106111",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
+  "last_seen": "2026-11-16",
+  "company_display": "Collectorsuniverse",
+  "about": "",
+  "signals": [],
+  "id": "6ec00ede7ba3",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6ec00ede7ba3&co=Collectorsuniverse&ti=Principal%20Product%20Manager%2C%20Payments",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6ec00ede7ba3&co=Collectorsuniverse&ti=Principal%20Product%20Manager%2C%20Payments",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Collectorsuniverse&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Senior PM for commercial lending products; scope unknown without the posting.",
   "bucket": "Remote (US)",
@@ -16696,69 +17286,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7dc87a291a25&co=Keybank&ti=Senior%20Product%20Manager%20%28Commercial%20Lending%29",
   "company_about": "KeyBank is a US regional bank; posting text unavailable.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Keybank&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Likely optimizes Epic EHR workflows for revenue cycle operations (unclear; text unavailable).",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "ensemblehp",
-  "company_display": "Ensemblehp",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-04T02:36:49.269365+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Epic optimization, ops-tooling lean",
-    "hi"
-   ],
-   [
-    "Remote nationwide, senior level",
-    "hi"
-   ],
-   [
-    "No data platform scope visible",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "685ff5fd6f8b",
-  "last_seen": "2026-11-16",
-  "location": "Remote - Nationwide",
-  "posted": "2026-10-21T02:38:30.649895+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-11-04T13:46:40Z",
-   "company": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Likely optimizes Epic EHR workflows for revenue cycle operations (unclear; text unavailable).",
-   "source": "fallback",
-   "why": [
-    "Epic optimization, ops-tooling lean",
-    "Remote nationwide, senior level",
-    "No data platform scope visible"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Epic Optimization",
-  "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Product-Manager--Epic-Optimization_R052514",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=685ff5fd6f8b&co=Ensemblehp&ti=Senior%20Product%20Manager%2C%20Epic%20Optimization",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=685ff5fd6f8b&co=Ensemblehp&ti=Senior%20Product%20Manager%2C%20Epic%20Optimization",
-  "company_about": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ensemblehp&network=%5B%22S%22%5D"
  },
  {
   "about": "We\u2019re on a quest to empower live communities, so if this sounds good to you, see what we\u2019re up to on LinkedIn and X , and discover the projects we\u2019re solving on our Blog .",
