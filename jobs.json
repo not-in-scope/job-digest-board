@@ -7843,33 +7843,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Acuitymd&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager \u2013 Global Authentication Product Solutioning",
-  "company": "visa",
-  "location": "US - San Francisco, CA",
-  "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Senior-Product-Manager---Global-Authentication-Product-Solutioning_REF090217W",
-  "posted": "2026-11-16T02:23:18.672580+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "SF / Bay",
-  "sector": "",
-  "blurb": "REF090217W",
-  "role_pts": 0,
-  "emailed": false,
-  "hidden": false,
-  "first_seen": "2026-11-16T02:20:15.676749+00:00",
-  "last_seen": "2026-11-16",
-  "company_display": "Visa",
   "about": "",
-  "signals": [],
-  "id": "6bab7cd07687",
-  "score": 34,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "REF090217W",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "visa",
+  "company_display": "Visa",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-16T02:20:15.676749+00:00",
   "fit_tags": [
    [
     "sector unknown",
@@ -7884,6 +7867,23 @@
     "hi"
    ]
   ],
+  "hidden": false,
+  "id": "6bab7cd07687",
+  "last_seen": "2026-11-16",
+  "location": "US - San Francisco, CA",
+  "posted": "2026-11-16T02:23:18.672580+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager \u2013 Global Authentication Product Solutioning",
+  "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Senior-Product-Manager---Global-Authentication-Product-Solutioning_REF090217W",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6bab7cd07687&co=Visa&ti=Senior%20Product%20Manager%20%E2%80%93%20Global%20Authentication%20Product%20Solutioning",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6bab7cd07687&co=Visa&ti=Senior%20Product%20Manager%20%E2%80%93%20Global%20Authentication%20Product%20Solutioning",
   "company_about": "",
@@ -17011,69 +17011,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5237b703f09a&co=Campus&ti=Senior%20Product%20Manager%2C%20Core%20Systems",
   "company_about": "Campus runs an accredited online two-year college backed by General Catalyst and Founders Fund.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Campus&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM role; posting text unavailable, scope unknown.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "ensemblehp",
-  "company_display": "Ensemblehp",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-04T02:36:49.269365+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Remote nationwide, senior level",
-    "hi"
-   ],
-   [
-    "Health revenue cycle, no data axis",
-    "hi"
-   ],
-   [
-    "Comp and scope unknown",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "aed5dfc051e1",
-  "last_seen": "2026-11-06",
-  "location": "Remote - Nationwide",
-  "posted": "2026-10-17T02:38:30.649874+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-11-04T13:46:40Z",
-   "company": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM role; posting text unavailable, scope unknown.",
-   "source": "fallback",
-   "why": [
-    "Remote nationwide, senior level",
-    "Health revenue cycle, no data axis",
-    "Comp and scope unknown"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Product-Manager_R052181",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=aed5dfc051e1&co=Ensemblehp&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=aed5dfc051e1&co=Ensemblehp&ti=Senior%20Product%20Manager",
-  "company_about": "Ensemble Health Partners, healthcare revenue cycle management services (unclear on role).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ensemblehp&network=%5B%22S%22%5D"
  },
  {
   "about": "",
