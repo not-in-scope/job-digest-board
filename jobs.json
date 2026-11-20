@@ -67,37 +67,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=OpenAI&network=%5B%22S%22%5D"
  },
  {
-  "title": "Product Manager, Native Learning and Credentials",
-  "company": "openai",
-  "location": "San Francisco / Remote",
-  "url": "https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
-  "posted": "2026-11-20T02:27:47.532000+00:00",
-  "source": "ashby",
-  "company_name": "",
-  "comp": "$347K \u2013 $445K",
-  "bucket": "SF / Bay",
-  "sector": "ai",
-  "blurb": "About the Role As Product Lead, Native Learning & Credentials, you will define and drive a new product area at the intersection of AI, enterprise learning, assessment, and safe and beneficial use. This is a senior individual-contributor role for someone who \u2026",
-  "role_pts": 10,
-  "emailed": false,
-  "hidden": false,
-  "first_seen": "2026-11-20T03:40:33.042520+00:00",
-  "last_seen": "2026-11-20",
-  "company_display": "OpenAI",
   "about": "We are exploring how learning, practice, assessment, and evidence of capability can become part of the product experience for people using ChatGPT, Codex, and other OpenAI \u2026",
-  "signals": [
-   "AI/LLM",
-   "B2B",
-   "0\u21921"
-  ],
-  "id": "03e93e6189e8",
-  "score": 52,
-  "role10": 2,
-  "tier": "network",
-  "target": "b",
+  "blurb": "About the Role As Product Lead, Native Learning & Credentials, you will define and drive a new product area at the intersection of AI, enterprise learning, assessment, and safe and beneficial use. This is a senior individual-contributor role for someone who \u2026",
+  "bucket": "SF / Bay",
+  "comp": "$347K \u2013 $445K",
+  "company": "openai",
+  "company_display": "OpenAI",
   "company_line": "Network-tier: Alexandre Robicquet (research lead), Adam Groth, Lauren Guerdat",
-  "score_why": "ai sector 28 \u00b7 sector feedback +6 \u00b7 role match 10 \u00b7 target company +8",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-20T03:40:33.042520+00:00",
   "fit_tags": [
    [
     "ai",
@@ -124,6 +103,27 @@
     "amber"
    ]
   ],
+  "hidden": false,
+  "id": "03e93e6189e8",
+  "last_seen": "2026-11-20",
+  "location": "San Francisco / Remote",
+  "posted": "2026-11-20T02:27:47.532000+00:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 52,
+  "score_why": "ai sector 28 \u00b7 sector feedback +6 \u00b7 role match 10 \u00b7 target company +8",
+  "sector": "ai",
+  "signals": [
+   "AI/LLM",
+   "B2B",
+   "0\u21921"
+  ],
+  "source": "ashby",
+  "summary": null,
+  "target": "b",
+  "tier": "network",
+  "title": "Product Manager, Native Learning and Credentials",
+  "url": "https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=03e93e6189e8&co=OpenAI&ti=Product%20Manager%2C%20Native%20Learning%20and%20Credentials",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=03e93e6189e8&co=OpenAI&ti=Product%20Manager%2C%20Native%20Learning%20and%20Credentials",
   "company_about": "OpenAI is an American artificial intelligence (AI) public benefit corporation (PBC) headquartered in San Francisco, California, led by CEO Sam Altman.",
@@ -1894,76 +1894,6 @@
  },
  {
   "about": "",
-  "blurb": "Principal technical PM for a data and platform product; scope not stated in available text.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "geaerospace",
-  "company_display": "Geaerospace",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-07T18:13:29.708946+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Principal data-platform PM title",
-    "hi"
-   ],
-   [
-    "Remote US option listed",
-    "hi"
-   ],
-   [
-    "Hardware-first; no energy/grid axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "1804460e9412",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "Evendale / Livonia / Niskayuna / Atlanta / Remote",
-  "posted": "2026-11-07T18:15:34.308815+00:00",
-  "role10": 6,
-  "role_pts": 30,
-  "score": 64,
-  "score_why": "unknown sector 10 \u00b7 role match 30 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [
-   "technical",
-   "data",
-   "platform"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-07T19:49:15.836Z",
-  "summary": {
-   "at": "2026-11-07T22:46:17Z",
-   "company": "GE Aerospace, aircraft engine maker; posting text unavailable, so scope is inferred from the title (unclear)",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Principal technical PM for a data and platform product; scope not stated in available text.",
-   "source": "fallback",
-   "why": [
-    "Principal data-platform PM title",
-    "Remote US option listed",
-    "Hardware-first; no energy/grid axis"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Principal Technical Product Manager, Data & Platform",
-  "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Principal-Technical-Product-Manager--Data---Platform_R5042476-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1804460e9412&co=Geaerospace&ti=Principal%20Technical%20Product%20Manager%2C%20Data%20%26%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1804460e9412&co=Geaerospace&ti=Principal%20Technical%20Product%20Manager%2C%20Data%20%26%20Platform",
-  "company_about": "GE Aerospace, aircraft engine maker; posting text unavailable, so scope is inferred from the title (unclear)",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Geaerospace&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Hands-on builds and configures production AI voice agents: prompts, flows, tool calls, transfers.",
   "bucket": "Remote (US)",
   "comp": "$110K \u2013 $145K",
@@ -3588,6 +3518,7 @@
   "tier": "good",
   "title": "Lead Product Manager, Marketplace AdTech",
   "url": "https://job-boards.greenhouse.io/sidecarhealth/jobs/6240909004",
+  "nudged_at": "2026-11-20T03:58:44.510362+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d13bd3fbbf6a&co=Sidecarhealth&ti=Lead%20Product%20Manager%2C%20Marketplace%20AdTech",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d13bd3fbbf6a&co=Sidecarhealth&ti=Lead%20Product%20Manager%2C%20Marketplace%20AdTech",
   "company_about": "Health insurer with transparent pricing for members; building a provider marketplace platform.",
@@ -3991,75 +3922,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dfbb72e2dbb3&co=Turquoise-Health&ti=Senior%20Product%20Manager%2C%20Claims%20Data",
   "company_about": "Turquoise Health is a healthcare price-transparency data platform (stage/size not stated).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Turquoise-Health&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior AI PM on an agent platform; scope not visible.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "wexinc",
-  "company_display": "Wexinc",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-27T01:35:29.852341+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "AI platform scope, Remote US",
-    "hi"
-   ],
-   [
-    "Fintech, no energy axis",
-    "hi"
-   ],
-   [
-    "Comp unstated",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "3a533021e1a9",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "US - Remote",
-  "posted": "2026-10-27T01:40:23.274707+00:00",
-  "role10": 4,
-  "role_pts": 20,
-  "score": 54,
-  "score_why": "unknown sector 10 \u00b7 role match 20 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [
-   "ai",
-   "platform"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-06T21:08:24.180Z",
-  "summary": {
-   "at": "2026-10-27T13:48:44Z",
-   "company": "WEX is a payments and fleet/benefits fintech (inferred; posting text unavailable).",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior AI PM on an agent platform; scope not visible.",
-   "source": "fallback",
-   "why": [
-    "AI platform scope, Remote US",
-    "Fintech, no energy axis",
-    "Comp unstated"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Senior AI Product Manager (Agent Platform)",
-  "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Senior-AI-Product-Manager--Agent-Platform-_R23136",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=3a533021e1a9&co=Wexinc&ti=Senior%20AI%20Product%20Manager%20%28Agent%20Platform%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3a533021e1a9&co=Wexinc&ti=Senior%20AI%20Product%20Manager%20%28Agent%20Platform%29",
-  "company_about": "WEX is a payments and fleet/benefits fintech (inferred; posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Wexinc&network=%5B%22S%22%5D"
  },
  {
   "about": "We\u2019re a team that thrives on solving complex problems with innovative solutions that advance our mission.",
@@ -5356,6 +5218,7 @@
   "hidden": false,
   "id": "5c93af008e01",
   "last_seen": "2026-11-20",
+  "liked": true,
   "location": "Bellevue",
   "posted": "2026-11-19T18:21:02.497000+00:00",
   "role10": 3,
@@ -5368,6 +5231,8 @@
    "B2B"
   ],
   "source": "ashby",
+  "status": "interested",
+  "status_at": "2026-11-19T22:48:24.339Z",
   "summary": {
    "at": "2026-11-19T23:46:13Z",
    "company": "UiPath sells enterprise automation software; Maestro is its agentic business process orchestration platform.",
@@ -5385,9 +5250,6 @@
   "tier": "good",
   "title": "Principal Product Manager, Agentic AI & Orchestration ",
   "url": "https://jobs.ashbyhq.com/uipath/3c66daaf-10c7-4f03-ab54-a7849428a906",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-19T22:48:24.339Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5c93af008e01&co=Uipath&ti=Principal%20Product%20Manager%2C%20Agentic%20AI%20%26%20Orchestration%20",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5c93af008e01&co=Uipath&ti=Principal%20Product%20Manager%2C%20Agentic%20AI%20%26%20Orchestration%20",
   "company_about": "UiPath sells enterprise automation software; Maestro is its agentic business process orchestration platform.",
@@ -5425,6 +5287,7 @@
   "hidden": false,
   "id": "0bc42d046bce",
   "last_seen": "2026-11-20",
+  "liked": true,
   "location": "Bellevue",
   "posted": "2026-11-19T18:12:59.557000+00:00",
   "role10": 3,
@@ -5437,6 +5300,8 @@
    "B2B"
   ],
   "source": "ashby",
+  "status": "interested",
+  "status_at": "2026-11-19T22:48:24.134Z",
   "summary": {
    "at": "2026-11-19T23:46:13Z",
    "company": "UiPath sells enterprise automation software; this role sits on Maestro, its agentic process orchestration product.",
@@ -5454,9 +5319,6 @@
   "tier": "good",
   "title": "Senior Product Manager, Agentic AI & Orchestration",
   "url": "https://jobs.ashbyhq.com/uipath/c475a00b-ac15-487c-b1b5-17d787841f85",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-19T22:48:24.134Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0bc42d046bce&co=Uipath&ti=Senior%20Product%20Manager%2C%20Agentic%20AI%20%26%20Orchestration",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0bc42d046bce&co=Uipath&ti=Senior%20Product%20Manager%2C%20Agentic%20AI%20%26%20Orchestration",
   "company_about": "UiPath sells enterprise automation software; this role sits on Maestro, its agentic process orchestration product.",
@@ -5926,36 +5788,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Loancrate&network=%5B%22S%22%5D"
  },
  {
-  "title": "Staff Product Manager, Growth",
-  "company": "airwallex",
-  "location": "US - San Francisco / Remote",
-  "url": "https://jobs.ashbyhq.com/airwallex/616eda6b-59cc-46e1-a210-2b042644b374",
-  "posted": "2026-11-20T02:16:38.379000+00:00",
-  "source": "ashby",
-  "company_name": "",
-  "comp": "$190K \u2013 $270K",
-  "bucket": "SF / Bay",
-  "sector": "compliance",
-  "blurb": "How you'll make impact You'll own the vision, strategy, and roadmap for Airwallex's growth organisation, improving organic traffic, lead generation, conversion, and product sign-ups. You'll lead a cross-functional team across Product, Design, Data \u2026",
-  "role_pts": 9,
-  "emailed": false,
-  "hidden": false,
-  "first_seen": "2026-11-20T03:40:33.042520+00:00",
-  "last_seen": "2026-11-20",
-  "company_display": "Airwallex",
   "about": "We're the regulated backbone behind global payments: not by accident, but by design.",
-  "signals": [
-   "energy",
-   "compliance"
-  ],
-  "id": "85590855887a",
-  "score": 44,
-  "role10": 2,
-  "tier": "other",
-  "target": null,
+  "blurb": "How you'll make impact You'll own the vision, strategy, and roadmap for Airwallex's growth organisation, improving organic traffic, lead generation, conversion, and product sign-ups. You'll lead a cross-functional team across Product, Design, Data \u2026",
+  "bucket": "SF / Bay",
+  "comp": "$190K \u2013 $270K",
+  "company": "airwallex",
+  "company_display": "Airwallex",
   "company_line": null,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-20T03:40:33.042520+00:00",
   "fit_tags": [
    [
     "compliance",
@@ -5970,6 +5812,26 @@
     "hi"
    ]
   ],
+  "hidden": false,
+  "id": "85590855887a",
+  "last_seen": "2026-11-20",
+  "location": "US - San Francisco / Remote",
+  "posted": "2026-11-20T02:16:38.379000+00:00",
+  "role10": 2,
+  "role_pts": 9,
+  "score": 44,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9",
+  "sector": "compliance",
+  "signals": [
+   "energy",
+   "compliance"
+  ],
+  "source": "ashby",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, Growth",
+  "url": "https://jobs.ashbyhq.com/airwallex/616eda6b-59cc-46e1-a210-2b042644b374",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=85590855887a&co=Airwallex&ti=Staff%20Product%20Manager%2C%20Growth",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=85590855887a&co=Airwallex&ti=Staff%20Product%20Manager%2C%20Growth",
   "company_about": "Airwallex AI agents consolidate business accounts, transfers, cards, expenses, payments, and billing with $0 ACH and market-leading FX.",
@@ -7574,6 +7436,7 @@
   "hidden": false,
   "id": "8beae0d7c4bd",
   "last_seen": "2026-11-20",
+  "liked": true,
   "location": "US, WA, Redmond",
   "posted": "2026-11-19T21:46:01.062532+00:00",
   "role10": 0,
@@ -7583,6 +7446,8 @@
   "sector": "",
   "signals": [],
   "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-19T22:48:24.695Z",
   "summary": {
    "at": "2026-11-19T23:46:13Z",
    "company": "Nvidia, Redmond WA; posting text unavailable so the product area is unclear.",
@@ -7599,9 +7464,6 @@
   "tier": "other",
   "title": "Principal Product Manager",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Principal-Product-Manager_JR2030140",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-19T22:48:24.695Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=8beae0d7c4bd&co=Nvidia&ti=Principal%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8beae0d7c4bd&co=Nvidia&ti=Principal%20Product%20Manager",
   "company_about": "Nvidia, Redmond WA; posting text unavailable so the product area is unclear.",
@@ -8988,72 +8850,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=48e7114dff56&co=Workiva&ti=Principal%20BT%20Product%20Manager",
   "company_about": "Workiva sells cloud software for financial, ESG, and compliance reporting (details from fallback).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Workiva&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Likely owns Medicare Part D prescription drug plan insurance products (unclear).",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "humana",
-  "company_display": "Humana",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-09T23:06:48.720267+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Insurance product, no data platform",
-    "hi"
-   ],
-   [
-    "Regulated domain but business-side",
-    "hi"
-   ],
-   [
-    "Remote US, Lead level",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "c6e967ea850f",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "Remote Nationwide",
-  "posted": "2026-11-09T23:09:24.513613+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-10T22:04:04.364Z",
-  "summary": {
-   "at": "2026-11-09T23:46:58Z",
-   "company": "Humana, a large US health insurer (details unclear from fallback data).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Likely owns Medicare Part D prescription drug plan insurance products (unclear).",
-   "source": "fallback",
-   "why": [
-    "Insurance product, no data platform",
-    "Regulated domain but business-side",
-    "Remote US, Lead level"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Lead Insurance Product Manager - Part D/PDP",
-  "url": "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Nationwide/Lead-Insurance-Product-Manager---Part-D-PDP_R-435581-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c6e967ea850f&co=Humana&ti=Lead%20Insurance%20Product%20Manager%20-%20Part%20D%2FPDP",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c6e967ea850f&co=Humana&ti=Lead%20Insurance%20Product%20Manager%20-%20Part%20D%2FPDP",
-  "company_about": "Humana, a large US health insurer (details unclear from fallback data).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Humana&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -11594,6 +11390,7 @@
   "hidden": false,
   "id": "fdf2a7bb0aee",
   "last_seen": "2026-11-20",
+  "liked": true,
   "location": "New York / Remote New Jersey / McLean / Remote North Carolina / Remote Massachusetts",
   "posted": "2026-11-19T21:43:59.112587+00:00",
   "role10": 2,
@@ -11605,6 +11402,8 @@
    "platform"
   ],
   "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-19T23:10:37.689Z",
   "summary": {
    "at": "2026-11-19T23:46:13Z",
    "company": "Adobe, large software company; this is its customer journey and engagement platform team (unclear).",
@@ -11621,9 +11420,6 @@
   "tier": "other",
   "title": "Sr. Product Manager, Customer Journey & Engagement Platform",
   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Sr-Product-Manager--Customer-Journey---Engagement-Platform_R173565",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-19T23:10:37.689Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=fdf2a7bb0aee&co=Adobe&ti=Sr.%20Product%20Manager%2C%20Customer%20Journey%20%26%20Engagement%20Platform",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=fdf2a7bb0aee&co=Adobe&ti=Sr.%20Product%20Manager%2C%20Customer%20Journey%20%26%20Engagement%20Platform",
   "company_about": "Adobe, large software company; this is its customer journey and engagement platform team (unclear).",
@@ -11726,6 +11522,7 @@
   "hidden": false,
   "id": "5b501dd6e1f5",
   "last_seen": "2026-11-20",
+  "liked": true,
   "location": "Remote or Mississauga",
   "posted": "2026-11-19T14:27:57.015000+00:00",
   "role10": 2,
@@ -11737,6 +11534,8 @@
    "platform"
   ],
   "source": "lever",
+  "status": "interested",
+  "status_at": "2026-11-19T22:48:26.754Z",
   "summary": {
    "at": "2026-11-19T23:46:13Z",
    "company": "PointClickCare is a privately held health tech company serving 30,000+ long-term care providers.",
@@ -11754,9 +11553,6 @@
   "tier": "other",
   "title": "Senior Product Manager \u2013 Agentic Platform",
   "url": "https://jobs.lever.co/pointclickcare/73ad5135-fd75-449d-8008-df929acb80c2",
-  "liked": true,
-  "status": "interested",
-  "status_at": "2026-11-19T22:48:26.754Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5b501dd6e1f5&co=Pointclickcare&ti=Senior%20Product%20Manager%20%E2%80%93%20Agentic%20Platform",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5b501dd6e1f5&co=Pointclickcare&ti=Senior%20Product%20Manager%20%E2%80%93%20Agentic%20Platform",
   "company_about": "PointClickCare is a privately held health tech company serving 30,000+ long-term care providers.",
@@ -13989,35 +13785,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Runway-Ml&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager, TASER Fleet",
-  "company": "axon",
-  "location": "Seattle, Washington, United States",
-  "url": "https://job-boards.greenhouse.io/axon/jobs/8038248003",
-  "posted": "2026-11-19T20:54:11-05:00",
-  "source": "greenhouse",
-  "company_name": "",
-  "comp": "$131\u2013210K",
-  "bucket": "Seattle",
-  "sector": "",
-  "blurb": "Here, you\u2019ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter.",
-  "role_pts": 10,
-  "emailed": false,
-  "hidden": false,
-  "first_seen": "2026-11-20T03:40:33.042520+00:00",
-  "last_seen": "2026-11-20",
-  "company_display": "Axon",
   "about": "At Axon, we\u2019re on a mission to Protect Life.",
-  "signals": [
-   "energy"
-  ],
-  "id": "633a26dd3b28",
-  "score": 20,
-  "role10": 2,
-  "tier": "other",
-  "target": null,
+  "blurb": "Here, you\u2019ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter.",
+  "bucket": "Seattle",
+  "comp": "$131\u2013210K",
+  "company": "axon",
+  "company_display": "Axon",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 10",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-20T03:40:33.042520+00:00",
   "fit_tags": [
    [
     "sector unknown",
@@ -14028,6 +13805,25 @@
     "hi"
    ]
   ],
+  "hidden": false,
+  "id": "633a26dd3b28",
+  "last_seen": "2026-11-20",
+  "location": "Seattle, Washington, United States",
+  "posted": "2026-11-19T20:54:11-05:00",
+  "role10": 2,
+  "role_pts": 10,
+  "score": 20,
+  "score_why": "unknown sector 10 \u00b7 role match 10",
+  "sector": "",
+  "signals": [
+   "energy"
+  ],
+  "source": "greenhouse",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, TASER Fleet",
+  "url": "https://job-boards.greenhouse.io/axon/jobs/8038248003",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=633a26dd3b28&co=Axon&ti=Senior%20Product%20Manager%2C%20TASER%20Fleet",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=633a26dd3b28&co=Axon&ti=Senior%20Product%20Manager%2C%20TASER%20Fleet",
   "company_about": "At Axon, we\u2019re on a mission to Protect Life.",
@@ -14581,33 +14377,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Oura&network=%5B%22S%22%5D"
  },
  {
-  "title": "Senior Product Manager, Regionalization & New Markets",
-  "company": "remitly",
-  "location": "Seattle, Washington United States",
-  "url": "https://remitly.wd5.myworkdayjobs.com/en-US/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Manager--Regionalization---New-Markets_R_107194",
-  "posted": "2026-11-20T03:42:48.601677+00:00",
-  "source": "workday",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Seattle",
-  "sector": "",
-  "blurb": "R_107194",
-  "role_pts": 0,
-  "emailed": false,
-  "hidden": false,
-  "first_seen": "2026-11-20T03:40:33.042520+00:00",
-  "last_seen": "2026-11-20",
-  "company_display": "Remitly",
   "about": "",
-  "signals": [],
-  "id": "483c58ec6492",
-  "score": 18,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "R_107194",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "remitly",
+  "company_display": "Remitly",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-20T03:40:33.042520+00:00",
   "fit_tags": [
    [
     "sector unknown",
@@ -14622,6 +14401,23 @@
     "hi"
    ]
   ],
+  "hidden": false,
+  "id": "483c58ec6492",
+  "last_seen": "2026-11-20",
+  "location": "Seattle, Washington United States",
+  "posted": "2026-11-20T03:42:48.601677+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 18,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Regionalization & New Markets",
+  "url": "https://remitly.wd5.myworkdayjobs.com/en-US/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Manager--Regionalization---New-Markets_R_107194",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=483c58ec6492&co=Remitly&ti=Senior%20Product%20Manager%2C%20Regionalization%20%26%20New%20Markets",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=483c58ec6492&co=Remitly&ti=Senior%20Product%20Manager%2C%20Regionalization%20%26%20New%20Markets",
   "company_about": "Remitly is an American online remittance service based in Seattle, United States that offers international money transfers to over 170 countries.",
@@ -14956,72 +14752,6 @@
  },
  {
   "about": "",
-  "blurb": "Senior PM role; the posting text was unavailable, so the scope is unknown.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "leidos",
-  "company_display": "Leidos",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-10T20:34:02.654603+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Remote US",
-    "hi"
-   ],
-   [
-    "Scope and domain unknown",
-    "hi"
-   ],
-   [
-    "Possible public-sector data, unverified",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "05a11ad5303e",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "6314 Remote/Teleworker US / 10160 Washington DC",
-  "posted": "2026-11-10T20:37:29.936442+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-10T21:50:23.513Z",
-  "summary": {
-   "at": "2026-11-10T23:55:00+00:00",
-   "company": "Leidos: large defense and government services contractor (unclear what this team builds).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM role; the posting text was unavailable, so the scope is unknown.",
-   "source": "fallback",
-   "why": [
-    "Remote US",
-    "Scope and domain unknown",
-    "Possible public-sector data, unverified"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/6314-RemoteTeleworker-US/Senior-Product-Manager_R-00196645",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=05a11ad5303e&co=Leidos&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=05a11ad5303e&co=Leidos&ti=Senior%20Product%20Manager",
-  "company_about": "Leidos: large defense and government services contractor (unclear what this team builds).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Leidos&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Owns roadmap and backlog for senior-living workflows; this listing is the Canada Remote/Mississauga version.",
   "bucket": "Remote (US)",
   "comp": "$121\u2013152K",
@@ -15148,72 +14878,6 @@
  },
  {
   "about": "",
-  "blurb": "Likely owns agentic commerce and payments products (unclear).",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "earlywarning",
-  "company_display": "Earlywarning",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-09T23:06:48.720267+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Payments, no energy/data axis",
-    "hi"
-   ],
-   [
-    "NYC/Chicago/SF/Scottsdale, no remote",
-    "hi"
-   ],
-   [
-    "Sr Principal level matches seniority",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "d877a25a4d83",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "New York City / Chicago / San Francisco / Scottsdale",
-  "posted": "2026-11-09T23:08:33.375233+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-10T00:27:16.912Z",
-  "summary": {
-   "at": "2026-11-09T23:46:58Z",
-   "company": "Early Warning, a US payments and fraud-prevention network (unclear from fallback data).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Likely owns agentic commerce and payments products (unclear).",
-   "source": "fallback",
-   "why": [
-    "Payments, no energy/data axis",
-    "NYC/Chicago/SF/Scottsdale, no remote",
-    "Sr Principal level matches seniority"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Sr. Principal Product Manager, Agentic Commerce & Payments",
-  "url": "https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/New-York-City/Sr-Principal-Product-Manager--Agentic-Commerce---Payments_REQ20261015",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d877a25a4d83&co=Earlywarning&ti=Sr.%20Principal%20Product%20Manager%2C%20Agentic%20Commerce%20%26%20Payments",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d877a25a4d83&co=Earlywarning&ti=Sr.%20Principal%20Product%20Manager%2C%20Agentic%20Commerce%20%26%20Payments",
-  "company_about": "Early Warning, a US payments and fraud-prevention network (unclear from fallback data).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Senior PM for Workflows, likely the journey/automation builder product (inferred from title only).",
   "bucket": "Remote (US)",
   "comp": null,
@@ -15277,72 +14941,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=841cda890f09&co=Customer.io&ti=Senior%20Product%20Manager%2C%20Workflows",
   "company_about": "Customer.io, a messaging/marketing-automation platform (inferred from name; posting text unavailable) (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Customer.io&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior PM for machine learning products (title only).",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "remitly",
-  "company_display": "Remitly",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-05T20:46:43.495484+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Seattle location fits",
-    "hi"
-   ],
-   [
-    "ML PM; regulated payments data",
-    "hi"
-   ],
-   [
-    "Consumer fintech, no data-platform proof",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7510835ed36c",
-  "last_seen": "2026-11-12",
-  "liked": true,
-  "location": "Seattle, Washington United States",
-  "posted": "2026-11-05T20:50:52.752366+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-05T22:14:27.428Z",
-  "summary": {
-   "at": "2026-11-05T22:46:15Z",
-   "company": "Remitly is a Seattle-based cross-border remittance fintech; the posting text was unavailable.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior PM for machine learning products (title only).",
-   "source": "fallback",
-   "why": [
-    "Seattle location fits",
-    "ML PM; regulated payments data",
-    "Consumer fintech, no data-platform proof"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Machine Learning",
-  "url": "https://remitly.wd5.myworkdayjobs.com/en-US/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Manager--Machine-Learning_R_107162",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7510835ed36c&co=Remitly&ti=Senior%20Product%20Manager%2C%20Machine%20Learning",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7510835ed36c&co=Remitly&ti=Senior%20Product%20Manager%2C%20Machine%20Learning",
-  "company_about": "Remitly is a Seattle-based cross-border remittance fintech; the posting text was unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Remitly&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -16717,33 +16315,16 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Lawnstarter&network=%5B%22S%22%5D"
  },
  {
-  "title": "Lead Product Manager, Consumer Experience",
-  "company": "lawnstarter",
-  "location": "Dallas, Texas, United States / Remote",
-  "url": "https://apply.workable.com/j/7B1DB704B7",
-  "posted": "2026-11-10T00:00:00+00:00",
-  "source": "workable",
-  "company_name": "",
-  "comp": null,
-  "bucket": "Remote (US)",
-  "sector": "",
-  "blurb": "Product",
-  "role_pts": 0,
-  "emailed": false,
-  "hidden": false,
-  "first_seen": "2026-11-20T03:40:33.042520+00:00",
-  "last_seen": "2026-11-20",
-  "company_display": "Lawnstarter",
   "about": "",
-  "signals": [],
-  "id": "d36bd8036ff3",
-  "score": 10,
-  "role10": 0,
-  "tier": "other",
-  "target": null,
+  "blurb": "Product",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "lawnstarter",
+  "company_display": "Lawnstarter",
   "company_line": null,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "summary": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-20T03:40:33.042520+00:00",
   "fit_tags": [
    [
     "sector unknown",
@@ -16754,6 +16335,23 @@
     "dim"
    ]
   ],
+  "hidden": false,
+  "id": "d36bd8036ff3",
+  "last_seen": "2026-11-20",
+  "location": "Dallas, Texas, United States / Remote",
+  "posted": "2026-11-10T00:00:00+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 10,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "sector": "",
+  "signals": [],
+  "source": "workable",
+  "summary": null,
+  "target": null,
+  "tier": "other",
+  "title": "Lead Product Manager, Consumer Experience",
+  "url": "https://apply.workable.com/j/7B1DB704B7",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d36bd8036ff3&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20Consumer%20Experience",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d36bd8036ff3&co=Lawnstarter&ti=Lead%20Product%20Manager%2C%20Consumer%20Experience",
   "company_about": "LawnStarter is an American online platform for mowing.",
