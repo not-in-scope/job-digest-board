@@ -328,7 +328,7 @@
  },
  {
   "about": "Exa is building a search engine for the AI era.",
-  "blurb": "About this role The PM team's job is to improve product capabilities for customer use cases. Outcomes include: better use growth, stronger develper adoption, successful launches, and clearer company wide prioritization.",
+  "blurb": "Owns roadmap, strategy and metrics for Agentic Search products (Exa Agent, Monitors, Websets).",
   "bucket": "SF / Bay",
   "comp": "$155K \u2013 $270K",
   "company": "exa",
@@ -339,20 +339,20 @@
   "first_seen": "2026-11-21T03:23:36.884401+00:00",
   "fit_tags": [
    [
-    "ai",
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "AI/dev-tools, no energy or compliance",
     "hi"
    ],
    [
-    "no axis match",
-    "dim"
+    "Series C, SF location fits",
+    "hi"
    ],
    [
-    "\u25ce target company",
-    "amber"
-   ],
-   [
-    "\u2605 warm contact",
-    "amber"
+    "$155-270K; wants founder-type PM",
+    "hi"
    ]
   ],
   "hidden": false,
@@ -367,14 +367,26 @@
   "sector": "ai",
   "signals": [],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-21T14:46:17Z",
+   "company": "Exa builds a search engine and API for AI agents; $250M Series C, ~100 people, mostly SF-based.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns roadmap, strategy and metrics for Agentic Search products (Exa Agent, Monitors, Websets).",
+   "source": "posting",
+   "why": [
+    "AI/dev-tools, no energy or compliance",
+    "Series C, SF location fits",
+    "$155-270K; wants founder-type PM"
+   ]
+  },
   "target": "c",
   "tier": "network",
   "title": "Product Manager, Agentic Search",
   "url": "https://jobs.ashbyhq.com/exa/fd65f37b-2111-4512-bb4b-3a211d487321",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=578741b7ca97&co=Exa&ti=Product%20Manager%2C%20Agentic%20Search",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=578741b7ca97&co=Exa&ti=Product%20Manager%2C%20Agentic%20Search",
-  "company_about": "Search API for AI agents that need real-time web data, deep research, and structured content from one endpoint. Try our API for free.",
+  "company_about": "Exa builds a search engine and API for AI agents; $250M Series C, ~100 people, mostly SF-based.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Exa&network=%5B%22S%22%5D"
  },
  {
@@ -543,6 +555,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "San Francisco, CA",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-10-26T13:09:16-04:00",
   "role10": 5,
   "role_pts": 24,
@@ -574,7 +587,6 @@
   "tier": "strong",
   "title": "Senior Product Manager, Rider ML/AI",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=096af31678aa&co=Lyft&ti=Senior%20Product%20Manager%2C%20Rider%20ML%2FAI",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=096af31678aa&co=Lyft&ti=Senior%20Product%20Manager%2C%20Rider%20ML%2FAI",
   "company_about": "Lyft is a ridesharing marketplace; the Rider Recommendations team runs real-time personalization ML in the rider app.",
@@ -685,6 +697,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Bellevue",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-11-03T01:37:15.720000+00:00",
   "role10": 4,
   "role_pts": 19,
@@ -717,7 +730,6 @@
   "tier": "strong",
   "title": "Principal Product Manager, Agentic Observability and Governance  ",
   "url": "https://jobs.ashbyhq.com/uipath/a201d2fd-b7d3-4617-a3e8-62f8afa9382f",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f7fa8b614ec8&co=Uipath&ti=Principal%20Product%20Manager%2C%20Agentic%20Observability%20and%20Governance%20%20",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f7fa8b614ec8&co=Uipath&ti=Principal%20Product%20Manager%2C%20Agentic%20Observability%20and%20Governance%20%20",
   "company_about": "UiPath: enterprise automation software company, now building agentic automation with a platform for AI agents.",
@@ -1373,6 +1385,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "NerdWallet US / Remote",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-11-04T20:21:00.727000+00:00",
   "role10": 5,
   "role_pts": 23,
@@ -1404,7 +1417,6 @@
   "tier": "strong",
   "title": "Staff Data Product Manager (Machine Learning)",
   "url": "https://jobs.ashbyhq.com/nerdwallet/5c82a235-f685-4b98-9a38-8203122f4b06",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=bfb7d0aa535e&co=Nerdwallet&ti=Staff%20Data%20Product%20Manager%20%28Machine%20Learning%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=bfb7d0aa535e&co=Nerdwallet&ti=Staff%20Data%20Product%20Manager%20%28Machine%20Learning%29",
   "company_about": "NerdWallet, consumer personal-finance site and marketplace.",
@@ -1480,76 +1492,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=84f94a67d1c6&co=Bitwarden&ti=Product%20Manager%20-%20Platform",
   "company_about": "Bitwarden is an open-source password and secrets manager, founded 2016, all-remote.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Bitwarden&network=%5B%22S%22%5D"
- },
- {
-  "about": "We're leaning into intelligent tools to streamline our workflows, giving us more time for high-impact innovation.",
-  "blurb": "Owns the data catalog and the AI-ready domain program: metadata, quality signals, readiness scoreboard.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "bamboohr17",
-  "company_display": "Bamboohr17",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-22T18:07:50.560159+00:00",
-  "fit_tags": [
-   [
-    "fit 7/10",
-    "amber"
-   ],
-   [
-    "Data platform, catalog, data quality",
-    "hi"
-   ],
-   [
-    "Remote but Utah-only",
-    "hi"
-   ],
-   [
-    "Data contracts match his background",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "65f624a83967",
-  "last_seen": "2026-11-17",
-  "liked": true,
-  "location": "Utah | Remote",
-  "posted": "2026-10-22T12:49:58-04:00",
-  "role10": 9,
-  "role_pts": 43,
-  "score": 61,
-  "score_why": "unknown sector 10 \u00b7 role match 43 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [
-   "data",
-   "ai",
-   "energy",
-   "data platform",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-22T22:46:49Z",
-   "company": "BambooHR is an HR software company building a canonical data model and AI-ready platform data.",
-   "fit": 7,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the data catalog and the AI-ready domain program: metadata, quality signals, readiness scoreboard.",
-   "source": "posting",
-   "why": [
-    "Data platform, catalog, data quality",
-    "Remote but Utah-only",
-    "Data contracts match his background"
-   ]
-  },
-  "target": null,
-  "tier": "strong",
-  "title": "Senior Product Manager, Data Catalog & AI Readiness",
-  "url": "https://job-boards.greenhouse.io/bamboohr17/jobs/6200772004",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=65f624a83967&co=Bamboohr17&ti=Senior%20Product%20Manager%2C%20Data%20Catalog%20%26%20AI%20Readiness",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=65f624a83967&co=Bamboohr17&ti=Senior%20Product%20Manager%2C%20Data%20Catalog%20%26%20AI%20Readiness",
-  "company_about": "BambooHR is an HR software company building a canonical data model and AI-ready platform data.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Bamboohr17&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -2000,6 +1942,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "San Francisco, California",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-10-30T15:04:37-04:00",
   "role10": 5,
   "role_pts": 26,
@@ -2032,7 +1975,6 @@
   "tier": "good",
   "title": "Principal Product Manager, Enterprise AI",
   "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1d98e0da374e&co=Okta&ti=Principal%20Product%20Manager%2C%20Enterprise%20AI",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1d98e0da374e&co=Okta&ti=Principal%20Product%20Manager%2C%20Enterprise%20AI",
   "company_about": "Okta builds identity and access security software; this team is its internal Enterprise AI group.",
@@ -2541,6 +2483,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Remote - US",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-11-02T15:59:52-05:00",
   "role10": 3,
   "role_pts": 15,
@@ -2572,7 +2515,6 @@
   "tier": "good",
   "title": "Senior Product Manager | Mobile",
   "url": "https://www.8am.com/openings/?gh_jid=4726547006",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d047396628cd&co=Affinipay1&ti=Senior%20Product%20Manager%20%7C%20Mobile",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d047396628cd&co=Affinipay1&ti=Senior%20Product%20Manager%20%7C%20Mobile",
   "company_about": "8am (formerly AffiniPay), SaaS and payments platform for legal and accounting firms (MyCase, LawPay).",
@@ -5798,6 +5740,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "(USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office / (USA) 221 River St NJ HOBOKEN Home Office",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-11-07T02:19:40.417640+00:00",
   "role10": 2,
   "role_pts": 10,
@@ -5827,7 +5770,6 @@
   "tier": "other",
   "title": "(USA) Staff, Product Manager - WMC Data Foundation",
   "url": "https://walmart.wd504.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME--USA--Staff--Product-Manager---WMC-Data-Foundation_R-2699546",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd55aaa4e7f0&co=Walmart&ti=%28USA%29%20Staff%2C%20Product%20Manager%20-%20WMC%20Data%20Foundation",
   "company_about": "Walmart is a large US retailer; the posting text was unavailable.",
@@ -5867,6 +5809,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Milpitas, California, US / San Jose, California, US / San Francisco, California, US / Santa Clara, California, US / San Mateo, California, US",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-11-07T02:17:05.459749+00:00",
   "role10": 2,
   "role_pts": 10,
@@ -5896,7 +5839,6 @@
   "tier": "other",
   "title": "Principal Product Manager -  AI Defense (Hyrbid)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Principal-Product-Manager----AI-Defense--Hyrbid-_2028944",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=32a7061bd779&co=Cisco&ti=Principal%20Product%20Manager%20-%20%20AI%20Defense%20%28Hyrbid%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=32a7061bd779&co=Cisco&ti=Principal%20Product%20Manager%20-%20%20AI%20Defense%20%28Hyrbid%29",
   "company_about": "Cisco is a networking and security vendor; the posting text was unavailable.",
@@ -7399,6 +7341,74 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Grafana+Labs&network=%5B%22S%22%5D"
  },
  {
+  "about": "",
+  "blurb": "Owns admin and billing: user, license, access and subscription management for enterprises.",
+  "bucket": "Remote (US)",
+  "comp": "$149\u2013176K",
+  "company": "smartsheet",
+  "company_display": "Smartsheet",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-23T20:49:55.527839+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Admin/billing, no data axis",
+    "hi"
+   ],
+   [
+    "Remote US, $149-176K",
+    "hi"
+   ],
+   [
+    "Below Staff scope",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "1124604ea8c1",
+  "last_seen": "2026-10-30",
+  "location": " -REMOTE, USA-",
+  "posted": "2026-10-22T16:15:12-04:00",
+  "role10": 1,
+  "role_pts": 3,
+  "score": 37,
+  "score_why": "unknown sector 10 \u00b7 role match 3 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [
+   "B2B"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-10-23T22:46:22Z",
+   "company": "Smartsheet work-management software moving to AI agents.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns admin and billing: user, license, access and subscription management for enterprises.",
+   "source": "posting",
+   "why": [
+    "Admin/billing, no data axis",
+    "Remote US, $149-176K",
+    "Below Staff scope"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager I (Remote Eligible)",
+  "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8315864",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-21T04:26:57.553Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1124604ea8c1&co=Smartsheet&ti=Senior%20Product%20Manager%20I%20%28Remote%20Eligible%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1124604ea8c1&co=Smartsheet&ti=Senior%20Product%20Manager%20I%20%28Remote%20Eligible%29",
+  "company_about": "Smartsheet work-management software moving to AI agents.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Smartsheet&network=%5B%22S%22%5D"
+ },
+ {
   "about": "At Adyen, everything we do is engineered for ambition.",
   "blurb": "Builds AI-enabled internal tools and data products for commercial, ops and support teams.",
   "bucket": "SF / Bay",
@@ -7870,6 +7880,72 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=051f201c9849&co=Allstate&ti=Lead%20Digital%20Product%20Manager%20%E2%80%93%20Agentic%20Cyber%20Operations%20%26%20Platforms",
   "company_about": "Allstate is a large US insurer; the posting text was not retrievable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Allstate&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Product for field systems built on Salesforce, per the title only.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "smartsheet",
+  "company_display": "Smartsheet",
+  "company_line": null,
+  "company_name": "Smartsheet",
+  "emailed": true,
+  "first_seen": "2026-11-20T21:27:16.745213+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Internal CRM tooling, no data axis",
+    "hi"
+   ],
+   [
+    "Remote 'anywhere' may not be US",
+    "hi"
+   ],
+   [
+    "Posting unavailable, low confidence",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "095df68c40d2",
+  "last_seen": "2026-11-21",
+  "liked": true,
+  "location": "Remote (Anywhere in the World)",
+  "posted": "2026-11-20T18:31:01+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "wwr",
+  "status": "interested",
+  "status_at": "2026-11-20T22:30:46.290Z",
+  "summary": {
+   "at": "2026-11-20T23:46:43Z",
+   "company": "Smartsheet makes work-management software; this team covers Salesforce-based field systems (unclear).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Product for field systems built on Salesforce, per the title only.",
+   "source": "fallback",
+   "why": [
+    "Internal CRM tooling, no data axis",
+    "Remote 'anywhere' may not be US",
+    "Posting unavailable, low confidence"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Field Systems (Salesforce)",
+  "url": "https://weworkremotely.com/remote-jobs/smartsheet-senior-product-manager-field-systems-salesforce",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=095df68c40d2&co=Smartsheet&ti=Senior%20Product%20Manager%2C%20Field%20Systems%20%28Salesforce%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=095df68c40d2&co=Smartsheet&ti=Senior%20Product%20Manager%2C%20Field%20Systems%20%28Salesforce%29",
+  "company_about": "Smartsheet makes work-management software; this team covers Salesforce-based field systems (unclear).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Smartsheet&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -8662,6 +8738,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Remote-USA",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": "2026-11-07T02:19:45.754783+00:00",
   "role10": 0,
   "role_pts": 0,
@@ -8689,7 +8766,6 @@
   "tier": "other",
   "title": "Senior Product Manager, Agent CRM",
   "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Agent-CRM_P751746-2",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f9fe7a95d344&co=Zillow&ti=Senior%20Product%20Manager%2C%20Agent%20CRM",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f9fe7a95d344&co=Zillow&ti=Senior%20Product%20Manager%2C%20Agent%20CRM",
   "company_about": "Zillow is a US online real estate marketplace (posting text unavailable).",
@@ -10098,6 +10174,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Seattle, WA",
+  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "posted": null,
   "role10": 2,
   "role_pts": 10,
@@ -10127,7 +10204,6 @@
   "tier": "other",
   "title": "Lead Product Manager - Data Catalog",
   "url": "https://ats.rippling.com/rippling/jobs/1311a98d-008f-4517-9f9f-73ee4c9cf1cf",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=efa4e3958b08&co=Rippling&ti=Lead%20Product%20Manager%20-%20Data%20Catalog",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=efa4e3958b08&co=Rippling&ti=Lead%20Product%20Manager%20-%20Data%20Catalog",
   "company_about": "Rippling workforce platform (posting text unavailable); scale and stage not given.",
@@ -10629,71 +10705,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=3de9c272b4ff&co=Withpulley&ti=Senior%2FStaff%20Product%20Manager",
   "company_about": "Expert judgment and AI to make permitting manageable, predictable, and fast.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Withpulley&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Owns admin and billing: user, license, access and subscription management for enterprises.",
-  "bucket": "Remote (US)",
-  "comp": "$149\u2013176K",
-  "company": "smartsheet",
-  "company_display": "Smartsheet",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-23T20:49:55.527839+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Admin/billing, no data axis",
-    "hi"
-   ],
-   [
-    "Remote US, $149-176K",
-    "hi"
-   ],
-   [
-    "Below Staff scope",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "1124604ea8c1",
-  "last_seen": "2026-10-30",
-  "location": " -REMOTE, USA-",
-  "posted": "2026-10-22T16:15:12-04:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 29,
-  "score_why": "unknown sector 10 \u00b7 role match 3 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-23T22:46:22Z",
-   "company": "Smartsheet work-management software moving to AI agents.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns admin and billing: user, license, access and subscription management for enterprises.",
-   "source": "posting",
-   "why": [
-    "Admin/billing, no data axis",
-    "Remote US, $149-176K",
-    "Below Staff scope"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager I (Remote Eligible)",
-  "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8315864",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1124604ea8c1&co=Smartsheet&ti=Senior%20Product%20Manager%20I%20%28Remote%20Eligible%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1124604ea8c1&co=Smartsheet&ti=Senior%20Product%20Manager%20I%20%28Remote%20Eligible%29",
-  "company_about": "Smartsheet work-management software moving to AI agents.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Smartsheet&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -11424,72 +11435,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8453fb39cb60&co=Quizlet-Inc&ti=Sr.%20Staff%20Product%20Manager",
   "company_about": "Quizlet is a $1B+ learning platform with 60M+ users, using generative AI and adaptive learning.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Quizlet-Inc&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Product for field systems built on Salesforce, per the title only.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "smartsheet",
-  "company_display": "Smartsheet",
-  "company_line": null,
-  "company_name": "Smartsheet",
-  "emailed": true,
-  "first_seen": "2026-11-20T21:27:16.745213+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Internal CRM tooling, no data axis",
-    "hi"
-   ],
-   [
-    "Remote 'anywhere' may not be US",
-    "hi"
-   ],
-   [
-    "Posting unavailable, low confidence",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "095df68c40d2",
-  "last_seen": "2026-11-21",
-  "liked": true,
-  "location": "Remote (Anywhere in the World)",
-  "posted": "2026-11-20T18:31:01+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "wwr",
-  "status": "interested",
-  "status_at": "2026-11-20T22:30:46.290Z",
-  "summary": {
-   "at": "2026-11-20T23:46:43Z",
-   "company": "Smartsheet makes work-management software; this team covers Salesforce-based field systems (unclear).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Product for field systems built on Salesforce, per the title only.",
-   "source": "fallback",
-   "why": [
-    "Internal CRM tooling, no data axis",
-    "Remote 'anywhere' may not be US",
-    "Posting unavailable, low confidence"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Field Systems (Salesforce)",
-  "url": "https://weworkremotely.com/remote-jobs/smartsheet-senior-product-manager-field-systems-salesforce",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=095df68c40d2&co=Smartsheet&ti=Senior%20Product%20Manager%2C%20Field%20Systems%20%28Salesforce%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=095df68c40d2&co=Smartsheet&ti=Senior%20Product%20Manager%2C%20Field%20Systems%20%28Salesforce%29",
-  "company_about": "Smartsheet makes work-management software; this team covers Salesforce-based field systems (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Smartsheet&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -13124,6 +13069,51 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Faire&network=%5B%22S%22%5D"
  },
  {
+  "title": "Principal Product Manager, Person Data",
+  "company": "zoominfo-technologies-llc",
+  "location": "Remote (Anywhere in the World)",
+  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-manager-person-data",
+  "posted": "2026-11-21T06:02:29+00:00",
+  "source": "wwr",
+  "company_name": "ZoomInfo Technologies LLC",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "Product",
+  "role_pts": 10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-21T20:12:58.984388+00:00",
+  "last_seen": "2026-11-21",
+  "company_display": "ZoomInfo Technologies LLC",
+  "about": "",
+  "signals": [
+   "data"
+  ],
+  "id": "e98de89eca59",
+  "score": 20,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 10",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "data",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e98de89eca59&co=ZoomInfo%20Technologies%20LLC&ti=Principal%20Product%20Manager%2C%20Person%20Data",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e98de89eca59&co=ZoomInfo%20Technologies%20LLC&ti=Principal%20Product%20Manager%2C%20Person%20Data",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=ZoomInfo+Technologies+LLC&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Likely leads AI agent product work; posting text unavailable.",
   "bucket": "Remote (US)",
@@ -13450,72 +13440,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Procore&network=%5B%22S%22%5D"
  },
  {
-  "about": "We are setting out to transform the global B2B software industry and become the most trusted data foundation for buyers and sellers of software for the age of AI.",
-  "blurb": "Owns buyer-facing products helping software buyers evaluate and decide, with AI discovery.",
-  "bucket": "Remote (US)",
-  "comp": "$190K \u2013 $230K",
-  "company": "g2",
-  "company_display": "G2",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-23T20:49:55.527839+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Consumer-style buyer growth",
-    "hi"
-   ],
-   [
-    "Remote US, $190-230K",
-    "hi"
-   ],
-   [
-    "Review data, weak regulated link",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "dd284074d558",
-  "last_seen": "2026-11-21",
-  "location": "Remote (US)",
-  "posted": "2026-10-22T19:19:53.171000+00:00",
-  "role10": 1,
-  "role_pts": 6,
-  "score": 20,
-  "score_why": "marketplace sector 14 \u00b7 role match 6",
-  "sector": "marketplace",
-  "signals": [
-   "B2B",
-   "0\u21921"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-23T22:46:22Z",
-   "company": "G2 software review marketplace (with Capterra, GetApp); 6M verified reviews.",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns buyer-facing products helping software buyers evaluate and decide, with AI discovery.",
-   "source": "posting",
-   "why": [
-    "Consumer-style buyer growth",
-    "Remote US, $190-230K",
-    "Review data, weak regulated link"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager, Buyer Products",
-  "url": "https://jobs.ashbyhq.com/g2/2948b134-392a-4ac5-b3bd-ce30dcf995ad",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=dd284074d558&co=G2&ti=Principal%20Product%20Manager%2C%20Buyer%20Products",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=dd284074d558&co=G2&ti=Principal%20Product%20Manager%2C%20Buyer%20Products",
-  "company_about": "G2 software review marketplace (with Capterra, GetApp); 6M verified reviews.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=G2&network=%5B%22S%22%5D"
- },
- {
   "about": "Our mission at Oura is to empower every person to own their inner potential.",
   "blurb": "DESCRIPTION We are looking for a Staff Product Manager, Hardware to help us deliver groundbreaking hardware products that our customers will love. The Staff Product Manager will be a driving force in delivering an unmatched product experience in close \u2026",
   "bucket": "SF / Bay",
@@ -13704,7 +13628,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Remote",
-  "posted": "2026-11-21T03:25:42.974169+00:00",
+  "posted": "2026-11-20T20:15:04.455248+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 18,
@@ -15127,71 +15051,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Rithum&network=%5B%22S%22%5D"
  },
  {
-  "about": "We're a profitable, rapidly growing company with a team of roughly 140 people distributed across North and South America.",
-  "blurb": "Owns UX clarity for new products, working directly with the CEO and co-founder.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "canals",
-  "company_display": "Canals",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-22T18:07:50.560159+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "UX-flow focus, not data platform",
-    "hi"
-   ],
-   [
-    "Remote/Seattle ok, no comp stated",
-    "hi"
-   ],
-   [
-    "Vertical SaaS, no regulated data",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "5ce726284eaa",
-  "last_seen": "2026-11-13",
-  "location": "Denver / New York / San Francisco / Seattle / Remote",
-  "posted": "2026-10-22T15:51:50.596000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 13,
-  "score_why": "unknown sector 10 \u00b7 role match 3",
-  "sector": "",
-  "signals": [
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-22T22:46:49Z",
-   "company": "Canals sells AI workflow software to wholesale distributors; profitable, ~140 people.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns UX clarity for new products, working directly with the CEO and co-founder.",
-   "source": "posting",
-   "why": [
-    "UX-flow focus, not data platform",
-    "Remote/Seattle ok, no comp stated",
-    "Vertical SaaS, no regulated data"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Copy of Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/canals/56849027-c5c5-4b57-9876-96bbbc979004",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5ce726284eaa&co=Canals&ti=Copy%20of%20Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5ce726284eaa&co=Canals&ti=Copy%20of%20Senior%20Product%20Manager",
-  "company_about": "Canals sells AI workflow software to wholesale distributors; profitable, ~140 people.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Canals&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re here to serve small and medium businesses.",
   "blurb": "Principal PM for pricing and packaging.",
   "bucket": "SF / Bay",
@@ -15316,6 +15175,49 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4b87a80d0def&co=Tebra&ti=Senior%20Product%20Manager",
   "company_about": "Tebra is a healthcare practice-management software company; details not retrievable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Tebra&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Sr. Product Manager",
+  "company": "6sense",
+  "location": "Remote (US Only)",
+  "url": "https://remoteOK.com/remote-jobs/remote-sr-product-manager-6sense-1137886",
+  "posted": "2026-11-20T05:15:14+00:00",
+  "source": "remoteok",
+  "company_name": "6sense",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "product",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-21T20:12:58.984388+00:00",
+  "last_seen": "2026-11-21",
+  "company_display": "6sense",
+  "about": "",
+  "signals": [],
+  "id": "77e77e020ee4",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=77e77e020ee4&co=6sense&ti=Sr.%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=77e77e020ee4&co=6sense&ti=Sr.%20Product%20Manager",
+  "company_about": "We want 6sense to be the best stop and the next stop of your career!",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=6sense&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -16763,6 +16665,72 @@
  },
  {
   "about": "",
+  "blurb": "Owns strategy and roadmap to grow Snap's ads marketplace: new inventory, demand, and monetization models.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "snapchat",
+  "company_display": "Snapchat",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-21T03:23:36.884401+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer ad growth, no data axis",
+    "hi"
+   ],
+   [
+    "Staff level matches seniority",
+    "hi"
+   ],
+   [
+    "Bellevue/SF listed; comp not stated",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "b904926b1795",
+  "last_seen": "2026-11-21",
+  "location": "Sunnyvale, California / San Francisco, California / Los Angeles, California / Bellevue, Washington",
+  "posted": "2026-11-21T03:26:06.375181+00:00",
+  "role10": 0,
+  "role_pts": -10,
+  "score": 8,
+  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-21T14:46:17Z",
+   "company": "Snap Inc. runs Snapchat, Bitmoji and Specs; this role sits in its Ads Platform org.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns strategy and roadmap to grow Snap's ads marketplace: new inventory, demand, and monetization models.",
+   "source": "posting",
+   "why": [
+    "Consumer ad growth, no data axis",
+    "Staff level matches seniority",
+    "Bellevue/SF listed; comp not stated"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, Ad Marketplace Growth",
+  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Sunnyvale-California/Staff-Product-Manager--Spotlight-Monetization---Ad-Marketplace-Growth_R0046922",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-21T04:59:05.980Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
+  "company_about": "Snap Inc. runs Snapchat, Bitmoji and Specs; this role sits in its Ads Platform org.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "Owns product strategy and execution for a new B2C gaming rewards mobile app in Ads & Rewards.",
   "bucket": "Remote (US)",
   "comp": "$150\u2013190K",
@@ -16827,6 +16795,69 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8de447469485&co=Xsolla&ti=Senior%20Product%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards",
   "company_about": "Xsolla is a global commerce company providing payment and monetization tools for video game developers.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Xsolla&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Staff PM for ads measurement; scope not visible.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "snapchat",
+  "company_display": "Snapchat",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-27T01:35:29.852341+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Staff level, Bellevue/SF options",
+    "hi"
+   ],
+   [
+    "Ads measurement, no data-platform fit",
+    "hi"
+   ],
+   [
+    "Consumer ads, no mission axis",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "271d900823f0",
+  "last_seen": "2026-11-21",
+  "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Palo Alto, California / New York, New York / Bellevue, Washington",
+  "posted": "2026-10-27T01:39:42.713955+00:00",
+  "role10": 0,
+  "role_pts": -10,
+  "score": 8,
+  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-10-27T13:48:44Z",
+   "company": "Snapchat is a consumer social platform (posting text unavailable).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Staff PM for ads measurement; scope not visible.",
+   "source": "fallback",
+   "why": [
+    "Staff level, Bellevue/SF options",
+    "Ads measurement, no data-platform fit",
+    "Consumer ads, no mission axis"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, Ads Measurement",
+  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Staff-Product-Manager--Ads-Measurement_R0047316",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
+  "company_about": "Snapchat is a consumer social platform (posting text unavailable).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
  },
  {
   "about": "Reddit brings its audience and community intelligence into those decisions and makes it actionable wherever advertisers choose to buy.",
@@ -17023,16 +17054,33 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Horizon3Ai&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "R0046922",
-  "bucket": "Seattle",
+  "title": "Staff Product Manager, Agentic Ads Buying",
+  "company": "reddit",
+  "location": "Remote (USA Only)",
+  "url": "https://weworkremotely.com/remote-jobs/reddit-staff-product-manager-agentic-ads-buying",
+  "posted": "2026-11-21T17:01:12+00:00",
+  "source": "wwr",
+  "company_name": "Reddit",
   "comp": null,
-  "company": "snapchat",
-  "company_display": "Snapchat",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "Product",
+  "role_pts": -10,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-21T20:12:58.984388+00:00",
+  "last_seen": "2026-11-21",
+  "company_display": "Reddit",
+  "about": "",
+  "signals": [],
+  "id": "9598ff90bf17",
+  "score": 0,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
   "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-21T03:23:36.884401+00:00",
+  "score_why": "unknown sector 10 \u00b7 role match -10",
+  "summary": null,
   "fit_tags": [
    [
     "sector unknown",
@@ -17043,27 +17091,10 @@
     "dim"
    ]
   ],
-  "hidden": false,
-  "id": "b904926b1795",
-  "last_seen": "2026-11-21",
-  "location": "Sunnyvale, California / San Francisco, California / Los Angeles, California / Bellevue, Washington",
-  "posted": "2026-11-21T03:26:06.375181+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 0,
-  "score_why": "unknown sector 10 \u00b7 role match -10",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Ad Marketplace Growth",
-  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Sunnyvale-California/Staff-Product-Manager--Spotlight-Monetization---Ad-Marketplace-Growth_R0046922",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9598ff90bf17&co=Reddit&ti=Staff%20Product%20Manager%2C%20Agentic%20Ads%20Buying",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9598ff90bf17&co=Reddit&ti=Staff%20Product%20Manager%2C%20Agentic%20Ads%20Buying",
+  "company_about": "Reddit is a proprietary American social news website, news aggregator, forum and social media platform.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Reddit&network=%5B%22S%22%5D"
  },
  {
   "about": "TeamSnap ONE lets families live stream those games.",
@@ -17127,68 +17158,5 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1c515172624e&co=Teamsnap&ti=Senior%20Product%20Manager%2C%20Media%20%26%20Consumer%20Monetization",
   "company_about": "TeamSnap makes youth sports team management software; TeamSnap ONE adds live streaming.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Teamsnap&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Staff PM for ads measurement; scope not visible.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "snapchat",
-  "company_display": "Snapchat",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-27T01:35:29.852341+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Staff level, Bellevue/SF options",
-    "hi"
-   ],
-   [
-    "Ads measurement, no data-platform fit",
-    "hi"
-   ],
-   [
-    "Consumer ads, no mission axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "271d900823f0",
-  "last_seen": "2026-11-21",
-  "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Palo Alto, California / New York, New York / Bellevue, Washington",
-  "posted": "2026-10-27T01:39:42.713955+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 0,
-  "score_why": "unknown sector 10 \u00b7 role match -10",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": {
-   "at": "2026-10-27T13:48:44Z",
-   "company": "Snapchat is a consumer social platform (posting text unavailable).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Staff PM for ads measurement; scope not visible.",
-   "source": "fallback",
-   "why": [
-    "Staff level, Bellevue/SF options",
-    "Ads measurement, no data-platform fit",
-    "Consumer ads, no mission axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Ads Measurement",
-  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Staff-Product-Manager--Ads-Measurement_R0047316",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
-  "company_about": "Snapchat is a consumer social platform (posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
  }
 ]
