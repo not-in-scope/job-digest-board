@@ -30,7 +30,7 @@
   ],
   "hidden": false,
   "id": "4908c1e662f8",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / Remote",
   "posted": "2026-11-18T17:12:19.954000+00:00",
   "role10": 6,
@@ -97,7 +97,7 @@
   ],
   "hidden": false,
   "id": "03e93e6189e8",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / Remote",
   "posted": "2026-11-20T02:27:47.532000+00:00",
   "role10": 2,
@@ -164,7 +164,7 @@
   ],
   "hidden": false,
   "id": "bf97a13d481b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / Remote",
   "posted": "2026-11-19T18:32:37.856000+00:00",
   "role10": 0,
@@ -227,7 +227,7 @@
   ],
   "hidden": false,
   "id": "d71af5630e02",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / New York City / Remote",
   "posted": "2026-11-19T00:25:23.743000+00:00",
   "role10": 0,
@@ -292,7 +292,7 @@
   ],
   "hidden": false,
   "id": "578741b7ca97",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, California",
   "posted": "2026-11-20T23:45:14.806000+00:00",
   "role10": 0,
@@ -355,7 +355,7 @@
   ],
   "hidden": false,
   "id": "bf15196bb1d0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Seattle, Washington, United States",
   "posted": "2026-11-03T12:00:00-05:00",
   "role10": 0,
@@ -418,7 +418,7 @@
   ],
   "hidden": false,
   "id": "1ada5d9a9934",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York, NY / Seattle, WA / San Francisco, CA / Remote",
   "posted": "2026-11-18T00:52:25.898000+00:00",
   "role10": 8,
@@ -457,77 +457,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Liveramp-Inc&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Lyft, our purpose is to serve and connect.",
-  "blurb": "Defines objective functions and roadmap for applied ML/AI that personalizes every screen of the rider app.",
-  "bucket": "SF / Bay",
-  "comp": "$148\u2013185K",
-  "company": "lyft",
-  "company_display": "Lyft",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-26T19:30:31.030542+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Consumer conversion ML, no data platform",
-    "hi"
-   ],
-   [
-    "SF, $148-185K, below target",
-    "hi"
-   ],
-   [
-    "Commercial rideshare, no mission credit",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "096af31678aa",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "San Francisco, CA",
-  "nudged_at": "2026-11-21T03:58:50.427510+00:00",
-  "posted": "2026-10-26T13:09:16-04:00",
-  "role10": 5,
-  "role_pts": 24,
-  "score": 82,
-  "score_why": "ai sector 28 \u00b7 sector feedback +6 \u00b7 role match 24 \u00b7 your \ud83d\udc4d +24",
-  "sector": "ai",
-  "signals": [
-   "ml",
-   "ai",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "status": "interested",
-  "status_at": "2026-11-07T03:20:20.190Z",
-  "summary": {
-   "at": "2026-10-26T22:46:56Z",
-   "company": "Lyft is a ridesharing marketplace; the Rider Recommendations team runs real-time personalization ML in the rider app.",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "Defines objective functions and roadmap for applied ML/AI that personalizes every screen of the rider app.",
-   "source": "posting",
-   "why": [
-    "Consumer conversion ML, no data platform",
-    "SF, $148-185K, below target",
-    "Commercial rideshare, no mission credit"
-   ]
-  },
-  "target": null,
-  "tier": "strong",
-  "title": "Senior Product Manager, Rider ML/AI",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=096af31678aa&co=Lyft&ti=Senior%20Product%20Manager%2C%20Rider%20ML%2FAI",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=096af31678aa&co=Lyft&ti=Senior%20Product%20Manager%2C%20Rider%20ML%2FAI",
-  "company_about": "Lyft is a ridesharing marketplace; the Rider Recommendations team runs real-time personalization ML in the rider app.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Lyft&network=%5B%22S%22%5D"
- },
- {
   "about": "We are a hybrid team with a 2-3 days in office policy.",
   "blurb": "Owns AI products (assistants, integrations, workflow automation) and the shared AI capabilities and evals behind them.",
   "bucket": "Remote (US)",
@@ -558,7 +487,7 @@
   ],
   "hidden": false,
   "id": "7185aa15fe26",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Waterloo / Remote",
   "posted": "2026-11-18T03:04:21.467000+00:00",
@@ -701,7 +630,7 @@
   ],
   "hidden": false,
   "id": "10dcee39130c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Bellevue",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -772,7 +701,7 @@
   ],
   "hidden": false,
   "id": "c6f30e64c9a7",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, CA",
   "nudged_at": "2026-11-21T20:32:08.244746+00:00",
@@ -842,7 +771,7 @@
   ],
   "hidden": false,
   "id": "d2d0a1b74223",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US Remote",
   "posted": "2026-11-06T17:31:00-05:00",
   "role10": 6,
@@ -910,7 +839,7 @@
   ],
   "hidden": false,
   "id": "da865bd5f399",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA or Remote (USA) / Remote",
   "posted": "2026-11-18T16:32:37.515000+00:00",
   "role10": 4,
@@ -977,7 +906,7 @@
   ],
   "hidden": false,
   "id": "cd078e54680c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / New York / Remote",
   "posted": "2026-11-11T18:13:07.767000+00:00",
   "role10": 5,
@@ -1044,7 +973,7 @@
   ],
   "hidden": false,
   "id": "72a30a30a9ef",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote U.S. / Remote",
   "posted": "2026-11-05T00:08:34.860000+00:00",
   "role10": 4,
@@ -1111,7 +1040,7 @@
   ],
   "hidden": false,
   "id": "bfb7d0aa535e",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "NerdWallet US / Remote",
   "nudged_at": "2026-11-21T03:58:50.427510+00:00",
@@ -1182,7 +1111,7 @@
   ],
   "hidden": false,
   "id": "bc16b99a01b1",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco / Remote",
   "posted": "2026-11-03T21:51:24.791000+00:00",
@@ -1222,77 +1151,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Zip&network=%5B%22S%22%5D"
  },
  {
-  "about": "Founded in 2016 with headquarters in Santa Barbara, California, Bitwarden is supported by a passionate global community of security experts and enthusiasts.",
-  "blurb": "Owns the platform capabilities that let Bitwarden run on cloud, government cloud (FedRAMP) and self-hosted setups.",
-  "bucket": "Remote (US)",
-  "comp": "$150\u2013160K",
-  "company": "bitwarden",
-  "company_display": "Bitwarden",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-26T19:30:31.030542+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "FedRAMP/regulated deployment angle",
-    "hi"
-   ],
-   [
-    "Remote US, $150-160K, below target",
-    "hi"
-   ],
-   [
-    "Security infra, no data axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "84f94a67d1c6",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "Remote US",
-  "nudged_at": "2026-11-20T21:50:05.323073+00:00",
-  "posted": "2026-10-26T15:26:08-04:00",
-  "role10": 4,
-  "role_pts": 22,
-  "score": 65,
-  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 22 \u00b7 your \ud83d\udc4d +8",
-  "sector": "compliance",
-  "signals": [
-   "platform",
-   "compliance",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "status": "interested",
-  "status_at": "2026-11-06T21:08:19.249Z",
-  "summary": {
-   "at": "2026-10-26T22:46:56Z",
-   "company": "Bitwarden is an open-source password and secrets manager, founded 2016, all-remote.",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the platform capabilities that let Bitwarden run on cloud, government cloud (FedRAMP) and self-hosted setups.",
-   "source": "posting",
-   "why": [
-    "FedRAMP/regulated deployment angle",
-    "Remote US, $150-160K, below target",
-    "Security infra, no data axis"
-   ]
-  },
-  "target": null,
-  "tier": "strong",
-  "title": "Product Manager - Platform",
-  "url": "https://bitwarden.com/careers/8040215003/?gh_jid=8040215003",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=84f94a67d1c6&co=Bitwarden&ti=Product%20Manager%20-%20Platform",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=84f94a67d1c6&co=Bitwarden&ti=Product%20Manager%20-%20Platform",
-  "company_about": "Bitwarden is an open-source password and secrets manager, founded 2016, all-remote.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Bitwarden&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Hands-on builds and configures production AI voice agents: prompts, flows, tool calls, transfers.",
   "bucket": "Remote (US)",
@@ -1323,7 +1181,7 @@
   ],
   "hidden": false,
   "id": "337753dd0a9a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York, NY / Remote",
   "posted": "2026-11-04T21:15:03.757000+00:00",
   "role10": 6,
@@ -1391,7 +1249,7 @@
   ],
   "hidden": false,
   "id": "817d91f0a625",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Austin, Texas / Remote",
   "posted": "2026-11-04T21:14:44.442000+00:00",
   "role10": 6,
@@ -1459,7 +1317,7 @@
   ],
   "hidden": false,
   "id": "dd5ddeb9e94f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "USA-MA-Remote (Metro) / USA-IL-Remote / USA-CO-Remote / USA - Chicago, IL, West Adams St / USA - Philadelphia, PA / USA - Greenwood Village, CO",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -1530,7 +1388,7 @@
   ],
   "hidden": false,
   "id": "0828e3da8fde",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -1601,7 +1459,7 @@
   ],
   "hidden": false,
   "id": "54e667145a81",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, California / New York City, NY / Remote",
   "posted": "2026-10-27T22:10:33.473000+00:00",
   "role10": 7,
@@ -1670,7 +1528,7 @@
   ],
   "hidden": false,
   "id": "578f5e4aba74",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Bellevue Office / San Francisco Office (Fremont St) / Remote",
   "posted": "2026-11-18T20:23:38.410000+00:00",
@@ -1736,7 +1594,7 @@
   ],
   "hidden": false,
   "id": "0773745f0e46",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Hub - New York / Hub - San Francisco / Hub - Seattle / Remote",
   "posted": "2026-11-10T23:16:17.912000+00:00",
   "role10": 5,
@@ -1804,7 +1662,7 @@
   ],
   "hidden": false,
   "id": "1d98e0da374e",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, California",
   "nudged_at": "2026-11-21T03:58:50.427510+00:00",
@@ -1946,7 +1804,7 @@
   ],
   "hidden": false,
   "id": "6e8f481a6797",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, CA or Remote (USA) / Remote",
   "posted": "2026-11-13T22:27:24.151000+00:00",
@@ -2016,7 +1874,7 @@
   ],
   "hidden": false,
   "id": "54571a1c5e78",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Mateo / New York / Remote",
   "posted": "2026-11-13T13:33:09.726000+00:00",
   "role10": 3,
@@ -2083,7 +1941,7 @@
   ],
   "hidden": false,
   "id": "e0f9ebf26f57",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / New York / Remote",
   "posted": "2026-11-11T04:18:52.475000+00:00",
   "role10": 3,
@@ -2150,7 +2008,7 @@
   ],
   "hidden": false,
   "id": "b30bba057e31",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Boston or Remote",
   "posted": "2026-11-09T18:00:16-05:00",
@@ -2220,7 +2078,7 @@
   ],
   "hidden": false,
   "id": "a625c39a4847",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA or Remote (USA) / Remote",
   "posted": "2026-11-04T16:38:39.231000+00:00",
   "role10": 3,
@@ -2287,7 +2145,7 @@
   ],
   "hidden": false,
   "id": "b4ca95f9c0e1",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote - Americas, Remote EU ",
   "posted": "2026-11-23T17:44:07-05:00",
   "role10": 3,
@@ -2324,6 +2182,65 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Alpaca&network=%5B%22S%22%5D"
  },
  {
+  "title": "Lead/Principal Product Manager, Tax Agents",
+  "company": "fieldguide",
+  "location": "San Francisco, CA or Remote (USA) / Remote",
+  "url": "https://jobs.ashbyhq.com/fieldguide/8f4af483-f70a-4065-8d55-8395e512bc95",
+  "posted": "2026-11-04T16:36:58.559000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$205K \u2013 $275K",
+  "bucket": "SF / Bay",
+  "sector": "compliance",
+  "blurb": "As a growth stage startup employee, you\u2019ll have the opportunity to build out the future of business trust. We make audit practitioners\u2019 lives easier by eliminating up to 50% of their work and giving them better work-life balance.",
+  "role_pts": 15,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Fieldguide",
+  "about": "Fieldguide\u2019s team is inclusive, driven, humble and supportive.",
+  "signals": [
+   "compliance",
+   "B2B",
+   "0\u21921"
+  ],
+  "id": "c13b1cd639e5",
+  "score": 58,
+  "role10": 3,
+  "tier": "good",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 15 \u00b7 your \ud83d\udc4d +8",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c13b1cd639e5&co=Fieldguide&ti=Lead%2FPrincipal%20Product%20Manager%2C%20Tax%20Agents",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c13b1cd639e5&co=Fieldguide&ti=Lead%2FPrincipal%20Product%20Manager%2C%20Tax%20Agents",
+  "company_about": "Fieldguide is the agentic AI platform for audit and advisory firms. Field Agents run planning, testing, and review\u2014trusted by 50% of the top 100 firms.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fieldguide&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Founded in 2005, 8am\u2122 (formerly AffiniPay) is the professional business platform built to help legal, accounting, and other client-focused professionals run stronger, more \u2026",
   "blurb": "Owns mobile 0-to-1: strategy, AI assistant on phones and tap-to-pay, leading two engineers.",
   "bucket": "Remote (US)",
@@ -2354,7 +2271,7 @@
   ],
   "hidden": false,
   "id": "d047396628cd",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote - US",
   "nudged_at": "2026-11-21T03:58:50.427510+00:00",
@@ -2425,7 +2342,7 @@
   ],
   "hidden": false,
   "id": "d8e0bb352a24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US - San Francisco / Remote",
   "posted": "2026-11-23T02:06:39.254000+00:00",
   "role10": 4,
@@ -2492,7 +2409,7 @@
   ],
   "hidden": false,
   "id": "b167b2bbd9ea",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote - US",
   "posted": "2026-11-10T15:36:30-05:00",
   "role10": 4,
@@ -2559,7 +2476,7 @@
   ],
   "hidden": false,
   "id": "a7baaf494f8e",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Boston or Remote",
   "posted": "2026-10-30T16:07:34-04:00",
   "role10": 3,
@@ -2626,7 +2543,7 @@
   ],
   "hidden": false,
   "id": "5bca96a9bf43",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / New York / Remote",
   "posted": "2026-11-11T18:21:05.004000+00:00",
   "role10": 3,
@@ -2692,7 +2609,7 @@
   ],
   "hidden": false,
   "id": "92595d4c4502",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote - US",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -2828,7 +2745,7 @@
   ],
   "hidden": false,
   "id": "c7114aa1165a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "United States / Remote",
   "posted": "2026-11-10T18:14:58.923000+00:00",
@@ -2897,7 +2814,7 @@
   ],
   "hidden": false,
   "id": "169de665ec24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote U.S. / Remote",
   "posted": "2026-11-05T18:42:13.290000+00:00",
   "role10": 2,
@@ -2963,7 +2880,7 @@
   ],
   "hidden": false,
   "id": "d13bd3fbbf6a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote",
   "nudged_at": "2026-11-20T03:58:44.510362+00:00",
@@ -3033,7 +2950,7 @@
   ],
   "hidden": false,
   "id": "1afb32a6a310",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote U.S. / Remote",
   "posted": "2026-10-29T17:48:23.295000+00:00",
   "role10": 2,
@@ -3099,7 +3016,7 @@
   ],
   "hidden": false,
   "id": "501eb78c52ce",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-10-29T16:48:01.113000+00:00",
   "role10": 0,
@@ -3162,7 +3079,7 @@
   ],
   "hidden": false,
   "id": "88c6387be2c2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Seattle, , United States",
   "posted": "2026-11-17T01:55:14.624000+00:00",
@@ -3230,7 +3147,7 @@
   ],
   "hidden": false,
   "id": "f0eed7038d58",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA | New York City, NY",
   "posted": "2026-11-10T16:04:21-05:00",
   "role10": 2,
@@ -3296,7 +3213,7 @@
   ],
   "hidden": false,
   "id": "41f7380992b8",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -3433,7 +3350,7 @@
   ],
   "hidden": false,
   "id": "b6b10e139212",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-11-20T12:43:44-05:00",
   "role10": 4,
@@ -3734,6 +3651,70 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Harvey&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, Market Insights",
+  "company": "ibotta",
+  "location": "Hybrid - Denver / Remote",
+  "url": "https://jobs.ashbyhq.com/ibotta/1b85083f-ff66-464b-9617-e91e835c501e",
+  "posted": "2026-11-25T18:07:37.871000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$128\u2013153K",
+  "bucket": "Remote (US)",
+  "sector": "marketplace",
+  "blurb": "You will own the insights products that help our sellers understand clients' businesses in new ways and identify compelling opportunities for those brands to win with Ibotta. Ibotta has a uniquely rich view of how shoppers buy across the Ibotta Performance \u2026",
+  "role_pts": 19,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Ibotta",
+  "about": "Ibotta is seeking a Senior Product Manager, Market Insights to join our team and contribute to our mission to Make Every Purchase Rewarding.",
+  "signals": [
+   "data platform",
+   "AI/LLM",
+   "B2B",
+   "0\u21921"
+  ],
+  "id": "1ad0065fee2d",
+  "score": 49,
+  "role10": 4,
+  "tier": "good",
+  "target": null,
+  "company_line": null,
+  "score_why": "marketplace sector 14 \u00b7 role match 19 \u00b7 your \ud83d\udc4d +16",
+  "summary": null,
+  "fit_tags": [
+   [
+    "marketplace",
+    "mid"
+   ],
+   [
+    "data platform",
+    "hi"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ],
+   [
+    "you liked similar",
+    "hi"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1ad0065fee2d&co=Ibotta&ti=Senior%20Product%20Manager%2C%20Market%20Insights",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1ad0065fee2d&co=Ibotta&ti=Senior%20Product%20Manager%2C%20Market%20Insights",
+  "company_about": "Make every purchase rewarding with our cash back app and performance marketing services.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Ibotta&network=%5B%22S%22%5D"
+ },
+ {
   "about": "We are always looking for people who will bring something new to the table!",
   "blurb": "Scouts and validates Horizon 3 product bets on emerging tech like AI and quantum, prototype to business case.",
   "bucket": "Remote (US)",
@@ -3764,7 +3745,7 @@
   ],
   "hidden": false,
   "id": "33b8d508cd22",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote - US",
   "posted": "2026-11-13T15:08:32-05:00",
@@ -3832,7 +3813,7 @@
   ],
   "hidden": false,
   "id": "82650f38e2a9",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Hub - San Francisco / Hub - Seattle / Remote",
   "posted": "2026-11-12T17:30:54.438000+00:00",
   "role10": 3,
@@ -3898,7 +3879,7 @@
   ],
   "hidden": false,
   "id": "1cca4a158998",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / New York / Remote",
   "posted": "2026-11-11T18:17:27.257000+00:00",
   "role10": 1,
@@ -3965,7 +3946,7 @@
   ],
   "hidden": false,
   "id": "fe51bbfe62bf",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "U.S. Remote / Remote",
   "posted": "2026-11-09T19:52:58.805000+00:00",
@@ -4034,7 +4015,7 @@
   ],
   "hidden": false,
   "id": "5bf0156381bb",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, California, United States",
   "posted": "2026-10-29T11:55:42-04:00",
   "role10": 2,
@@ -4099,7 +4080,7 @@
   ],
   "hidden": false,
   "id": "c5b60dce19fd",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco",
   "posted": "2026-11-23T15:56:31-05:00",
   "role10": 5,
@@ -4167,7 +4148,7 @@
   ],
   "hidden": false,
   "id": "71c2326c1f6a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US, CA, Remote / US, TX, Remote / US, VA, Remote / US, MA, Remote / US, MD, Remote",
   "posted": "2026-11-18T21:34:40.289973+00:00",
@@ -4235,7 +4216,7 @@
   ],
   "hidden": false,
   "id": "4ae24fcdbdd3",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA",
   "posted": "2026-11-17T19:01:30.086000+00:00",
   "role10": 1,
@@ -4302,7 +4283,7 @@
   ],
   "hidden": false,
   "id": "f0a330c832b1",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US, CA, Santa Clara / US, WA, Seattle",
   "posted": "2026-11-13T02:53:43.523977+00:00",
@@ -4370,7 +4351,7 @@
   ],
   "hidden": false,
   "id": "ef85b0090461",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US, CA, Santa Clara / US, WA, Seattle",
   "nudged_at": "2026-11-24T01:40:49.531857+00:00",
@@ -4439,7 +4420,7 @@
   ],
   "hidden": false,
   "id": "07de5130ca04",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US, CA, Remote / US, MA, Remote",
   "posted": "2026-10-30T23:02:21.512375+00:00",
@@ -4507,7 +4488,7 @@
   ],
   "hidden": false,
   "id": "c91620faa7c6",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote, USA / Remote",
   "posted": "2026-11-20T20:32:52.813000+00:00",
   "role10": 2,
@@ -4711,7 +4692,7 @@
   ],
   "hidden": false,
   "id": "09c25e0a7f7a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco or New York (Hybrid) / Remote",
   "posted": "2026-11-13T20:53:59.170000+00:00",
   "role10": 2,
@@ -4777,7 +4758,7 @@
   ],
   "hidden": false,
   "id": "9d8e8a3cf9de",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / New York / Remote",
   "posted": "2026-11-11T18:24:10.203000+00:00",
   "role10": 1,
@@ -4943,74 +4924,53 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Civilgrid&network=%5B%22S%22%5D"
  },
  {
-  "about": "We are always looking for people who will bring something new to the table!",
-  "blurb": "Builds Twilio's identity products: authentication, authorization and agentic/non-human identity for developers.",
-  "bucket": "Remote (US)",
-  "comp": "$156\u2013229K",
-  "company": "twilio",
-  "company_display": "Twilio",
-  "company_line": null,
+  "title": "Senior Product Manager, Payments and Cards",
+  "company": "cloaked",
+  "location": "New York, NY / Remote",
+  "url": "https://jobs.ashbyhq.com/cloaked/d8dd4f34-e0f0-44c3-9090-3a57a50d7063",
+  "posted": "2026-11-25T19:01:30.480000+00:00",
+  "source": "ashby",
   "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-26T19:57:17.575781+00:00",
+  "comp": "$200K \u2013 $250K",
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "About the Role This role is a Senior Product Manager for Payments and Cards at Cloaked. Our members come to Cloaked to take back control of their identity, and Cloaked Pay brings that to the moment it matters most: when they pay.",
+  "role_pts": 9,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Cloaked",
+  "about": "",
+  "signals": [
+   "compliance"
+  ],
+  "id": "5c11b6806fdf",
+  "score": 44,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 9",
+  "summary": null,
   "fit_tags": [
    [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Staff, Remote US, $156-229K",
+    "compliance",
     "hi"
    ],
    [
-    "Security/identity, no data axis",
-    "hi"
-   ],
-   [
-    "Developer-product PM, not data",
+    "compliance",
     "hi"
    ]
   ],
-  "hidden": false,
-  "id": "a3cfa6c9045f",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "Remote - US",
-  "posted": "2026-10-26T15:41:11-04:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 46,
-  "score_why": "devtools sector 14 \u00b7 sector feedback +8 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "devtools",
-  "signals": [],
-  "source": "greenhouse",
-  "status": "interested",
-  "status_at": "2026-11-14T03:48:28.671Z",
-  "summary": {
-   "at": "2026-10-26T22:46:56Z",
-   "company": "Twilio is a remote-first communications API platform for developers.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Builds Twilio's identity products: authentication, authorization and agentic/non-human identity for developers.",
-   "source": "posting",
-   "why": [
-    "Staff, Remote US, $156-229K",
-    "Security/identity, no data axis",
-    "Developer-product PM, not data"
-   ]
-  },
-  "target": null,
-  "tier": "good",
-  "title": "Staff, Product Manager - Identity",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a3cfa6c9045f&co=Twilio&ti=Staff%2C%20Product%20Manager%20-%20Identity",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a3cfa6c9045f&co=Twilio&ti=Staff%2C%20Product%20Manager%20-%20Identity",
-  "company_about": "Twilio is a remote-first communications API platform for developers.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Twilio&network=%5B%22S%22%5D"
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5c11b6806fdf&co=Cloaked&ti=Senior%20Product%20Manager%2C%20Payments%20and%20Cards",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5c11b6806fdf&co=Cloaked&ti=Senior%20Product%20Manager%2C%20Payments%20and%20Cards",
+  "company_about": "We keep your data private, protecting what matters most. Take our free assessment to see if you\u2019ve been compromised.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Cloaked&network=%5B%22S%22%5D"
  },
  {
   "about": "At Adyen, everything we do is engineered for ambition.",
-  "blurb": "We are looking for a Senior Product Manager to help scale Capital , which will be foundational for Adyen\u2019s next generation Financial Products. The Capital team is on a mission to enable businesses to grow & thrive by providing them innovative financing \u2026",
+  "blurb": "Owns roadmap and execution for new lending products, working with regulatory and compliance teams.",
   "bucket": "SF / Bay",
   "comp": "$202\u2013302K",
   "company": "adyen",
@@ -5021,17 +4981,25 @@
   "first_seen": "2026-11-24T23:13:27.614011+00:00",
   "fit_tags": [
    [
-    "compliance",
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "regulated lending, but needs 4+ yrs",
     "hi"
    ],
    [
-    "compliance",
+    "SF in-office; $202-302K",
+    "hi"
+   ],
+   [
+    "no data-platform or energy axis",
     "hi"
    ]
   ],
   "hidden": false,
   "id": "0cd2da5e2a02",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco",
   "posted": "2026-11-20T02:19:16-05:00",
   "role10": 2,
@@ -5043,14 +5011,26 @@
    "compliance"
   ],
   "source": "greenhouse",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Adyen: global payments and financial platform; building Capital (lending) within its Financial OS.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns roadmap and execution for new lending products, working with regulatory and compliance teams.",
+   "source": "posting",
+   "why": [
+    "regulated lending, but needs 4+ yrs",
+    "SF in-office; $202-302K",
+    "no data-platform or energy axis"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager, Capital",
   "url": "https://job-boards.greenhouse.io/adyen/jobs/8303418",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=0cd2da5e2a02&co=Adyen&ti=Senior%20Product%20Manager%2C%20Capital",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=0cd2da5e2a02&co=Adyen&ti=Senior%20Product%20Manager%2C%20Capital",
-  "company_about": "To maintain our momentum, we need people to join us in finding new ways of solving our unique challenges - people like you",
+  "company_about": "Adyen: global payments and financial platform; building Capital (lending) within its Financial OS.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Adyen&network=%5B%22S%22%5D"
  },
  {
@@ -5084,7 +5064,7 @@
   ],
   "hidden": false,
   "id": "85590855887a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US - San Francisco / Remote",
   "posted": "2026-11-20T02:16:38.379000+00:00",
   "role10": 2,
@@ -5150,7 +5130,7 @@
   ],
   "hidden": false,
   "id": "63b88b87dea0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "W Chester AEROSPACE OH US / Livonia / Remote",
   "posted": "2026-11-18T21:33:38.228314+00:00",
@@ -5218,7 +5198,7 @@
   ],
   "hidden": false,
   "id": "55984b88cab0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Washington - Seattle Campus",
   "posted": "2026-11-16T23:00:57.669950+00:00",
   "role10": 2,
@@ -5283,7 +5263,7 @@
   ],
   "hidden": false,
   "id": "dd55aaa4e7f0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "(USA) BELLEVUE SKYLINE OFFICE WA BELLEVUE Home Office / (USA) 221 River St NJ HOBOKEN Home Office",
   "nudged_at": "2026-11-21T03:58:50.427510+00:00",
@@ -5352,7 +5332,7 @@
   ],
   "hidden": false,
   "id": "32a7061bd779",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Milpitas, California, US / San Jose, California, US / San Francisco, California, US / Santa Clara, California, US / San Mateo, California, US",
   "nudged_at": "2026-11-21T03:58:50.427510+00:00",
@@ -5421,7 +5401,7 @@
   ],
   "hidden": false,
   "id": "d74420c1e0f4",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Dallas, Texas, United States; Los Angeles, California, United States; San Francisco, CA, United States",
   "posted": "2026-11-04T20:32:59-05:00",
   "role10": 2,
@@ -5486,7 +5466,7 @@
   ],
   "hidden": false,
   "id": "26fc6c615f54",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-10-30T14:57:17-04:00",
   "role10": 2,
@@ -5552,7 +5532,7 @@
   ],
   "hidden": false,
   "id": "a8072a735f20",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA / Remote",
   "posted": "2026-10-27T21:29:23.661000+00:00",
   "role10": 2,
@@ -5617,7 +5597,7 @@
   ],
   "hidden": false,
   "id": "c0bd6c2737e4",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote US / Remote",
   "posted": "2026-10-27T14:40:58.911000+00:00",
   "role10": 2,
@@ -5653,6 +5633,76 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Certifyos&network=%5B%22S%22%5D"
  },
  {
+  "about": "Our mission is to democratize finance for all.",
+  "blurb": "Owns an internal AI/developer-productivity platform and defines how agents are evaluated.",
+  "bucket": "Seattle",
+  "comp": "$150\u2013225K",
+  "company": "robinhood",
+  "company_display": "Robinhood",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "fit_tags": [
+   [
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "Bellevue ok, 3 days in office",
+    "hi"
+   ],
+   [
+    "platform + LLM eval, regulated",
+    "hi"
+   ],
+   [
+    "needs dev-platform PM history",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "b43a01591d69",
+  "last_seen": "2026-11-25",
+  "location": "Bellevue, WA; Menlo Park, CA",
+  "posted": "2026-11-17T23:23:39-05:00",
+  "role10": 5,
+  "role_pts": 23,
+  "score": 43,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 23 \u00b7 your \ud83d\udc4d +8",
+  "sector": "fintech",
+  "signals": [
+   "ai",
+   "compliance",
+   "AI/LLM"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Robinhood: retail brokerage and fintech; this team builds AI models, agents and platforms.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns an internal AI/developer-productivity platform and defines how agents are evaluated.",
+   "source": "posting",
+   "why": [
+    "Bellevue ok, 3 days in office",
+    "platform + LLM eval, regulated",
+    "needs dev-platform PM history"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, AI",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8241579?t=gh_src=&gh_jid=8241579",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-25T00:18:35.613Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b43a01591d69&co=Robinhood&ti=Staff%20Product%20Manager%2C%20AI",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b43a01591d69&co=Robinhood&ti=Staff%20Product%20Manager%2C%20AI",
+  "company_about": "Robinhood: retail brokerage and fintech; this team builds AI models, agents and platforms.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Robinhood&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Chainguard is the trusted source for open source.",
   "blurb": "Owns the partnerships and integrations roadmap for how Chainguard fits customer toolchains.",
   "bucket": "Remote (US)",
@@ -5683,7 +5733,7 @@
   ],
   "hidden": false,
   "id": "123b7325304b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States - Remote",
   "posted": "2026-11-16T11:38:09-05:00",
   "role10": 3,
@@ -5817,7 +5867,7 @@
   ],
   "hidden": false,
   "id": "93046cafedb1",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US - Remote",
   "posted": "2026-11-03T17:43:58-05:00",
   "role10": 2,
@@ -5882,7 +5932,7 @@
   ],
   "hidden": false,
   "id": "e54d13aec8fd",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-11-18T13:54:42-05:00",
   "role10": 4,
@@ -5948,7 +5998,7 @@
   ],
   "hidden": false,
   "id": "8aa94575374c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-11-16T20:06:08-05:00",
   "role10": 2,
@@ -6013,7 +6063,7 @@
   ],
   "hidden": false,
   "id": "50eb93dab89d",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Bellevue Office / San Francisco Office (Fremont St) / Remote",
   "posted": "2026-11-13T22:14:16.387000+00:00",
@@ -6073,7 +6123,7 @@
   ],
   "hidden": false,
   "id": "ed2a9e6bf838",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City / San Francisco",
   "posted": "2026-11-09T20:18:04.509000+00:00",
   "role10": 2,
@@ -6126,7 +6176,7 @@
   ],
   "hidden": false,
   "id": "06f16771f6fe",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-11-05T23:37:54.013000+00:00",
   "role10": 2,
@@ -6256,7 +6306,7 @@
   ],
   "hidden": false,
   "id": "21c5ec7695f5",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / Remote",
   "posted": "2026-10-28T04:32:26.080000+00:00",
   "role10": 1,
@@ -6321,7 +6371,7 @@
   ],
   "hidden": false,
   "id": "7331775c40ce",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US-CA-Menlo Park / US-WA-Bellevue / Remote",
   "posted": "2026-11-07T19:41:13.774000+00:00",
   "role10": 1,
@@ -6387,7 +6437,7 @@
   ],
   "hidden": false,
   "id": "4734664f7756",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote - United States",
   "posted": "2026-11-06T16:22:57-05:00",
   "role10": 4,
@@ -6424,6 +6474,51 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Reddit&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager - Cloud Email Security",
+  "company": "abnormalsecurity",
+  "location": "Remote - USA",
+  "url": "https://abnormal.ai/careers/jobs/8217243003?gh_jid=8217243003",
+  "posted": "2026-11-25T15:20:52-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$164\u2013236K",
+  "bucket": "Remote (US)",
+  "sector": "compliance",
+  "blurb": "About the Role Abnormal AI is looking for a Senior Product Manager to own high-priority initiatives within our core Cloud Email Security group \u2014 the flagship product area driving Abnormal's growth and market leadership. Our AI-native platform helps customers \u2026",
+  "role_pts": 3,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Abnormal Security",
+  "about": "",
+  "signals": [
+   "B2B"
+  ],
+  "id": "ec7e6a5cb512",
+  "score": 38,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "compliance sector 27 \u00b7 sector feedback +8 \u00b7 role match 3",
+  "summary": null,
+  "fit_tags": [
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=ec7e6a5cb512&co=Abnormal%20Security&ti=Senior%20Product%20Manager%20-%20Cloud%20Email%20Security",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=ec7e6a5cb512&co=Abnormal%20Security&ti=Senior%20Product%20Manager%20-%20Cloud%20Email%20Security",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Abnormal+Security&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Principal PM role; scope not visible (unclear).",
   "bucket": "Seattle",
@@ -6450,7 +6545,7 @@
   ],
   "hidden": false,
   "id": "8beae0d7c4bd",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US, WA, Redmond",
   "posted": "2026-11-19T21:46:01.062532+00:00",
@@ -6515,7 +6610,7 @@
   ],
   "hidden": false,
   "id": "519b457c153b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US - Remote",
   "posted": "2026-11-16T21:54:45.813487+00:00",
@@ -6584,7 +6679,7 @@
   ],
   "hidden": false,
   "id": "cc10ed56d92d",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, California, US",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -6654,7 +6749,7 @@
   ],
   "hidden": false,
   "id": "b8d1b34920c9",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US, CA, Santa Clara / US, CA, Remote",
   "nudged_at": "2026-11-22T03:11:37.857065+00:00",
@@ -6691,6 +6786,66 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Nvidia&network=%5B%22S%22%5D"
  },
  {
+  "title": "Senior Product Manager, Workforce Management ",
+  "company": "coinbase",
+  "location": "Remote - USA",
+  "url": "https://www.coinbase.com/careers/positions/8415721?gh_jid=8415721",
+  "posted": "2026-11-24T19:03:24-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": "$180\u2013212K",
+  "bucket": "Remote (US)",
+  "sector": "fintech",
+  "blurb": "Expect to get together quarterly for in-person working sessions Shared Platforms builds the technology that CX and Global Financial Crimes Operations run on, and we are hiring a Senior Product Manager to own workforce management. You will own one real-time \u2026",
+  "role_pts": 25,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Coinbase",
+  "about": "Coinbase is a remote-first, but not remote-only company.",
+  "signals": [
+   "compliance",
+   "data platform",
+   "AI/LLM",
+   "B2B"
+  ],
+  "id": "f05e6dfda55d",
+  "score": 37,
+  "role10": 5,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 25",
+  "summary": null,
+  "fit_tags": [
+   [
+    "fintech",
+    "mid"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "data platform",
+    "hi"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f05e6dfda55d&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Workforce%20Management%20",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f05e6dfda55d&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Workforce%20Management%20",
+  "company_about": "Ready to be pushed beyond what you think you\u2019re capable of?",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Hex has raised over $100M from leading investors like Sequoia, a16z, Snowflake and Amplify.",
   "blurb": "Owns roadmap for governing, deploying and observing enterprise AI agents in Hex's analytics platform.",
   "bucket": "SF / Bay",
@@ -6721,7 +6876,7 @@
   ],
   "hidden": false,
   "id": "40a6020d801f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York / San Francisco / Remote",
   "posted": "2026-11-12T18:49:05.941000+00:00",
   "role10": 1,
@@ -6786,7 +6941,7 @@
   ],
   "hidden": false,
   "id": "f9c98fd622bf",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States (Remote)",
   "posted": "2026-11-09T15:40:41-05:00",
   "role10": 1,
@@ -6821,8 +6976,76 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Grafana+Labs&network=%5B%22S%22%5D"
  },
  {
+  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
+  "blurb": "Owns FP&A planning, forecasting and reporting workflow platforms for internal finance teams.",
+  "bucket": "Remote (US)",
+  "comp": "$149\u2013175K",
+  "company": "coinbase",
+  "company_display": "Coinbase",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-28T19:01:36.809750+00:00",
+  "fit_tags": [
+   [
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "Finance data/internal platform",
+    "hi"
+   ],
+   [
+    "Remote US, L5 mid-senior",
+    "hi"
+   ],
+   [
+    "$149-175K, low end",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "9cb57a25dbb2",
+  "last_seen": "2026-11-25",
+  "location": "Remote - USA",
+  "posted": "2026-10-28T12:42:11-04:00",
+  "role10": 5,
+  "role_pts": 25,
+  "score": 37,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 25",
+  "sector": "fintech",
+  "signals": [
+   "compliance",
+   "data platform",
+   "AI/LLM",
+   "B2B"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-10-28T22:46:47Z",
+   "company": "Coinbase is a crypto exchange; this team builds its internal enterprise finance systems.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns FP&A planning, forecasting and reporting workflow platforms for internal finance teams.",
+   "source": "posting",
+   "why": [
+    "Finance data/internal platform",
+    "Remote US, L5 mid-senior",
+    "$149-175K, low end"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Enterprise Product Manager, FP&A",
+  "url": "https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9cb57a25dbb2&co=Coinbase&ti=Senior%20Enterprise%20Product%20Manager%2C%20FP%26A",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9cb57a25dbb2&co=Coinbase&ti=Senior%20Enterprise%20Product%20Manager%2C%20FP%26A",
+  "company_about": "Coinbase is a crypto exchange; this team builds its internal enterprise finance systems.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
-  "blurb": "About the Role As a Staff Product Manager, you will own the strategy, roadmap and market performance of one or more of AKASA\u2019s AI based Healthcare Revenue Cycle products end to end. You will operate as a senior individual contributor on the product team \u2026",
+  "blurb": "Owns strategy and market performance of AI revenue-cycle products like coding and documentation.",
   "bucket": "SF / Bay",
   "comp": "$240\u2013290K",
   "company": "akasa",
@@ -6833,17 +7056,25 @@
   "first_seen": "2026-11-24T23:13:27.614011+00:00",
   "fit_tags": [
    [
-    "health",
+    "fit 6/10",
+    "amber"
+   ],
+   [
+    "AI on audit-adjacent billing data",
     "hi"
    ],
    [
-    "AI/LLM",
-    "mid"
+    "$240-290K, staff, SF only",
+    "hi"
+   ],
+   [
+    "needs medical coding domain depth",
+    "hi"
    ]
   ],
   "hidden": false,
   "id": "51729fec5218",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA",
   "posted": "2026-11-24T21:47:45.695000+00:00",
   "role10": 1,
@@ -6855,14 +7086,26 @@
    "AI/LLM"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "AKASA: AI-native healthcare revenue-cycle products; $250M+ raised, customers include Mayo and Cleveland Clinic.",
+   "fit": 6,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns strategy and market performance of AI revenue-cycle products like coding and documentation.",
+   "source": "posting",
+   "why": [
+    "AI on audit-adjacent billing data",
+    "$240-290K, staff, SF only",
+    "needs medical coding domain depth"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Staff Product Manager",
   "url": "https://jobs.ashbyhq.com/akasa/9cd84cb6-9a17-4a44-b4a0-4b2f4dbcebc8",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=51729fec5218&co=Akasa&ti=Staff%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=51729fec5218&co=Akasa&ti=Staff%20Product%20Manager",
-  "company_about": "Scale inpatient coding with AKASA\u2019s autonomous AI, customized for your health system. Accelerate billing, expand capacity, and keep your team in control. (",
+  "company_about": "AKASA: AI-native healthcare revenue-cycle products; $250M+ raised, customers include Mayo and Cleveland Clinic.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Akasa&network=%5B%22S%22%5D"
  },
  {
@@ -6892,7 +7135,7 @@
   ],
   "hidden": false,
   "id": "fdf2a7bb0aee",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "New York / Remote New Jersey / McLean / Remote North Carolina / Remote Massachusetts",
   "posted": "2026-11-19T21:43:59.112587+00:00",
@@ -7027,7 +7270,7 @@
   ],
   "hidden": false,
   "id": "88d073bc48cb",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Los Angeles / New York / San Francisco",
   "posted": "2026-11-12T03:17:40.595870+00:00",
@@ -7095,7 +7338,7 @@
   ],
   "hidden": false,
   "id": "6b3269e82fa2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Los Angeles / New York / San Francisco",
   "posted": "2026-11-04T02:37:46.172924+00:00",
@@ -7163,7 +7406,7 @@
   ],
   "hidden": false,
   "id": "773100bbb558",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Seattle, Washington, United States",
   "posted": "2026-10-27T14:41:23-04:00",
   "role10": 5,
@@ -7202,7 +7445,7 @@
  },
  {
   "about": "",
-  "blurb": "About Us: Grow was born to tackle a critical challenge: making mental health care more effective and accessible for everyone. Since launching in 2020, 15 million sessions have started on Grow, and we've barely scratched the surface.",
+  "blurb": "Owns a new B2B payor/EAP product offering and the strategic payor partnership roadmap.",
   "bucket": "Seattle",
   "comp": "$200K \u2013 $250K",
   "company": "grow-therapy",
@@ -7213,17 +7456,25 @@
   "first_seen": "2026-11-24T23:13:27.614011+00:00",
   "fit_tags": [
    [
-    "health",
+    "fit 5/10",
+    "amber"
+   ],
+   [
+    "health access mission",
     "hi"
    ],
    [
-    "B2B",
-    "mid"
+    "staff level, $200-250K, Seattle ok",
+    "hi"
+   ],
+   [
+    "payor mechanics; no data platform",
+    "hi"
    ]
   ],
   "hidden": false,
   "id": "7a5432bb2ad4",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City / Seattle / San Francisco / Remote",
   "posted": "2026-11-24T02:48:19.086000+00:00",
   "role10": 1,
@@ -7235,83 +7486,93 @@
    "B2B"
   ],
   "source": "ashby",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Grow Therapy: mental-health marketplace linking providers, insurers, patients; Series D at $3B valuation.",
+   "fit": 5,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns a new B2B payor/EAP product offering and the strategic payor partnership roadmap.",
+   "source": "posting",
+   "why": [
+    "health access mission",
+    "staff level, $200-250K, Seattle ok",
+    "payor mechanics; no data platform"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Staff Product Manager, Strategic Partnerships",
   "url": "https://jobs.ashbyhq.com/grow-therapy/422e745c-8f62-4c64-b493-d6e334338cca",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7a5432bb2ad4&co=Grow-Therapy&ti=Staff%20Product%20Manager%2C%20Strategic%20Partnerships",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7a5432bb2ad4&co=Grow-Therapy&ti=Staff%20Product%20Manager%2C%20Strategic%20Partnerships",
-  "company_about": "Online therapy that takes your insurance so you can get the mental health care you need without the added stress. Easy to schedule. In-person available.",
+  "company_about": "Grow Therapy: mental-health marketplace linking providers, insurers, patients; Series D at $3B valuation.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Grow-Therapy&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "Owns FP&A planning, forecasting and reporting workflow platforms for internal finance teams.",
-  "bucket": "Remote (US)",
-  "comp": "$149\u2013175K",
-  "company": "coinbase",
-  "company_display": "Coinbase",
+  "about": "",
+  "blurb": "Staff PM for ad tech; scope not visible beyond the title (unclear).",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "snapchat",
+  "company_display": "Snapchat",
   "company_line": null,
   "company_name": "",
   "emailed": true,
-  "first_seen": "2026-10-28T19:01:36.809750+00:00",
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
   "fit_tags": [
    [
-    "fit 5/10",
+    "fit 3/10",
     "amber"
    ],
    [
-    "Finance data/internal platform",
+    "ad tech, no data/energy axis",
     "hi"
    ],
    [
-    "Remote US, L5 mid-senior",
+    "Bellevue and SF listed",
     "hi"
    ],
    [
-    "$149-175K, low end",
+    "comp not stated",
     "hi"
    ]
   ],
   "hidden": false,
-  "id": "9cb57a25dbb2",
-  "last_seen": "2026-11-24",
-  "location": "Remote - USA",
-  "posted": "2026-10-28T12:42:11-04:00",
-  "role10": 5,
-  "role_pts": 25,
-  "score": 35,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 25",
-  "sector": "fintech",
-  "signals": [
-   "compliance",
-   "data platform",
-   "AI/LLM",
-   "B2B"
-  ],
-  "source": "greenhouse",
+  "id": "92fb3e376cc4",
+  "last_seen": "2026-11-25",
+  "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Sunnyvale, California / New York, New York / Bellevue, Washington",
+  "posted": "2026-11-24T23:16:02.892285+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
   "summary": {
-   "at": "2026-10-28T22:46:47Z",
-   "company": "Coinbase is a crypto exchange; this team builds its internal enterprise finance systems.",
-   "fit": 5,
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Snapchat (Workday listing); posting text unavailable, business inferred from title as ad tech.",
+   "fit": 3,
    "model": "claude-sonnet-5-5",
-   "role": "Owns FP&A planning, forecasting and reporting workflow platforms for internal finance teams.",
-   "source": "posting",
+   "role": "Staff PM for ad tech; scope not visible beyond the title (unclear).",
+   "source": "fallback",
    "why": [
-    "Finance data/internal platform",
-    "Remote US, L5 mid-senior",
-    "$149-175K, low end"
+    "ad tech, no data/energy axis",
+    "Bellevue and SF listed",
+    "comp not stated"
    ]
   },
   "target": null,
   "tier": "other",
-  "title": "Senior Enterprise Product Manager, FP&A",
-  "url": "https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9cb57a25dbb2&co=Coinbase&ti=Senior%20Enterprise%20Product%20Manager%2C%20FP%26A",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9cb57a25dbb2&co=Coinbase&ti=Senior%20Enterprise%20Product%20Manager%2C%20FP%26A",
-  "company_about": "Coinbase is a crypto exchange; this team builds its internal enterprise finance systems.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+  "title": "Staff Product Manager, Ad Tech",
+  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Staff-Product-Manager--Ad-Tech_R0047584",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-25T00:18:43.957Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=92fb3e376cc4&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Tech",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=92fb3e376cc4&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Tech",
+  "company_about": "Snapchat (Workday listing); posting text unavailable, business inferred from title as ad tech.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -7344,7 +7605,7 @@
   ],
   "hidden": false,
   "id": "5b1e9b8247ea",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Seattle, Washington United States",
   "posted": "2026-11-24T01:11:02.908398+00:00",
@@ -7381,7 +7642,207 @@
  },
  {
   "about": "",
-  "blurb": "R-437938",
+  "blurb": "Lead PM for Checkout, likely a payments checkout product; details not retrieved.",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "earlywarning",
+  "company_display": "Earlywarning",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T01:09:03.622612+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "Lead level, regulated payments",
+    "hi"
+   ],
+   [
+    "NYC/Chicago/SF onsite, not remote",
+    "hi"
+   ],
+   [
+    "Posting unread",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "63c67b026dff",
+  "last_seen": "2026-11-25",
+  "liked": true,
+  "location": "New York City / Chicago / San Francisco",
+  "posted": "2026-11-24T01:10:02.301092+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-24T02:57:27.773Z",
+  "summary": {
+   "at": "2026-11-24T14:46:46Z",
+   "company": "Early Warning runs US bank fraud and payments networks (Zelle); posting text unavailable.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Lead PM for Checkout, likely a payments checkout product; details not retrieved.",
+   "source": "fallback",
+   "why": [
+    "Lead level, regulated payments",
+    "NYC/Chicago/SF onsite, not remote",
+    "Posting unread"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Lead Product Manager - Checkout",
+  "url": "https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/New-York-City/Lead-Product-Manager---Checkout_REQ20261052",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=63c67b026dff&co=Earlywarning&ti=Lead%20Product%20Manager%20-%20Checkout",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=63c67b026dff&co=Earlywarning&ti=Lead%20Product%20Manager%20-%20Checkout",
+  "company_about": "Early Warning runs US bank fraud and payments networks (Zelle); posting text unavailable.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most.",
+  "blurb": "Owns enterprise expense strategy: policy, substantiation, audit readiness, ERP-ready records, AI exceptions.",
+  "bucket": "Seattle",
+  "comp": "$184\u2013230K",
+  "company": "brex",
+  "company_display": "Brex",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "fit_tags": [
+   [
+    "fit 8/10",
+    "amber"
+   ],
+   [
+    "substantiation/audit = his core",
+    "hi"
+   ],
+   [
+    "Seattle, $184-230K",
+    "hi"
+   ],
+   [
+    "AI removes manual review: SubHub",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "9f8b0ee52691",
+  "last_seen": "2026-11-25",
+  "location": "Seattle, Washington, United States",
+  "posted": "2026-11-23T23:09:59-05:00",
+  "role10": 4,
+  "role_pts": 22,
+  "score": 34,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 22",
+  "sector": "fintech",
+  "signals": [
+   "energy",
+   "compliance",
+   "B2B"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Brex: corporate cards and spend-management platform for companies in 200+ markets.",
+   "fit": 8,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns enterprise expense strategy: policy, substantiation, audit readiness, ERP-ready records, AI exceptions.",
+   "source": "posting",
+   "why": [
+    "substantiation/audit = his core",
+    "Seattle, $184-230K",
+    "AI removes manual review: SubHub"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Expenses",
+  "url": "https://www.brex.com/careers/8959594002?gh_jid=8959594002",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9f8b0ee52691&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9f8b0ee52691&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
+  "company_about": "Brex: corporate cards and spend-management platform for companies in 200+ markets.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Brex&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most.",
+  "blurb": "Owns enterprise expense strategy: policy, substantiation, audit readiness, ERP-ready records, AI exceptions.",
+  "bucket": "SF / Bay",
+  "comp": "$184\u2013230K",
+  "company": "brex",
+  "company_display": "Brex",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "fit_tags": [
+   [
+    "fit 8/10",
+    "amber"
+   ],
+   [
+    "substantiation/audit = his core",
+    "hi"
+   ],
+   [
+    "SF, 3 office days; $184-230K",
+    "hi"
+   ],
+   [
+    "AI removes manual review: SubHub",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "7f44cddde90d",
+  "last_seen": "2026-11-25",
+  "location": "San Francisco, California, United States",
+  "posted": "2026-11-23T23:09:56-05:00",
+  "role10": 4,
+  "role_pts": 22,
+  "score": 34,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 22",
+  "sector": "fintech",
+  "signals": [
+   "energy",
+   "compliance",
+   "B2B"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Brex: corporate cards and spend-management platform for companies in 200+ markets.",
+   "fit": 8,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns enterprise expense strategy: policy, substantiation, audit readiness, ERP-ready records, AI exceptions.",
+   "source": "posting",
+   "why": [
+    "substantiation/audit = his core",
+    "SF, 3 office days; $184-230K",
+    "AI removes manual review: SubHub"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Expenses",
+  "url": "https://www.brex.com/careers/8959593002?gh_jid=8959593002",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7f44cddde90d&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7f44cddde90d&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
+  "company_about": "Brex: corporate cards and spend-management platform for companies in 200+ markets.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Brex&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Lead digital PM; scope not visible beyond the title (unclear).",
   "bucket": "Remote (US)",
   "comp": null,
   "company": "humana",
@@ -7392,21 +7853,25 @@
   "first_seen": "2026-11-24T23:13:27.614011+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 3/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Remote nationwide, health/regulated",
+    "hi"
    ],
    [
-    "you liked similar",
+    "digital/consumer, likely no data",
+    "hi"
+   ],
+   [
+    "'Lead' title; comp not stated",
     "hi"
    ]
   ],
   "hidden": false,
   "id": "89785e11342a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote Nationwide",
   "posted": "2026-11-20T23:15:12.795694+00:00",
   "role10": 0,
@@ -7416,14 +7881,29 @@
   "sector": "",
   "signals": [],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Humana (Workday listing, Remote Nationwide); health insurer; posting text unavailable.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Lead digital PM; scope not visible beyond the title (unclear).",
+   "source": "fallback",
+   "why": [
+    "Remote nationwide, health/regulated",
+    "digital/consumer, likely no data",
+    "'Lead' title; comp not stated"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Lead Digital Product Manager",
   "url": "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Nationwide/Lead-Digital-Product-Manager_R-437938-1",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-25T00:29:29.791Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=89785e11342a&co=Humana&ti=Lead%20Digital%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=89785e11342a&co=Humana&ti=Lead%20Digital%20Product%20Manager",
-  "company_about": "",
+  "company_about": "Humana (Workday listing, Remote Nationwide); health insurer; posting text unavailable.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Humana&network=%5B%22S%22%5D"
  },
  {
@@ -7457,7 +7937,7 @@
   ],
   "hidden": false,
   "id": "051f201c9849",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US - Remote",
   "posted": "2026-11-20T21:27:28.657000+00:00",
@@ -7523,7 +8003,7 @@
   ],
   "hidden": false,
   "id": "095df68c40d2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-20T18:31:01+00:00",
@@ -7589,7 +8069,7 @@
   ],
   "hidden": false,
   "id": "483c58ec6492",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Seattle, Washington United States",
   "posted": "2026-11-20T03:42:48.601677+00:00",
@@ -7655,7 +8135,7 @@
   ],
   "hidden": false,
   "id": "3b985b2615ee",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-17T21:56:38.374780+00:00",
@@ -7721,7 +8201,7 @@
   ],
   "hidden": false,
   "id": "82a28f597fda",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, California, US / Milpitas, California, US / Mountain View, California, US",
   "posted": "2026-11-14T18:50:10.245275+00:00",
@@ -7755,6 +8235,72 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=82a28f597fda&co=Cisco&ti=Lead%20Engineering%20Product%20Manager%2C%20Application%20Synthetics%28Hybrid%29",
   "company_about": "Cisco is a large networking and observability vendor; posting text unavailable.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Cisco&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Sr Lead PM, apparently merchant integrations; scope not visible.",
+  "bucket": "SF / Bay",
+  "comp": null,
+  "company": "earlywarning",
+  "company_display": "Earlywarning",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "NYC/Chicago/SF/Scottsdale; SF ok",
+    "hi"
+   ],
+   [
+    "payments data, but unverified",
+    "hi"
+   ],
+   [
+    "'Lead' title; comp not stated",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "c5229d292e1f",
+  "last_seen": "2026-11-25",
+  "location": "New York City / Chicago / San Francisco / Scottsdale",
+  "posted": "2026-11-13T23:14:36.715122+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 34,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Early Warning (Workday listing); URL suggests Merchant Integrations; text unavailable (unclear).",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Sr Lead PM, apparently merchant integrations; scope not visible.",
+   "source": "fallback",
+   "why": [
+    "NYC/Chicago/SF/Scottsdale; SF ok",
+    "payments data, but unverified",
+    "'Lead' title; comp not stated"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Sr Lead Product Manager",
+  "url": "https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/New-York-City/Sr-Lead-Product-Manager--Merchant-Integrations-_REQ2026912",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-25T00:29:30.891Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c5229d292e1f&co=Earlywarning&ti=Sr%20Lead%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c5229d292e1f&co=Earlywarning&ti=Sr%20Lead%20Product%20Manager",
+  "company_about": "Early Warning (Workday listing); URL suggests Merchant Integrations; text unavailable (unclear).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -7853,7 +8399,7 @@
   ],
   "hidden": false,
   "id": "610dda19083b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "USA - Sunnyvale, CA / USA - New York, NY / USA - Austin, TX / USA - Redmond, WA",
   "posted": "2026-11-13T18:50:17.370749+00:00",
@@ -7919,7 +8465,7 @@
   ],
   "hidden": false,
   "id": "4210817435a7",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-12T20:42:19.566113+00:00",
@@ -7985,9 +8531,10 @@
   ],
   "hidden": false,
   "id": "e21591e7eba4",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, California, US / San Jose, California, US",
+  "nudged_at": "2026-11-24T23:29:00.341970+00:00",
   "posted": "2026-11-10T20:35:27.875976+00:00",
   "role10": 0,
   "role_pts": 0,
@@ -8015,7 +8562,6 @@
   "tier": "other",
   "title": "Senior Product Manager",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/Senior-Product-Manager_2029791-1",
-  "nudged_at": "2026-11-24T23:29:00.341970+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e21591e7eba4&co=Cisco&ti=Senior%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e21591e7eba4&co=Cisco&ti=Senior%20Product%20Manager",
   "company_about": "Cisco: large networking and security vendor (unclear which team posted this role)",
@@ -8052,7 +8598,7 @@
   ],
   "hidden": false,
   "id": "48e7114dff56",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "USA - Remote",
   "nudged_at": "2026-11-24T01:40:49.531857+00:00",
@@ -8185,6 +8731,7 @@
   "last_seen": "2026-11-21",
   "liked": true,
   "location": "Remote Nationwide",
+  "nudged_at": "2026-11-24T23:29:00.341970+00:00",
   "posted": "2026-11-09T20:36:51.697420+00:00",
   "role10": 0,
   "role_pts": 0,
@@ -8200,7 +8747,6 @@
   "tier": "other",
   "title": "Senior Product Manager",
   "url": "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Nationwide/Senior-Product-Manager_R-436677",
-  "nudged_at": "2026-11-24T23:29:00.341970+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a204c5c34843&co=Humana&ti=Senior%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a204c5c34843&co=Humana&ti=Senior%20Product%20Manager",
   "company_about": "",
@@ -8237,7 +8783,7 @@
   ],
   "hidden": false,
   "id": "f9fe7a95d344",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "nudged_at": "2026-11-21T03:58:50.427510+00:00",
@@ -8304,7 +8850,7 @@
   ],
   "hidden": false,
   "id": "deebfee2897c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -8371,7 +8917,7 @@
   ],
   "hidden": false,
   "id": "843674f6793c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "posted": "2026-11-05T21:35:45.625525+00:00",
@@ -8437,7 +8983,7 @@
   ],
   "hidden": false,
   "id": "eba67818086f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, California / Seattle, Washington / United States (Remote) / New York, New York / Remote",
   "posted": "2026-11-04T19:48:15.392000+00:00",
   "role10": 0,
@@ -8500,7 +9046,7 @@
   ],
   "hidden": false,
   "id": "95b0bbe6ec2f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Bellevue, Washington, United States; San Francisco, California, United States",
   "posted": "2026-11-03T18:35:32-05:00",
   "role10": 2,
@@ -8633,7 +9179,7 @@
   ],
   "hidden": false,
   "id": "3d784a0fc268",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "(USA) NY NEW YORK 11582 HOME OFFICE / (USA) VIZIO SAN FRANCISCO CA San Francisco Home Office",
   "posted": "2026-10-31T02:39:45.759729+00:00",
@@ -8699,7 +9245,7 @@
   ],
   "hidden": false,
   "id": "4f08730f262c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "nudged_at": "2026-11-21T20:32:08.244746+00:00",
@@ -8959,7 +9505,7 @@
   ],
   "hidden": false,
   "id": "7c74379ceb3a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US - Remote",
   "nudged_at": "2026-11-24T01:40:49.531857+00:00",
@@ -9215,7 +9761,7 @@
   ],
   "hidden": false,
   "id": "8ac302a4f084",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote-USA",
   "nudged_at": "2026-11-21T20:32:08.244746+00:00",
@@ -9250,61 +9796,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8ac302a4f084&co=Zillow&ti=Senior%20Product%20Manager%2C%20Seller",
   "company_about": "Zillow runs a consumer real estate marketplace; posting text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Zillow&network=%5B%22S%22%5D"
- },
- {
-  "about": "Our mission is to democratize finance for all.",
-  "blurb": "We're looking for bold thinkers. Sharp problem-solvers.",
-  "bucket": "Seattle",
-  "comp": "$150\u2013225K",
-  "company": "robinhood",
-  "company_display": "Robinhood",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
-  "fit_tags": [
-   [
-    "fintech",
-    "mid"
-   ],
-   [
-    "ai",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "AI/LLM",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "b43a01591d69",
-  "last_seen": "2026-11-24",
-  "location": "Bellevue, WA; Menlo Park, CA",
-  "posted": "2026-11-17T23:23:39-05:00",
-  "role10": 5,
-  "role_pts": 23,
-  "score": 33,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 23",
-  "sector": "fintech",
-  "signals": [
-   "ai",
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, AI",
-  "url": "https://boards.greenhouse.io/robinhood/jobs/8241579?t=gh_src=&gh_jid=8241579",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b43a01591d69&co=Robinhood&ti=Staff%20Product%20Manager%2C%20AI",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b43a01591d69&co=Robinhood&ti=Staff%20Product%20Manager%2C%20AI",
-  "company_about": "At Robinhood, we believe that our financial markets should be accessible to everyone. We\u2019re leveling the playing field by making trading more intuitive, more affordable, and more \u2026",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Robinhood&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -9404,7 +9895,7 @@
   ],
   "hidden": false,
   "id": "51d28d5b33a6",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-10-27T15:41:26-04:00",
   "role10": 5,
@@ -9441,79 +9932,45 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Everquote&network=%5B%22S%22%5D"
  },
  {
-  "about": "Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most.",
-  "blurb": "What you\u2019ll do Processing a single expense is becoming commoditized. Managing expenses across an enterprise is not.",
-  "bucket": "Seattle",
-  "comp": "$184\u2013230K",
-  "company": "brex",
-  "company_display": "Brex",
-  "company_line": null,
+  "title": "Senior Product Manager, Product Infrastructure",
+  "company": "valon",
+  "location": "New York / San Francisco",
+  "url": "https://jobs.ashbyhq.com/Valon/8751c93c-2db5-4620-9184-83d3c234cda5",
+  "posted": "2026-11-25T01:12:21.619000+00:00",
+  "source": "ashby",
   "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
-  "fit_tags": [
-   [
-    "fintech",
-    "mid"
-   ],
-   [
-    "energy",
-    "hi"
-   ],
-   [
-    "compliance",
-    "hi"
-   ],
-   [
-    "B2B",
-    "mid"
-   ]
-  ],
-  "hidden": false,
-  "id": "9f8b0ee52691",
-  "last_seen": "2026-11-24",
-  "location": "Seattle, Washington, United States",
-  "posted": "2026-11-23T23:09:59-05:00",
-  "role10": 4,
-  "role_pts": 22,
-  "score": 32,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 22",
-  "sector": "fintech",
-  "signals": [
-   "energy",
-   "compliance",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Expenses",
-  "url": "https://www.brex.com/careers/8959594002?gh_jid=8959594002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9f8b0ee52691&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9f8b0ee52691&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
-  "company_about": "Simplify expense management with Brex's finance platform. From company cards to banking, Brex helps you drive growth, automate processes, & earn more.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Brex&network=%5B%22S%22%5D"
- },
- {
-  "about": "Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most.",
-  "blurb": "What you\u2019ll do Processing a single expense is becoming commoditized. Managing expenses across an enterprise is not.",
+  "comp": "$200K \u2013 $235K",
   "bucket": "SF / Bay",
-  "comp": "$184\u2013230K",
-  "company": "brex",
-  "company_display": "Brex",
+  "sector": "",
+  "blurb": "About the Team You\u2019ll join the core Platform & Infrastructure product org. This team builds the foundational systems and services that serve as the backbone for features across our entire product suite.",
+  "role_pts": 22,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Valon",
+  "about": "Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.",
+  "signals": [
+   "infrastructure",
+   "compliance",
+   "B2B"
+  ],
+  "id": "d97f99f56851",
+  "score": 32,
+  "role10": 4,
+  "tier": "other",
+  "target": null,
   "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "score_why": "unknown sector 10 \u00b7 role match 22",
+  "summary": null,
   "fit_tags": [
    [
-    "fintech",
-    "mid"
+    "sector unknown",
+    "dim"
    ],
    [
-    "energy",
-    "hi"
+    "infrastructure",
+    "mid"
    ],
    [
     "compliance",
@@ -9524,31 +9981,10 @@
     "mid"
    ]
   ],
-  "hidden": false,
-  "id": "7f44cddde90d",
-  "last_seen": "2026-11-24",
-  "location": "San Francisco, California, United States",
-  "posted": "2026-11-23T23:09:56-05:00",
-  "role10": 4,
-  "role_pts": 22,
-  "score": 32,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 22",
-  "sector": "fintech",
-  "signals": [
-   "energy",
-   "compliance",
-   "B2B"
-  ],
-  "source": "greenhouse",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Expenses",
-  "url": "https://www.brex.com/careers/8959593002?gh_jid=8959593002",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7f44cddde90d&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7f44cddde90d&co=Brex&ti=Senior%20Product%20Manager%2C%20Expenses",
-  "company_about": "Simplify expense management with Brex's finance platform. From company cards to banking, Brex helps you drive growth, automate processes, & earn more.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Brex&network=%5B%22S%22%5D"
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d97f99f56851&co=Valon&ti=Senior%20Product%20Manager%2C%20Product%20Infrastructure",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d97f99f56851&co=Valon&ti=Senior%20Product%20Manager%2C%20Product%20Infrastructure",
+  "company_about": "The AI-native operating system for mortgage servicing. Building a better foundation for the American Dream.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Valon&network=%5B%22S%22%5D"
  },
  {
   "about": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed.",
@@ -9581,7 +10017,7 @@
   ],
   "hidden": false,
   "id": "812400f4a4a0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Mountain View, CA / Remote",
   "posted": "2026-11-19T17:37:12.385000+00:00",
   "role10": 0,
@@ -9711,7 +10147,7 @@
   ],
   "hidden": false,
   "id": "230afd57572e",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-11-05T09:59:09-05:00",
   "role10": 4,
@@ -9770,7 +10206,7 @@
   ],
   "hidden": false,
   "id": "a8879dc97cc0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": " Palo Alto, CA  / Remote",
   "posted": "2026-11-02T20:55:17.189000+00:00",
   "role10": 2,
@@ -9823,7 +10259,7 @@
   ],
   "hidden": false,
   "id": "fcca99f3e49b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-23T06:00:42+00:00",
   "role10": 4,
@@ -9889,7 +10325,7 @@
   ],
   "hidden": false,
   "id": "56a28a25500f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States (Remote)",
   "posted": "2026-11-20T16:08:48-05:00",
   "role10": 4,
@@ -9955,7 +10391,7 @@
   ],
   "hidden": false,
   "id": "a9c2ab7dbfb8",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / Remote",
   "posted": "2026-11-03T21:55:10.198000+00:00",
   "role10": 2,
@@ -10089,7 +10525,7 @@
   ],
   "hidden": false,
   "id": "23fbc0ba1d72",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Bellevue, Washington, United States",
   "posted": "2026-11-12T15:32:07-05:00",
   "role10": 1,
@@ -10159,7 +10595,7 @@
   ],
   "hidden": false,
   "id": "3de9c272b4ff",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco",
   "posted": "2026-11-03T23:13:33.951000+00:00",
   "role10": 4,
@@ -10215,7 +10651,7 @@
   ],
   "hidden": false,
   "id": "f310954d30d9",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote (USA Only)",
   "posted": "2026-11-22T17:00:55+00:00",
@@ -10283,7 +10719,7 @@
   ],
   "hidden": false,
   "id": "633a26dd3b28",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Seattle, Washington, United States",
   "posted": "2026-11-19T20:54:11-05:00",
@@ -10351,7 +10787,7 @@
   ],
   "hidden": false,
   "id": "17f22d444f13",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote, USA",
   "posted": "2026-11-19T14:30:38.417000+00:00",
   "role10": 2,
@@ -10416,7 +10852,7 @@
   ],
   "hidden": false,
   "id": "5b501dd6e1f5",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote or Mississauga",
   "posted": "2026-11-19T14:27:57.015000+00:00",
@@ -10552,7 +10988,7 @@
   ],
   "hidden": false,
   "id": "8a2388199104",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA",
   "posted": "2026-11-06T19:53:15-05:00",
   "role10": 3,
@@ -10618,7 +11054,7 @@
   ],
   "hidden": false,
   "id": "9441658adaa0",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City, NY; San Francisco, CA",
   "posted": "2026-11-06T17:58:10-05:00",
   "role10": 3,
@@ -10684,7 +11120,7 @@
   ],
   "hidden": false,
   "id": "e1764a9e14b5",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote - Maryland / Remote - Michigan / Remote - Massachusetts / Remote - Ohio / Remote - Georgia / Remote - Texas",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -10818,7 +11254,7 @@
   ],
   "hidden": false,
   "id": "c5326b497bd2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States / Remote",
   "posted": "2026-10-28T00:00:00+00:00",
   "role10": 2,
@@ -10853,117 +11289,126 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Raydar&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "R0047584",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "snapchat",
-  "company_display": "Snapchat",
-  "company_line": null,
+  "title": "Lead Product Manager, Financial Institutions",
+  "company": "trm-labs",
+  "location": "United States / Remote",
+  "url": "https://jobs.ashbyhq.com/trm-labs/bb550764-270b-40c6-9979-2df01e7e71b3",
+  "posted": "2026-11-25T17:14:52.222000+00:00",
+  "source": "ashby",
   "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "comp": "$200\u2013250K",
+  "bucket": "Remote (US)",
+  "sector": "fintech",
+  "blurb": "As our Lead Product Manager for Financial Institutions, you will define and own TRM's product vision, strategy and execution for financial institutions globally. You will lead the development of next-generation financial crime prevention, risk intelligence \u2026",
+  "role_pts": 15,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Trm-Labs",
+  "about": "",
+  "signals": [
+   "compliance",
+   "B2B",
+   "0\u21921"
+  ],
+  "id": "de4b43519d8a",
+  "score": 27,
+  "role10": 3,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 15",
+  "summary": null,
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fintech",
+    "mid"
    ],
    [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "you liked similar",
+    "compliance",
     "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
    ]
   ],
-  "hidden": false,
-  "id": "92fb3e376cc4",
-  "last_seen": "2026-11-24",
-  "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Sunnyvale, California / New York, New York / Bellevue, Washington",
-  "posted": "2026-11-24T23:16:02.892285+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Ad Tech",
-  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Staff-Product-Manager--Ad-Tech_R0047584",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=92fb3e376cc4&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Tech",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=92fb3e376cc4&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Tech",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=de4b43519d8a&co=Trm-Labs&ti=Lead%20Product%20Manager%2C%20Financial%20Institutions",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=de4b43519d8a&co=Trm-Labs&ti=Lead%20Product%20Manager%2C%20Financial%20Institutions",
+  "company_about": "Uncover illicit activity and disrupt threats with TRM. Bring AI and all-source intelligence into every investigation.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Trm-Labs&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Lead PM for Checkout, likely a payments checkout product; details not retrieved.",
+  "about": "We\u2019re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products.",
+  "blurb": "Owns Agent Trust, a Know Your Agent product that verifies AI agents acting on financial accounts.",
   "bucket": "SF / Bay",
-  "comp": null,
-  "company": "earlywarning",
-  "company_display": "Earlywarning",
+  "comp": "$207.6K \u2013 $339.6K",
+  "company": "plaid",
+  "company_display": "Plaid",
   "company_line": null,
   "company_name": "",
   "emailed": true,
-  "first_seen": "2026-11-24T01:09:03.622612+00:00",
+  "first_seen": "2026-11-04T20:30:45.142779+00:00",
   "fit_tags": [
    [
-    "fit 4/10",
+    "fit 5/10",
     "amber"
    ],
    [
-    "Lead level, regulated payments",
+    "Needs fraud/identity/OAuth depth",
     "hi"
    ],
    [
-    "NYC/Chicago/SF onsite, not remote",
+    "Compliance-adjacent, Staff level",
     "hi"
    ],
    [
-    "Posting unread",
+    "Remote/SF; $208-340K",
     "hi"
    ]
   ],
   "hidden": false,
-  "id": "63c67b026dff",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "New York City / Chicago / San Francisco",
-  "posted": "2026-11-24T01:10:02.301092+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-24T02:57:27.773Z",
+  "id": "f1e8653eefca",
+  "last_seen": "2026-11-25",
+  "location": "New York City Office / San Francisco HQ / Remote",
+  "posted": "2026-11-05T01:39:55.009000+00:00",
+  "role10": 3,
+  "role_pts": 15,
+  "score": 27,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 15",
+  "sector": "fintech",
+  "signals": [
+   "compliance",
+   "B2B",
+   "0\u21921"
+  ],
+  "source": "ashby",
   "summary": {
-   "at": "2026-11-24T14:46:46Z",
-   "company": "Early Warning runs US bank fraud and payments networks (Zelle); posting text unavailable.",
-   "fit": 4,
+   "at": "2026-11-04T22:45:58Z",
+   "company": "Plaid, a fintech data network linking accounts across ~12,000 financial institutions, founded 2013.",
+   "fit": 5,
    "model": "claude-sonnet-5-5",
-   "role": "Lead PM for Checkout, likely a payments checkout product; details not retrieved.",
-   "source": "fallback",
+   "role": "Owns Agent Trust, a Know Your Agent product that verifies AI agents acting on financial accounts.",
+   "source": "posting",
    "why": [
-    "Lead level, regulated payments",
-    "NYC/Chicago/SF onsite, not remote",
-    "Posting unread"
+    "Needs fraud/identity/OAuth depth",
+    "Compliance-adjacent, Staff level",
+    "Remote/SF; $208-340K"
    ]
   },
   "target": null,
   "tier": "other",
-  "title": "Lead Product Manager - Checkout",
-  "url": "https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/New-York-City/Lead-Product-Manager---Checkout_REQ20261052",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=63c67b026dff&co=Earlywarning&ti=Lead%20Product%20Manager%20-%20Checkout",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=63c67b026dff&co=Earlywarning&ti=Lead%20Product%20Manager%20-%20Checkout",
-  "company_about": "Early Warning runs US bank fraud and payments networks (Zelle); posting text unavailable.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
+  "title": "Staff Product Manager - Agent Trust",
+  "url": "https://jobs.ashbyhq.com/plaid/b5060d3e-7714-4f71-8141-b3956ef3af57",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f1e8653eefca&co=Plaid&ti=Staff%20Product%20Manager%20-%20Agent%20Trust",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f1e8653eefca&co=Plaid&ti=Staff%20Product%20Manager%20-%20Agent%20Trust",
+  "company_about": "Plaid, a fintech data network linking accounts across ~12,000 financial institutions, founded 2013.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Plaid&network=%5B%22S%22%5D"
  },
  {
   "about": "We are building a modern, end-to-end logistics infrastructure designed entirely for the ever-evolving needs of ecommerce brands and everyday consumers.",
@@ -10996,7 +11441,7 @@
   ],
   "hidden": false,
   "id": "7be19e66edc2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City Office / Philadelphia / Remote",
   "posted": "2026-11-18T21:28:59.520000+00:00",
   "role10": 0,
@@ -11059,7 +11504,7 @@
   ],
   "hidden": false,
   "id": "4dfbe2069118",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA",
   "posted": "2026-11-18T18:02:24-05:00",
   "role10": 0,
@@ -11122,7 +11567,7 @@
   ],
   "hidden": false,
   "id": "55a0b2c46bb4",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, CA",
   "posted": "2026-11-18T17:26:06-05:00",
   "role10": 0,
@@ -11185,7 +11630,7 @@
   ],
   "hidden": false,
   "id": "1dd62938c61b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Jose / San Francisco",
   "posted": "2026-11-18T03:00:27.201699+00:00",
@@ -11251,7 +11696,7 @@
   ],
   "hidden": false,
   "id": "837ead202d4a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco",
   "posted": "2026-11-17T21:56:12.208102+00:00",
@@ -11285,53 +11730,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=837ead202d4a&co=Turo&ti=Lead%20Product%20Manager%2C%20Host",
   "company_about": "Turo, a peer-to-peer car rental marketplace.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Turo&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "REQ2026912",
-  "bucket": "SF / Bay",
-  "comp": null,
-  "company": "earlywarning",
-  "company_display": "Earlywarning",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ],
-   [
-    "you liked similar",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "c5229d292e1f",
-  "last_seen": "2026-11-24",
-  "location": "New York City / Chicago / San Francisco / Scottsdale",
-  "posted": "2026-11-13T23:14:36.715122+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 26,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Sr Lead Product Manager",
-  "url": "https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/New-York-City/Sr-Lead-Product-Manager--Merchant-Integrations-_REQ2026912",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c5229d292e1f&co=Earlywarning&ti=Sr%20Lead%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c5229d292e1f&co=Earlywarning&ti=Sr%20Lead%20Product%20Manager",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -11430,7 +11828,7 @@
   ],
   "hidden": false,
   "id": "1b2359ab7306",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco",
   "posted": "2026-11-09T21:35:18.170395+00:00",
@@ -11496,7 +11894,7 @@
   ],
   "hidden": false,
   "id": "f423ddfde2f5",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "United States - Remote",
   "nudged_at": "2026-11-24T01:40:49.531857+00:00",
@@ -11533,6 +11931,56 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Web&network=%5B%22S%22%5D"
  },
  {
+  "title": "Principal Product Manager - MoneyLion Marketplace ",
+  "company": "gen-digital",
+  "location": "USA - New York, NY / Remote",
+  "url": "https://jobs.ashbyhq.com/gen-digital/a3ac1eba-3ecb-4be5-be57-b719ce78055a",
+  "posted": "2026-10-30T23:34:15.168000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$200K \u2013 $250K",
+  "bucket": "Remote (US)",
+  "sector": "marketplace",
+  "blurb": "When you\u2019re part of Gen, you\u2019ll have the flexibility, tools and support to do your best work and grow your career \u2013 from flexible working options and time off to competitive pay, benefits and well-being programs. At Gen, we are scrappy and relentlessly \u2026",
+  "role_pts": 12,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Gen-Digital",
+  "about": "We\u2019re always looking for smart, fearless and high-impact talent who see AI as a teammate \u2013 leveraging it to move faster and deliver meaningful results.",
+  "signals": [
+   "compliance",
+   "B2B"
+  ],
+  "id": "5b6f4ffa3793",
+  "score": 26,
+  "role10": 2,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "marketplace sector 14 \u00b7 role match 12",
+  "summary": null,
+  "fit_tags": [
+   [
+    "marketplace",
+    "mid"
+   ],
+   [
+    "compliance",
+    "hi"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=5b6f4ffa3793&co=Gen-Digital&ti=Principal%20Product%20Manager%20-%20MoneyLion%20Marketplace%20",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=5b6f4ffa3793&co=Gen-Digital&ti=Principal%20Product%20Manager%20-%20MoneyLion%20Marketplace%20",
+  "company_about": "Gen is a global leader in cybersecurity. Explore our trusted consumer brands including Norton, Avast, LifeLock, MoneyLion, Avira, AVG, ReputationDefender, and CCleaner.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Gen-Digital&network=%5B%22S%22%5D"
+ },
+ {
   "about": "",
   "blurb": "Runs product for NetBox Core: data model evolution, release cadence, triage of requests and open source community.",
   "bucket": "Remote (US)",
@@ -11563,7 +12011,7 @@
   ],
   "hidden": false,
   "id": "05bad3f45b48",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US Remote / Remote",
   "posted": "2026-11-19T03:29:15.100000+00:00",
   "role10": 1,
@@ -11628,7 +12076,7 @@
   ],
   "hidden": false,
   "id": "096d8afc8865",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York, NY; Remote, US (Hub cities)",
   "posted": "2026-11-17T13:58:06-05:00",
   "role10": 0,
@@ -11663,6 +12111,138 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Maven+Clinic&network=%5B%22S%22%5D"
  },
  {
+  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
+  "blurb": "Owns buy/sell/convert UI flows for retail trading, driving conversion and revenue.",
+  "bucket": "Remote (US)",
+  "comp": "$218\u2013256K",
+  "company": "coinbase",
+  "company_display": "Coinbase",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-11T02:08:12.391218+00:00",
+  "fit_tags": [
+   [
+    "fit 2/10",
+    "amber"
+   ],
+   [
+    "Consumer growth, no data axis",
+    "hi"
+   ],
+   [
+    "Needs 2+ yrs trading/fintech",
+    "hi"
+   ],
+   [
+    "Remote US, Senior match",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "6c75f2cb8d94",
+  "last_seen": "2026-11-25",
+  "location": "Remote - USA",
+  "posted": "2026-11-10T15:38:00-05:00",
+  "role10": 3,
+  "role_pts": 13,
+  "score": 25,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 13",
+  "sector": "fintech",
+  "signals": [
+   "compliance",
+   "AI/LLM"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-11T14:47:21Z",
+   "company": "Coinbase is a crypto exchange; this role sits on the consumer Simple Trading team.",
+   "fit": 2,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns buy/sell/convert UI flows for retail trading, driving conversion and revenue.",
+   "source": "posting",
+   "why": [
+    "Consumer growth, no data axis",
+    "Needs 2+ yrs trading/fintech",
+    "Remote US, Senior match"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Simple Trading",
+  "url": "https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6c75f2cb8d94&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Simple%20Trading",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6c75f2cb8d94&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Simple%20Trading",
+  "company_about": "Coinbase is a crypto exchange; this role sits on the consumer Simple Trading team.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
+  "blurb": "Owns the Travel Rule platform, APIs and consumer flows, and grows the TRUST network.",
+  "bucket": "Remote (US)",
+  "comp": "$207\u2013244K",
+  "company": "coinbase",
+  "company_display": "Coinbase",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-07T02:15:59.660059+00:00",
+  "fit_tags": [
+   [
+    "fit 8/10",
+    "amber"
+   ],
+   [
+    "Regulated compliance data platform",
+    "hi"
+   ],
+   [
+    "Platform/API PM, Remote US",
+    "hi"
+   ],
+   [
+    "$207-244K; needs fintech compliance exp",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "16ccb5c99921",
+  "last_seen": "2026-11-25",
+  "location": "Remote - USA",
+  "posted": "2026-11-06T17:01:40-05:00",
+  "role10": 3,
+  "role_pts": 13,
+  "score": 25,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 13",
+  "sector": "fintech",
+  "signals": [
+   "compliance",
+   "AI/LLM"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-07T13:46:52Z",
+   "company": "Coinbase is a crypto exchange; it runs TRUST, a Travel Rule network of 200+ member VASPs.",
+   "fit": 8,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the Travel Rule platform, APIs and consumer flows, and grows the TRUST network.",
+   "source": "posting",
+   "why": [
+    "Regulated compliance data platform",
+    "Platform/API PM, Remote US",
+    "$207-244K; needs fintech compliance exp"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager",
+  "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=16ccb5c99921&co=Coinbase&ti=Senior%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=16ccb5c99921&co=Coinbase&ti=Senior%20Product%20Manager",
+  "company_about": "Coinbase is a crypto exchange; it runs TRUST, a Travel Rule network of 200+ member VASPs.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure.",
   "blurb": "Role We are looking for a Principal Product Manager to join our team. This is a Remote role, reporting to the Sr.",
   "bucket": "Remote (US)",
@@ -11693,7 +12273,7 @@
   ],
   "hidden": false,
   "id": "78f2ceb9fe73",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote - USA",
   "posted": "2026-11-06T13:57:42-05:00",
   "role10": 1,
@@ -11717,71 +12297,202 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Zscaler&network=%5B%22S%22%5D"
  },
  {
-  "about": "We\u2019re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products.",
-  "blurb": "Owns Agent Trust, a Know Your Agent product that verifies AI agents acting on financial accounts.",
-  "bucket": "SF / Bay",
-  "comp": "$207.6K \u2013 $339.6K",
-  "company": "plaid",
-  "company_display": "Plaid",
+  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
+  "blurb": "Owns how customers add bank accounts, cards and wallets, including multi-provider payment routing.",
+  "bucket": "Remote (US)",
+  "comp": "$207\u2013244K",
+  "company": "coinbase",
+  "company_display": "Coinbase",
   "company_line": null,
   "company_name": "",
   "emailed": true,
-  "first_seen": "2026-11-04T20:30:45.142779+00:00",
+  "first_seen": "2026-11-05T02:42:01.890089+00:00",
   "fit_tags": [
    [
     "fit 5/10",
     "amber"
    ],
    [
-    "Needs fraud/identity/OAuth depth",
+    "Payments funnel, no data-platform axis",
     "hi"
    ],
    [
-    "Compliance-adjacent, Staff level",
+    "Remote US, $207-244K",
     "hi"
    ],
    [
-    "Remote/SF; $208-340K",
+    "Regulated finance, partial fit",
     "hi"
    ]
   ],
   "hidden": false,
-  "id": "f1e8653eefca",
-  "last_seen": "2026-11-24",
-  "location": "New York City Office / San Francisco HQ / Remote",
-  "posted": "2026-11-05T01:39:55.009000+00:00",
+  "id": "e2db66c68b4c",
+  "last_seen": "2026-11-25",
+  "location": "Remote - USA",
+  "posted": "2026-11-04T15:57:28-05:00",
   "role10": 3,
-  "role_pts": 15,
+  "role_pts": 13,
   "score": 25,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 15",
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 13",
   "sector": "fintech",
   "signals": [
    "compliance",
-   "B2B",
-   "0\u21921"
+   "AI/LLM"
   ],
-  "source": "ashby",
+  "source": "greenhouse",
   "summary": {
-   "at": "2026-11-04T22:45:58Z",
-   "company": "Plaid, a fintech data network linking accounts across ~12,000 financial institutions, founded 2013.",
+   "at": "2026-11-05T13:48:03Z",
+   "company": "Coinbase is a crypto exchange and financial platform; remote-first with quarterly in-person meetups.",
    "fit": 5,
    "model": "claude-sonnet-5-5",
-   "role": "Owns Agent Trust, a Know Your Agent product that verifies AI agents acting on financial accounts.",
+   "role": "Owns how customers add bank accounts, cards and wallets, including multi-provider payment routing.",
    "source": "posting",
    "why": [
-    "Needs fraud/identity/OAuth depth",
-    "Compliance-adjacent, Staff level",
-    "Remote/SF; $208-340K"
+    "Payments funnel, no data-platform axis",
+    "Remote US, $207-244K",
+    "Regulated finance, partial fit"
    ]
   },
   "target": null,
   "tier": "other",
-  "title": "Staff Product Manager - Agent Trust",
-  "url": "https://jobs.ashbyhq.com/plaid/b5060d3e-7714-4f71-8141-b3956ef3af57",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f1e8653eefca&co=Plaid&ti=Staff%20Product%20Manager%20-%20Agent%20Trust",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f1e8653eefca&co=Plaid&ti=Staff%20Product%20Manager%20-%20Agent%20Trust",
-  "company_about": "Plaid, a fintech data network linking accounts across ~12,000 financial institutions, founded 2013.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Plaid&network=%5B%22S%22%5D"
+  "title": "Senior Product Manager, Payments",
+  "url": "https://www.coinbase.com/careers/positions/8351170?gh_jid=8351170",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e2db66c68b4c&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Payments",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e2db66c68b4c&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Payments",
+  "company_about": "Coinbase is a crypto exchange and financial platform; remote-first with quarterly in-person meetups.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
+  "blurb": "Owns the risk product roadmap for fraud, account takeover, and scam detection across the platform.",
+  "bucket": "Remote (US)",
+  "comp": "$207\u2013244K",
+  "company": "coinbase",
+  "company_display": "Coinbase",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-03T20:30:24.077020+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer fraud/ML, no data platform",
+    "hi"
+   ],
+   [
+    "Remote US, $207-244K base",
+    "hi"
+   ],
+   [
+    "Needs 3+ yrs fraud/risk PM",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "cf394b99f0a8",
+  "last_seen": "2026-11-25",
+  "location": "Remote - USA",
+  "posted": "2026-11-03T12:17:23-05:00",
+  "role10": 3,
+  "role_pts": 13,
+  "score": 25,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 13",
+  "sector": "fintech",
+  "signals": [
+   "compliance",
+   "AI/LLM"
+  ],
+  "source": "greenhouse",
+  "summary": {
+   "at": "2026-11-03T22:46:48Z",
+   "company": "Coinbase, crypto exchange; remote-first with quarterly in-person 'surges'.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the risk product roadmap for fraud, account takeover, and scam detection across the platform.",
+   "source": "posting",
+   "why": [
+    "Consumer fraud/ML, no data platform",
+    "Remote US, $207-244K base",
+    "Needs 3+ yrs fraud/risk PM"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Risk",
+  "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cf394b99f0a8&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Risk",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cf394b99f0a8&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Risk",
+  "company_about": "Coinbase, crypto exchange; remote-first with quarterly in-person 'surges'.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Owns strategy and roadmap to grow Snap's ads marketplace: new inventory, demand, and monetization models.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "snapchat",
+  "company_display": "Snapchat",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-21T03:23:36.884401+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Consumer ad growth, no data axis",
+    "hi"
+   ],
+   [
+    "Staff level matches seniority",
+    "hi"
+   ],
+   [
+    "Bellevue/SF listed; comp not stated",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "b904926b1795",
+  "last_seen": "2026-11-25",
+  "liked": true,
+  "location": "Sunnyvale, California / San Francisco, California / Los Angeles, California / Bellevue, Washington",
+  "posted": "2026-11-21T03:26:06.375181+00:00",
+  "role10": 0,
+  "role_pts": -10,
+  "score": 24,
+  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-21T04:59:05.980Z",
+  "summary": {
+   "at": "2026-11-21T14:46:17Z",
+   "company": "Snap Inc. runs Snapchat, Bitmoji and Specs; this role sits in its Ads Platform org.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns strategy and roadmap to grow Snap's ads marketplace: new inventory, demand, and monetization models.",
+   "source": "posting",
+   "why": [
+    "Consumer ad growth, no data axis",
+    "Staff level matches seniority",
+    "Bellevue/SF listed; comp not stated"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, Ad Marketplace Growth",
+  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Sunnyvale-California/Staff-Product-Manager--Spotlight-Monetization---Ad-Marketplace-Growth_R0046922",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
+  "company_about": "Snap Inc. runs Snapchat, Bitmoji and Specs; this role sits in its Ads Platform org.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
  },
  {
   "about": "Cloaked is building a cyber expert at your side - one that watches, advises, and acts to keep you safe and private in the age of AI.",
@@ -11814,7 +12525,7 @@
   ],
   "hidden": false,
   "id": "6200970c9f89",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York, NY / Remote",
   "posted": "2026-11-18T17:23:07.685000+00:00",
   "role10": 3,
@@ -11880,7 +12591,7 @@
   ],
   "hidden": false,
   "id": "6dcf1e0d4a8d",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco / Remote",
   "posted": "2026-11-12T22:42:49.810000+00:00",
   "role10": 1,
@@ -11946,7 +12657,7 @@
   ],
   "hidden": false,
   "id": "dfc0b45f0a95",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "San Francisco, CA / New York, NY / Remote",
   "posted": "2026-11-12T17:07:12.858000+00:00",
@@ -12015,7 +12726,7 @@
   ],
   "hidden": false,
   "id": "5d929895885c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Washington - Seattle Campus / USA - Illinois - Chicago / USA - California - San Jose",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -12082,7 +12793,7 @@
   ],
   "hidden": false,
   "id": "614faad58f93",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States Remote / Remote",
   "posted": "2026-10-28T18:57:48.434000+00:00",
   "role10": 3,
@@ -12148,7 +12859,7 @@
   ],
   "hidden": false,
   "id": "d70af6031658",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US - Remote",
   "posted": "2026-10-27T14:02:02-04:00",
@@ -12187,6 +12898,72 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Rubrik&network=%5B%22S%22%5D"
  },
  {
+  "about": "",
+  "blurb": "Staff PM for ads measurement; scope not visible.",
+  "bucket": "Seattle",
+  "comp": null,
+  "company": "snapchat",
+  "company_display": "Snapchat",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-27T01:35:29.852341+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Staff level, Bellevue/SF options",
+    "hi"
+   ],
+   [
+    "Ads measurement, no data-platform fit",
+    "hi"
+   ],
+   [
+    "Consumer ads, no mission axis",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "271d900823f0",
+  "last_seen": "2026-11-25",
+  "liked": true,
+  "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Palo Alto, California / New York, New York / Bellevue, Washington",
+  "posted": "2026-10-27T01:39:42.713955+00:00",
+  "role10": 0,
+  "role_pts": -10,
+  "score": 24,
+  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +24",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "status": "interested",
+  "status_at": "2026-11-21T21:16:52.547Z",
+  "summary": {
+   "at": "2026-10-27T13:48:44Z",
+   "company": "Snapchat is a consumer social platform (posting text unavailable).",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Staff PM for ads measurement; scope not visible.",
+   "source": "fallback",
+   "why": [
+    "Staff level, Bellevue/SF options",
+    "Ads measurement, no data-platform fit",
+    "Consumer ads, no mission axis"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Staff Product Manager, Ads Measurement",
+  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Staff-Product-Manager--Ads-Measurement_R0047316",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
+  "company_about": "Snapchat is a consumer social platform (posting text unavailable).",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
+ },
+ {
   "about": "At Taskrabbit, we want to transform lives one task at a time.",
   "blurb": "Owns the global commerce platform: client payments, Tasker payouts, processing cost, compliance.",
   "bucket": "SF / Bay",
@@ -12217,7 +12994,7 @@
   ],
   "hidden": false,
   "id": "8310d8062fe3",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, California, United States",
   "posted": "2026-11-24T16:23:58-05:00",
   "role10": 2,
@@ -12282,7 +13059,7 @@
   ],
   "hidden": false,
   "id": "c240ab57f03f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States, Remote",
   "posted": "2026-11-16T09:00:34-05:00",
   "role10": 3,
@@ -12318,70 +13095,72 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=6Sense&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "Owns buy/sell/convert UI flows for retail trading, driving conversion and revenue.",
+  "about": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees \u2026",
+  "blurb": "Principal PM for Toast Catering & Events product adoption and depth.",
   "bucket": "Remote (US)",
-  "comp": "$218\u2013256K",
-  "company": "coinbase",
-  "company_display": "Coinbase",
+  "comp": "$149\u2013304K",
+  "company": "toast",
+  "company_display": "Toast",
   "company_line": null,
   "company_name": "",
   "emailed": true,
-  "first_seen": "2026-11-11T02:08:12.391218+00:00",
+  "first_seen": "2026-11-16T22:59:16.390926+00:00",
   "fit_tags": [
    [
-    "fit 2/10",
+    "fit 3/10",
     "amber"
    ],
    [
-    "Consumer growth, no data axis",
+    "Restaurant SaaS, no data axis",
     "hi"
    ],
    [
-    "Needs 2+ yrs trading/fintech",
+    "Remote US, $149-304K",
     "hi"
    ],
    [
-    "Remote US, Senior match",
+    "Feature product, not platform",
     "hi"
    ]
   ],
   "hidden": false,
-  "id": "6c75f2cb8d94",
-  "last_seen": "2026-11-24",
-  "location": "Remote - USA",
-  "posted": "2026-11-10T15:38:00-05:00",
-  "role10": 3,
-  "role_pts": 13,
+  "id": "1c8677b6a46d",
+  "last_seen": "2026-11-25",
+  "liked": true,
+  "location": "Remote, US",
+  "posted": "2026-11-13T17:27:28-05:00",
+  "role10": 1,
+  "role_pts": 3,
   "score": 23,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 13",
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 3 \u00b7 your \ud83d\udc4d +8",
   "sector": "fintech",
   "signals": [
-   "compliance",
-   "AI/LLM"
+   "B2B"
   ],
   "source": "greenhouse",
+  "status": "interested",
+  "status_at": "2026-11-17T00:03:54.284Z",
   "summary": {
-   "at": "2026-11-11T14:47:21Z",
-   "company": "Coinbase is a crypto exchange; this role sits on the consumer Simple Trading team.",
-   "fit": 2,
+   "at": "2026-11-16T23:47:27Z",
+   "company": "Toast: restaurant technology platform; this team builds catering and event ordering.",
+   "fit": 3,
    "model": "claude-sonnet-5-5",
-   "role": "Owns buy/sell/convert UI flows for retail trading, driving conversion and revenue.",
+   "role": "Principal PM for Toast Catering & Events product adoption and depth.",
    "source": "posting",
    "why": [
-    "Consumer growth, no data axis",
-    "Needs 2+ yrs trading/fintech",
-    "Remote US, Senior match"
+    "Restaurant SaaS, no data axis",
+    "Remote US, $149-304K",
+    "Feature product, not platform"
    ]
   },
   "target": null,
   "tier": "other",
-  "title": "Senior Product Manager, Simple Trading",
-  "url": "https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6c75f2cb8d94&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Simple%20Trading",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6c75f2cb8d94&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Simple%20Trading",
-  "company_about": "Coinbase is a crypto exchange; this role sits on the consumer Simple Trading team.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
+  "title": "Principal Product Manager - Catering & Events",
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8383535",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1c8677b6a46d&co=Toast&ti=Principal%20Product%20Manager%20-%20Catering%20%26%20Events",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1c8677b6a46d&co=Toast&ti=Principal%20Product%20Manager%20-%20Catering%20%26%20Events",
+  "company_about": "Toast: restaurant technology platform; this team builds catering and event ordering.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Toast&network=%5B%22S%22%5D"
  },
  {
   "about": "We're excited about you because\u2026 You have 7+ years of product management experience, including end-to-end ownership of internal tools, HR technology, case management, support, or \u2026",
@@ -12414,7 +13193,7 @@
   ],
   "hidden": false,
   "id": "931373e1beaa",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States - Remote",
   "posted": "2026-11-10T15:23:41-05:00",
   "role10": 2,
@@ -12449,270 +13228,49 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=DoorDash&network=%5B%22S%22%5D"
  },
  {
-  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "Owns the Travel Rule platform, APIs and consumer flows, and grows the TRUST network.",
+  "about": "",
+  "blurb": "About the Role Own a major area of a fintech banking platform, spanning payment experiences, account services, platform reliability, and customer security. You will work across Product, Engineering, Design, Operations, Risk, Compliance, Legal, and external \u2026",
   "bucket": "Remote (US)",
-  "comp": "$207\u2013244K",
-  "company": "coinbase",
-  "company_display": "Coinbase",
+  "comp": "$160\u2013200K",
+  "company": "clera",
+  "company_display": "Clera",
   "company_line": null,
   "company_name": "",
   "emailed": true,
-  "first_seen": "2026-11-07T02:15:59.660059+00:00",
+  "first_seen": "2026-10-01T19:16:44.723701+00:00",
   "fit_tags": [
    [
-    "fit 8/10",
-    "amber"
+    "fintech",
+    "mid"
    ],
    [
-    "Regulated compliance data platform",
-    "hi"
-   ],
-   [
-    "Platform/API PM, Remote US",
-    "hi"
-   ],
-   [
-    "$207-244K; needs fintech compliance exp",
+    "compliance",
     "hi"
    ]
   ],
   "hidden": false,
-  "id": "16ccb5c99921",
-  "last_seen": "2026-11-24",
-  "location": "Remote - USA",
-  "posted": "2026-11-06T17:01:40-05:00",
-  "role10": 3,
-  "role_pts": 13,
-  "score": 23,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 13",
-  "sector": "fintech",
-  "signals": [
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-11-07T13:46:52Z",
-   "company": "Coinbase is a crypto exchange; it runs TRUST, a Travel Rule network of 200+ member VASPs.",
-   "fit": 8,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the Travel Rule platform, APIs and consumer flows, and grows the TRUST network.",
-   "source": "posting",
-   "why": [
-    "Regulated compliance data platform",
-    "Platform/API PM, Remote US",
-    "$207-244K; needs fintech compliance exp"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=16ccb5c99921&co=Coinbase&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=16ccb5c99921&co=Coinbase&ti=Senior%20Product%20Manager",
-  "company_about": "Coinbase is a crypto exchange; it runs TRUST, a Travel Rule network of 200+ member VASPs.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
- },
- {
-  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "Owns how customers add bank accounts, cards and wallets, including multi-provider payment routing.",
-  "bucket": "Remote (US)",
-  "comp": "$207\u2013244K",
-  "company": "coinbase",
-  "company_display": "Coinbase",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-05T02:42:01.890089+00:00",
-  "fit_tags": [
-   [
-    "fit 5/10",
-    "amber"
-   ],
-   [
-    "Payments funnel, no data-platform axis",
-    "hi"
-   ],
-   [
-    "Remote US, $207-244K",
-    "hi"
-   ],
-   [
-    "Regulated finance, partial fit",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "e2db66c68b4c",
-  "last_seen": "2026-11-24",
-  "location": "Remote - USA",
-  "posted": "2026-11-04T15:57:28-05:00",
-  "role10": 3,
-  "role_pts": 13,
-  "score": 23,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 13",
-  "sector": "fintech",
-  "signals": [
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-11-05T13:48:03Z",
-   "company": "Coinbase is a crypto exchange and financial platform; remote-first with quarterly in-person meetups.",
-   "fit": 5,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns how customers add bank accounts, cards and wallets, including multi-provider payment routing.",
-   "source": "posting",
-   "why": [
-    "Payments funnel, no data-platform axis",
-    "Remote US, $207-244K",
-    "Regulated finance, partial fit"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Payments",
-  "url": "https://www.coinbase.com/careers/positions/8351170?gh_jid=8351170",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e2db66c68b4c&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Payments",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e2db66c68b4c&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Payments",
-  "company_about": "Coinbase is a crypto exchange and financial platform; remote-first with quarterly in-person meetups.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
- },
- {
-  "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
-  "blurb": "Owns the risk product roadmap for fraud, account takeover, and scam detection across the platform.",
-  "bucket": "Remote (US)",
-  "comp": "$207\u2013244K",
-  "company": "coinbase",
-  "company_display": "Coinbase",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-03T20:30:24.077020+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Consumer fraud/ML, no data platform",
-    "hi"
-   ],
-   [
-    "Remote US, $207-244K base",
-    "hi"
-   ],
-   [
-    "Needs 3+ yrs fraud/risk PM",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "cf394b99f0a8",
-  "last_seen": "2026-11-24",
-  "location": "Remote - USA",
-  "posted": "2026-11-03T12:17:23-05:00",
-  "role10": 3,
-  "role_pts": 13,
-  "score": 23,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 13",
-  "sector": "fintech",
-  "signals": [
-   "compliance",
-   "AI/LLM"
-  ],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-11-03T22:46:48Z",
-   "company": "Coinbase, crypto exchange; remote-first with quarterly in-person 'surges'.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the risk product roadmap for fraud, account takeover, and scam detection across the platform.",
-   "source": "posting",
-   "why": [
-    "Consumer fraud/ML, no data platform",
-    "Remote US, $207-244K base",
-    "Needs 3+ yrs fraud/risk PM"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Risk",
-  "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=cf394b99f0a8&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Risk",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=cf394b99f0a8&co=Coinbase&ti=Senior%20Product%20Manager%2C%20Risk",
-  "company_about": "Coinbase, crypto exchange; remote-first with quarterly in-person 'surges'.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Coinbase&network=%5B%22S%22%5D"
- },
- {
-  "about": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees \u2026",
-  "blurb": "Principal PM for Toast Catering & Events product adoption and depth.",
-  "bucket": "Remote (US)",
-  "comp": "$149\u2013304K",
-  "company": "toast",
-  "company_display": "Toast",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-16T22:59:16.390926+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Restaurant SaaS, no data axis",
-    "hi"
-   ],
-   [
-    "Remote US, $149-304K",
-    "hi"
-   ],
-   [
-    "Feature product, not platform",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "1c8677b6a46d",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "Remote, US",
-  "posted": "2026-11-13T17:27:28-05:00",
-  "role10": 1,
-  "role_pts": 3,
+  "id": "320a52699cd6",
+  "last_seen": "2026-11-13",
+  "location": "New York / Remote",
+  "posted": "2026-11-07T17:18:17.417000+00:00",
+  "role10": 2,
+  "role_pts": 9,
   "score": 21,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 3 \u00b7 your \ud83d\udc4d +8",
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 9",
   "sector": "fintech",
   "signals": [
-   "B2B"
+   "compliance"
   ],
-  "source": "greenhouse",
-  "status": "interested",
-  "status_at": "2026-11-17T00:03:54.284Z",
-  "summary": {
-   "at": "2026-11-16T23:47:27Z",
-   "company": "Toast: restaurant technology platform; this team builds catering and event ordering.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Principal PM for Toast Catering & Events product adoption and depth.",
-   "source": "posting",
-   "why": [
-    "Restaurant SaaS, no data axis",
-    "Remote US, $149-304K",
-    "Feature product, not platform"
-   ]
-  },
+  "source": "ashby",
+  "summary": null,
   "target": null,
   "tier": "other",
-  "title": "Principal Product Manager - Catering & Events",
-  "url": "https://careers.toasttab.com/jobs?gh_jid=8383535",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1c8677b6a46d&co=Toast&ti=Principal%20Product%20Manager%20-%20Catering%20%26%20Events",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1c8677b6a46d&co=Toast&ti=Principal%20Product%20Manager%20-%20Catering%20%26%20Events",
-  "company_about": "Toast: restaurant technology platform; this team builds catering and event ordering.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Toast&network=%5B%22S%22%5D"
+  "title": "Senior Product Manager, Banking",
+  "url": "https://jobs.ashbyhq.com/Clera/4fc6f093-5518-4f7c-8086-984ce1298d82",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=320a52699cd6&co=Clera&ti=Senior%20Product%20Manager%2C%20Banking",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=320a52699cd6&co=Clera&ti=Senior%20Product%20Manager%2C%20Banking",
+  "company_about": "Stop sorting through applicants. Start getting introduced. Clera introduces you to people who already want the move and actually fit your roles.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -12745,7 +13303,7 @@
   ],
   "hidden": false,
   "id": "676554fd108f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (in the U.S.)",
   "posted": "2026-11-23T12:29:55-05:00",
   "role10": 2,
@@ -12810,7 +13368,7 @@
   ],
   "hidden": false,
   "id": "e98de89eca59",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-21T06:02:29+00:00",
   "role10": 2,
@@ -12875,7 +13433,7 @@
   ],
   "hidden": false,
   "id": "c07cc622c72a",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States / Remote",
   "posted": "2026-11-16T00:00:00+00:00",
   "role10": 2,
@@ -12940,7 +13498,7 @@
   ],
   "hidden": false,
   "id": "0cec0b96cee9",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Bay Area, CA",
   "posted": "2026-11-03T20:32:22.650599+00:00",
   "role10": 2,
@@ -13070,7 +13628,7 @@
   ],
   "hidden": false,
   "id": "e94148b8ca9c",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City, NY / San Francisco, California / Remote",
   "posted": "2026-10-27T19:48:49.073000+00:00",
   "role10": 1,
@@ -13136,7 +13694,7 @@
   ],
   "hidden": false,
   "id": "9a47e0a91176",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US - California - San Francisco",
   "posted": "2026-10-27T01:39:01.080393+00:00",
   "role10": 2,
@@ -13171,6 +13729,56 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Procore&network=%5B%22S%22%5D"
  },
  {
+  "title": "Staff Product Manager, Parts",
+  "company": "fleetio",
+  "location": "Remote - USA, CAN, MEX",
+  "url": "https://job-boards.greenhouse.io/fleetio/jobs/5309413007",
+  "posted": "2026-11-25T11:00:21-05:00",
+  "source": "greenhouse",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Remote (US)",
+  "sector": "fintech",
+  "blurb": "More about our team and company: Fleetio overview video: https://www.youtube.com/watch?v=YoXyXTFWbkg Our careers page: https://www.fleetio.com/careers We're looking for an evidence-based, customer-centric, and inventive Staff Product Manager to build Parts \u2026",
+  "role_pts": 7,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Fleetio",
+  "about": "Fleetio is also a proud founding member of the Rails Foundation !",
+  "signals": [
+   "AI/LLM",
+   "0\u21921"
+  ],
+  "id": "df0ea546c4d9",
+  "score": 19,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 7",
+  "summary": null,
+  "fit_tags": [
+   [
+    "fintech",
+    "mid"
+   ],
+   [
+    "AI/LLM",
+    "mid"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=df0ea546c4d9&co=Fleetio&ti=Staff%20Product%20Manager%2C%20Parts",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=df0ea546c4d9&co=Fleetio&ti=Staff%20Product%20Manager%2C%20Parts",
+  "company_about": "Fleetio is also a proud founding member of the Rails Foundation !",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Fleetio&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Our mission at \u014cURA is to empower every person to own their inner potential.",
   "blurb": "Owns a hardware product lifecycle from concept to end of life with engineering and design.",
   "bucket": "SF / Bay",
@@ -13201,7 +13809,7 @@
   ],
   "hidden": false,
   "id": "4b6a8691d8fd",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Hybrid - San Francisco, California",
   "posted": "2026-11-13T13:38:00-05:00",
   "role10": 2,
@@ -13236,51 +13844,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Oura&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "About the Role Own a major area of a fintech banking platform, spanning payment experiences, account services, platform reliability, and customer security. You will work across Product, Engineering, Design, Operations, Risk, Compliance, Legal, and external \u2026",
-  "bucket": "Remote (US)",
-  "comp": "$160\u2013200K",
-  "company": "clera",
-  "company_display": "Clera",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-01T19:16:44.723701+00:00",
-  "fit_tags": [
-   [
-    "fintech",
-    "mid"
-   ],
-   [
-    "compliance",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "320a52699cd6",
-  "last_seen": "2026-11-13",
-  "location": "New York / Remote",
-  "posted": "2026-11-07T17:18:17.417000+00:00",
-  "role10": 2,
-  "role_pts": 9,
-  "score": 19,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 9",
-  "sector": "fintech",
-  "signals": [
-   "compliance"
-  ],
-  "source": "ashby",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Banking",
-  "url": "https://jobs.ashbyhq.com/Clera/4fc6f093-5518-4f7c-8086-984ce1298d82",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=320a52699cd6&co=Clera&ti=Senior%20Product%20Manager%2C%20Banking",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=320a52699cd6&co=Clera&ti=Senior%20Product%20Manager%2C%20Banking",
-  "company_about": "Stop sorting through applicants. Start getting introduced. Clera introduces you to people who already want the move and actually fit your roles.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Clera&network=%5B%22S%22%5D"
- },
- {
   "about": "Our mission at Oura is to empower every person to own their inner potential.",
   "blurb": "Owns the Oura charging hardware portfolio: requirements, research, lifecycle issues.",
   "bucket": "SF / Bay",
@@ -13311,7 +13874,7 @@
   ],
   "hidden": false,
   "id": "342b29cb4cc4",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Hybrid - Los Angeles, California; Hybrid - San Diego, California; Hybrid - San Francisco, California",
   "posted": "2026-10-28T12:45:16-04:00",
   "role10": 2,
@@ -13376,7 +13939,7 @@
   ],
   "hidden": false,
   "id": "50d182bc7910",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco, California, United States",
   "posted": "2026-11-24T00:00:00+00:00",
   "role10": 0,
@@ -13439,10 +14002,10 @@
   ],
   "hidden": false,
   "id": "56eac9ee1a43",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote",
-  "posted": "2026-11-20T23:15:40.095671+00:00",
+  "posted": "2026-11-20T22:43:20.809450+00:00",
   "role10": 0,
   "role_pts": 0,
   "score": 18,
@@ -13608,6 +14171,72 @@
  },
  {
   "about": "",
+  "blurb": "Senior PM for customer success; scope not visible beyond the title (unclear).",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "recar",
+  "company_display": "Recar",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Remote WA matches location",
+    "hi"
+   ],
+   [
+    "no domain info available",
+    "hi"
+   ],
+   [
+    "title suggests CS tooling",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "e0c4bd5e84bf",
+  "last_seen": "2026-11-25",
+  "location": "Remote WA",
+  "posted": "2026-11-12T23:15:45.051147+00:00",
+  "role10": 0,
+  "role_pts": 0,
+  "score": 18,
+  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
+  "sector": "",
+  "signals": [],
+  "source": "workday",
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Recar (Workday listing, Remote WA); posting text unavailable, company business unclear.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Senior PM for customer success; scope not visible beyond the title (unclear).",
+   "source": "fallback",
+   "why": [
+    "Remote WA matches location",
+    "no domain info available",
+    "title suggests CS tooling"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Sr. Product Manager, Customer Success",
+  "url": "https://recar.wd108.myworkdayjobs.com/en-US/SLATEcareers/job/Remote-WA/Sr-Product-Manager--Sales---Services_JR100958",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-25T00:29:31.016Z",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e0c4bd5e84bf&co=Recar&ti=Sr.%20Product%20Manager%2C%20Customer%20Success",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e0c4bd5e84bf&co=Recar&ti=Sr.%20Product%20Manager%2C%20Customer%20Success",
+  "company_about": "Recar (Workday listing, Remote WA); posting text unavailable, company business unclear.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Recar&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
   "blurb": "Owns voice and telephony platform strategy: carriers, call quality, routing, shared call model and voice compliance.",
   "bucket": "Remote (US)",
   "comp": null,
@@ -13637,7 +14266,7 @@
   ],
   "hidden": false,
   "id": "9731b7a10f62",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "US Remote",
   "posted": "2026-11-12T21:05:31.334911+00:00",
@@ -13703,7 +14332,7 @@
   ],
   "hidden": false,
   "id": "6e9eea253cfe",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Alpharetta, GA / Remote - USA - Nationwide",
   "posted": "2026-11-10T20:38:15.277238+00:00",
@@ -13769,7 +14398,7 @@
   ],
   "hidden": false,
   "id": "43c50cf78563",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote or Mississauga",
   "posted": "2026-11-10T16:45:29.858000+00:00",
   "role10": 0,
@@ -13832,7 +14461,7 @@
   ],
   "hidden": false,
   "id": "5b0cbbf224e5",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote, USA",
   "posted": "2026-11-10T16:41:07.791000+00:00",
   "role10": 0,
@@ -13895,7 +14524,7 @@
   ],
   "hidden": false,
   "id": "841cda890f09",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote (North America Only)",
   "nudged_at": "2026-11-23T03:43:29.174119+00:00",
@@ -13962,7 +14591,7 @@
   ],
   "hidden": false,
   "id": "160e91cf584d",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote, USA",
   "posted": "2026-11-05T18:26:37.033000+00:00",
   "role10": 0,
@@ -14025,9 +14654,10 @@
   ],
   "hidden": false,
   "id": "d1d3da8a6c62",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote (US)",
+  "nudged_at": "2026-11-24T23:29:00.341970+00:00",
   "posted": "2026-10-27T18:52:59.533441+00:00",
   "role10": 0,
   "role_pts": 0,
@@ -14055,143 +14685,10 @@
   "tier": "other",
   "title": "Senior Product Manager, Clinical Development Platforms",
   "url": "https://beigene.wd5.myworkdayjobs.com/en-US/beigene/job/Remote-US/Product-Manager--Clinical-Development-Platforms_R37384-1",
-  "nudged_at": "2026-11-24T23:29:00.341970+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=d1d3da8a6c62&co=Beigene&ti=Senior%20Product%20Manager%2C%20Clinical%20Development%20Platforms",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=d1d3da8a6c62&co=Beigene&ti=Senior%20Product%20Manager%2C%20Clinical%20Development%20Platforms",
   "company_about": "BeiGene is a global oncology biotech; posting text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Beigene&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Owns strategy and roadmap to grow Snap's ads marketplace: new inventory, demand, and monetization models.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "snapchat",
-  "company_display": "Snapchat",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-21T03:23:36.884401+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Consumer ad growth, no data axis",
-    "hi"
-   ],
-   [
-    "Staff level matches seniority",
-    "hi"
-   ],
-   [
-    "Bellevue/SF listed; comp not stated",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "b904926b1795",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "Sunnyvale, California / San Francisco, California / Los Angeles, California / Bellevue, Washington",
-  "posted": "2026-11-21T03:26:06.375181+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 16,
-  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-21T04:59:05.980Z",
-  "summary": {
-   "at": "2026-11-21T14:46:17Z",
-   "company": "Snap Inc. runs Snapchat, Bitmoji and Specs; this role sits in its Ads Platform org.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns strategy and roadmap to grow Snap's ads marketplace: new inventory, demand, and monetization models.",
-   "source": "posting",
-   "why": [
-    "Consumer ad growth, no data axis",
-    "Staff level matches seniority",
-    "Bellevue/SF listed; comp not stated"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Ad Marketplace Growth",
-  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Sunnyvale-California/Staff-Product-Manager--Spotlight-Monetization---Ad-Marketplace-Growth_R0046922",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b904926b1795&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ad%20Marketplace%20Growth",
-  "company_about": "Snap Inc. runs Snapchat, Bitmoji and Specs; this role sits in its Ads Platform org.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Staff PM for ads measurement; scope not visible.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "snapchat",
-  "company_display": "Snapchat",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-27T01:35:29.852341+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Staff level, Bellevue/SF options",
-    "hi"
-   ],
-   [
-    "Ads measurement, no data-platform fit",
-    "hi"
-   ],
-   [
-    "Consumer ads, no mission axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "271d900823f0",
-  "last_seen": "2026-11-24",
-  "liked": true,
-  "location": "Los Angeles, California / Chicago, Illinois / San Francisco, California / Palo Alto, California / New York, New York / Bellevue, Washington",
-  "posted": "2026-10-27T01:39:42.713955+00:00",
-  "role10": 0,
-  "role_pts": -10,
-  "score": 16,
-  "score_why": "unknown sector 10 \u00b7 role match -10 \u00b7 your \ud83d\udc4d +16",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-21T21:16:52.547Z",
-  "summary": {
-   "at": "2026-10-27T13:48:44Z",
-   "company": "Snapchat is a consumer social platform (posting text unavailable).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Staff PM for ads measurement; scope not visible.",
-   "source": "fallback",
-   "why": [
-    "Staff level, Bellevue/SF options",
-    "Ads measurement, no data-platform fit",
-    "Consumer ads, no mission axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Staff Product Manager, Ads Measurement",
-  "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Staff-Product-Manager--Ads-Measurement_R0047316",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=271d900823f0&co=Snapchat&ti=Staff%20Product%20Manager%2C%20Ads%20Measurement",
-  "company_about": "Snapchat is a consumer social platform (posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Snapchat&network=%5B%22S%22%5D"
  },
  {
   "about": "Reddit brings its audience and community intelligence into those decisions and makes it actionable wherever advertisers choose to buy.",
@@ -14224,7 +14721,7 @@
   ],
   "hidden": false,
   "id": "e191f65c98c2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote - United States",
   "posted": "2026-11-20T15:48:08-05:00",
   "role10": 0,
@@ -14260,6 +14757,161 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Reddit&network=%5B%22S%22%5D"
  },
  {
+  "about": "Versapay removes friction, unlocks working capital, and accelerates momentum \u2014 giving finance leaders the clarity and control they need to drive business forward.",
+  "blurb": "Owns the multi-tenant payments gateway connecting AR products to processors and card networks.",
+  "bucket": "Remote (US)",
+  "comp": "$160\u2013180K",
+  "company": "versapay",
+  "company_display": "Versapay",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-10-28T19:01:36.809750+00:00",
+  "fit_tags": [
+   [
+    "fit 3/10",
+    "amber"
+   ],
+   [
+    "Payments platform, no energy axis",
+    "hi"
+   ],
+   [
+    "Remote US, $160-180K",
+    "hi"
+   ],
+   [
+    "Fintech, no mission angle",
+    "hi"
+   ]
+  ],
+  "hidden": false,
+  "id": "c625f629e12b",
+  "last_seen": "2026-11-25",
+  "location": "United States (Remote)",
+  "posted": "2026-10-28T13:28:27.285000+00:00",
+  "role10": 1,
+  "role_pts": 3,
+  "score": 15,
+  "score_why": "fintech sector 8 \u00b7 sector feedback +4 \u00b7 role match 3",
+  "sector": "fintech",
+  "signals": [
+   "B2B"
+  ],
+  "source": "lever",
+  "summary": {
+   "at": "2026-10-28T22:46:47Z",
+   "company": "Versapay automates B2B accounts receivable and payments; 10,000+ customers, $257B annual volume.",
+   "fit": 3,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the multi-tenant payments gateway connecting AR products to processors and card networks.",
+   "source": "posting",
+   "why": [
+    "Payments platform, no energy axis",
+    "Remote US, $160-180K",
+    "Fintech, no mission angle"
+   ]
+  },
+  "target": null,
+  "tier": "other",
+  "title": "Senior Product Manager, Payments Gateway",
+  "url": "https://jobs.lever.co/versapay/b1c89aa9-00de-4c10-9c62-d4d7cee59aa4",
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c625f629e12b&co=Versapay&ti=Senior%20Product%20Manager%2C%20Payments%20Gateway",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c625f629e12b&co=Versapay&ti=Senior%20Product%20Manager%2C%20Payments%20Gateway",
+  "company_about": "Versapay automates B2B accounts receivable and payments; 10,000+ customers, $257B annual volume.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Versapay&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Lead Product Manager",
+  "company": "trm-labs",
+  "location": "United States / Remote",
+  "url": "https://jobs.ashbyhq.com/trm-labs/dc7f3f21-1057-4f61-adb7-3cb34367c912",
+  "posted": "2026-11-25T17:15:01.618000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$200\u2013250K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "As a Lead Product Manager, you'll operate with an entrepreneurial mindset, identifying new market opportunities, shaping product strategy and building solutions to problems that don't yet have established answers. We're looking for someone who thinks like a \u2026",
+  "role_pts": 3,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Trm-Labs",
+  "about": "",
+  "signals": [
+   "0\u21921"
+  ],
+  "id": "939e194fd21b",
+  "score": 13,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 3",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "0\u21921",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=939e194fd21b&co=Trm-Labs&ti=Lead%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=939e194fd21b&co=Trm-Labs&ti=Lead%20Product%20Manager",
+  "company_about": "Uncover illicit activity and disrupt threats with TRM. Bring AI and all-source intelligence into every investigation.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Trm-Labs&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Senior Product Manager - RecOS",
+  "company": "rec",
+  "location": "San Francisco, CA / Remote",
+  "url": "https://jobs.ashbyhq.com/rec/2c4c3065-fe12-416d-913b-1b015aadd513",
+  "posted": "2026-11-25T00:55:40.579000+00:00",
+  "source": "ashby",
+  "company_name": "",
+  "comp": "$160\u2013240K",
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "About Rec Think about the last time you tried to book a tennis court. Or sign your kid up for a swim lesson.",
+  "role_pts": 3,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Rec",
+  "about": "At Rec ( recreation.ai ), we're using AI to change that \u2014 reimagining how the world plays, participates in community, and gets active.",
+  "signals": [
+   "B2B"
+  ],
+  "id": "13c9c17edbc7",
+  "score": 13,
+  "role10": 1,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 3",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "B2B",
+    "mid"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=13c9c17edbc7&co=Rec&ti=Senior%20Product%20Manager%20-%20RecOS",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=13c9c17edbc7&co=Rec&ti=Senior%20Product%20Manager%20-%20RecOS",
+  "company_about": "Modern recreation software to power awesome parks and programs in every community.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Rec&network=%5B%22S%22%5D"
+ },
+ {
   "about": "Bobyard uses computer vision and NLP to automate takeoffs and estimates, so contractors bid faster and win more.",
   "blurb": "Position Overview We're hiring a Staff Product Manager to set product direction across our core takeoff platform and our next generation of 0\u21921 bets. This is a senior individual contributor role with company-level scope.",
   "bucket": "SF / Bay",
@@ -14282,7 +14934,7 @@
   ],
   "hidden": false,
   "id": "774656e5056f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "San Francisco",
   "posted": "2026-11-17T22:25:25.040000+00:00",
   "role10": 1,
@@ -14327,7 +14979,7 @@
   ],
   "hidden": false,
   "id": "97239547ba09",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Denver / New York / San Francisco / Seattle / Remote",
   "posted": "2026-11-13T21:09:38.506000+00:00",
   "role10": 1,
@@ -14380,7 +15032,7 @@
   ],
   "hidden": false,
   "id": "9af0b0cd77e8",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States / Remote",
   "posted": "2026-10-28T23:55:12.101000+00:00",
   "role10": 1,
@@ -14415,71 +15067,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Brightwheel&network=%5B%22S%22%5D"
  },
  {
-  "about": "Versapay removes friction, unlocks working capital, and accelerates momentum \u2014 giving finance leaders the clarity and control they need to drive business forward.",
-  "blurb": "Owns the multi-tenant payments gateway connecting AR products to processors and card networks.",
-  "bucket": "Remote (US)",
-  "comp": "$160\u2013180K",
-  "company": "versapay",
-  "company_display": "Versapay",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-28T19:01:36.809750+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Payments platform, no energy axis",
-    "hi"
-   ],
-   [
-    "Remote US, $160-180K",
-    "hi"
-   ],
-   [
-    "Fintech, no mission angle",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "c625f629e12b",
-  "last_seen": "2026-11-24",
-  "location": "United States (Remote)",
-  "posted": "2026-10-28T13:28:27.285000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 13,
-  "score_why": "fintech sector 8 \u00b7 sector feedback +2 \u00b7 role match 3",
-  "sector": "fintech",
-  "signals": [
-   "B2B"
-  ],
-  "source": "lever",
-  "summary": {
-   "at": "2026-10-28T22:46:47Z",
-   "company": "Versapay automates B2B accounts receivable and payments; 10,000+ customers, $257B annual volume.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns the multi-tenant payments gateway connecting AR products to processors and card networks.",
-   "source": "posting",
-   "why": [
-    "Payments platform, no energy axis",
-    "Remote US, $160-180K",
-    "Fintech, no mission angle"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager, Payments Gateway",
-  "url": "https://jobs.lever.co/versapay/b1c89aa9-00de-4c10-9c62-d4d7cee59aa4",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c625f629e12b&co=Versapay&ti=Senior%20Product%20Manager%2C%20Payments%20Gateway",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c625f629e12b&co=Versapay&ti=Senior%20Product%20Manager%2C%20Payments%20Gateway",
-  "company_about": "Versapay automates B2B accounts receivable and payments; 10,000+ customers, $257B annual volume.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Versapay&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Owns the Pro roadmap end to end: operator/HOA acquisition, onboarding, portfolio ops and retention.",
   "bucket": "Remote (US)",
@@ -14510,7 +15097,7 @@
   ],
   "hidden": false,
   "id": "85bb44c5c7be",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote - US",
   "posted": "2026-10-27T16:34:52-04:00",
   "role10": 1,
@@ -14575,7 +15162,7 @@
   ],
   "hidden": false,
   "id": "a341e956fef6",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
   "posted": "2026-11-16T10:24:32-05:00",
   "role10": 0,
@@ -14608,16 +15195,33 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Gusto&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "cwill-us",
-  "company_display": "Cwill-Us",
-  "company_line": null,
+  "title": "Senior Product Manager",
+  "company": "trm-labs",
+  "location": "United States / Remote",
+  "url": "https://jobs.ashbyhq.com/trm-labs/d71563ad-4bd8-4a8d-a4ff-e8bc08cf6fed",
+  "posted": "2026-11-25T17:14:57.983000+00:00",
+  "source": "ashby",
   "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "comp": "$200\u2013250K",
+  "bucket": "Remote (US)",
+  "sector": "",
+  "blurb": "As a Senior Product Manager, you'll have the opportunity to solve some of the most complex and consequential problems at the intersection of artificial intelligence, blockchain, financial crime and global security. We're looking for a product owner, not \u2026",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Trm-Labs",
+  "about": "",
+  "signals": [],
+  "id": "915db8790cee",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
   "fit_tags": [
    [
     "sector unknown",
@@ -14628,9 +15232,129 @@
     "dim"
    ]
   ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=915db8790cee&co=Trm-Labs&ti=Senior%20Product%20Manager",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=915db8790cee&co=Trm-Labs&ti=Senior%20Product%20Manager",
+  "company_about": "Uncover illicit activity and disrupt threats with TRM. Bring AI and all-source intelligence into every investigation.",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Trm-Labs&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Staff Product Manager, Fintech - Remote (Seattle)",
+  "company": "jobgether",
+  "location": "Seattle, WA",
+  "url": "https://jobs.lever.co/jobgether/a167cd6f-ea88-4176-a60e-e68cec97dc15",
+  "posted": "2026-11-25T13:48:04.366000+00:00",
+  "source": "lever",
+  "company_name": "",
+  "comp": null,
+  "bucket": "Seattle",
+  "sector": "",
+  "blurb": "",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Jobgether",
+  "about": "",
+  "signals": [],
+  "id": "2f748151e429",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2f748151e429&co=Jobgether&ti=Staff%20Product%20Manager%2C%20Fintech%20-%20Remote%20%28Seattle%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2f748151e429&co=Jobgether&ti=Staff%20Product%20Manager%2C%20Fintech%20-%20Remote%20%28Seattle%29",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Jobgether&network=%5B%22S%22%5D"
+ },
+ {
+  "title": "Staff Product Manager, Fintech - Remote (San Francisco Bay Area)",
+  "company": "jobgether",
+  "location": "San Francisco Bay Area",
+  "url": "https://jobs.lever.co/jobgether/ea4a0253-7a43-43b2-8c69-25b986edc029",
+  "posted": "2026-11-25T13:47:42.763000+00:00",
+  "source": "lever",
+  "company_name": "",
+  "comp": null,
+  "bucket": "SF / Bay",
+  "sector": "",
+  "blurb": "",
+  "role_pts": 0,
+  "emailed": false,
+  "hidden": false,
+  "first_seen": "2026-11-25T22:41:18.700319+00:00",
+  "last_seen": "2026-11-25",
+  "company_display": "Jobgether",
+  "about": "",
+  "signals": [],
+  "id": "a20ff95a75d3",
+  "score": 10,
+  "role10": 0,
+  "tier": "other",
+  "target": null,
+  "company_line": null,
+  "score_why": "unknown sector 10 \u00b7 role match 0",
+  "summary": null,
+  "fit_tags": [
+   [
+    "sector unknown",
+    "dim"
+   ],
+   [
+    "no axis match",
+    "dim"
+   ]
+  ],
+  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=a20ff95a75d3&co=Jobgether&ti=Staff%20Product%20Manager%2C%20Fintech%20-%20Remote%20%28San%20Francisco%20Bay%20Area%29",
+  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=a20ff95a75d3&co=Jobgether&ti=Staff%20Product%20Manager%2C%20Fintech%20-%20Remote%20%28San%20Francisco%20Bay%20Area%29",
+  "company_about": "",
+  "li2": "https://www.linkedin.com/search/results/people/?keywords=Jobgether&network=%5B%22S%22%5D"
+ },
+ {
+  "about": "",
+  "blurb": "Lead PM for parcel protection insurance products; scope not visible beyond the title.",
+  "bucket": "Remote (US)",
+  "comp": null,
+  "company": "cwill-us",
+  "company_display": "Cwill-Us",
+  "company_line": null,
+  "company_name": "",
+  "emailed": true,
+  "first_seen": "2026-11-24T23:13:27.614011+00:00",
+  "fit_tags": [
+   [
+    "fit 4/10",
+    "amber"
+   ],
+   [
+    "insurance = regulated, but unverified",
+    "hi"
+   ],
+   [
+    "title 'Lead', scope unclear",
+    "hi"
+   ],
+   [
+    "Remote, comp not stated",
+    "hi"
+   ]
+  ],
   "hidden": false,
   "id": "1a01629ec0b2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "North Carolina, United States / Remote",
   "posted": "2026-11-24T00:00:00+00:00",
   "role10": 0,
@@ -14640,14 +15364,26 @@
   "sector": "",
   "signals": [],
   "source": "workable",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-24T23:47:04Z",
+   "company": "Cwill (Workable listing): ecommerce parcel-protection insurance; posting text not retrievable (unclear).",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Lead PM for parcel protection insurance products; scope not visible beyond the title.",
+   "source": "fallback",
+   "why": [
+    "insurance = regulated, but unverified",
+    "title 'Lead', scope unclear",
+    "Remote, comp not stated"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Product Manager Lead, Parcel Protection (Ecommerce Insurance)",
   "url": "https://apply.workable.com/j/88A5CEC145",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=1a01629ec0b2&co=Cwill-Us&ti=Product%20Manager%20Lead%2C%20Parcel%20Protection%20%28Ecommerce%20Insurance%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=1a01629ec0b2&co=Cwill-Us&ti=Product%20Manager%20Lead%2C%20Parcel%20Protection%20%28Ecommerce%20Insurance%29",
-  "company_about": "",
+  "company_about": "Cwill (Workable listing): ecommerce parcel-protection insurance; posting text not retrievable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Cwill-Us&network=%5B%22S%22%5D"
  },
  {
@@ -14681,7 +15417,7 @@
   ],
   "hidden": false,
   "id": "07f2e4b52c47",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-23T18:32:28+00:00",
   "role10": 0,
@@ -14744,7 +15480,7 @@
   ],
   "hidden": false,
   "id": "e93232363baf",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-23T18:32:25+00:00",
   "role10": 0,
@@ -14807,7 +15543,7 @@
   ],
   "hidden": false,
   "id": "f223c290c22e",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-22T06:01:42+00:00",
   "role10": 0,
@@ -14870,7 +15606,7 @@
   ],
   "hidden": false,
   "id": "4b87a80d0def",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-20T06:01:44+00:00",
   "role10": 0,
@@ -14992,7 +15728,7 @@
   ],
   "hidden": false,
   "id": "bba4f0f4b26b",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-19T18:30:55+00:00",
   "role10": 0,
@@ -15054,7 +15790,7 @@
   ],
   "hidden": false,
   "id": "ca4e9255bfc2",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote (Anywhere in the World)",
   "posted": "2026-11-19T18:30:55+00:00",
   "role10": 0,
@@ -15117,7 +15853,7 @@
   ],
   "hidden": false,
   "id": "1d0f931dcab9",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Denver, Colorado, United States / Remote",
   "posted": "2026-11-19T00:00:00+00:00",
   "role10": 0,
@@ -15180,7 +15916,7 @@
   ],
   "hidden": false,
   "id": "280c2147a9b7",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City, NY / Remote",
   "posted": "2026-11-18T20:07:08.552000+00:00",
   "role10": 0,
@@ -15243,7 +15979,7 @@
   ],
   "hidden": false,
   "id": "44c6a561d91f",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States / Remote",
   "posted": "2026-11-16T00:00:00+00:00",
   "role10": 0,
@@ -15277,49 +16013,6 @@
  },
  {
   "about": "",
-  "blurb": "JR100958",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "recar",
-  "company_display": "Recar",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-24T23:13:27.614011+00:00",
-  "fit_tags": [
-   [
-    "sector unknown",
-    "dim"
-   ],
-   [
-    "no axis match",
-    "dim"
-   ]
-  ],
-  "hidden": false,
-  "id": "e0c4bd5e84bf",
-  "last_seen": "2026-11-24",
-  "location": "Remote WA",
-  "posted": "2026-11-12T23:15:45.051147+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "summary": null,
-  "target": null,
-  "tier": "other",
-  "title": "Sr. Product Manager, Customer Success",
-  "url": "https://recar.wd108.myworkdayjobs.com/en-US/SLATEcareers/job/Remote-WA/Sr-Product-Manager--Sales---Services_JR100958",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=e0c4bd5e84bf&co=Recar&ti=Sr.%20Product%20Manager%2C%20Customer%20Success",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=e0c4bd5e84bf&co=Recar&ti=Sr.%20Product%20Manager%2C%20Customer%20Success",
-  "company_about": "",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Recar&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Title implies owning the consumer-facing experience (unclear).",
   "bucket": "Remote (US)",
   "comp": null,
@@ -15349,7 +16042,7 @@
   ],
   "hidden": false,
   "id": "4b6f111e9ed6",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States / Remote",
   "posted": "2026-11-10T00:00:00+00:00",
   "role10": 0,
@@ -15412,7 +16105,7 @@
   ],
   "hidden": false,
   "id": "d36bd8036ff3",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Dallas, Texas, United States / Remote",
   "posted": "2026-11-10T00:00:00+00:00",
   "role10": 0,
@@ -15475,7 +16168,7 @@
   ],
   "hidden": false,
   "id": "55aa860da980",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Movable Ink - New York (Remote) ",
   "posted": "2026-11-04T09:28:19-05:00",
   "role10": 0,
@@ -15538,7 +16231,7 @@
   ],
   "hidden": false,
   "id": "ab377c672300",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "US CT Remote / US NC Remote / US FL Remote / US TX Remote",
   "posted": "2026-11-02T22:30:49.778988+00:00",
   "role10": 0,
@@ -15916,7 +16609,7 @@
   ],
   "hidden": false,
   "id": "d62c334a92a8",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-10-28T20:50:08.642217+00:00",
   "role10": 0,
@@ -16042,7 +16735,7 @@
   ],
   "hidden": false,
   "id": "9a6d4e9b3a58",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote, NYC, Oakland",
   "posted": "2026-10-28T14:22:49-04:00",
   "role10": 0,
@@ -16105,7 +16798,7 @@
   ],
   "hidden": false,
   "id": "5854c0864388",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-10-28T11:13:12.201000+00:00",
   "role10": 0,
@@ -16168,7 +16861,7 @@
   ],
   "hidden": false,
   "id": "01c8e00b18aa",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-10-27T19:32:18.365469+00:00",
   "role10": 0,
@@ -16201,132 +16894,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Strayer&network=%5B%22S%22%5D"
  },
  {
-  "about": "We\u2019re a springboard for building and scaling payroll businesses.",
-  "blurb": "Owns Payouts: ACH today, same-day pay and new payment methods, with one dedicated engineer.",
-  "bucket": "SF / Bay",
-  "comp": "$184,050 \u2013 $224,950",
-  "company": "check-technologies",
-  "company_display": "Check-Technologies",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-26T19:57:17.575781+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Payments infra, narrow scope",
-    "hi"
-   ],
-   [
-    "Remote, $184-225K",
-    "hi"
-   ],
-   [
-    "No data or climate axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "c30017f1b975",
-  "last_seen": "2026-11-24",
-  "location": "New York City, NY / Remote / San Francisco, CA",
-  "posted": "2026-10-26T19:54:52.868000+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-26T22:46:56Z",
-   "company": "Check provides embedded payroll infrastructure APIs that software companies use to run payroll.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns Payouts: ACH today, same-day pay and new payment methods, with one dedicated engineer.",
-   "source": "posting",
-   "why": [
-    "Payments infra, narrow scope",
-    "Remote, $184-225K",
-    "No data or climate axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager",
-  "url": "https://jobs.ashbyhq.com/check-technologies/c29116f0-60c3-49d9-bcf1-066701b4d2b7",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c30017f1b975&co=Check-Technologies&ti=Senior%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c30017f1b975&co=Check-Technologies&ti=Senior%20Product%20Manager",
-  "company_about": "Check provides embedded payroll infrastructure APIs that software companies use to run payroll.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Check-Technologies&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Leads product vision and delivery for government client software as Principal PM.",
-  "bucket": "Remote (US)",
-  "comp": "$154\u2013174K",
-  "company": "navapbc",
-  "company_display": "Nava PBC",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-30T23:14:19.702790+00:00",
-  "fit_tags": [
-   [
-    "fit 6/10",
-    "amber"
-   ],
-   [
-    "Public-sector civic mission",
-    "hi"
-   ],
-   [
-    "Remote Pacific/Mountain, $154-174K",
-    "hi"
-   ],
-   [
-    "Consultancy; comp below target",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7df2acf9c985",
-  "last_seen": "2026-11-24",
-  "location": "Remote",
-  "posted": "2026-10-26T15:28:56-04:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 10,
-  "score_why": "unknown sector 10 \u00b7 role match 0",
-  "sector": "",
-  "signals": [],
-  "source": "greenhouse",
-  "summary": {
-   "at": "2026-10-31T13:46:25Z",
-   "company": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
-   "fit": 6,
-   "model": "claude-sonnet-5-5",
-   "role": "Leads product vision and delivery for government client software as Principal PM.",
-   "source": "posting",
-   "why": [
-    "Public-sector civic mission",
-    "Remote Pacific/Mountain, $154-174K",
-    "Consultancy; comp below target"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Product Manager (Pacific/Mountain Time Zone)",
-  "url": "https://job-boards.greenhouse.io/navapbc/jobs/4382009009",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7df2acf9c985&co=Nava%20PBC&ti=Principal%20Product%20Manager%20%28Pacific%2FMountain%20Time%20Zone%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7df2acf9c985&co=Nava%20PBC&ti=Principal%20Product%20Manager%20%28Pacific%2FMountain%20Time%20Zone%29",
-  "company_about": "Nava PBC is a public benefit consultancy modernizing government services (billable client work).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nava+PBC&network=%5B%22S%22%5D"
- },
- {
   "about": "",
   "blurb": "Staff PM for agentic ads buying, per title only (unclear).",
   "bucket": "Remote (US)",
@@ -16357,7 +16924,7 @@
   ],
   "hidden": false,
   "id": "9598ff90bf17",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote (USA Only)",
   "posted": "2026-11-21T17:01:12+00:00",
@@ -16423,7 +16990,7 @@
   ],
   "hidden": false,
   "id": "8de447469485",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "liked": true,
   "location": "Remote USA",
   "nudged_at": "2026-11-20T21:50:05.323073+00:00",
@@ -16490,7 +17057,7 @@
   ],
   "hidden": false,
   "id": "88c0b6605253",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "United States (Remote)",
   "posted": "2026-10-29T19:15:45-04:00",
   "role10": 0,
@@ -16553,7 +17120,7 @@
   ],
   "hidden": false,
   "id": "34b468c86ecc",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "New York City, NY / San Francisco, California / Remote",
   "posted": "2026-10-27T22:09:58.075000+00:00",
   "role10": 0,
@@ -16618,7 +17185,7 @@
   ],
   "hidden": false,
   "id": "1c515172624e",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "location": "Remote",
   "posted": "2026-11-09T16:28:55.392000+00:00",
   "role10": 0,
