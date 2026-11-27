@@ -2822,7 +2822,7 @@
   "last_seen": "2026-11-26",
   "liked": true,
   "location": "Remote",
-  "nudged_at": "2026-11-20T03:58:44.510362+00:00",
+  "nudged_at": "2026-11-27T05:03:46.765973+00:00",
   "posted": "2026-11-05T17:07:57-05:00",
   "role10": 2,
   "role_pts": 12,
@@ -4193,6 +4193,7 @@
   "tier": "good",
   "title": "Principal Product Manager - NVIDIA Data Services",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---NVIDIA-Data-Services_JR2029673",
+  "nudged_at": "2026-11-27T05:03:46.765973+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=f0a330c832b1&co=Nvidia&ti=Principal%20Product%20Manager%20-%20NVIDIA%20Data%20Services",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f0a330c832b1&co=Nvidia&ti=Principal%20Product%20Manager%20-%20NVIDIA%20Data%20Services",
   "company_about": "NVIDIA's Data Services team builds internal data platforms for AI researchers; the company is a large public chipmaker.",
@@ -5913,71 +5914,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Natera&network=%5B%22S%22%5D"
  },
  {
-  "about": "We\u2019re scaling fast and defining a new category in real time.",
-  "blurb": "Owns embedded experiences for lawyers, starting with the Word Add-In and expanding to other tools.",
-  "bucket": "SF / Bay",
-  "comp": "$177.7K \u2013 $266.5K",
-  "company": "harvey",
-  "company_display": "Harvey",
-  "company_line": "Lenny 100; legal AI; big PM hiring wave",
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-28T19:01:36.809750+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Legal AI end-user product",
-    "hi"
-   ],
-   [
-    "$178-267K in range",
-    "hi"
-   ],
-   [
-    "No data platform scope",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "21c5ec7695f5",
-  "last_seen": "2026-11-26",
-  "location": "San Francisco / Remote",
-  "posted": "2026-10-28T04:32:26.080000+00:00",
-  "role10": 1,
-  "role_pts": 3,
-  "score": 41,
-  "score_why": "ai sector 28 \u00b7 sector feedback +6 \u00b7 role match 3 \u00b7 target company +4",
-  "sector": "ai",
-  "signals": [
-   "B2B"
-  ],
-  "source": "ashby",
-  "summary": {
-   "at": "2026-10-28T22:46:47Z",
-   "company": "Harvey sells agentic AI and a platform for legal and professional services; strong PMF per posting.",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Owns embedded experiences for lawyers, starting with the Word Add-In and expanding to other tools.",
-   "source": "posting",
-   "why": [
-    "Legal AI end-user product",
-    "$178-267K in range",
-    "No data platform scope"
-   ]
-  },
-  "target": "c",
-  "tier": "other",
-  "title": "Senior Product Manager, Embedded Experiences",
-  "url": "https://jobs.ashbyhq.com/harvey/bc94becd-102e-49a1-abdc-5ce42076a68d",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=21c5ec7695f5&co=Harvey&ti=Senior%20Product%20Manager%2C%20Embedded%20Experiences",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=21c5ec7695f5&co=Harvey&ti=Senior%20Product%20Manager%2C%20Embedded%20Experiences",
-  "company_about": "Harvey sells agentic AI and a platform for legal and professional services; strong PMF per posting.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Harvey&network=%5B%22S%22%5D"
- },
- {
   "about": "At Snowflake, we are powering the era of the agentic enterprise.",
   "blurb": "Owns the SPCS compute roadmap: instances (CPU/ARM/GPU), storage, GA launch bar, and unit economics.",
   "bucket": "Seattle",
@@ -7144,6 +7080,7 @@
   "last_seen": "2026-11-26",
   "liked": true,
   "location": "Los Angeles / New York / San Francisco",
+  "nudged_at": "2026-11-26T22:59:40.491012+00:00",
   "posted": "2026-11-04T02:37:46.172924+00:00",
   "role10": 2,
   "role_pts": 10,
@@ -7173,7 +7110,6 @@
   "tier": "other",
   "title": "Principal Product Manager, AI Strategy and Product Development for Investment Research",
   "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Principal-Product-Manager--AI-Strategy-and-Product-Development-for-Investment-Research_JR7731",
-  "nudged_at": "2026-11-26T22:59:40.491012+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=6b3269e82fa2&co=Capgroup&ti=Principal%20Product%20Manager%2C%20AI%20Strategy%20and%20Product%20Development%20for%20Investment%20Research",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=6b3269e82fa2&co=Capgroup&ti=Principal%20Product%20Manager%2C%20AI%20Strategy%20and%20Product%20Development%20for%20Investment%20Research",
   "company_about": "Capital Group, a large investment management firm (unclear).",
@@ -7246,7 +7182,7 @@
  },
  {
   "about": "",
-  "blurb": "Product",
+  "blurb": "Owns the Admin and Billing experience: licensing, access governance, subscriptions, renewals and invoicing.",
   "bucket": "Remote (US)",
   "comp": null,
   "company": "smartsheet",
@@ -7257,15 +7193,19 @@
   "first_seen": "2026-11-26T22:30:53.817455+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 4/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "Enterprise admin/billing, no data axis",
+    "hi"
    ],
    [
-    "you liked similar",
+    "Remote US, comp not stated",
+    "hi"
+   ],
+   [
+    "Senior I; modest scope",
     "hi"
    ]
   ],
@@ -7281,14 +7221,29 @@
   "sector": "",
   "signals": [],
   "source": "wwr",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-26T23:46:46Z",
+   "company": "Work-management software company moving into AI agents; posting gives no size or stage.",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Owns the Admin and Billing experience: licensing, access governance, subscriptions, renewals and invoicing.",
+   "source": "posting",
+   "why": [
+    "Enterprise admin/billing, no data axis",
+    "Remote US, comp not stated",
+    "Senior I; modest scope"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager I (Remote Eligible)",
   "url": "https://weworkremotely.com/remote-jobs/smartsheet-senior-product-manager-i-remote-eligible",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-26T23:39:50.303Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9f442e4cfcbf&co=Smartsheet&ti=Senior%20Product%20Manager%20I%20%28Remote%20Eligible%29",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9f442e4cfcbf&co=Smartsheet&ti=Senior%20Product%20Manager%20I%20%28Remote%20Eligible%29",
-  "company_about": "Smartsheet is a software as a service (SaaS) offering for collaboration and work management, developed and marketed by Smartsheet Inc.",
+  "company_about": "Work-management software company moving into AI agents; posting gives no size or stage.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Smartsheet&network=%5B%22S%22%5D"
  },
  {
@@ -7415,6 +7370,9 @@
   "tier": "other",
   "title": "Senior Product Manager, Search & Recommendations Quality",
   "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Senior-Product-Manager--Search---Recommendations-Quality_R-109927",
+  "liked": true,
+  "status": "interested",
+  "status_at": "2026-11-26T23:39:49.962Z",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=141b0313ef05&co=Expedia&ti=Senior%20Product%20Manager%2C%20Search%20%26%20Recommendations%20Quality",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=141b0313ef05&co=Expedia&ti=Senior%20Product%20Manager%2C%20Search%20%26%20Recommendations%20Quality",
   "company_about": "Expedia is a large online travel company; no posting text available.",
@@ -8013,72 +7971,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c5229d292e1f&co=Earlywarning&ti=Sr%20Lead%20Product%20Manager",
   "company_about": "Early Warning (Workday listing); URL suggests Merchant Integrations; text unavailable (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Earlywarning&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Principal PM for digital insurance experiences; scope not stated.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "allstate",
-  "company_display": "Allstate",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-13T20:37:15.708985+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Consumer digital, no data platform",
-    "hi"
-   ],
-   [
-    "Remote US, Principal level",
-    "hi"
-   ],
-   [
-    "Regulated industry, no comp",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "195c01339665",
-  "last_seen": "2026-11-19",
-  "liked": true,
-  "location": "US - Remote",
-  "posted": "2026-11-13T20:37:37.463948+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-13T21:46:21.332Z",
-  "summary": {
-   "at": "2026-11-13T23:46:56Z",
-   "company": "Allstate: insurer; role is a digital product team (posting text unavailable) (unclear).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Principal PM for digital insurance experiences; scope not stated.",
-   "source": "fallback",
-   "why": [
-    "Consumer digital, no data platform",
-    "Remote US, Principal level",
-    "Regulated industry, no comp"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Digital Product Manager",
-  "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Principal-Digital-Product-Manager_R36712-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=195c01339665&co=Allstate&ti=Principal%20Digital%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=195c01339665&co=Allstate&ti=Principal%20Digital%20Product%20Manager",
-  "company_about": "Allstate: insurer; role is a digital product team (posting text unavailable) (unclear).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Allstate&network=%5B%22S%22%5D"
  },
  {
   "about": "",
@@ -9051,140 +8943,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=f310804ea07d&co=Humana&ti=Lead%20Product%20Manager%2C%20Channels",
   "company_about": "Humana is a large health insurer; posting text unavailable.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Humana&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Posting text unavailable; title implies owning HR technology products for Nordstrom (unclear).",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "nordstrom",
-  "company_display": "Nordstrom",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-28T01:34:22.431128+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "Seattle hybrid, location ok",
-    "hi"
-   ],
-   [
-    "HR tech, no data/energy axis",
-    "hi"
-   ],
-   [
-    "Retail, no mission credit",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "2fcdd9757f38",
-  "last_seen": "2026-11-19",
-  "liked": true,
-  "location": "Seattle, WA",
-  "nudged_at": "2026-11-24T01:40:49.531857+00:00",
-  "posted": "2026-10-28T01:37:32.049869+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-10T00:12:00.161Z",
-  "summary": {
-   "at": "2026-10-28T13:51:23Z",
-   "company": "Nordstrom is a large US fashion retailer; this is an HR technology product role (company details not in posting).",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Posting text unavailable; title implies owning HR technology products for Nordstrom (unclear).",
-   "source": "fallback",
-   "why": [
-    "Seattle hybrid, location ok",
-    "HR tech, no data/energy axis",
-    "Retail, no mission credit"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Product Manager - HR Technology (Hybrid - Seattle)",
-  "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Product-Mgr-Sr_R-892682",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=2fcdd9757f38&co=Nordstrom&ti=Senior%20Product%20Manager%20-%20HR%20Technology%20%28Hybrid%20-%20Seattle%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=2fcdd9757f38&co=Nordstrom&ti=Senior%20Product%20Manager%20-%20HR%20Technology%20%28Hybrid%20-%20Seattle%29",
-  "company_about": "Nordstrom is a large US fashion retailer; this is an HR technology product role (company details not in posting).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Nordstrom&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Title implies owning Workday HR/enterprise platform product (unclear).",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "allstate",
-  "company_display": "Allstate",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-10-28T01:34:22.431128+00:00",
-  "fit_tags": [
-   [
-    "fit 3/10",
-    "amber"
-   ],
-   [
-    "Remote US, Lead level",
-    "hi"
-   ],
-   [
-    "Internal HR systems, no data axis",
-    "hi"
-   ],
-   [
-    "Insurer, no mission credit",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7c74379ceb3a",
-  "last_seen": "2026-11-26",
-  "liked": true,
-  "location": "US - Remote",
-  "nudged_at": "2026-11-24T01:40:49.531857+00:00",
-  "posted": "2026-10-28T01:34:41.866999+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 34,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +24",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-10T00:12:01.676Z",
-  "summary": {
-   "at": "2026-10-28T13:51:23Z",
-   "company": "Allstate is a large US insurer; role is a Workday product lead (posting text unavailable).",
-   "fit": 3,
-   "model": "claude-sonnet-5-5",
-   "role": "Title implies owning Workday HR/enterprise platform product (unclear).",
-   "source": "fallback",
-   "why": [
-    "Remote US, Lead level",
-    "Internal HR systems, no data axis",
-    "Insurer, no mission credit"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Lead Digital Product Manager (Workday)",
-  "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Lead-Digital-Product-Manager--Workday-_R35882-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7c74379ceb3a&co=Allstate&ti=Lead%20Digital%20Product%20Manager%20%28Workday%29",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7c74379ceb3a&co=Allstate&ti=Lead%20Digital%20Product%20Manager%20%28Workday%29",
-  "company_about": "Allstate is a large US insurer; role is a Workday product lead (posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Allstate&network=%5B%22S%22%5D"
  },
  {
   "about": "At Taskrabbit, we want to transform lives one task at a time.",
@@ -10569,74 +10327,6 @@
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Pointclickcare&network=%5B%22S%22%5D"
  },
  {
-  "about": "",
-  "blurb": "Principal Technical PM for a User Terminal; likely hardware product.",
-  "bucket": "Seattle",
-  "comp": null,
-  "company": "blueorigin",
-  "company_display": "Blueorigin",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-18T21:31:46.026983+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Seattle fits location",
-    "hi"
-   ],
-   [
-    "Hardware-first, dealbreaker-ish",
-    "hi"
-   ],
-   [
-    "No data-platform axis",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "7b93e224156b",
-  "last_seen": "2026-11-19",
-  "liked": true,
-  "location": "Greater Seattle Area / Cupertino, CA",
-  "posted": "2026-11-18T21:32:22.082950+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 28,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [
-   "technical"
-  ],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-18T22:59:04.055Z",
-  "summary": {
-   "at": "2026-11-18T23:47:18Z",
-   "company": "Blue Origin builds rockets and space systems.",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "Principal Technical PM for a User Terminal; likely hardware product.",
-   "source": "fallback",
-   "why": [
-    "Seattle fits location",
-    "Hardware-first, dealbreaker-ish",
-    "No data-platform axis"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Principal Technical Product Manager - User Terminal",
-  "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Principal-Technical-Product-Manager---User-Terminal_R75993-1",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=7b93e224156b&co=Blueorigin&ti=Principal%20Technical%20Product%20Manager%20-%20User%20Terminal",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=7b93e224156b&co=Blueorigin&ti=Principal%20Technical%20Product%20Manager%20-%20User%20Terminal",
-  "company_about": "Blue Origin builds rockets and space systems.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Blueorigin&network=%5B%22S%22%5D"
- },
- {
   "about": "We\u2019re always looking for smart, fearless and high-impact talent who see AI as a teammate \u2013 leveraging it to move faster and deliver meaningful results.",
   "blurb": "Owns the MoneyLion Marketplace, the offers and partner product surface for consumer finance.",
   "bucket": "Remote (US)",
@@ -10835,71 +10525,6 @@
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=b82b6a159812&co=Blueorigin&ti=Senior%20Technical%20Product%20Manager%20-%20TeraWave%20-%20Government",
   "company_about": "Blue Origin builds launch vehicles and TeraWave, a multi-orbit satellite network for enterprise and government users.",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Blueorigin&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
-  "blurb": "Senior Technical PM; scope unknown without the posting.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "raydar",
-  "company_display": "Raydar",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-09-28T01:24:21.903792+00:00",
-  "fit_tags": [
-   [
-    "fit 4/10",
-    "amber"
-   ],
-   [
-    "technical PM title, Remote US",
-    "hi"
-   ],
-   [
-    "company and domain unclear",
-    "hi"
-   ],
-   [
-    "no comp or scope stated",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "c5326b497bd2",
-  "last_seen": "2026-11-26",
-  "location": "United States / Remote",
-  "posted": "2026-10-28T00:00:00+00:00",
-  "role10": 2,
-  "role_pts": 10,
-  "score": 28,
-  "score_why": "unknown sector 10 \u00b7 role match 10 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [
-   "technical"
-  ],
-  "source": "workable",
-  "summary": {
-   "at": "2026-10-21T22:46:28+00:00",
-   "company": "Raydar (unclear); no posting text available.",
-   "fit": 4,
-   "model": "claude-sonnet-5-5",
-   "role": "Senior Technical PM; scope unknown without the posting.",
-   "source": "fallback",
-   "why": [
-    "technical PM title, Remote US",
-    "company and domain unclear",
-    "no comp or scope stated"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Technical Product Manager",
-  "url": "https://apply.workable.com/j/C64E423BC7",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=c5326b497bd2&co=Raydar&ti=Senior%20Technical%20Product%20Manager",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=c5326b497bd2&co=Raydar&ti=Senior%20Technical%20Product%20Manager",
-  "company_about": "Raydar (unclear); no posting text available.",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Raydar&network=%5B%22S%22%5D"
  },
  {
   "about": "At Coinbase , we are uncompromising on our mission to increase economic freedom.",
@@ -11520,6 +11145,7 @@
   "last_seen": "2026-11-20",
   "liked": true,
   "location": "USA, CA, Remote / USA, WA, Seattle / USA, WA, Remote / USA, CA, Pleasanton",
+  "nudged_at": "2026-11-26T22:59:40.491012+00:00",
   "posted": "2026-11-12T21:06:21.884497+00:00",
   "role10": 0,
   "role_pts": 0,
@@ -11547,7 +11173,6 @@
   "tier": "other",
   "title": "Senior Director, Product Manager",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Remote/Senior-Director--Product-Manager_JR-0111325",
-  "nudged_at": "2026-11-26T22:59:40.491012+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=4f5bd81eff47&co=Workday&ti=Senior%20Director%2C%20Product%20Manager",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=4f5bd81eff47&co=Workday&ti=Senior%20Director%2C%20Product%20Manager",
   "company_about": "Workday is a Fortune 500 enterprise software company for HR and finance.",
@@ -11621,7 +11246,7 @@
  },
  {
   "about": "",
-  "blurb": "JR-0109100",
+  "blurb": "Senior PM on Pipedream in San Francisco; scope not stated.",
   "bucket": "SF / Bay",
   "comp": null,
   "company": "workday",
@@ -11632,15 +11257,19 @@
   "first_seen": "2026-11-26T22:30:53.817455+00:00",
   "fit_tags": [
    [
-    "sector unknown",
-    "dim"
+    "fit 4/10",
+    "amber"
    ],
    [
-    "no axis match",
-    "dim"
+    "No posting text available",
+    "hi"
    ],
    [
-    "you liked similar",
+    "SF location fits",
+    "hi"
+   ],
+   [
+    "Big-co enterprise software",
     "hi"
    ]
   ],
@@ -11656,14 +11285,26 @@
   "sector": "",
   "signals": [],
   "source": "workday",
-  "summary": null,
+  "summary": {
+   "at": "2026-11-26T23:46:46Z",
+   "company": "Workday's Pipedream product, apparently an integration or workflow platform (unclear).",
+   "fit": 4,
+   "model": "claude-sonnet-5-5",
+   "role": "Senior PM on Pipedream in San Francisco; scope not stated.",
+   "source": "fallback",
+   "why": [
+    "No posting text available",
+    "SF location fits",
+    "Big-co enterprise software"
+   ]
+  },
   "target": null,
   "tier": "other",
   "title": "Senior Product Manager, Pipedream",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=755d5828c852&co=Workday&ti=Senior%20Product%20Manager%2C%20Pipedream",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=755d5828c852&co=Workday&ti=Senior%20Product%20Manager%2C%20Pipedream",
-  "company_about": "",
+  "company_about": "Workday's Pipedream product, apparently an integration or workflow platform (unclear).",
   "li2": "https://www.linkedin.com/search/results/people/?keywords=Workday&network=%5B%22S%22%5D"
  },
  {
@@ -13351,72 +12992,6 @@
  },
  {
   "about": "",
-  "blurb": "Commercial product management for NGS segments, likely market-facing rather than data platform.",
-  "bucket": "Remote (US)",
-  "comp": null,
-  "company": "danaher",
-  "company_display": "Danaher",
-  "company_line": null,
-  "company_name": "",
-  "emailed": true,
-  "first_seen": "2026-11-13T20:37:15.708985+00:00",
-  "fit_tags": [
-   [
-    "fit 2/10",
-    "amber"
-   ],
-   [
-    "Commercial/marketing-leaning PM",
-    "hi"
-   ],
-   [
-    "Life-science reagents, no data axis",
-    "hi"
-   ],
-   [
-    "Remote US, no comp",
-    "hi"
-   ]
-  ],
-  "hidden": false,
-  "id": "8d5dcaa04fcb",
-  "last_seen": "2026-11-19",
-  "liked": true,
-  "location": "USA - Remote / USA - Boulder - Integrated DNA Technologies, Inc.",
-  "posted": "2026-11-13T20:38:29.957435+00:00",
-  "role10": 0,
-  "role_pts": 0,
-  "score": 18,
-  "score_why": "unknown sector 10 \u00b7 role match 0 \u00b7 your \ud83d\udc4d +8",
-  "sector": "",
-  "signals": [],
-  "source": "workday",
-  "status": "interested",
-  "status_at": "2026-11-13T21:54:34.123Z",
-  "summary": {
-   "at": "2026-11-13T23:46:56Z",
-   "company": "Danaher: life-sciences conglomerate; IDT makes DNA/NGS reagents (posting text unavailable).",
-   "fit": 2,
-   "model": "claude-sonnet-5-5",
-   "role": "Commercial product management for NGS segments, likely market-facing rather than data platform.",
-   "source": "fallback",
-   "why": [
-    "Commercial/marketing-leaning PM",
-    "Life-science reagents, no data axis",
-    "Remote US, no comp"
-   ]
-  },
-  "target": null,
-  "tier": "other",
-  "title": "Senior Commercial Product Manager, NGS Segments",
-  "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/USA---Remote/Senior-Commercial-Product-Manager--NGS-Segments_R1322567",
-  "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=8d5dcaa04fcb&co=Danaher&ti=Senior%20Commercial%20Product%20Manager%2C%20NGS%20Segments",
-  "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=8d5dcaa04fcb&co=Danaher&ti=Senior%20Commercial%20Product%20Manager%2C%20NGS%20Segments",
-  "company_about": "Danaher: life-sciences conglomerate; IDT makes DNA/NGS reagents (posting text unavailable).",
-  "li2": "https://www.linkedin.com/search/results/people/?keywords=Danaher&network=%5B%22S%22%5D"
- },
- {
-  "about": "",
   "blurb": "Senior PM for customer success; scope not visible beyond the title (unclear).",
   "bucket": "Remote (US)",
   "comp": null,
@@ -13515,6 +13090,7 @@
   "last_seen": "2026-11-26",
   "liked": true,
   "location": "US Remote",
+  "nudged_at": "2026-11-26T22:59:40.491012+00:00",
   "posted": "2026-11-12T21:05:31.334911+00:00",
   "role10": 0,
   "role_pts": 0,
@@ -13542,7 +13118,6 @@
   "tier": "other",
   "title": "Staff Product Manager, Voice & Telephony",
   "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Staff-Product-Manager--Voice---Telephony_JR116471",
-  "nudged_at": "2026-11-26T22:59:40.491012+00:00",
   "yes": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=up&id=9731b7a10f62&co=Servicetitan&ti=Staff%20Product%20Manager%2C%20Voice%20%26%20Telephony",
   "no": "https://script.google.com/macros/s/AKfycbzAUwekaKkc3w1rA5D9RTHDKm1zLJGkb4kwFsMhP8nZrYFplhzkpfQlfQ6EGxNrIDOJ/exec?v=down&id=9731b7a10f62&co=Servicetitan&ti=Staff%20Product%20Manager%2C%20Voice%20%26%20Telephony",
   "company_about": "ServiceTitan makes software for trades and home-service businesses, including phone and contact center products.",
